@@ -1,0 +1,338 @@
+[
+ {
+  "en": "x² Doublers boost Root Essence gain at a reduced rate.",
+  "zh": "x² 倍增器以较低效率加成根精华的获得。"
+ },
+ {
+  "en": "x² and y² boost each other.",
+  "zh": "x² 和 y² 相互加成。"
+ },
+ {
+  "en": "x² and y² gain",
+  "zh": "x² 和 y² 获得"
+ },
+ {
+  "en": "x² gain",
+  "zh": "x² 获得"
+ },
+ {
+  "en": "x² gain is raised ^{{0}}",
+  "zh": "x² 获得提升至 ^{{0}}"
+ },
+ {
+  "en": "x² gain is raised to an exponent based on your point amount (always less than 1).",
+  "zh": "x² 的获得被提升至一个基于你点数数量的指数（始终小于 1）。"
+ },
+ {
+  "en": "x²? What's That?",
+  "zh": "x²？那是什么？"
+ },
+ {
+  "en": "x¹⁰ efficiency is boosted based on x¹⁰ amount.",
+  "zh": "x¹⁰ 效率基于 x¹⁰ 数量获得加成。"
+ },
+ {
+  "en": "y (adding",
+  "zh": "y (加上"
+ },
+ {
+  "en": "y = mx+b is my favorite one-liner!",
+  "zh": "y = mx+b 是我最喜欢的一句话！"
+ },
+ {
+  "en": "y and",
+  "zh": "y 和"
+ },
+ {
+  "en": "y for",
+  "zh": "y 换取"
+ },
+ {
+  "en": "y for +1 base x/minute",
+  "zh": "y 换取 +1 基础 x/分钟"
+ },
+ {
+  "en": "y per minute.",
+  "zh": "y/分钟。"
+ },
+ {
+  "en": "y required",
+  "zh": "需要 y"
+ },
+ {
+  "en": "years",
+  "zh": "年"
+ },
+ {
+  "en": "years,",
+  "zh": "年，"
+ },
+ {
+  "en": "yet.",
+  "zh": "尚未。"
+ },
+ {
+  "en": "yi power generation by",
+  "zh": "yi 力量生成乘以"
+ },
+ {
+  "en": "your save string",
+  "zh": "你的存档字符串"
+ },
+ {
+  "en": "y² Tripler When?",
+  "zh": "y² 三倍器什么时候出？"
+ },
+ {
+  "en": "y² boosts its own gain",
+  "zh": "y² 提升自身的获得"
+ },
+ {
+  "en": "y² gain",
+  "zh": "y² 获得"
+ },
+ {
+  "en": "y² gain is raised ^{{0}}",
+  "zh": "y² 获得提升至 ^{{0}}"
+ },
+ {
+  "en": "z (multiplying the f(n) exponent by",
+  "zh": "z (将 f(n) 指数乘以"
+ },
+ {
+  "en": "z for",
+  "zh": "z 换取"
+ },
+ {
+  "en": "z for +5 base y/minute and 1.5x y/minute",
+  "zh": "z 换取 +5 基础 y/分钟和 1.5 倍 y/分钟"
+ },
+ {
+  "en": "z have generated",
+  "zh": "z 已产出"
+ },
+ {
+  "en": "z required",
+  "zh": "需要 z"
+ },
+ {
+  "en": "zi generates Upgrade Points instead of giving free Upgrade Points.",
+  "zh": "zi 产出升级点数，而非直接赠送升级点数。"
+ },
+ {
+  "en": "zi power effect exponent",
+  "zh": "zi 力量效果指数"
+ },
+ {
+  "en": "{{0}} points? {{1}}",
+  "zh": "{{0}} 点数？{{1}}"
+ },
+ {
+  "en": "{{0}}x Complexes gain",
+  "zh": "{{0}} 倍复数获得"
+ },
+ {
+  "en": "{{0}}x Quadratics gain",
+  "zh": "{{0}} 倍二次获得"
+ },
+ {
+  "en": "{{0}}x SE gain",
+  "zh": "{{0}} 倍 SE 获得"
+ },
+ {
+  "en": "{{0}}x Upgrade Points from zi",
+  "zh": "{{0}} 倍来自 zi 的升级点数"
+ },
+ {
+  "en": "{{0}}x circles gain",
+  "zh": "{{0}} 倍圆获得"
+ },
+ {
+  "en": "{{0}}x dx gain",
+  "zh": "{{0}} 倍 dx 获得"
+ },
+ {
+  "en": "{{0}}x empty sets gain",
+  "zh": "{{0}} 倍空集获得"
+ },
+ {
+  "en": "{{0}}x first 3 Complex Plane powers production",
+  "zh": "{{0}} 倍前 3 个复平面力量产出"
+ },
+ {
+  "en": "{{0}}x global speed",
+  "zh": "{{0}} 倍全局速度"
+ },
+ {
+  "en": "{{0}}x i exponent generation",
+  "zh": "{{0}} 倍 i 指数生成"
+ },
+ {
+  "en": "{{0}}x i gain",
+  "zh": "{{0}} 倍 i 获得"
+ },
+ {
+  "en": "{{0}}x point production and production of Buildings",
+  "zh": "{{0}} 倍点数产出和建筑产出"
+ },
+ {
+  "en": "{{0}}x polynomial efficiency",
+  "zh": "{{0}} 倍多项式效率"
+ },
+ {
+  "en": "{{0}}x x² gain",
+  "zh": "{{0}} 倍 x² 获得"
+ },
+ {
+  "en": "{{0}}x y² gain",
+  "zh": "{{0}} 倍 y² 获得"
+ },
+ {
+  "en": "} Generators, each one costing and producing more<br>\n        than the previous. By default, Generator costs scale by 1.1x per purchase.\n        ${hasUpgrade(6) || player.totalx2.gte(1) || player.totali.gte(1) || player.integrations.gte(1) ?",
+  "zh": "} 生成器，每一种的消耗和产出都<br>\n        高于前一种。默认情况下，生成器消耗每次购买按 1.1 倍缩放。\n        ${hasUpgrade(6) || player.totalx2.gte(1) || player.totali.gte(1) || player.integrations.gte(1) ?"
+ },
+ {
+  "en": "} Variables in the game.<br><br>\n        <b>X:</b> x is bought with Points. Its starting cost is 100,000 Points, and its cost is multiplied by 1.1 per purchase.<br>\n        X can be used to purchase X Upgrades, which can be found in the Upgrades tab. These are very helpful for progressing.<br>\n        While there are 4 X Upgrades visible at first, four more are unlocked much later.\n        ${player.y.gte(1) || player.totalx2.gte(1) || player.totali.gte(1) || player.integrations.gte(1) ?",
+  "zh": "} 游戏中的变量。<br><br>\n        <b>X：</b> x 用点数购买。其初始消耗为 100,000 点数，每次购买消耗乘以 1.1。<br>\n        X 可用于购买 X 升级，这些升级位于升级标签页。它们对推进游戏非常有帮助。<br>\n        起初可见 4 个 X 升级，之后还会解锁另外 4 个。\n        ${player.y.gte(1) || player.totalx2.gte(1) || player.totali.gte(1) || player.integrations.gte(1) ?"
+ },
+ {
+  "en": "} Variables in the game.<br><br>\n        <b>X:</b> x is bought with Points. Its starting cost is 100,000 Points, and its cost is multiplied by 1.11 per purchase.<br>\n        X can be used to purchase X Upgrades, which can be found in the Upgrades tab. These are very helpful for progressing.<br>\n        While there are 4 X Upgrades visible at first, four more are unlocked much later.\n        ${player.y.gte(1) || player.totalx2.gte(1) || player.totali.gte(1) || player.integrations.gte(1) ?",
+  "zh": "} 游戏中的变量。<br><br>\n        <b>X：</b> x 用点数购买。其初始消耗为 100,000 点数，每次购买消耗乘以 1.11。<br>\n        X 可用于购买 X 升级，这些升级位于升级标签页。它们对推进游戏非常有帮助。<br>\n        起初可见 4 个 X 升级，之后还会解锁另外 4 个。\n        ${player.y.gte(1) || player.totalx2.gte(1) || player.totali.gte(1) || player.integrations.gte(1) ?"
+ },
+ {
+  "en": "} Z-Colliders, but you can only charge one of them at a time. Charging a Z-Collider<br>\n        allows you to produce Z-Particles of its corresponding type. These Z-Particles can be used to level up each Z-Collider,<br>\n        which allows you to gain milestones that give powerful bonuses and extend previous mechanics.<br><br>\n        <b>Expansion Z-Collider Cost Formula:</b> 2,000 * 8<sup>level</sup> * 2<sup>max(level-15,0)<sup>2</sup></sup>, cost is set to 1e34 at level 19<br>\n        <b>Propulsion Z-Collider Cost Formula:</b> 8,000 * 16<sup>level</sup> * 2<sup>max(level-15,0)<sup>2</sup></sup><br>\n        <b>Inflation Z-Collider Cost Formula:</b> 40,000 * 32<sup>level</sup> * 2<sup>max(level-15,0)<sup>2</sup></sup><br>\n        <b>Reduction Z-Collider Cost Formula:</b> 200,000 * 64<sup>level</sup> * 2<sup>max(level-15,0)<sup>2</sup></sup>\n        ${IntegrationUpgrades.complex9.isBought() ?",
+  "zh": "} Z 对撞机，但你一次只能为其中一个充能。为一个 Z 对撞机充能<br>\n        使你能够产出对应类型的 Z 粒子。这些 Z 粒子可用于升级每个 Z 对撞机，<br>\n        从而获得能提供强力加成并扩展此前机制的里程碑。<br><br>\n        <b>扩张 Z 对撞机消耗公式：</b> 2,000 * 8<sup>level</sup> * 2<sup>max(level-15,0)<sup>2</sup></sup>，19 级时消耗设为 1e34<br>\n        <b>推进 Z 对撞机消耗公式：</b> 8,000 * 16<sup>level</sup> * 2<sup>max(level-15,0)<sup>2</sup></sup><br>\n        <b>膨胀 Z 对撞机消耗公式：</b> 40,000 * 32<sup>level</sup> * 2<sup>max(level-15,0)<sup>2</sup></sup><br>\n        <b>缩减 Z 对撞机消耗公式：</b> 200,000 * 64<sup>level</sup> * 2<sup>max(level-15,0)<sup>2</sup></sup>\n        ${IntegrationUpgrades.complex9.isBought() ?"
+ },
+ {
+  "en": "} amount is greater than the sacrificed amount. Don't let the word \"sacrifice\" deter you from using<br>\n        this feature, as your autobuyers will purchase your variables back instantly.<br><br>\n        As this mechanic is expanded many times throughout the game, consider checking back on this section every now and then.<br><br>\n        <b>Base Sacrificed x Effect Formula:</b> log<sub>2</sub>(log<sub>3</sub>(sac. x+1)+1), softcaps when the effect ≥ 1,000,000<br>\n        <b>Base Sacrificed y Effect Formula:</b> sac. y*0.02, softcaps when the effect ≥ 1.5\n        ${hasSU(6) || player.totali.gte(1) || player.integrations.gte(1) ?",
+  "zh": "} 数量大于已献祭的数量。不要让 \"献祭\" 这个词劝退你使用<br>\n        此功能，因为你的自动购买器会立即把变量买回来。<br><br>\n        由于此机制在游戏中会多次扩展，建议时常回来查看本节。<br><br>\n        <b>基础献祭 x 效果公式：</b> log<sub>2</sub>(log<sub>3</sub>(sac. x+1)+1)，效果 ≥ 1,000,000 时软上限<br>\n        <b>基础献祭 y 效果公式：</b> sac. y*0.02，效果 ≥ 1.5 时软上限\n        ${hasSU(6) || player.totali.gte(1) || player.integrations.gte(1) ?"
+ },
+ {
+  "en": "} can be sacrificed to gain additional bonuses. You can only increase your sacrificed x/y${player.zUnlocked ?",
+  "zh": "} 可被献祭以获得额外加成。你只能提高已献祭的 x/y${player.zUnlocked ?"
+ },
+ {
+  "en": "} exception{{0}} being X Upgrades (found in the Upgrades tab)\n        {{1}}.<br><br>\n        <b>X Upgrades:</b> X Upgrades are upgrades that can be bought with x. There are eight in total. ${player.totalx2.gte(1) || player.totali.gte(1) ?",
+  "zh": "} 例外{{0}}为 X 升级（位于升级标签页）\n        {{1}}。<br><br>\n        <b>X 升级：</b> X 升级是可用 x 购买的升级。总共有八个。 ${player.totalx2.gte(1) || player.totali.gte(1) ?"
+ },
+ {
+  "en": "} exception{{0}} being X Upgrades (found in the Upgrades tab)\n        {{1}}<br><br>\n        <b>X Upgrades:</b> X Upgrades are upgrades that can be bought with x. There are eight in total. ${player.totalx2.gte(1) || player.totali.gte(1) ?",
+  "zh": "} 例外{{0}}为 X 升级（位于升级标签页）\n        {{1}}<br><br>\n        <b>X 升级：</b> X 升级是可用 x 购买的升级。总共有八个。 ${player.totalx2.gte(1) || player.totali.gte(1) ?"
+ },
+ {
+  "en": "} is 10x as effective",
+  "zh": "} 效果为 10 倍"
+ },
+ {
+  "en": "} isn't",
+  "zh": "} 不是"
+ },
+ {
+  "en": "} isn't real because ${player.zUnlocked ?",
+  "zh": "} 不是真实的，因为 ${player.zUnlocked ?"
+ },
+ {
+  "en": "} isn't real because I said so.",
+  "zh": "} 不是真实的，因为我说了算。"
+ },
+ {
+  "en": "} isn't real because the scaling would be too fast.",
+  "zh": "} 不是真实的，因为缩放会太快。"
+ },
+ {
+  "en": "} isn't real because there are only 25 letters in the alphabet. Perfect squares FTW!",
+  "zh": "} 不是真实的，因为字母表中只有 25 个字母。完全平方数万岁！"
+ },
+ {
+  "en": "} isn't real, it can't hurt you\\\" ${player.zUnlocked ?",
+  "zh": "} 不是真实的，它伤不到你\\\" ${player.zUnlocked ?"
+ },
+ {
+  "en": "} isnt real. 1) i forgor 💀",
+  "zh": "} 不是真实的。1) i 忘了 💀"
+ },
+ {
+  "en": "} might be real, but ${player.zUnlocked ?",
+  "zh": "} 可能是真实的，但 ${player.zUnlocked ?"
+ },
+ {
+  "en": "} not being real, but what about ${player.zUnlocked ?",
+  "zh": "} 并非真实，但那 ${player.zUnlocked ?"
+ },
+ {
+  "en": "} once they are unlocked. Each Complex Plane currency<br>\n        produces their own Complex Plane power, which boost other aspects of the game. Each Complex Plane currency is unlocked with i<br>\n        and the sacrificed currency corresponding to it. Complex Plane does not have any interaction with Coordinate ${player.zUnlocked ?",
+  "zh": "} 一旦它们解锁。每种复平面货币<br>\n        都会产出各自的复平面力量，加成游戏的其他方面。每种复平面货币都用 i<br>\n        和对应的已献祭货币解锁。复平面与坐标 ${player.zUnlocked ?"
+ },
+ {
+  "en": "} other than this.<br><br>\n        <b>xi Power Effect Formula:</b> floor(log<sub>10</sub>(power+1)<sup>0.9</sup>)<br>\n        <b>yi Power Effect Formula:</b> log<sub>100</sub>(power+1)+1<br>\n        <b>x<sup>2</sup>i Power Effect Formula:</b> log<sub>3</sub>(log<sub>10</sub>(power+1)+1)\n        ${player.varSynth.unlocked[3] || player.integrations.gte(1) ?",
+  "zh": "} 除此之外。<br><br>\n        <b>xi 力量效果公式：</b> floor(log<sub>10</sub>(power+1)<sup>0.9</sup>)<br>\n        <b>yi 力量效果公式：</b> log<sub>100</sub>(power+1)+1<br>\n        <b>x<sup>2</sup>i 力量效果公式：</b> log<sub>3</sub>(log<sub>10</sub>(power+1)+1)\n        ${player.varSynth.unlocked[3] || player.integrations.gte(1) ?"
+ },
+ {
+  "en": "} subtab).",
+  "zh": "} 子标签页)."
+ },
+ {
+  "en": "} variable does not exist.",
+  "zh": "} 变量不存在。"
+ },
+ {
+  "en": "} variable, gets trapped in Square Root as punishment.",
+  "zh": "} 变量作为惩罚被困在平方根中。"
+ },
+ {
+  "en": "} was in our hearts all along.",
+  "zh": "} 一直都在我们心中。"
+ },
+ {
+  "en": "}...no it doesn't continue after that.",
+  "zh": "}……不，之后就不再继续了。"
+ },
+ {
+  "en": "}<br>\n        Upgrade types are in subtabs with an identical or similar name, with ${player.totali.gte(1) ?",
+  "zh": "}<br>\n        升级类型位于名称相同或相似的子标签页中，${player.totali.gte(1) ?"
+ },
+ {
+  "en": "}<br>\n        if your current x/y${player.zUnlocked ?",
+  "zh": "}<br>\n        如果你当前的 x/y${player.zUnlocked ?"
+ },
+ {
+  "en": "}<br><br>\n        <b>xi Cost Formula:</b> 100,000 * 1.5<sup>xi</sup><br>\n        <b>yi Cost Formula:</b> 1e8 * 1.75<sup>yi</sup><br>\n        <b>x<sup>2</sup>i Cost Formula:</b> 1e18 * 2<sup>x<sup>2</sup>i</sup>\n        ${player.varSynth.unlocked[3] || player.integrations.gte(1) ?",
+  "zh": "}<br><br>\n        <b>xi 消耗公式：</b> 100,000 * 1.5<sup>xi</sup><br>\n        <b>yi 消耗公式：</b> 1e8 * 1.75<sup>yi</sup><br>\n        <b>x<sup>2</sup>i 消耗公式：</b> 1e18 * 2<sup>x<sup>2</sup>i</sup>\n        ${player.varSynth.unlocked[3] || player.integrations.gte(1) ?"
+ },
+ {
+  "en": "° on a unit circle in the complex plane)",
+  "zh": "° 在复平面的单位圆上)"
+ },
+ {
+  "en": "ℂ value:",
+  "zh": "ℂ 值："
+ },
+ {
+  "en": "ℕ value:",
+  "zh": "ℕ 值："
+ },
+ {
+  "en": "ℚ value:",
+  "zh": "ℚ 值："
+ },
+ {
+  "en": "ℝ value:",
+  "zh": "ℝ 值："
+ },
+ {
+  "en": "ℤ value:",
+  "zh": "ℤ 值："
+ },
+ {
+  "en": "√-4 = 2 | It's all fun and games until someone loses an i.",
+  "zh": "√-4 = 2 | 本来玩得好好的，直到有人弄丢了一个 i。"
+ },
+ {
+  "en": "∞ Complexes",
+  "zh": "∞ 复数"
+ },
+ {
+  "en": "𝔸 value:",
+  "zh": "𝔸 值："
+ }
+]

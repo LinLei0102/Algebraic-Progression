@@ -3,6 +3,8 @@
   <head>
     <title>Algebraic Progression v3.0.3</title>
     <meta charset="utf-8" />
+    <script src="i18n/dict.js"></script>
+    <script src="i18n/engine.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="Algebraic Progression by randomtuba" />
     <link rel="stylesheet" href="style.css" id="style" />
@@ -11,12 +13,9 @@
     <script src="utils/break_eternity.js"></script>
     <script src="utils/format.js" defer></script>
     <script src="utils/notify.js" defer></script>
-    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12" defer></script>
+    <script src="vendor/vue-2.6.12.min.js" defer></script>
     <script src="utils/panzoom.js" defer></script>
-    <script
-    src="https://code.jquery.com/jquery-3.6.1.js"
-    integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI="
-    crossorigin="anonymous"></script>
+    <script src="vendor/jquery-3.6.1.js"></script>
     <!--- GENERAL !--->
     <script src="save.js" defer></script>
     <script src="game.js" defer></script>
@@ -400,6 +399,7 @@
       </span>
     </div>
     <div id="tab2disp" v-if="player.currentTab == 'options'"> <!--- OPTIONS !--->
+      <button class="hoverable" id="langToggle" onclick="toggleLanguage()">语言 / Language: 中文</button><br>
       <b>Saving</b><br>
       <button class="hoverable" onclick="save(localStorage.getItem('APSaveMetaData'))">
         Save

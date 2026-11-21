@@ -1,0 +1,918 @@
+[
+ {
+  "en": "Multiply production based on unspent x².",
+  "zh": "基于未花费的 x² 使产出相乘。"
+ },
+ {
+  "en": "Multiply production of Buildings based on unspent holes.",
+  "zh": "基于未花费的洞使建筑产出相乘。"
+ },
+ {
+  "en": "Multiply production of Buildings by 1e400x per purchase",
+  "zh": "使建筑产出每次购买乘以 1e400 倍"
+ },
+ {
+  "en": "Multiply revolutions gain by",
+  "zh": "使转数获得乘以"
+ },
+ {
+  "en": "Multiply root essence gain.",
+  "zh": "使根精华获得相乘。"
+ },
+ {
+  "en": "Multiply set sacrifice value conversion.",
+  "zh": "使集合献祭价值转换相乘。"
+ },
+ {
+  "en": "Multiply slope gain by 100x or power slope gain by ^1.01, whichever is larger.",
+  "zh": "使斜率获得乘以 100 倍，或使斜率获得 ^1.01，取较大者。"
+ },
+ {
+  "en": "Multiply square root gain by 100x or power square root gain by ^1.01, whichever is larger.",
+  "zh": "使平方根获得乘以 100 倍，或使平方根获得 ^1.01，取较大者。"
+ },
+ {
+  "en": "Multiply square roots based on i",
+  "zh": "基于 i 使平方根相乘。"
+ },
+ {
+  "en": "Multiply synthetic essence gain by 10x per purchase.",
+  "zh": "使综合精华获得每次购买 10 倍。"
+ },
+ {
+  "en": "Multiply the 2nd YC4 effect softcap start by 1e10,000,000 per purchase.",
+  "zh": "使第 2 个 YC4 效果的软上限起点每次购买乘以 1e10,000,000。"
+ },
+ {
+  "en": "Multiply the 2nd YC4 effect softcap start by 1e20,000,000 per level.",
+  "zh": "使第 2 个 YC4 效果的软上限起点每等级乘以 1e20,000,000。"
+ },
+ {
+  "en": "Multiply the Polynomial efficiency softcap start based on quaternion purchases.",
+  "zh": "基于四元数购买次数使多项式效率软上限起点相乘。"
+ },
+ {
+  "en": "Multiply the Square Root hardcap start by 1e10,000,000 per purchase.",
+  "zh": "使平方根硬上限起点每次购买乘以 1e10,000,000。"
+ },
+ {
+  "en": "Multiply the Square Root hardcap start by 1e600,000,000 per purchase",
+  "zh": "使平方根硬上限起点每次购买乘以 1e600,000,000"
+ },
+ {
+  "en": "Multiply the b effect hardcap starts by 1.1.",
+  "zh": "使 b 效果的硬上限起点乘以 1.1。"
+ },
+ {
+  "en": "Multiply the effect of the 3rd x<sup>2</sup> buyable by +1x",
+  "zh": "使第 3 个 x<sup>2</sup> 可购买项的效果 +1 倍"
+ },
+ {
+  "en": "Multiply the effect of the 3rd x<sup>8</sup> buyable by +1",
+  "zh": "使第 3 个 x<sup>8</sup> 可购买项的效果 +1"
+ },
+ {
+  "en": "Multiply the efficiency of all polynomials by 100x per purchase.",
+  "zh": "使所有多项式的效率每次购买 100 倍。"
+ },
+ {
+  "en": "Multiply the efficiency of all polynomials by 5x per purchase",
+  "zh": "使所有多项式的效率每次购买 5 倍"
+ },
+ {
+  "en": "Multiply the empty set instability start by 1e10 per purchase",
+  "zh": "使空集不稳定起点每次购买乘以 1e10"
+ },
+ {
+  "en": "Multiply the g(n) and h(n) bases based on SE.",
+  "zh": "基于 SE 使 g(n) 和 h(n) 的底数相乘。"
+ },
+ {
+  "en": "Multiply the g(n) base based on Achievements completed.",
+  "zh": "基于已完成的成就使 g(n) 的底数相乘。"
+ },
+ {
+  "en": "Multiply the gains of sacrificed X and Y.",
+  "zh": "使已献祭的 X 和 Y 的获得相乘。"
+ },
+ {
+  "en": "Multiply the hardcap starts of the 2nd and 3rd effects of b.",
+  "zh": "使 b 的第 2、3 效果的硬上限起点相乘。"
+ },
+ {
+  "en": "Multiply the maximum multiplier by 1.00e10x per purchase",
+  "zh": "使最大倍率每次购买乘以 1.00e10 倍"
+ },
+ {
+  "en": "Multiply the replication multiplier per second by 100,000",
+  "zh": "使每秒复制倍率乘以 100,000"
+ },
+ {
+  "en": "Multiply triangle gain by 100x or power triangle gain by ^1.01, whichever is larger.",
+  "zh": "使三角形获得乘以 100 倍，或使三角形获得 ^1.01，取较大者。"
+ },
+ {
+  "en": "Multiply x<sup>2</sup> gain by 100",
+  "zh": "使 x<sup>2</sup> 获得乘以 100"
+ },
+ {
+  "en": "Multiply x<sup>3</sup> gain by 100",
+  "zh": "使 x<sup>3</sup> 获得乘以 100"
+ },
+ {
+  "en": "Multiply x<sup>4</sup> gain by 100",
+  "zh": "使 x<sup>4</sup> 获得乘以 100"
+ },
+ {
+  "en": "Multiply x<sup>5</sup> gain by 100",
+  "zh": "使 x<sup>5</sup> 获得乘以 100"
+ },
+ {
+  "en": "Multiply x<sup>6</sup> gain by 100",
+  "zh": "使 x<sup>6</sup> 获得乘以 100"
+ },
+ {
+  "en": "Multiply x<sup>7</sup> gain by 100",
+  "zh": "使 x<sup>7</sup> 获得乘以 100"
+ },
+ {
+  "en": "Multiply x<sup>8</sup> gain by 100",
+  "zh": "使 x<sup>8</sup> 获得乘以 100"
+ },
+ {
+  "en": "Multiply x<sup>9</sup> gain by 100",
+  "zh": "使 x<sup>9</sup> 获得乘以 100"
+ },
+ {
+  "en": "Multiply x² and QP gain by 100x or power x² and QP gain by ^1.01, whichever is larger.",
+  "zh": "使 x² 和 QP 的获得乘以 100 倍，或将其 ^1.01，取较大者。"
+ },
+ {
+  "en": "Multiply x² gain based on points.",
+  "zh": "基于点数使 x² 获得相乘。"
+ },
+ {
+  "en": "Multiply y<sup>10</sup> gain by 100",
+  "zh": "使 y<sup>10</sup> 获得乘以 100"
+ },
+ {
+  "en": "Multiply y<sup>3</sup> gain by 100",
+  "zh": "使 y<sup>3</sup> 获得乘以 100"
+ },
+ {
+  "en": "Multiply y<sup>4</sup> gain by 100",
+  "zh": "使 y<sup>4</sup> 获得乘以 100"
+ },
+ {
+  "en": "Multiply y<sup>5</sup> gain by 100",
+  "zh": "使 y<sup>5</sup> 获得乘以 100"
+ },
+ {
+  "en": "Multiply y<sup>6</sup> gain by 100",
+  "zh": "使 y<sup>6</sup> 获得乘以 100"
+ },
+ {
+  "en": "Multiply y<sup>7</sup> gain by 100",
+  "zh": "使 y<sup>7</sup> 获得乘以 100"
+ },
+ {
+  "en": "Multiply y<sup>8</sup> gain by 100",
+  "zh": "使 y<sup>8</sup> 获得乘以 100"
+ },
+ {
+  "en": "Multiply y<sup>9</sup> gain by 100",
+  "zh": "使 y<sup>9</sup> 获得乘以 100"
+ },
+ {
+  "en": "Multiply y² gain by 100x or power y² gain by ^1.01, whichever is larger.",
+  "zh": "使 y² 获得乘以 100 倍，或使其 ^1.01，取较大者。"
+ },
+ {
+  "en": "Multiplying Imaginary Power generation",
+  "zh": "虚数力量生成乘以"
+ },
+ {
+  "en": "Multiplying TW gain by",
+  "zh": "TW 获得乘以"
+ },
+ {
+  "en": "Multiplying Z-Power gain",
+  "zh": "Z-力量获得乘以"
+ },
+ {
+  "en": "Multiplying circles gain",
+  "zh": "圆获得乘以"
+ },
+ {
+  "en": "Multiplying derivatives gain by",
+  "zh": "导数获得乘以"
+ },
+ {
+  "en": "Multiplying dx gain",
+  "zh": "dx 获得乘以"
+ },
+ {
+  "en": "Multiplying dx gain by",
+  "zh": "dx 获得乘以"
+ },
+ {
+  "en": "Multiplying dx, derivatives, TW, and triangles gain by",
+  "zh": "dx、导数、TW 和三角形的获得乘以"
+ },
+ {
+  "en": "Multiplying effective limit score",
+  "zh": "有效极限分数乘以"
+ },
+ {
+  "en": "Multiplying i exponent generation",
+  "zh": "i 指数生成乘以"
+ },
+ {
+  "en": "Multiplying triangles gain by",
+  "zh": "三角形获得乘以"
+ },
+ {
+  "en": "My name is abutmodnar, and I am EVIL...!",
+  "zh": "我叫 abutmodnar，我很邪恶……！"
+ },
+ {
+  "en": "Mystery Value",
+  "zh": "神秘值"
+ },
+ {
+  "en": "Name all six presets.",
+  "zh": "命名全部六个预设。"
+ },
+ {
+  "en": "Natural",
+  "zh": "自然"
+ },
+ {
+  "en": "Natural Set Boost",
+  "zh": "自然集加成"
+ },
+ {
+  "en": "Need some more bonuses? Unlock 8 Sinusoidal Upgrades!",
+  "zh": "想要更多加成吗？解锁 8 项正弦升级！"
+ },
+ {
+  "en": "Nested Roots",
+  "zh": "嵌套根"
+ },
+ {
+  "en": "New Mechanic?",
+  "zh": "新机制？"
+ },
+ {
+  "en": "New Polynomials???",
+  "zh": "新多项式？？？"
+ },
+ {
+  "en": "News Addict",
+  "zh": "新闻成瘾者"
+ },
+ {
+  "en": "News Speed:",
+  "zh": "新闻速度："
+ },
+ {
+  "en": "News Ticker:",
+  "zh": "新闻滚动条："
+ },
+ {
+  "en": "Newsarray doesn't work at idx",
+  "zh": "Newsarray 在 idx 处不工作"
+ },
+ {
+  "en": "Next circle milestone at",
+  "zh": "下一个圆里程碑"
+ },
+ {
+  "en": "Next variant in",
+  "zh": "下一个变体于"
+ },
+ {
+  "en": "Nice Try",
+  "zh": "不错，试试"
+ },
+ {
+  "en": "Nine Circles",
+  "zh": "九圆"
+ },
+ {
+  "en": "No",
+  "zh": "否"
+ },
+ {
+  "en": "No CE Here, Though",
+  "zh": "不过这里没有 CE"
+ },
+ {
+  "en": "No Dectic?",
+  "zh": "没有十分位？"
+ },
+ {
+  "en": "No Infinite Completions",
+  "zh": "没有无限完成次数"
+ },
+ {
+  "en": "No Longer Here",
+  "zh": "已不在此处"
+ },
+ {
+  "en": "No More Layers",
+  "zh": "不再有层级"
+ },
+ {
+  "en": "No More Waiting (jk)",
+  "zh": "不再等待（开玩笑的）"
+ },
+ {
+  "en": "No Natural Flavors",
+  "zh": "没有天然香料"
+ },
+ {
+  "en": "No secondary effect active",
+  "zh": "无生效的次要效果"
+ },
+ {
+  "en": "No trigonometric function effect active",
+  "zh": "无生效的三角函数效果"
+ },
+ {
+  "en": "Nonlinear f(n)",
+  "zh": "非线性 f(n)"
+ },
+ {
+  "en": "Normally you would be correct but due to newly discovered evidence you're actually wrong.",
+  "zh": "通常你是对的，但由于新发现的证据，你其实是错的。"
+ },
+ {
+  "en": "Not Following Directions",
+  "zh": "未遵循指示"
+ },
+ {
+  "en": "Not Quite Right",
+  "zh": "不太对"
+ },
+ {
+  "en": "Not Related to Tangent Lines",
+  "zh": "与切线无关"
+ },
+ {
+  "en": "Not That Complicated",
+  "zh": "没那么复杂"
+ },
+ {
+  "en": "Not That Synthetic",
+  "zh": "没那么综合"
+ },
+ {
+  "en": "Not enough for Z",
+  "zh": "不够 Z"
+ },
+ {
+  "en": "Not-so-challenging",
+  "zh": "不太有挑战性"
+ },
+ {
+  "en": "Notable Additions:",
+  "zh": "重要新增内容："
+ },
+ {
+  "en": "Notation:",
+  "zh": "记法："
+ },
+ {
+  "en": "Note 2: W does not reset ever!",
+  "zh": "注 2：W 永不重置！"
+ },
+ {
+  "en": "Note:",
+  "zh": "注："
+ },
+ {
+  "en": "Note: A Root Epicenter level is considered \"complete\" when reaching at least 1e12 points inside of the level.",
+  "zh": "注：当在关卡内达到至少 1e12 点数时，根震中关卡即被视为“完成”。"
+ },
+ {
+  "en": "Note: Earlier versions of the game have bugs that will not be fixed.",
+  "zh": "注：游戏的早期版本存在不会被修复的错误。"
+ },
+ {
+  "en": "Note: Entering the Mandelbrot will exit you from your current Mandelbrot Challenge.",
+  "zh": "注：进入曼德博会使你退出当前的曼德博挑战。"
+ },
+ {
+  "en": "Note: Generation of j and k is not affected by global speed.",
+  "zh": "注：j 和 k 的生成不受全局速度影响。"
+ },
+ {
+  "en": "Note: Going Quadratic or entering Square Root will exit you from your current Challenge.",
+  "zh": "注：进入二次或平方根会使你退出当前挑战。"
+ },
+ {
+  "en": "Note: Going Y-Quadratic will exit you from your current Y Challenge.",
+  "zh": "注：进入 Y-二次会使你退出当前的 Y 挑战。"
+ },
+ {
+  "en": "Note: Going Y-Quadratic will exit you from your current Y-Challenge.",
+  "zh": "注：进入 Y-二次会使你退出当前的 Y-挑战。"
+ },
+ {
+  "en": "Note: Integrating will exit you from your current Integration Challenge.",
+  "zh": "注：积分会使你退出当前的积分挑战。"
+ },
+ {
+  "en": "Note: Produced",
+  "zh": "注：已产出"
+ },
+ {
+  "en": "Note: Subtab display buttons do nothing when the subtab isn't unlocked.",
+  "zh": "注：当子标签页未解锁时，子标签页显示按钮不起作用。"
+ },
+ {
+  "en": "Note: You can only have 1 Complex Challenge unlocked at a time. Going Complex will exit you from your current Complex Challenge.",
+  "zh": "注：你一次只能解锁 1 个复数挑战。进入复数会使你退出当前的复数挑战。"
+ },
+ {
+  "en": "Note: xy can be used to charge X Upgrades, so the Upgrades tab will be useful now!",
+  "zh": "注：xy 可用于为 X 升级充能，所以升级标签页现在有用了！"
+ },
+ {
+  "en": "Note: zi power generation is not affected by multipliers to Complex Plane currencies.",
+  "zh": "注：zi 力量的生成不受复平面货币倍率的影响。"
+ },
+ {
+  "en": "Now that you have obtained Z, you should spend it in the Coordinate Realm subtab!",
+  "zh": "既然你已经获得了 Z，就应该在坐标领域子标签页中花掉它！"
+ },
+ {
+  "en": "Now that you're back...",
+  "zh": "既然你回来了……"
+ },
+ {
+  "en": "Nuclear Fission",
+  "zh": "核裂变"
+ },
+ {
+  "en": "Number",
+  "zh": "数字"
+ },
+ {
+  "en": "Number Sets",
+  "zh": "数集"
+ },
+ {
+  "en": "Number Sets (v3.0 Part 1)",
+  "zh": "数集 (v3.0 第 1 部分)"
+ },
+ {
+  "en": "Number Sets are a group of 20 effects split into 5 groups known as Set types. Each Set type and Set effect must be activated<br>\n        with type slots and effect slots, respectively. Type slots and effect slots can be bought with dx. Each Number Set type focuses on<br>\n        a unique section of the game. For example, Natural Set effects focus on Pre-Quadratic content,<br>\n        and Real Set effects focus on Y-Quadratic content. Similar to Complex Upgrades, you can respec your Number Sets to<br>\n        get your type slots and effect slots back if you'd like to try a different build.<br><br>\n        <b>Assigning Empty Sets:</b> To make your Set effects more powerful, you can assign your empty sets to various Set types.<br>\n        Click the \"Assort\" button to assign 1 empty set to a specific Set type. You can also click the \"Distribute Empty Sets\"<br> button if you have at least 5 empty sets, and it will divide your empty sets evenly across your Set types.\n        ${IntegrationUpgrades.integration3.isBought() ?",
+  "zh": "数集是一组 20 个效果，分为 5 组，称为集合类型。每个集合类型和集合效果必须分别用类型槽位和效果槽位激活。<br>\n        类型槽位和效果槽位可用 dx 购买。每种数集类型专注于游戏中的独特领域。<br>\n        例如，自然集合效果专注于二次之前的内容，<br>\n        而实数集合效果专注于 Y-二次内容。与复数升级类似，你可以重置数集以<br>\n        取回类型槽位和效果槽位，如果你想尝试不同的构建。<br><br>\n        <b>分配空集：</b>为了让集合效果更强大，你可以将空集分配给不同的集合类型。<br>\n        点击「分类」按钮可将 1 个空集分配给特定集合类型。如果你至少有 5 个空集，也可以点击「分配空集」<br> 按钮，它会将空集平均分配到各个集合类型中。\n        ${IntegrationUpgrades.integration3.isBought() ?"
+ },
+ {
+  "en": "Number Sets preset exported!",
+  "zh": "数集预设已导出！"
+ },
+ {
+  "en": "OK",
+  "zh": "确定"
+ },
+ {
+  "en": "Obligatory Padding Upgrade",
+  "zh": "必不可少的填充升级"
+ },
+ {
+  "en": "Obligatory Padding Upgrade 2",
+  "zh": "必不可少的填充升级 2"
+ },
+ {
+  "en": "Obtain at least {{0}} limit score.",
+  "zh": "获得至少 {{0}} 极限分数。"
+ },
+ {
+  "en": "Obtain {{0}} Milestones.",
+  "zh": "获得 {{0}} 个里程碑。"
+ },
+ {
+  "en": "Offline Progress Modal:",
+  "zh": "离线进度弹窗："
+ },
+ {
+  "en": "Offline Progress:",
+  "zh": "离线进度："
+ },
+ {
+  "en": "Offroad Adventures",
+  "zh": "越野冒险"
+ },
+ {
+  "en": "Oh no, not again...",
+  "zh": "哦不，别又来了……"
+ },
+ {
+  "en": "Oh, please, that's basically nothing.",
+  "zh": "哦，得了吧，这基本不算什么。"
+ },
+ {
+  "en": "Oh, so you like Complex Upgrades? Then name every Complex Upgrade!...what do you mean they don't have titles?",
+  "zh": "哦，你喜欢复数升级？那就说出每个复数升级的名字！……你是说它们没有名字吗？"
+ },
+ {
+  "en": "Old Habits Die Hard",
+  "zh": "积习难改"
+ },
+ {
+  "en": "Olden Days",
+  "zh": "往昔岁月"
+ },
+ {
+  "en": "Omnipotent f(n)",
+  "zh": "全能 f(n)"
+ },
+ {
+  "en": "Once you generate 100% Challenge Power within a Mandelbrot Challenge, it is completed. Try to complete it as fast as you can!",
+  "zh": "一旦你在曼德博挑战中生成 100% 挑战力量，该挑战即告完成。尽量快地完成它！"
+ },
+ {
+  "en": "Once you obtain 1e175 RP, 1e42 square roots, and rtu55 purchased, you can go Complex for i.<br>\n        Complex, similarly to Resetting, resets almost everything before it. You keep your Achievements<br>\n        and some things underneath the General header in the Statistics tab. i will be your most important currency from this<br>\n        point forward.<br><br>\n        <b>Base i Gain Formula:</b> (RP/1e175)<sup>0.025</sup> * (SR/1e42)<sup>0.004</sup><br>\n        After 1e200 i, base i gain past 1e200 has a square root applied. This does not affect multipliers to i gain.<br><br>\n        i has many more uses than RE, but two important uses for it is for purchasing Basic Complex Upgrades and Upgrade Points.<br>\n        The second Complex (the run after you go Complex) will feel quite slow, but Milestones and Complex Upgrades will<br>\n        speed up things quickly.",
+  "zh": "一旦你获得 1e175 RP、1e42 平方根，并购买 rtu55，就可以进入复数以获取 i。<br>\n        复数与重置类似，会重置此前几乎所有内容。你保留成就<br>\n        以及统计标签页中“常规”标题下的部分内容。i 将是你最重要的货币，从<br>\n        此刻起。<br><br>\n        <b>基础 i 获得公式：</b> (RP/1e175)<sup>0.025</sup> * (SR/1e42)<sup>0.004</sup><br>\n        在 1e200 i 之后，超过 1e200 的基础 i 获得会应用平方根。这不影响 i 获得的倍率。<br><br>\n        i 的用途比 RE 多得多，其中两个重要用途是购买基础复数升级和升级点数。<br>\n        第二次复数（进入复数后的那一轮）会感觉相当缓慢，但里程碑和复数升级会<br>\n        迅速加快进度。"
+ },
+ {
+  "en": "Once you obtain 1e2950 x<sup>2</sup>, 1e660 RE, and a Root Epicenter Level √-1 completion, you can go Complex for i.<br>\n        Complex, similarly to Quadratic, resets almost everything before it. You keep your Achievements, your Challenge records,<br>\n        and some things underneath the General header in the Statistics tab. i will be your most important currency from this point forward.<br><br>\n        <b>Base i Gain Formula:</b> (((x<sup>2</sup>/1e2950)<sup>0.002</sup>)/2 + ((RE/1e660)<sup>0.004</sup>)/2)<sup>0.4</sup><br><br>\n        i has many more uses than x<sup>2</sup>, but two important uses for it is for purchasing Basic Complex Upgrades and Upgrade Points.<br>\n        The second Complex (the run after you go Complex) will feel quite slow, but Milestones and Complex Upgrades will speed up things quickly.",
+  "zh": "一旦你获得 1e2950 x<sup>2</sup>、1e660 RE，以及完成根震中关卡 √-1，就可以进入复数以获取 i。<br>\n        复数与二次类似，会重置此前几乎所有内容。你保留成就、挑战记录，<br>\n        以及统计标签页中“常规”标题下的部分内容。从现在起，i 将是你最重要的货币。<br><br>\n        <b>基础 i 获得公式：</b> (((x<sup>2</sup>/1e2950)<sup>0.002</sup>)/2 + ((RE/1e660)<sup>0.004</sup>)/2)<sup>0.4</sup><br><br>\n        i 的用途比 x<sup>2</sup> 多得多，其中两个重要用途是购买基础复数升级和升级点数。<br>\n        第二次复数（进入复数后的那一轮）会感觉相当缓慢，但里程碑和复数升级会迅速加快进度。"
+ },
+ {
+  "en": "Once you obtain 1e4000 circles and 1e2650 revolutions, you can go Sinusoidal for triangles.<br>\n        Sinusoidal resets everything that Integration resets. Similarly to Y-Quadratic, Sinusoidal is on the same layer as Integration,<br>\n        as they both mostly reset the same content. Triangles produce Trigonometric Waves (TW) and can purchase new upgrades.<br><br>\n        <b>Base Triangles Gain Formula:</b> 100<sup>(log<sub>10</sub>(circles)/4000) - 1</sup> * 100<sup>(log<sub>10</sub>(revolutions)/2650) - 1</sup>",
+  "zh": "一旦你获得 1e4000 圆和 1e2650 转数，就可以进入正弦以获取三角形。<br>\n        正弦会重置积分所重置的一切。与 Y-二次类似，正弦与积分处于同一层级，<br>\n        因为它们大多重置相同的内容。三角形产生三角波 (TW)，并可购买新升级。<br><br>\n        <b>基础三角形获得公式：</b> 100<sup>(log<sub>10</sub>(circles)/4000) - 1</sup> * 100<sup>(log<sub>10</sub>(revolutions)/2650) - 1</sup>"
+ },
+ {
+  "en": "Once you obtain 1e4400 i, 1e112 y<sup>2</sup>, and 100% Mandelbrot Engine power, you can enter the Mandelbrot for<br>\n        Mandelbrot Essence (ME).<br>\n        Mandelbrot, similarly to previous layers, resets almost everything before it. You still keep some things underneath the<br>\n        General header in the Statistics tab. ME will become your most important currency from this point forward.<br><br>\n        <b>Base ME Gain Formula:</b> (i/1e4400)<sup>0.0005</sup> * (y<sup>2</sup>/1e112)<sup>0.01</sup><br>\n        After 1e100 ME, base ME gain past 1e100 has a square root applied. This does not affect multipliers to ME gain.<br>\n        ME is used for purchasing Meta-Generators and fractal spirals.",
+  "zh": "一旦你获得 1e4400 i、1e112 y<sup>2</sup>，以及 100% 曼德博引擎能量，就可以进入曼德博获取<br>\n        曼德博精华 (ME)。<br>\n        曼德博与此前的层级类似，会重置此前几乎所有内容。你仍保留统计标签页中<br>\n        “常规”标题下的部分内容。从现在起，ME 将成为你最重要的货币。<br><br>\n        <b>基础 ME 获得公式：</b> (i/1e4400)<sup>0.0005</sup> * (y<sup>2</sup>/1e112)<sup>0.01</sup><br>\n        在 1e100 ME 之后，超过 1e100 的基础 ME 获得会应用平方根。这不影响 ME 获得的倍率。<br>\n        ME 用于购买元发生器和分形螺旋。"
+ },
+ {
+  "en": "Once you obtain 2,222y and 1 z, you can go Y-Quadratic for y<sup>2</sup>.<br>\n        Y-Quadratic resets everything that Complex resets, but also resets your sacrificed x, y, and x<sup>2</sup>. However, Y-Quadratic<br>\n        is <i>not</i> the third prestige layer! It is on the same layer as Complex, as they both mostly reset the same content.<br><br>\n        <b>Base y<sup>2</sup> Gain Formula:</b> 1.25<sup>(y-2,222)/100</sup> * 1.5<sup>z</sup><br><br>\n        y<sup>2</sup> can be spent on Y-Quadratic Upgrades, but later you will mostly use it<br>\n        for unlocking new mechanics in the Y-Quadratic tab.",
+  "zh": "一旦你获得 2,222y 和 1 z，就可以进入 Y-二次获取 y<sup>2</sup>。<br>\n        Y-二次会重置复数所重置的一切，但也会重置你已献祭的 x、y 和 x<sup>2</sup>。不过，Y-二次<br>\n        <i>并非</i>第三个威望层级！它与复数处于同一层级，因为两者大多重置相同的内容。<br><br>\n        <b>基础 y<sup>2</sup> 获得公式：</b> 1.25<sup>(y-2,222)/100</sup> * 1.5<sup>z</sup><br><br>\n        y<sup>2</sup> 可用于 Y-二次升级，但之后你主要会用<br>\n        它在 Y-二次标签页中解锁新机制。"
+ },
+ {
+  "en": "Once you obtain 70,000y and 1 z, you can go Y-Quadratic for y<sup>2</sup>.<br>\n        Y-Quadratic resets everything that Complex resets.<br><br>\n        <b>Base y<sup>2</sup> Gain Formula:</b> y/70,000 + z<br><br>\n        y<sup>2</sup> can be spent on Y-Quadratic Upgrades.",
+  "zh": "一旦你获得 70,000y 和 1 z，就可以进入 Y-二次获取 y<sup>2</sup>。<br>\n        Y-二次会重置复数所重置的一切。<br><br>\n        <b>基础 y<sup>2</sup> 获得公式：</b> y/70,000 + z<br><br>\n        y<sup>2</sup> 可用于 Y-二次升级。"
+ },
+ {
+  "en": "One Mechanic Bites The Dust",
+  "zh": "又一机制归尘"
+ },
+ {
+  "en": "One Per Minute",
+  "zh": "每分钟一个"
+ },
+ {
+  "en": "One With Everything",
+  "zh": "万物合一"
+ },
+ {
+  "en": "One of the new changes of the v3.0 update is discontinued support for the TI-84 version.",
+  "zh": "v3.0 更新的一项新变化是停止支持 TI-84 版本。"
+ },
+ {
+  "en": "Only Point Quasars can produce points.",
+  "zh": "只有点类星体能产出点数。"
+ },
+ {
+  "en": "Oops, looks like the game isn't loading right!",
+  "zh": "哎呀，看来游戏加载出错了！"
+ },
+ {
+  "en": "Open the Floodgates",
+  "zh": "打开闸门"
+ },
+ {
+  "en": "Opposite directional effects on the same axis on the Complex Plane get a similar but reduced effect",
+  "zh": "复平面上同一轴上方向相反的效果会获得类似但更弱的效果"
+ },
+ {
+  "en": "Options",
+  "zh": "选项"
+ },
+ {
+  "en": "Options reset!",
+  "zh": "选项已重置！"
+ },
+ {
+  "en": "Options: cannot be hidden",
+  "zh": "选项：无法隐藏"
+ },
+ {
+  "en": "Ordinal Markup",
+  "zh": "序数标记"
+ },
+ {
+  "en": "Original Rewrite",
+  "zh": "原始重写"
+ },
+ {
+  "en": "Original Upgrade Name",
+  "zh": "原始升级名称"
+ },
+ {
+  "en": "Other resources gained:",
+  "zh": "获得的其他资源："
+ },
+ {
+  "en": "Outer Core",
+  "zh": "外核"
+ },
+ {
+  "en": "Outside the Universe",
+  "zh": "宇宙之外"
+ },
+ {
+  "en": "Overdrive",
+  "zh": "超载"
+ },
+ {
+  "en": "Override Hypercomplex Tabs...",
+  "zh": "覆盖超复数标签页……"
+ },
+ {
+  "en": "PARENTAL OFFSPRING WHOM IS A MEMBER OF THE MALE GENDER 😭💔",
+  "zh": "身为男性一员的父母的后代 😭💔"
+ },
+ {
+  "en": "PE Filled:",
+  "zh": "PE 已填充："
+ },
+ {
+  "en": "PE filled powers the secondary Unit Circle effects and unlock Auto-Adjust for Pythagorean Triples",
+  "zh": "PE 填充会强化单位圆次要效果，并为勾股三元组解锁自动调整"
+ },
+ {
+  "en": "POV: You are currently inside of a challenge",
+  "zh": "POV：你当前正处于一个挑战中"
+ },
+ {
+  "en": "PP factor in empty sets formula is raised ^{{0}}",
+  "zh": "空集公式中的 PP 因子提升至 ^{{0}}"
+ },
+ {
+  "en": "Parabolas do nothing. Synthetic Essence determines the cap to your sacrificed x² and Quadratic Power amounts.",
+  "zh": "抛物线不起作用。综合精华决定你已献祭的 x² 和二次力量数量的上限。"
+ },
+ {
+  "en": "Parabolic Flux",
+  "zh": "抛物线通量"
+ },
+ {
+  "en": "Paradoxical Functions",
+  "zh": "悖论函数"
+ },
+ {
+  "en": "Parallel Connection",
+  "zh": "并联"
+ },
+ {
+  "en": "Parallel Connection II",
+  "zh": "并联 II"
+ },
+ {
+  "en": "Part 2: Tuba screws up",
+  "zh": "第 2 部分：Tuba 搞砸了"
+ },
+ {
+  "en": "Particles boost their own gain",
+  "zh": "粒子强化自身的获得"
+ },
+ {
+  "en": "Particles cannot be generated.",
+  "zh": "无法生成粒子。"
+ },
+ {
+  "en": "Particles gain a multiplier based on total UP",
+  "zh": "粒子基于 UP 总数获得倍率"
+ },
+ {
+  "en": "Passively gain challenge essence by simulating a Root Epicenter Level √4 run in the background. Also, unlock 5 new Complex Challenges.",
+  "zh": "通过在后台模拟一次根震中关卡 √4 来被动获得挑战精华。此外，解锁 5 个新的复数挑战。"
+ },
+ {
+  "en": "Passively gain root essence by simulating a Square Root run in the background.",
+  "zh": "通过在后台模拟一次平方根来被动获得根精华。"
+ },
+ {
+  "en": "Passively generate Quadratic count.",
+  "zh": "被动生成二次数量。"
+ },
+ {
+  "en": "Paste your Complex Upgrades preset in the input box below! (This will reset your run with no reward!)",
+  "zh": "在下方输入框中粘贴你的复数升级预设！（这将重置你的这一轮且不给予任何奖励！）"
+ },
+ {
+  "en": "Paste your Fractal Arm preset in the input box below! (This will reset your run with no reward!)",
+  "zh": "在下方输入框中粘贴你的分形臂预设！（这将重置你的这一轮且不给予任何奖励！）"
+ },
+ {
+  "en": "Paste your Hypercomplex Upgrades preset in the input box below! (This will reset your run with no reward!)",
+  "zh": "在下方输入框中粘贴你的超复数升级预设！（这将重置你的这一轮且不给予任何奖励！）"
+ },
+ {
+  "en": "Paste your Number Sets preset in the input box below! (This will reset your run with no reward!)",
+  "zh": "在下方输入框中粘贴你的数集预设！（这将重置你的这一轮且不给予任何奖励！）"
+ },
+ {
+  "en": "Paste your save string in the input box below!",
+  "zh": "在下方输入框中粘贴你的存档字符串！"
+ },
+ {
+  "en": "Perk Tree upgrades.",
+  "zh": "天赋树升级。"
+ },
+ {
+  "en": "Perk Tree:",
+  "zh": "天赋树："
+ },
+ {
+  "en": "Perks refunded! +{{0}} holes",
+  "zh": "天赋已返还！+{{0}} 洞"
+ },
+ {
+  "en": "Permanent Upgrade effects are also unaffected by softcaps.",
+  "zh": "永久升级效果也不受软上限影响。"
+ },
+ {
+  "en": "Permanent Upgrades Active:",
+  "zh": "生效的永久升级："
+ },
+ {
+  "en": "Permanent Upgrades:",
+  "zh": "永久升级："
+ },
+ {
+  "en": "Permanently keep 10% of Quadratics sacrificed on Complex as Banked Quadratics.",
+  "zh": "永久保留在复数中献祭的二次的 10%，作为存储二次。"
+ },
+ {
+  "en": "Perpetuity Z-Particles",
+  "zh": "永恒 Z-粒子"
+ },
+ {
+  "en": "Pi: \"Be real for once!\" i: \"No, let's be rational here.\"",
+  "zh": "π：“做回实数吧！” i：“不，我们做有理数吧。”"
+ },
+ {
+  "en": "Pink Variable - Dark Side of the Flune",
+  "zh": "粉色变量 - 弗鲁恩的黑暗面"
+ },
+ {
+  "en": "Plague of Locusts",
+  "zh": "蝗灾"
+ },
+ {
+  "en": "Plane",
+  "zh": "平面"
+ },
+ {
+  "en": "Plane Researcher",
+  "zh": "平面研究者"
+ },
+ {
+  "en": "Play Again",
+  "zh": "再玩一次"
+ },
+ {
+  "en": "Play for 13.7 billion years.",
+  "zh": "游玩 137 亿年。"
+ },
+ {
+  "en": "Play for {{0}} hours.",
+  "zh": "游玩 {{0}} 小时。"
+ },
+ {
+  "en": "Player...I remember you're <span style='color:red;text-shadow:0px 0px 7px red;'>variables</span>.",
+  "zh": "玩家……我记得你的<span style='color:red;text-shadow:0px 0px 7px red;'>变量</span>。"
+ },
+ {
+  "en": "Please report any issues you encounter!",
+  "zh": "如果遇到任何问题，请报告！"
+ },
+ {
+  "en": "Point Exponential",
+  "zh": "点数指数"
+ },
+ {
+  "en": "Point Factories",
+  "zh": "点数工厂"
+ },
+ {
+  "en": "Point Factories are significantly stronger based on total Buildings bought.",
+  "zh": "点数工厂基于已购买建筑总数显著变强。"
+ },
+ {
+  "en": "Point Factories are stronger based on total Buildings bought.",
+  "zh": "点数工厂基于已购买建筑总数变强。"
+ },
+ {
+  "en": "Point Factory Autobuyer",
+  "zh": "点数工厂自动购买器"
+ },
+ {
+  "en": "Point Factory Autobuyer:",
+  "zh": "点数工厂自动购买器："
+ },
+ {
+  "en": "Point Hoarder",
+  "zh": "点数囤积者"
+ },
+ {
+  "en": "Point Portal Autobuyer",
+  "zh": "点数传送门自动购买器"
+ },
+ {
+  "en": "Point Portal Autobuyer:",
+  "zh": "点数传送门自动购买器："
+ },
+ {
+  "en": "Point Portals",
+  "zh": "点数传送门"
+ },
+ {
+  "en": "Point Portals are significantly stronger based on total Buildings bought.",
+  "zh": "点数传送门基于已购买建筑总数显著变强。"
+ },
+ {
+  "en": "Point Portals are stronger based on total Buildings bought.",
+  "zh": "点数传送门基于已购买建筑总数变强。"
+ },
+ {
+  "en": "Point Portals gain a multiplier based on Autoclickers",
+  "zh": "点数传送门基于自动点击器获得倍率"
+ },
+ {
+  "en": "Point Portals produce Point Factories, and Point Factories produce Autoclickers.",
+  "zh": "点数传送门产出点数工厂，点数工厂产出自动点击器。"
+ },
+ {
+  "en": "Point Quasar Autobuyer",
+  "zh": "点类星体自动购买器"
+ },
+ {
+  "en": "Point Quasar Autobuyer:",
+  "zh": "点类星体自动购买器："
+ },
+ {
+  "en": "Point Quasars",
+  "zh": "点类星体"
+ },
+ {
+  "en": "Point gain is powered ^{{0}}",
+  "zh": "点数获得提升至 ^{{0}}"
+ },
+ {
+  "en": "Point gain is powered by an exponent based on a sine wave. The amplitude is multiplied based on your Reset Points.",
+  "zh": "点数获得由基于正弦波的指数强化。振幅基于你的重置点数相乘。"
+ },
+ {
+  "en": "Point gain is powered by an exponent based on a sine wave. The amplitude is multiplied based on your slope.",
+  "zh": "点数获得由基于正弦波的指数强化。振幅基于你的斜率相乘。"
+ },
+ {
+  "en": "Point gain is raised ^0.01.",
+  "zh": "点数获得提升至 ^0.01。"
+ },
+ {
+  "en": "Point gain is raised to the 0.75th.",
+  "zh": "点数获得提升至 0.75 次方。"
+ },
+ {
+  "en": "Point generator cost scaling is *1.06",
+  "zh": "点数发生器消耗缩放为 *1.06"
+ },
+ {
+  "en": "Point value plummets due to newfound abundance. \"Back in my day, 1 million was a lot!\" says crazy elderly person.",
+  "zh": "点数价值因新发现的充裕而暴跌。“我那会儿，100 万可多了！”疯癫的老人说道。"
+ },
+ {
+  "en": "Points",
+  "zh": "点数"
+ },
+ {
+  "en": "Points Per Second:",
+  "zh": "每秒点数："
+ },
+ {
+  "en": "Points are now raised ^1.01.",
+  "zh": "点数现提升至 ^1.01。"
+ },
+ {
+  "en": "Points are now raised ^1.02 (^1.01 in Square Root).",
+  "zh": "点数现提升至 ^1.02（平方根中为 ^1.01）。"
+ },
+ {
+  "en": "Points are now raised ^1.03.",
+  "zh": "点数现提升至 ^1.03。"
+ },
+ {
+  "en": "Points, slope, quadratic power... randomtuba, the King of the Variables, attained all the mechanics this Point Universe had to offer. The words he uttered right before his death drove people to the Coordinate Plane. \"My treasure? If you want it, you can have it! Find it! I left everything this world has to offer there!\" And so men head to the Best-Fit Line in pursuit of their dreams! The world has truly entered a Great Algebraic Era!",
+  "zh": "点数、斜率、二次力量……变量之王 randomtuba 掌握了这个点数宇宙所能提供的一切机制。他临终前说的话驱使人们前往坐标平面。“我的宝藏？想要的话就拿去吧！去找吧！我把这个世界拥有的一切都留在那里了！”于是人们奔赴最佳拟合线，追寻他们的梦想！世界真正进入了伟大的代数时代！"
+ }
+]

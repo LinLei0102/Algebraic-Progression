@@ -1,0 +1,942 @@
+[
+ {
+  "en": "Complex (v2.0)",
+  "zh": "复数 (v2.0)"
+ },
+ {
+  "en": "Complex Bonus",
+  "zh": "复数加成"
+ },
+ {
+  "en": "Complex Build Advanced",
+  "zh": "复数建造进阶"
+ },
+ {
+  "en": "Complex Challenge",
+  "zh": "复数挑战"
+ },
+ {
+  "en": "Complex Challenge 1x1 Completed",
+  "zh": "复数挑战 1x1 完成"
+ },
+ {
+  "en": "Complex Challenge 1x1 Completed in Lost Integration",
+  "zh": "在遗失积分中完成复数挑战 1x1"
+ },
+ {
+  "en": "Complex Challenge tier",
+  "zh": "复数挑战层级"
+ },
+ {
+  "en": "Complex Challenges",
+  "zh": "复数挑战"
+ },
+ {
+  "en": "Complex Challenges (CCs) have the following attributes:<br>\n        <b>1)</b> Complex Challenges require RP to complete, and take place within a Complex.<br>\n        <b>2)</b> A Complex Challenge must be unlocked with UP and a secondary requirement before you can enter it.<br>\n        <b>3)</b> Each Complex Challenge can be completed up to 3 times. The reward and goal increase for each completion.<br>\n        Each unique Complex Challenge completion is called a Complex Challenge tier, usually shortened to \"CC tier\".<br><br>\n        You can only have one Complex Challenge unlocked at a time.<br><br>\n        Based on Complex challenge completions, you will gain geometric sequences and unlock new milestones.<br>\n        There are a total of 24 completable CC tiers.",
+  "zh": "复数挑战（CC）具有以下属性：<br>\n        <b>1)</b> 复数挑战需要 RP 才能完成，且在复数内进行。<br>\n        <b>2)</b> 进入复数挑战前，必须用 UP 和一项次要要求将其解锁。<br>\n        <b>3)</b> 每个复数挑战最多可完成 3 次。每次完成后奖励和目标都会提高。<br>\n        每次完成不同的复数挑战称为一个复数挑战层级，通常简称为 \"CC 层级\"。<br><br>\n        同一时间你只能解锁一个复数挑战。<br><br>\n        根据复数挑战的完成次数，你将获得等比数列并解锁新的里程碑。<br>\n        共有 24 个可完成的 CC 层级。"
+ },
+ {
+  "en": "Complex Challenges (v2.1)",
+  "zh": "复数挑战 (v2.1)"
+ },
+ {
+  "en": "Complex Challenges can be completed up to 6 times, and keep Complex Challenges on Integration.",
+  "zh": "复数挑战最多可完成 6 次，且在积分中保留复数挑战。"
+ },
+ {
+  "en": "Complex Challenges:",
+  "zh": "复数挑战："
+ },
+ {
+  "en": "Complex Confirmation:",
+  "zh": "复数确认："
+ },
+ {
+  "en": "Complex Conqueror",
+  "zh": "复数征服者"
+ },
+ {
+  "en": "Complex Conqueror 2",
+  "zh": "复数征服者 2"
+ },
+ {
+  "en": "Complex Infinities",
+  "zh": "复数无限"
+ },
+ {
+  "en": "Complex Milestones",
+  "zh": "复数里程碑"
+ },
+ {
+  "en": "Complex Plane",
+  "zh": "复数平面"
+ },
+ {
+  "en": "Complex Plane (v2.0)",
+  "zh": "复数平面 (v2.0)"
+ },
+ {
+  "en": "Complex Plane Effects:",
+  "zh": "复数平面效果："
+ },
+ {
+  "en": "Complex Plane Unlocked",
+  "zh": "复数平面已解锁"
+ },
+ {
+  "en": "Complex Plane Unlocked in Lost Integration",
+  "zh": "在遗失积分中解锁复数平面"
+ },
+ {
+  "en": "Complex Plane currenc",
+  "zh": "复数平面货币"
+ },
+ {
+  "en": "Complex Plane effects are based on total steps purchased",
+  "zh": "复数平面效果基于已购买的总步数"
+ },
+ {
+  "en": "Complex Plane effects are raised ^1.1",
+  "zh": "复数平面效果提升至 ^1.1 次方"
+ },
+ {
+  "en": "Complex Plane powers no longer have unlock requirements.",
+  "zh": "复数平面能量不再有解锁要求。"
+ },
+ {
+  "en": "Complex Upgrade",
+  "zh": "复数升级"
+ },
+ {
+  "en": "Complex Upgrade 14's hardcap is ^1.70.",
+  "zh": "复数升级 14 的硬上限为 ^1.70。"
+ },
+ {
+  "en": "Complex Upgrade 4's hardcap is ^1.30.",
+  "zh": "复数升级 4 的硬上限为 ^1.30。"
+ },
+ {
+  "en": "Complex Upgrade 6 is uncapped and powered ^250.",
+  "zh": "复数升级 6 无上限，且提升至 ^250 次方。"
+ },
+ {
+  "en": "Complex Upgrade Respec Confirmation:",
+  "zh": "复数升级重置确认："
+ },
+ {
+  "en": "Complex Upgrades",
+  "zh": "复数升级"
+ },
+ {
+  "en": "Complex Upgrades (v2.0)",
+  "zh": "复数升级 (v2.0)"
+ },
+ {
+  "en": "Complex Upgrades are disabled, including Basic Complex Upgrades (excluding bcu13 and bcu23). Point gain is raised ^0.1.",
+  "zh": "复数升级被禁用，包括基础复数升级（bcu13 和 bcu23 除外）。点数获得提升至 ^0.1 次方。"
+ },
+ {
+  "en": "Complex Upgrades are disabled, including Basic Complex Upgrades 1-5 and 7-9. Point gain is raised ^0.1.",
+  "zh": "复数升级被禁用，包括基础复数升级 1-5 和 7-9。点数获得提升至 ^0.1 次方。"
+ },
+ {
+  "en": "Complex Upgrades preset exported!",
+  "zh": "复数升级预设已导出！"
+ },
+ {
+  "en": "Complex:",
+  "zh": "复数："
+ },
+ {
+  "en": "Complexes generate Quadratics at a reduced rate",
+  "zh": "复数以较低的速率产出二次。"
+ },
+ {
+  "en": "Complexes.",
+  "zh": "复数。"
+ },
+ {
+  "en": "Complexes:",
+  "zh": "复数："
+ },
+ {
+  "en": "Complexity Power",
+  "zh": "复数能量"
+ },
+ {
+  "en": "Complicated Mathematics",
+  "zh": "复杂数学"
+ },
+ {
+  "en": "Confirmations",
+  "zh": "确认"
+ },
+ {
+  "en": "Confirmations:",
+  "zh": "确认："
+ },
+ {
+  "en": "Confused by how a game mechanic works? View the Textbook for assistance!",
+  "zh": "对某个游戏机制感到困惑？查看教科书以获得帮助！"
+ },
+ {
+  "en": "Congratulations! You have all of the v2.3 achievements!",
+  "zh": "恭喜！你已获得所有 v2.3 成就！"
+ },
+ {
+  "en": "Congratulations! You have beaten the game.",
+  "zh": "恭喜！你已通关游戏。"
+ },
+ {
+  "en": "Congratulations, you've completed 20 CC tiers!",
+  "zh": "恭喜，你已完成 20 个 CC 层级！"
+ },
+ {
+  "en": "Consider refreshing or asking about it on the",
+  "zh": "可尝试刷新，或在以下平台询问："
+ },
+ {
+  "en": "Constance",
+  "zh": "常数"
+ },
+ {
+  "en": "Constant Multiple Rule",
+  "zh": "常数倍法则"
+ },
+ {
+  "en": "Constant Rule",
+  "zh": "常数法则"
+ },
+ {
+  "en": "Content:",
+  "zh": "内容："
+ },
+ {
+  "en": "Continue exploring into unknowable depths? Unlock 8 additional Sinusoidal Upgrades!",
+  "zh": "继续探索不可知的深处？解锁 8 个额外的正弦升级！"
+ },
+ {
+  "en": "Continue playing in your current savefile. You will return to this win screen when you refresh the game.",
+  "zh": "继续游玩当前存档。刷新游戏时将返回此通关界面。"
+ },
+ {
+  "en": "Contributors Over The Years",
+  "zh": "多年来的贡献者"
+ },
+ {
+  "en": "Convergence Factor:",
+  "zh": "收敛系数："
+ },
+ {
+  "en": "Converging Dimensionality",
+  "zh": "收敛维度"
+ },
+ {
+  "en": "Converging Vortex",
+  "zh": "收敛漩涡"
+ },
+ {
+  "en": "Cool Bug Fact's: You know what you did",
+  "zh": "有趣的漏洞小知识：你知道自己干了什么"
+ },
+ {
+  "en": "Coordinate",
+  "zh": "坐标"
+ },
+ {
+  "en": "Coordinate ${player.zUnlocked ?",
+  "zh": "坐标 ${player.zUnlocked ?"
+ },
+ {
+  "en": "Coordinate Plane",
+  "zh": "坐标平面"
+ },
+ {
+  "en": "Coordinate Plane (v1.1)",
+  "zh": "坐标平面 (v1.1)"
+ },
+ {
+  "en": "Coordinate Plane Autobuyer:",
+  "zh": "坐标平面自动购买器："
+ },
+ {
+  "en": "Coordinate Plane Unlocked",
+  "zh": "坐标平面已解锁"
+ },
+ {
+  "en": "Coordinate Plane Unlocked in Lost Integration",
+  "zh": "在遗失积分中解锁坐标平面"
+ },
+ {
+  "en": "Coordinate Plane. Complex Plane. Temporal Plane. The three planes of existence, cascading with each other to create an exponentially steady production of resources.",
+  "zh": "坐标平面、复数平面、时间平面。三种存在之平面，彼此层叠，带来指数级稳定的资源产出。"
+ },
+ {
+  "en": "Coordinate Realm (v1.1)",
+  "zh": "坐标领域 (v1.1)"
+ },
+ {
+  "en": "Cost Deceleration",
+  "zh": "消耗减速"
+ },
+ {
+  "en": "Cost Deceleration II",
+  "zh": "消耗减速 II"
+ },
+ {
+  "en": "Cost:",
+  "zh": "消耗："
+ },
+ {
+  "en": "Cost: 1 game point",
+  "zh": "消耗：1 游戏点数"
+ },
+ {
+  "en": "Costs and cost scalings of X, Y, and Z are unaffected.",
+  "zh": "X、Y 和 Z 的消耗及消耗缩放不受影响。"
+ },
+ {
+  "en": "Crazy? I was crazy once... They locked me in a room. A rubber room. A rubber room with walls. And timewalls make me crazy...",
+  "zh": "疯了吗？我曾经疯过……他们把我锁在一个房间里。橡胶房间。有墙的橡胶房间。而时间墙让我发疯……"
+ },
+ {
+  "en": "Creator",
+  "zh": "创作者"
+ },
+ {
+  "en": "Credit the Creators!",
+  "zh": "向创作者致敬！"
+ },
+ {
+  "en": "Cult of the Exponents",
+  "zh": "指数崇拜"
+ },
+ {
+  "en": "Current Quadrant:",
+  "zh": "当前象限："
+ },
+ {
+  "en": "Current generator multiplier:",
+  "zh": "当前生成器倍率："
+ },
+ {
+  "en": "Currently Selected: C",
+  "zh": "当前选中：C"
+ },
+ {
+  "en": "Currently:",
+  "zh": "当前："
+ },
+ {
+  "en": "Cursed Products",
+  "zh": "诅咒产物"
+ },
+ {
+  "en": "DID YOU SAY POTENTIAL",
+  "zh": "你说的是潜力吗？"
+ },
+ {
+  "en": "Daily Achievement Unlocked:",
+  "zh": "每日成就已解锁："
+ },
+ {
+  "en": "Daily Achievements",
+  "zh": "每日成就"
+ },
+ {
+  "en": "Daily Achievements:",
+  "zh": "每日成就："
+ },
+ {
+  "en": "Daily achievements are randomly generated every 24 hours, and refresh at midnight UTC. (This means the timer is the same for everyone.)",
+  "zh": "每日成就每 24 小时随机生成一次，并在 UTC 时间午夜刷新。（这意味着所有人的计时器都相同。）"
+ },
+ {
+  "en": "Daily achievements have refreshed!",
+  "zh": "每日成就已刷新！"
+ },
+ {
+  "en": "Decatupler",
+  "zh": "十倍器"
+ },
+ {
+  "en": "Dedicated Upgrader",
+  "zh": "专注升级者"
+ },
+ {
+  "en": "Defeats the Purpose",
+  "zh": "违背初衷"
+ },
+ {
+  "en": "Delay the g(n) and h(n) softcap starts based on total Buildings bought.",
+  "zh": "根据已购买的总建筑数，延后 g(n) 和 h(n) 软上限的起点。"
+ },
+ {
+  "en": "Delay the g(n) and h(n) softcaps by",
+  "zh": "将 g(n) 和 h(n) 的软上限延后"
+ },
+ {
+  "en": "Delay the generator multiplier softcap to 1e800,000x",
+  "zh": "将生成器倍率的软上限延后至 1e800,000 倍"
+ },
+ {
+  "en": "Delaying the 2nd CE softcap start",
+  "zh": "延后第 2 次 CE 软上限起点"
+ },
+ {
+  "en": "Derivative Buyable",
+  "zh": "导数可购买项"
+ },
+ {
+  "en": "Derivative Functions multiply the gain of all derivative tiers and do not consume limit score.",
+  "zh": "导数函数使所有导数层级的获得相乘，且不消耗极限分数。"
+ },
+ {
+  "en": "Derivatives",
+  "zh": "导数"
+ },
+ {
+  "en": "Derivatives (v3.0 Part 2)",
+  "zh": "导数 (v3.0 第 2 部分)"
+ },
+ {
+  "en": "Derivatives Unlocked",
+  "zh": "导数已解锁"
+ },
+ {
+  "en": "Derivatives:",
+  "zh": "导数："
+ },
+ {
+  "en": "Description:",
+  "zh": "描述："
+ },
+ {
+  "en": "Devspeed set to {{0}} (goes back to 1 on refresh)",
+  "zh": "开发速度设为 {{0}}（刷新后恢复为 1）"
+ },
+ {
+  "en": "Did I Miss Anything?",
+  "zh": "我漏掉了什么吗？"
+ },
+ {
+  "en": "Did you forget an exponent?",
+  "zh": "你是不是忘了指数？"
+ },
+ {
+  "en": "Did you inflate the game or something?",
+  "zh": "你是不是把游戏通货膨胀了？"
+ },
+ {
+  "en": "Did you know that Subway takes MathPay?",
+  "zh": "你知道吗，Subway 接受数学支付？"
+ },
+ {
+  "en": "Did you know that some points in the sky are dead, but we still see their ancient image?",
+  "zh": "你知道吗，天空中的某些光点早已熄灭，但我们仍能看到它们古老的样子？"
+ },
+ {
+  "en": "Did you miss a zero somewhere?",
+  "zh": "你是不是漏掉了一个零？"
+ },
+ {
+  "en": "Didn't Need It Anyway",
+  "zh": "反正也不需要它"
+ },
+ {
+  "en": "Difference Rule",
+  "zh": "差法则"
+ },
+ {
+  "en": "Dilations",
+  "zh": "膨胀"
+ },
+ {
+  "en": "Dimensional Sacrifice",
+  "zh": "维度献祭"
+ },
+ {
+  "en": "Diminishing Returns",
+  "zh": "收益递减"
+ },
+ {
+  "en": "Disable Offline Progress, Inactive Progress, Autosave, and Hotkeys.",
+  "zh": "禁用离线进度、非活跃进度、自动保存和快捷键。"
+ },
+ {
+  "en": "Disabled",
+  "zh": "已禁用"
+ },
+ {
+  "en": "Discontinuities",
+  "zh": "不连续点"
+ },
+ {
+  "en": "Discontinuities II",
+  "zh": "不连续点 II"
+ },
+ {
+  "en": "Discord Link",
+  "zh": "Discord 链接"
+ },
+ {
+  "en": "Discord server",
+  "zh": "Discord 服务器"
+ },
+ {
+  "en": "Disregard Ethics",
+  "zh": "无视伦理"
+ },
+ {
+  "en": "Distribute Empty Sets",
+  "zh": "分配空集"
+ },
+ {
+  "en": "Distribute Holes:",
+  "zh": "分配空洞："
+ },
+ {
+  "en": "Distribution Percentage:",
+  "zh": "分配百分比："
+ },
+ {
+  "en": "Divide Square Root Upgrade costs by 1e6",
+  "zh": "将平方根升级消耗除以 1e6"
+ },
+ {
+  "en": "Divide X cost by 1 million and multiply point gain by 1,000",
+  "zh": "将 X 消耗除以 100 万，并将点数获得乘以 1,000"
+ },
+ {
+  "en": "Divide X cost by 1 million, and multiply point gain by 1,000.",
+  "zh": "将 X 消耗除以 100 万，并将点数获得乘以 1,000。"
+ },
+ {
+  "en": "Divide X cost by 1 million, and multiply point gain by 1e10000.",
+  "zh": "将 X 消耗除以 100 万，并将点数获得乘以 1e10000。"
+ },
+ {
+  "en": "Divide X cost scaling based on Root Essence.",
+  "zh": "根据根之精华降低 X 消耗缩放。"
+ },
+ {
+  "en": "Divide X cost scaling by +0.1 per purchase",
+  "zh": "每次购买使 X 消耗缩放降低 +0.1"
+ },
+ {
+  "en": "Divide X cost scaling.",
+  "zh": "降低 X 消耗缩放。"
+ },
+ {
+  "en": "Divide all Rebuyable Integration Upgrade costs by 1e10 per level and unlock an autobuyer for Rebuyable Integration Upgrades.",
+  "zh": "每级将所有可重复购买的积分升级消耗除以 1e10，并解锁可重复购买积分升级的自动购买器。"
+ },
+ {
+  "en": "Divide the X and Y cost scalings.",
+  "zh": "降低 X 和 Y 的消耗缩放。"
+ },
+ {
+  "en": "Divide the X cost by 1e9, and unlock 4 new Square Root upgrades.",
+  "zh": "将 X 消耗除以 1e9，并解锁 4 个新的平方根升级。"
+ },
+ {
+  "en": "Divide the Y cost by 1.1.",
+  "zh": "将 Y 消耗除以 1.1。"
+ },
+ {
+  "en": "Divide the Y cost by 10.",
+  "zh": "将 Y 消耗除以 10。"
+ },
+ {
+  "en": "Divide the Y cost by 5.",
+  "zh": "将 Y 消耗除以 5。"
+ },
+ {
+  "en": "Divide the Z cost by +0.1 per purchase",
+  "zh": "每次购买使 Z 消耗降低 +0.1"
+ },
+ {
+  "en": "Do It Yourself",
+  "zh": "自己动手"
+ },
+ {
+  "en": "Do The Wave",
+  "zh": "掀起人浪"
+ },
+ {
+  "en": "Do it for me!",
+  "zh": "帮我做！"
+ },
+ {
+  "en": "Don't forget to add + C",
+  "zh": "别忘了加 + C"
+ },
+ {
+  "en": "Don't mind me, I'm just making my daily leftward commute...",
+  "zh": "别管我，我只是在进行每天向左的通勤……"
+ },
+ {
+  "en": "Don't you dare buy this upgrade, ever.",
+  "zh": "你敢买这个升级试试，永远都别买。"
+ },
+ {
+  "en": "Don't you dare divide by zero.",
+  "zh": "你敢除以零试试。"
+ },
+ {
+  "en": "Double RE gain per purchase!",
+  "zh": "每次购买使 RE 获得翻倍！"
+ },
+ {
+  "en": "Double TW generation per purchase.",
+  "zh": "每次购买使 TW 产出翻倍。"
+ },
+ {
+  "en": "Double The Fun",
+  "zh": "双倍乐趣"
+ },
+ {
+  "en": "Double dx gain, and unlock Auto-Integration.",
+  "zh": "使 dx 获得翻倍，并解锁自动积分。"
+ },
+ {
+  "en": "Double free UP per purchase",
+  "zh": "每次购买使免费 UP 翻倍"
+ },
+ {
+  "en": "Double gain of all X Powers",
+  "zh": "使所有 X 能量的获得翻倍"
+ },
+ {
+  "en": "Double holes gain per purchase.",
+  "zh": "每次购买使空洞获得翻倍。"
+ },
+ {
+  "en": "Double i exponent generation per purchase",
+  "zh": "每次购买使 i 指数产出翻倍"
+ },
+ {
+  "en": "Double i gain and points are no longer subtracted when buying Generators and X",
+  "zh": "使 i 获得翻倍，且购买生成器和 X 时不再扣除点数。"
+ },
+ {
+  "en": "Double i gain.",
+  "zh": "使 i 获得翻倍。"
+ },
+ {
+  "en": "Double limit score gain per purchase.",
+  "zh": "每次购买使极限分数获得翻倍。"
+ },
+ {
+  "en": "Double max Riemann spheres",
+  "zh": "使黎曼球上限翻倍"
+ },
+ {
+  "en": "Double the g(n) and h(n) bases (ignoring the softcap).",
+  "zh": "使 g(n) 和 h(n) 的底数翻倍（忽略软上限）。"
+ },
+ {
+  "en": "Double the g(n) and h(n) bases per purchase",
+  "zh": "每次购买使 g(n) 和 h(n) 的底数翻倍"
+ },
+ {
+  "en": "Double the g(n) and h(n) bases.",
+  "zh": "使 g(n) 和 h(n) 的底数翻倍。"
+ },
+ {
+  "en": "Double the value of j(n) per purchase (non-retroactive)",
+  "zh": "每次购买使 j(n) 的值翻倍（不追溯既往）"
+ },
+ {
+  "en": "Double triangles gain per purchase",
+  "zh": "每次购买使三角形获得翻倍"
+ },
+ {
+  "en": "Double x",
+  "zh": "使 x 翻倍"
+ },
+ {
+  "en": "Double y",
+  "zh": "使 y 翻倍"
+ },
+ {
+  "en": "Doubled Storage",
+  "zh": "存储翻倍"
+ },
+ {
+  "en": "Doubled all resources!",
+  "zh": "所有资源翻倍！"
+ },
+ {
+  "en": "Doubler",
+  "zh": "翻倍器"
+ },
+ {
+  "en": "Doubler Autobuyer:",
+  "zh": "翻倍器自动购买器："
+ },
+ {
+  "en": "Doubler to the top of the Quadratic Upgrades subtab.",
+  "zh": "将翻倍器移到二次升级子标签页顶部。"
+ },
+ {
+  "en": "Doubler:",
+  "zh": "翻倍器："
+ },
+ {
+  "en": "Downrooted",
+  "zh": "向下开方"
+ },
+ {
+  "en": "Dragon Ball X when?",
+  "zh": "Dragon Ball X 什么时候出？"
+ },
+ {
+  "en": "Dream Mile",
+  "zh": "梦想一英里"
+ },
+ {
+  "en": "Due to shortages of news message ideas, we have begun hiring monkeys to write news messages for us! Here's a live report from Monkey Typist #2,067: \"faihghaie eoihghosgiosk srohrpjoh[gjs weoeogosogsj 'tj;j'rkewsgis eou w89we7t0gj akj 99\"",
+  "zh": "由于新闻消息创意短缺，我们开始雇猴子来为我们撰写新闻！以下是猴子打字员 #2,067 的现场报道：\"faihghaie eoihghosgiosk srohrpjoh[gjs weoeogosogsj 'tj;j'rkewsgis eou w89we7t0gj akj 99\""
+ },
+ {
+  "en": "During the COVID-19 pandemic, the Supreme Ruler encouraged everyone to stay at least 12 inches away from each other.",
+  "zh": "在新冠疫情期间，最高统治者鼓励大家彼此保持至少 12 英寸的距离。"
+ },
+ {
+  "en": "Dysfunctional",
+  "zh": "功能失调"
+ },
+ {
+  "en": "Döppelgangers",
+  "zh": "二重身"
+ },
+ {
+  "en": "ETA: ee10+ QP",
+  "zh": "预计时间：ee10+ QP"
+ },
+ {
+  "en": "Each Complex Challenge requires UP and a secondary requirement to unlock, and can be completed up to 3 times.",
+  "zh": "每个复数挑战需要 UP 和一项次要要求才能解锁，且最多可完成 3 次。"
+ },
+ {
+  "en": "Each Complex Challenge requires UP to unlock, and can be completed up to 5 times.",
+  "zh": "每个复数挑战需要 UP 才能解锁，且最多可完成 5 次。"
+ },
+ {
+  "en": "Each Mandelbrot Challenge must be unlocked on the Fractal Arm with fractal spirals.",
+  "zh": "每个曼德博挑战必须在分形臂上用分形螺旋解锁。"
+ },
+ {
+  "en": "Each Perk Tree upgrade costs 1 hole, and tree upgrades cannot be respecced.",
+  "zh": "每项天赋树升级消耗 1 个空洞，且天赋树升级无法重置。"
+ },
+ {
+  "en": "Each Transformation type boosts the effect of a sacrificed currency, but only one can be activated at a time.",
+  "zh": "每种变换类型都会增强被献祭货币的效果，但一次只能激活一种。"
+ },
+ {
+  "en": "Each hole you sacrifice will let you time-jump by",
+  "zh": "你每献祭一个空洞，就能时间跳跃"
+ },
+ {
+  "en": "Each movement costs 1 step.",
+  "zh": "每次移动消耗 1 步。"
+ },
+ {
+  "en": "Effect:",
+  "zh": "效果："
+ },
+ {
+  "en": "Eight isn't enough? Unlock 8 more exotic Sinusoidal Upgrades!",
+  "zh": "8 个还不够？再解锁 8 个奇异的正弦升级！"
+ },
+ {
+  "en": "Elegi, ergo calculo",
+  "zh": "我选择，故我计算"
+ },
+ {
+  "en": "Emptier Sets?",
+  "zh": "更空集？"
+ },
+ {
+  "en": "Empty Formula",
+  "zh": "空公式"
+ },
+ {
+  "en": "Empty Plane",
+  "zh": "空平面"
+ },
+ {
+  "en": "Empty Set Usefulness",
+  "zh": "空集的用途"
+ },
+ {
+  "en": "Empty Sets Gain Formula:",
+  "zh": "空集获得公式："
+ },
+ {
+  "en": "Enabled",
+  "zh": "已启用"
+ },
+ {
+  "en": "Endure harder Complexes and reach the goal to get rewards!",
+  "zh": "撑过更难的复数层级并达成目标以获得奖励！"
+ },
+ {
+  "en": "Endure harder Integrations and reach the goal(s) to get rewards!",
+  "zh": "撑过更难的积分并达成目标以获得奖励！"
+ },
+ {
+  "en": "Endure harder Mandelbrots and reach the goal to get rewards!",
+  "zh": "撑过更难的曼德博并达成目标以获得奖励！"
+ },
+ {
+  "en": "Endure harder Quadratics and reach the goal to get rewards!",
+  "zh": "撑过更难的二次并达成目标以获得奖励！"
+ },
+ {
+  "en": "Endure harder Y-Quadratics and reach the goal to get rewards!",
+  "zh": "撑过更难的 Y-二次并达成目标以获得奖励！"
+ },
+ {
+  "en": "Engineering",
+  "zh": "工程学"
+ },
+ {
+  "en": "Enlightened Accumulation",
+  "zh": "启明积累"
+ },
+ {
+  "en": "Enlightened Axioms",
+  "zh": "启明公理"
+ },
+ {
+  "en": "Enlightened Continuum",
+  "zh": "启明连续统"
+ },
+ {
+  "en": "Enlightened Differentiation",
+  "zh": "启明微分"
+ },
+ {
+  "en": "Enlightened Dilation",
+  "zh": "启明膨胀"
+ },
+ {
+  "en": "Enlightened Dimensionality",
+  "zh": "启明维度"
+ },
+ {
+  "en": "Enlightened Esotericism",
+  "zh": "启明秘传"
+ },
+ {
+  "en": "Enlightened Imagination",
+  "zh": "启明想象"
+ },
+ {
+  "en": "Enlightened Omnipotence",
+  "zh": "启明全能"
+ },
+ {
+  "en": "Enlightened Points",
+  "zh": "启明点数"
+ },
+ {
+  "en": "Enlightened Prestige",
+  "zh": "启明威望"
+ },
+ {
+  "en": "Enlightened Quadratic",
+  "zh": "启明二次"
+ },
+ {
+  "en": "Enlightened Research",
+  "zh": "启明研究"
+ },
+ {
+  "en": "Enlightened Singularity",
+  "zh": "启明奇点"
+ },
+ {
+  "en": "Enlightened Trigonometry",
+  "zh": "启明三角学"
+ },
+ {
+  "en": "Enlightened Uprise",
+  "zh": "启明崛起"
+ },
+ {
+  "en": "Enter 0 for all Automation Core inputs.",
+  "zh": "将所有自动化核心输入设为 0。"
+ },
+ {
+  "en": "Enter Integration Challenge 8.",
+  "zh": "进入积分挑战 8。"
+ },
+ {
+  "en": "Enter Root Epicenter Level √-1 with Complex unlocked.",
+  "zh": "在复数已解锁时进入根之震中等级 √-1。"
+ },
+ {
+  "en": "Enter Square Root {{0}} times.",
+  "zh": "进入平方根 {{0}} 次。"
+ },
+ {
+  "en": "Enter Synthetic Division Automatically:",
+  "zh": "自动进入综合除法："
+ },
+ {
+  "en": "Enter a Challenge while in a Complex Challenge.",
+  "zh": "在复数挑战中进入一项挑战。"
+ },
+ {
+  "en": "Enter a Complex Challenge with no Complex Upgrades bought.",
+  "zh": "在未购买任何复数升级的情况下进入复数挑战。"
+ },
+ {
+  "en": "Enter regular Square Root while having automatic RE generation.",
+  "zh": "在拥有自动 RE 产出时进入普通平方根。"
+ },
+ {
+  "en": "Enter the E",
+  "zh": "进入 E"
+ },
+ {
+  "en": "Enter the Mandelbrot for",
+  "zh": "进入曼德博，时长为"
+ },
+ {
+  "en": "Enter the Mandelbrot in 2 Complexes or less.",
+  "zh": "在 2 个或更少复数中进入曼德博。"
+ },
+ {
+  "en": "Enter the Mandelbrot {{0}} times.",
+  "zh": "进入曼德博 {{0}} 次。"
+ },
+ {
+  "en": "Enter the Mandelbrot.",
+  "zh": "进入曼德博。"
+ },
+ {
+  "en": "Enter the autosave interval that you want in the input box below! (minimum 10s, maximum 300s, input gets rounded down)",
+  "zh": "在下方输入框中输入你想要的自动保存间隔！（最短 10 秒，最长 300 秒，输入值将向下取整）"
+ },
+ {
+  "en": "Enter the news speed that you want in the input box below! (minimum 50, maximum 200, input gets rounded down)",
+  "zh": "在下方输入框中输入你想要的新闻速度！（最小 50，最大 200，输入值将向下取整）"
+ },
+ {
+  "en": "Entered the Mandelbrot",
+  "zh": "已进入曼德博"
+ },
+ {
+  "en": "Entered the Mandelbrot in Lost Integration",
+  "zh": "在遗失积分中进入曼德博"
+ },
+ {
+  "en": "Entering the Mandelbrot will reset everything Complex resets, and will also reset all Complex-level and Y-Quadratic-level content, but you will receive Mandelbrot Essence in return. Are you sure you want to do this?",
+  "zh": "进入曼德博将重置所有复数重置的内容，并重置所有复数层级和 Y-二次层级的内容，但你将获得曼德博精华作为回报。确定要这样做吗？"
+ }
+]

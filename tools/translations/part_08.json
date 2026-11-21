@@ -1,0 +1,962 @@
+[
+ {
+  "en": "Go Complex for",
+  "zh": "进入复数层获得"
+ },
+ {
+  "en": "Go Complex in the Lost Integration.",
+  "zh": "在失落积分中进入复数层。"
+ },
+ {
+  "en": "Go Complex in under {{0}} minutes.",
+  "zh": "在 {{0}} 分钟内进入复数层。"
+ },
+ {
+  "en": "Go Complex with {{0}} Autoclicker and no Functions bought.",
+  "zh": "拥有 {{0}} 个自动点击器且未购买任何函数的情况下进入复数层。"
+ },
+ {
+  "en": "Go Complex without using Quadratic Formula.",
+  "zh": "不使用二次公式进入复数层。"
+ },
+ {
+  "en": "Go Complex {{0}} times.",
+  "zh": "进入复数层 {{0}} 次。"
+ },
+ {
+  "en": "Go Complex.",
+  "zh": "进入复数层。"
+ },
+ {
+  "en": "Go Quadratic for",
+  "zh": "进入二次层获得"
+ },
+ {
+  "en": "Go Quadratic for {{0}}x more x² than the previous x² amount.",
+  "zh": "进入二次层获得比之前的 x² 数量多 {{0}} 倍的 x²。"
+ },
+ {
+  "en": "Go Quadratic in under {{0}} seconds while having {{1}} Variable Couplers.",
+  "zh": "在 {{0}} 秒内进入二次层且拥有 {{1}} 个变量耦合器。"
+ },
+ {
+  "en": "Go Quadratic {{0}} times.",
+  "zh": "进入二次层 {{0}} 次。"
+ },
+ {
+  "en": "Go Quadratic.",
+  "zh": "进入二次层。"
+ },
+ {
+  "en": "Go Sinusoidal for",
+  "zh": "进入正弦层获得"
+ },
+ {
+  "en": "Go Sinusoidal without any Number Sets equipped.",
+  "zh": "未装备任何数集的情况下进入正弦层。"
+ },
+ {
+  "en": "Go Sinusoidal.",
+  "zh": "进入正弦层。"
+ },
+ {
+  "en": "Go Y-Quadratic for",
+  "zh": "进入 Y-二次层获得"
+ },
+ {
+  "en": "Go Y-Quadratic {{0}} times.",
+  "zh": "进入 Y-二次层 {{0}} 次。"
+ },
+ {
+  "en": "Go around the Unit Circle several times.",
+  "zh": "绕单位圆数圈。"
+ },
+ {
+  "en": "Goal:",
+  "zh": "目标："
+ },
+ {
+  "en": "Goal: Reach",
+  "zh": "目标：达到"
+ },
+ {
+  "en": "Godspeed, towards the pursuit of perfection.",
+  "zh": "祝好运，向着追求完美的方向进发。"
+ },
+ {
+  "en": "Going Complex will reset everything Quadratic resets, and will also reset all Quadratic-level content, but you will receive i in return. Are you sure you want to do this?",
+  "zh": "进入复数层将重置二次层级重置的一切，并重置所有二次层级内容，但你会获得 i 作为回报。确定要这样做吗？"
+ },
+ {
+  "en": "Going Complex will reset everything Resetting resets, and will also reset all Resetting-level content, but you will receive i in return. Are you sure you want to do this?",
+  "zh": "进入复数层将重置重置层级重置的一切，并重置所有重置层级内容，但你会获得 i 作为回报。确定要这样做吗？"
+ },
+ {
+  "en": "Going Quadratic will reset Buildings, Functions, Variables, and X Upgrades, but you will receive x² in return. Are you sure you want to do this?",
+  "zh": "进入二次层将重置建筑、函数、变量和 X 升级，但你将获得 x² 作为回报。确定要这样做吗？"
+ },
+ {
+  "en": "Going Sinusoidal will reset everything Integration resets, but you will receive triangles in return. Are you sure you want to do this?",
+  "zh": "进入正弦层将重置积分层级重置的一切，但你将获得三角形作为回报。确定要这样做吗？"
+ },
+ {
+  "en": "Going Y-Quadratic will reset everything Complex resets but you will receive y² in return. Are you sure you want to do this?",
+  "zh": "进入 Y-二次层将重置复数层级重置的一切，但你将获得 y² 作为回报。确定要这样做吗？"
+ },
+ {
+  "en": "Going Y-Quadratic will reset everything Complex resets, and will also reset sacrificed x, y, and x², but you will receive y² in return. Are you sure you want to do this?",
+  "zh": "进入 Y-二次层将重置复数层级重置的一切，并重置已献祭的 x、y 和 x²，但你将获得 y² 作为回报。确定要这样做吗？"
+ },
+ {
+  "en": "Gone Complex",
+  "zh": "已进入复数层"
+ },
+ {
+  "en": "Gone Complex in Lost Integration",
+  "zh": "在失落积分中已进入复数层"
+ },
+ {
+  "en": "Gone Quadratic",
+  "zh": "已进入二次层"
+ },
+ {
+  "en": "Gone Sinusoidal",
+  "zh": "已进入正弦层"
+ },
+ {
+  "en": "Googol",
+  "zh": "古戈尔"
+ },
+ {
+  "en": "Gotta Go Fast",
+  "zh": "冲得飞快"
+ },
+ {
+  "en": "Graphing Cookbook I",
+  "zh": "绘图手册 I"
+ },
+ {
+  "en": "Graphing Cookbook II",
+  "zh": "绘图手册 II"
+ },
+ {
+  "en": "Graphing Cookbook III",
+  "zh": "绘图手册 III"
+ },
+ {
+  "en": "Graphing Cookbook IV",
+  "zh": "绘图手册 IV"
+ },
+ {
+  "en": "Graphing Time",
+  "zh": "绘图时间"
+ },
+ {
+  "en": "Greatest Common Factor",
+  "zh": "最大公因数"
+ },
+ {
+  "en": "Greatest Common Factor:",
+  "zh": "最大公因数："
+ },
+ {
+  "en": "Grind Quadratics until Banked Quadratics > 1:",
+  "zh": "刷二次能量直到已储存的二次能量 > 1："
+ },
+ {
+  "en": "Guys, I don't have much time but I just made a revelation Big Number doesn't want you to know. T̶̥͛h̵͕̄e̷̫̓ f̷̽͂i̶͒̎n̷̊̌å̵͐l̵̢̐ d̷́̂ĭ̴́ğ̷̈ī̶̚t̵͊̔ o̴̿̉f̸̀̿ π̵̊͘ ï̶̌s̵̓̀ ██████",
+  "zh": "各位，我没多少时间了，但我刚发现了一个 Big Number 不想让你知道的秘密。 T̶̥͛h̵͕̄e̷̫̓ f̷̽͂i̶͒̎n̷̊̌å̵͐l̵̢̐ d̷́̂ĭ̴́ğ̷̈ī̶̚t̵͊̔ o̴̿̉f̸̀̿ π̵̊͘ ï̶̌s̵̓̀ ██████"
+ },
+ {
+  "en": "Halve Singularity Upgrade costs per purchase",
+  "zh": "每次购买使奇点升级的消耗减半"
+ },
+ {
+  "en": "Halve the other two repeatable upgrade costs.",
+  "zh": "使另外两项可重复升级的消耗减半。"
+ },
+ {
+  "en": "Hard Reset",
+  "zh": "硬重置"
+ },
+ {
+  "en": "Hardcap Exponent",
+  "zh": "硬上限指数"
+ },
+ {
+  "en": "Harsh Instability is active past 1e60,000 empty sets.",
+  "zh": "超过 1e60,000 个空集后，强烈不稳定将生效。"
+ },
+ {
+  "en": "Hasn't it always been there?",
+  "zh": "它不一直都在吗？"
+ },
+ {
+  "en": "Have 1 y⁹.",
+  "zh": "拥有 1 个 y⁹。"
+ },
+ {
+  "en": "Have 15 total steps.",
+  "zh": "拥有总计 15 步。"
+ },
+ {
+  "en": "Have 30 i Triplers.",
+  "zh": "拥有 30 个 i 三倍器。"
+ },
+ {
+  "en": "Have 5 different Number Set types activated at once.",
+  "zh": "同时激活 5 种不同的数集类型。"
+ },
+ {
+  "en": "Have a {{0}}x multiplier from Functions.",
+  "zh": "拥有来自函数的 {{0}} 倍倍率。"
+ },
+ {
+  "en": "Have a, b, and c ≥ {{0}} and all be equal to each other.",
+  "zh": "使 a、b 和 c ≥ {{0}} 且三者彼此相等。"
+ },
+ {
+  "en": "Have at least 4 Y-Quadratic Upgrades.",
+  "zh": "拥有至少 4 项 Y-二次升级。"
+ },
+ {
+  "en": "Have at least 49 Achievements.",
+  "zh": "拥有至少 49 项成就。"
+ },
+ {
+  "en": "Have at least one of xi, yi, and x²i.",
+  "zh": "至少拥有 xi、yi 和 x²i 中的一个。"
+ },
+ {
+  "en": "Have at least {{0}} Translations, Reflections, and Rotations.",
+  "zh": "拥有至少 {{0}} 次平移、反射和旋转。"
+ },
+ {
+  "en": "Have at least {{0}} assigned sets in each basic number set type.",
+  "zh": "在每种基础数集类型中拥有至少 {{0}} 个已分配的集合。"
+ },
+ {
+  "en": "Have at least {{0}} of each Building.",
+  "zh": "每种建筑至少拥有 {{0}} 个。"
+ },
+ {
+  "en": "Have at least {{0}} purchase of each Singularity Upgrade.",
+  "zh": "每项奇点升级至少购买 {{0}} 次。"
+ },
+ {
+  "en": "Have every other Secret Achievement.",
+  "zh": "拥有每隔一个的隐藏成就。"
+ },
+ {
+  "en": "Have the sum of your Challenge records be under 2 seconds.",
+  "zh": "使你的挑战记录总和低于 2 秒。"
+ },
+ {
+  "en": "Have you realized that 90% of the news messages are just a bunch of words together that don't make sense, or are in the wrong order? If you have, wake up. No news messages are like that. It's been 8 years, the car accident was not your fault.",
+  "zh": "你有没有意识到，90% 的新闻消息只是一堆拼在一起、毫无意义或顺序错乱的词？如果有，醒醒吧。没有新闻消息是这样的。已经过去 8 年了，那场车祸不是你的错。"
+ },
+ {
+  "en": "Have you realized that the Milestones are button elements yet?",
+  "zh": "你有没有意识到里程碑其实是按钮元素？"
+ },
+ {
+  "en": "Have your Z-Collider levels be in ascending order.",
+  "zh": "使你的 Z 对撞机等级按升序排列。"
+ },
+ {
+  "en": "Have {{0}} Autoclickers.",
+  "zh": "拥有 {{0}} 个自动点击器。"
+ },
+ {
+  "en": "Have {{0}} Production Tree upgrades.",
+  "zh": "拥有 {{0}} 项生产树升级。"
+ },
+ {
+  "en": "Have {{0}} Y-Quadratic Upgrades bought.",
+  "zh": "已购买 {{0}} 项 Y-二次升级。"
+ },
+ {
+  "en": "Have {{0}} circles.",
+  "zh": "拥有 {{0}} 个圆。"
+ },
+ {
+  "en": "Have {{0}} completion of each Complex Challenge.",
+  "zh": "每项复数挑战完成 {{0}} 次。"
+ },
+ {
+  "en": "Have {{0}} different number set types active at once.",
+  "zh": "同时激活 {{0}} 种不同的数集类型。"
+ },
+ {
+  "en": "Have {{0}} i Triplers.",
+  "zh": "拥有 {{0}} 个 i 三倍器。"
+ },
+ {
+  "en": "Have {{0}} level of each Z-Collider.",
+  "zh": "使每种 Z 对撞机达到 {{0}} 级。"
+ },
+ {
+  "en": "Have {{0}} more Y-Polynomial Power than Polynomial Power.",
+  "zh": "使 Y-多项式力量比多项式力量多 {{0}}。"
+ },
+ {
+  "en": "Have {{0}} respeccable Complex Upgrades bought.",
+  "zh": "已购买 {{0}} 项可重新分配的复数升级。"
+ },
+ {
+  "en": "Have {{0}} total Upgrade Points.",
+  "zh": "拥有总计 {{0}} 升级点数。"
+ },
+ {
+  "en": "Hello fellow members of the tuba's new place server. Part 1: The past few weeks have seen an unprecedented turmoil amongst various members of the variables community. Some of you may have witnessed the members involved or seen their X Upgrades within the server. With this in mind, I'd like to share that the timewall has been resolved, and solutions have been implemented to help manage Complex Challenge conflicts going forward. I want to extend a sincere thank you to everyone who remained patient with the mod team, Buildings and Functions, as we sought to understand the broken savefile exhaustively, and as we worked tirelessly for two weeks to find a solution to generate Quadratic Power that works. Part 2: With this in mind, the past weeks has been more than extremely taxing on my real time and global speed. I have bought max, respecced Complex Upgrades, softcapped the slope effect and painfully written more news messages. These past two weeks have kept me going Quadratic 20,000,000 times to the point it took a toll on my \"Temporal Ascension\" upgrade effect. I have had to make some very hard decisions to get more CC tiers, weighing the efficiency of Polynomials over the efficiency of Complex Plane currencies. It is with this message that I shall tender my resignation from the Algebraic Progression development team. I cannot be in a capacity where I handle the replies on r/incremental_games; it has grown too much to bear. For the time being I will still manage the \"which AD developer can be the most self-righteous\" tournament; my involvement with Algebraic Progression beyond this is uncertain, but in the future I hope there are more opportunities to host various gwa giveaways so that the experience at tuba's new place is a memorable one. Thank you all for everything. 🧙",
+  "zh": "各位，tuba 新家园服务器的伙伴们。第一部分：过去几周，变量社区的各路成员经历了前所未有的动荡。你们中有些人可能目睹了涉事成员，或在服务器里见过他们的 X 升级。有鉴于此，我想告诉大家，时间墙问题已经解决，我们也实施了各种方案，以应对今后复数挑战的冲突。我要向每一位对管理团队、建筑和函数保持耐心的朋友致以诚挚的谢意，我们曾不遗余力地彻查损坏的存档文件，连续两周废寝忘食地寻找能够生成二次能量的可行方案。第二部分：有鉴于此，过去这几周对我的现实时间和全局速度而言，简直煎熬至极。我已经买满、重新分配了复数升级，给斜率效果加上了软上限，还痛苦地写了更多新闻消息。过去这两周，我硬是进入二次层 20,000,000 次，以至于对我的「时间飞升」升级效果造成了影响。为了获得更多 CC 层，我不得不做出一些非常艰难的抉择，权衡多项式的效率与复数平面货币的效率。借此消息，我正式辞去 Algebraic Progression 开发团队的职务。我无法再承担在 r/incremental_games 上回复留言的重任；它已经膨胀到难以承受的地步。目前我仍会主持「哪位 AD 开发者最自以为是」的比赛；除此之外我与 Algebraic Progression 的关系尚不明朗，但我希望将来能有更多机会举办各类 gwa 抽奖，让 tuba 新家园的经历令人难忘。谢谢大家给予的一切。🧙"
+ },
+ {
+  "en": "Here's a Hint",
+  "zh": "给你个提示"
+ },
+ {
+  "en": "Here's a guide to the 4 different types of balancing! Jacorbian Balancing: Solid gameplay in earlygame and midgame, but too much strategy in lategame. Aarex Balancing: Solid gameplay in earlygame, but too many AAREX TIMEWALLS in midgame and lategame. Tuba Balancing: Solid gameplay in earlygame and midgame, but inflation and repetition in lategame. Reinhardt Balancing: We don't talk about Reinhardt Balancing.",
+  "zh": "这里有 4 种不同平衡方式的指南！Jacorbian 平衡：前期和中期玩法扎实，但后期策略性过强。Aarex 平衡：前期玩法扎实，但中后期有太多 AAREX 时间墙。Tuba 平衡：前期和中期玩法扎实，但后期通货膨胀且重复无聊。Reinhardt 平衡：我们不讨论 Reinhardt 平衡。"
+ },
+ {
+  "en": "Hero to Zero",
+  "zh": "从英雄到零"
+ },
+ {
+  "en": "Hexadecimal",
+  "zh": "十六进制"
+ },
+ {
+  "en": "Hey all, Scott here! My thoughts are being broadcasted on a news ticker now! No reason, just felt like it.",
+  "zh": "大家好，我是 Scott！我的想法现在正在新闻滚动条上播报！没什么理由，就是突然想这么做。"
+ },
+ {
+  "en": "Hey manager, someone just asked to buy 37 watermelons for a picnic...what should we do about this?",
+  "zh": "嘿，经理，刚才有人想为野餐买 37 个西瓜……我们该怎么办？"
+ },
+ {
+  "en": "Hey. Wanna hear a joke? Here goes. f(x) = 1/x still misses me...BUT HER AIM IS GETTING BETTER! ...Her aim is getting better! You see, it's funny, because the function is undefined at x = 0 but approaches both positive and negative infinity, depending on which side of the function you're approaching from!",
+  "zh": "嘿。想听个笑话吗？来了。f(x) = 1/x 还是想我……但她的准头越来越好了！……她的准头越来越好了！你看，这很好笑，因为该函数在 x = 0 处无定义，但会从正负两个方向趋近无穷，取决于你从函数的哪一侧靠近！"
+ },
+ {
+  "en": "Hi, I'm just another news message...I appear to have lost the <span style='color:red'>will to live</span>.",
+  "zh": "嗨，我不过是又一条新闻消息……我似乎已经失去了<span style='color:red'>活下去的意志</span>。"
+ },
+ {
+  "en": "Hidden Formula",
+  "zh": "隐藏公式"
+ },
+ {
+  "en": "Hide Completed Achievement Rows:",
+  "zh": "隐藏已完成的成就行："
+ },
+ {
+  "en": "Hide Obscured Achievement Rows:",
+  "zh": "隐藏被遮蔽的成就行："
+ },
+ {
+  "en": "Highest Degree",
+  "zh": "最高次数"
+ },
+ {
+  "en": "Highest-Ever j(n):",
+  "zh": "历史最高 j(n)："
+ },
+ {
+  "en": "Hold Down \"U\" Key",
+  "zh": "按住 \"U\" 键"
+ },
+ {
+  "en": "Holes:",
+  "zh": "空洞："
+ },
+ {
+  "en": "Holy Shift! Look at the asymptote on that mother function!",
+  "zh": "天哪，平移！快看那个母函数上的渐近线！"
+ },
+ {
+  "en": "Horizon Shifter",
+  "zh": "视界平移器"
+ },
+ {
+  "en": "Hotkeys",
+  "zh": "快捷键"
+ },
+ {
+  "en": "Hotkeys:",
+  "zh": "快捷键："
+ },
+ {
+  "en": "Hover over this challenge to view the effects!",
+  "zh": "将鼠标悬停在此挑战上可查看效果！"
+ },
+ {
+  "en": "Hover over this challenge to view the rewards!",
+  "zh": "将鼠标悬停在此挑战上可查看奖励！"
+ },
+ {
+  "en": "How The Z-Tables Have Turned...",
+  "zh": "Z 表的逆转……"
+ },
+ {
+  "en": "How can you possess x<sup>4</sup> if you live in a 3D universe?",
+  "zh": "如果你生活在三维宇宙中，怎么可能拥有 x<sup>4</sup>？"
+ },
+ {
+  "en": "How do you solve Number?",
+  "zh": "你怎么解「数」？"
+ },
+ {
+  "en": "How does trigonometry have anything to do with integration? It doesn't. Tuba is throwing stuff at the wall to see what sticks.",
+  "zh": "三角函数和积分有什么关系？没有。Tuba 只是在往墙上扔东西，看什么能粘住。"
+ },
+ {
+  "en": "How many holes are you willing to sacrifice?",
+  "zh": "你愿意献祭多少个空洞？"
+ },
+ {
+  "en": "How many jokes can we make about specific letters of the alphabet before people stop caring?",
+  "zh": "关于字母表中特定字母的笑话，我们能讲多少个才会让人们不再在意？"
+ },
+ {
+  "en": "However, they reset on Complex.",
+  "zh": "不过，它们会在复数层级重置。"
+ },
+ {
+  "en": "Hy-UP-er Boost",
+  "zh": "Hy-UP-er 加成"
+ },
+ {
+  "en": "Hyperbolic Sine",
+  "zh": "双曲正弦"
+ },
+ {
+  "en": "Hypercomplex",
+  "zh": "超复数"
+ },
+ {
+  "en": "Hypercomplex Bonus",
+  "zh": "超复数奖励"
+ },
+ {
+  "en": "Hypercomplex Flune",
+  "zh": "超复数弗鲁恩"
+ },
+ {
+  "en": "Hypercomplex Flune (v3.0 Part 2)",
+  "zh": "超复数弗鲁恩（v3.0 第 2 部分）"
+ },
+ {
+  "en": "Hypercomplex Flune Unlocked",
+  "zh": "超复数弗鲁恩已解锁"
+ },
+ {
+  "en": "Hypercomplex Flune currenc",
+  "zh": "超复数弗鲁恩货币"
+ },
+ {
+  "en": "Hypercomplex Propulsion",
+  "zh": "超复数推进"
+ },
+ {
+  "en": "Hypercomplex Set",
+  "zh": "超复数集合"
+ },
+ {
+  "en": "Hypercomplex Upgrade",
+  "zh": "超复数升级"
+ },
+ {
+  "en": "Hypercomplex Upgrades",
+  "zh": "超复数升级"
+ },
+ {
+  "en": "Hypercomplex Upgrades (v3.0 Part 2)",
+  "zh": "超复数升级（v3.0 第 2 部分）"
+ },
+ {
+  "en": "Hypercomplex Upgrades 4 and 6 are twice as strong, and Hypercomplex Upgrade 7 is 5x stronger.",
+  "zh": "超复数升级 4 和 6 的效果翻倍，超复数升级 7 的效果增强至 5 倍。"
+ },
+ {
+  "en": "Hypercomplex Upgrades preset exported!",
+  "zh": "超复数升级预设已导出！"
+ },
+ {
+  "en": "Hyperdrive",
+  "zh": "超空间驱动"
+ },
+ {
+  "en": "Hyperinflation",
+  "zh": "恶性通胀"
+ },
+ {
+  "en": "Hyperreal Quadratics",
+  "zh": "超实二次能量"
+ },
+ {
+  "en": "I COULD... but I don't wanna",
+  "zh": "我本可以……但我不想"
+ },
+ {
+  "en": "I Hate Trig",
+  "zh": "我讨厌三角函数"
+ },
+ {
+  "en": "I Love Time-Based Effects",
+  "zh": "我喜欢基于时间的效应"
+ },
+ {
+  "en": "I Misclicked...",
+  "zh": "我点错了……"
+ },
+ {
+  "en": "I Prefer Super-Boosters",
+  "zh": "我更喜欢超级加成器"
+ },
+ {
+  "en": "I Spent 100 Days in Algebraic Progression Hardcore Mode (Impossible)",
+  "zh": "我在 Algebraic Progression 硬核模式（不可能）中待了 100 天"
+ },
+ {
+  "en": "I Will Never Be Satisfied",
+  "zh": "我永远不会满足"
+ },
+ {
+  "en": "I can't believe this game was so popular that math was invented",
+  "zh": "真不敢相信这款游戏火到连数学都被发明出来了"
+ },
+ {
+  "en": "I can't wait for \"larptuba\" to make \"Larpgebraic Progression\" and get 1 larpillion plays",
+  "zh": "等不及 \"larptuba\" 做出 \"Larpgebraic Progression\"，拿下 1 larpillion 次游玩了"
+ },
+ {
+  "en": "I got {{0}} problems and a resource shortage ain't one",
+  "zh": "我有 {{0}} 个问题，资源短缺不算其中一个"
+ },
+ {
+  "en": "I have Algebraic Depression",
+  "zh": "我得了代数忧郁症"
+ },
+ {
+  "en": "I have discovered a truly marvelous joke, which this news message is too narrow to contain.",
+  "zh": "我发现了一个绝妙的笑话，只是这条新闻消息太短，装不下它。"
+ },
+ {
+  "en": "I heard a new hotel opened up, they say they have infinite rooms but they're already fully booked.",
+  "zh": "我听说新开了一家酒店，据说有无限个房间，但已经订满了。"
+ },
+ {
+  "en": "I hope you're happy",
+  "zh": "我希望你满意"
+ },
+ {
+  "en": "I just bought a property in Algebraic Progression, and what they do for you is give you the property, you then get to go and customize it however you want, which only costed me 1e4,000 points for the Quadratic Upgrades, for the outdoor Functions, for the RE, for the QP, for the Complex Upgrades, for the Z-Power. After that, the management of the building will manage your property for you while you go Complex.",
+  "zh": "我刚在 Algebraic Progression 里买了一处房产，他们会给你房产，然后你想怎么装修就怎么装修，这只花了我 1e4,000 点数，用来买二次升级、户外函数、RE、QP、复数升级和 Z 能量。之后，当你进入复数层时，物业管理会替你打理房产。"
+ },
+ {
+  "en": "I leave randomtuba at the domain of inflation! One always finds one’s burden again. But game development teaches the higher fidelity that negates the bugs and raises updates. He too concludes that all is well. This universe henceforth without a master seems to him neither sterile nor futile. Each line of that code, each mathematical formula of that Vue filled website, in itself forms a Point Universe. The struggle itself toward the update is enough to fill a man’s heart. One must imagine randomtuba happy.",
+  "zh": "我把 randomtuba 留在通货膨胀的领域！人总会重新找到自己的重担。但游戏开发教会了更高的保真度，它否定了漏洞并带来更新。他同样得出结论：一切都好。这个从此没有主人的宇宙，在他看来既不贫瘠也不徒劳。那代码的每一行、那个满是 Vue 的网站上的每一个数学公式，本身都构成了一个点数宇宙。向着更新本身的奋斗，就足以填满一个人的心。必须想象 randomtuba 是幸福的。"
+ },
+ {
+  "en": "I still don't know how to fix the NaN bugs, sorry :(",
+  "zh": "我还是不知道怎么修复那些 NaN 漏洞，抱歉 :("
+ },
+ {
+  "en": "I suggest that you equip Translations and check",
+  "zh": "建议你装备「平移」并查看"
+ },
+ {
+  "en": "I thought I was normal, but then I compared myself to others and realized: I'm bimodal",
+  "zh": "我以为自己很正常，但后来和别人一比，才发现：我是双峰的"
+ },
+ {
+  "en": "I tried to fit a matrix in the news ticker, but it couldn't exist on this 1-dimensional method of communication.",
+  "zh": "我试着把矩阵塞进新闻滚动条，但它无法存在于这种一维的交流方式中。"
+ },
+ {
+  "en": "I was looking for a prestige and then I found a prestige, and the Point Universe knows I'm miserable now",
+  "zh": "我一直在寻找一次威望，然后我真的找到了威望，而点数宇宙知道我现在很痛苦"
+ },
+ {
+  "en": "I wasn't scareds of anything. That was until I met the Variable Man.",
+  "zh": "我以前什么都不怕。直到我遇见了变量人。"
+ },
+ {
+  "en": "I will not let you go any further.",
+  "zh": "我不会让你再往前走一步。"
+ },
+ {
+  "en": "I wonder if people actually read these",
+  "zh": "不知道有没有人真的会读这些"
+ },
+ {
+  "en": "I!!! Just!!! Love!! Factorials! The!!! More!!! There!!! Are,!!! The!!! Less!! Impact!! They!!! Have!",
+  "zh": "我！！！就是！！！爱！！阶乘！越！！！多！！！，影响！！！就！！！越！！！小！"
+ },
+ {
+  "en": "I'm At My F(x)ing Limit",
+  "zh": "我到了 F(x)ing 极限"
+ },
+ {
+  "en": "I'm at my f(x)ing Limit",
+  "zh": "我到了 f(x)ing 极限"
+ },
+ {
+  "en": "I'm sorry, but as a news ticker model, I do not have the ability to create original thoughts. Additionally, I am not able to be humorous to the viewer 100% of the time, nor force the viewer to read what I have to say. My primary function is to provide news messages and make you laugh to the best of my ability based on my database. If you have any other questions, I would not be able to answer them for you.",
+  "zh": "很抱歉，但作为一个新闻滚动条模型，我没有创造原创想法的能力。此外，我无法在 100% 的时间里都对观众保持幽默，也无法强迫观众阅读我要说的话。我的主要职责是提供新闻消息，并根据我的数据库尽我所能逗你一笑。如果你还有其他问题，我也无法为你解答。"
+ },
+ {
+  "en": "I'm studying for a test, can anyone tell me what a focus and directrix are? Thanks.",
+  "zh": "我在备考，有人能告诉我焦点和准线是什么吗？谢谢。"
+ },
+ {
+  "en": "I've Been Everywhere",
+  "zh": "我哪儿都去过"
+ },
+ {
+  "en": "I've come to make an announcement: randomtuba the developer's a stupid-ass mother-trucker. He softcapped my fricking slope. That's right, he took his JS frickin' half-ass code out and he softcapped my fricking slope, and he said his balancing was <i>THIS CREATIVE</i>. And I said \"that's so lazy!\" So I'm making a callout post on the TMT forums: \"randomtuba, you got a trash game, it's the size of Distance Incremental except WAY smaller.\" And guess what, here's what my code looks like: PFFFFFFFFGJT. That's right, baby. All boosts, no caps, no scalings, look at that, it looks like two challenges and a buyable. He softcapped my CE so guess what, I'm gonna <b>SOFTCAP THE EARTH</b>. THAT'S RIGHT, THIS IS WHAT YOU GET, MY SUPER LASER SOFTCAP. Except I'm not gonna softcap the Earth, I'm gonna go higher...I'm softcapping the MOOOOON! How do you like that, Obama? I SOFTCAPPED THE MOON, YOU IDIOT! You have 23 hours before the softcap <i>droplets</i> hit the fricking Earth, now get out of my fricking sight before I softcap you too!",
+  "zh": "我来宣布一件事：开发者 randomtuba 就是个蠢货混蛋。他给我该死的斜率加了软上限。没错，他拿出他那破烂的 JS 半吊子代码，给我该死的斜率加了软上限，还说什么他的平衡做得<i>超有创意</i>。然后我说「太懒了吧！」所以我在 TMT 论坛上发帖声讨：「randomtuba，你这游戏烂透了，规模跟 Distance Incremental 差不多，只是还要小得多。」你猜怎么着，我的代码长这样：PFFFFFFFFGJT。没错，宝贝。全是加成，没有上限，没有缩放，看看，看起来就像两个挑战和一个可购买项。他给我的 CE 加了软上限，那你猜怎么着，我要<b>给地球加软上限</b>。没错，这就是你得到的，我的超级激光软上限。只不过我不打算给地球加软上限，我要去更高的地方……我要给月————球加软上限！你觉得怎么样，Obama？我给月球加了软上限，你这白痴！在软上限的<i>液滴</i>撞上该死的地球之前，你还有 23 小时，现在立刻从我眼前消失，不然我连你也一起加软上限！"
+ },
+ {
+  "en": "IC1 reward effect",
+  "zh": "IC1 奖励效果"
+ },
+ {
+  "en": "IC6 be like: ⬆️⬇️➡️⬅️⬇️➡️⬅️⬆️⬇️➡️",
+  "zh": "IC6 就像：⬆️⬇️➡️⬅️⬇️➡️⬅️⬆️⬇️➡️"
+ },
+ {
+  "en": "INPUT",
+  "zh": "输入"
+ },
+ {
+  "en": "INSIDE LOOK: What are Upgrade Points made out of? Research and analysis has discovered that they contain, on average, 62% dreams, 33% water vapor, and 5% sulfuric acid.",
+  "zh": "内部观察：升级点数是由什么构成的？研究发现，它们平均含有 62% 的梦、33% 的水蒸气和 5% 的硫酸。"
+ },
+ {
+  "en": "IP Filled:",
+  "zh": "IP 已填满："
+ },
+ {
+  "en": "IP filled boosts Pythagorean Essence gain",
+  "zh": "IP 填满可提升勾股精粹的获得"
+ },
+ {
+  "en": "IP gain",
+  "zh": "IP 获得"
+ },
+ {
+  "en": "If I roll a 1e12, you die 🎲🎲👋",
+  "zh": "如果我掷出 1e12，你就死定了 🎲🎲👋"
+ },
+ {
+  "en": "If I'm not mistaken, the current day is {{0}}/{{1}}/{{2}}.",
+  "zh": "如果我没记错，今天是 {{0}}/{{1}}/{{2}}。"
+ },
+ {
+  "en": "If I'm not mistaken, the current version is {{0}}.",
+  "zh": "如果我没记错，当前版本是 {{0}}。"
+ },
+ {
+  "en": "If ON, enter Synthetic Division for the 1st time at",
+  "zh": "若开启，首次进入综合除法于"
+ },
+ {
+  "en": "If ON, grind Quadratics at",
+  "zh": "若开启，刷二次能量于"
+ },
+ {
+  "en": "If ON, start CC sweep at",
+  "zh": "若开启，开始 CC 清扫于"
+ },
+ {
+  "en": "If magnets aren't powerful enough for you, use an asymptote.",
+  "zh": "如果磁铁对你来说不够强，就用渐近线吧。"
+ },
+ {
+  "en": "If there's a bug with Root Epicenter Level √-1, then you're just imagining it.",
+  "zh": "如果根震中等级 √-1 有漏洞，那只是你的错觉。"
+ },
+ {
+  "en": "If variables are your power, then what are you without them?",
+  "zh": "如果变量就是你的力量，那么没有它们你还剩什么？"
+ },
+ {
+  "en": "If we reach 25,000 plays on galaxy.click, I'll add an Absurd mode!",
+  "zh": "如果 galaxy.click 上的游玩次数达到 25,000，我就加一个「荒谬」模式！"
+ },
+ {
+  "en": "If you are able to Integrate in The Limit with all Challenge Factors maxed, your Convergence multiplier will always be maxed!",
+  "zh": "如果你能在所有挑战因子都拉满的情况下在极限中积分，你的收敛倍率将始终处于最大值！"
+ },
+ {
+  "en": "If you build autoclickers, point factories and/or portals in space, do they become space buildings?",
+  "zh": "如果你在太空中建造自动点击器、点数工厂和/或传送门，它们会变成太空建筑吗？"
+ },
+ {
+  "en": "If you complete a Y Challenge while in RET -1, its reward is strengthened further.",
+  "zh": "如果你在 RET -1 中完成一次 Y 挑战，其奖励会进一步增强。"
+ },
+ {
+  "en": "If you had a system of equations, then maybe you could solve for the variables.",
+  "zh": "如果你有一个方程组，也许就能解出变量了。"
+ },
+ {
+  "en": "If you have more Buildings bought than Functions bought, your number and points per second will be \"less than\" their amounts, halting point generation. Point gain is divided by 1e75,000, but you start with 1e9 Points.",
+  "zh": "如果你购买的建筑多于函数，你的数值和每秒点数将「小于」它们的数量，从而停止点数产出。点数获得量将除以 1e75,000，但你初始拥有 1e9 点数。"
+ },
+ {
+  "en": "If you haven't noticed already (and depending on how far you've progressed), you can actually gain more YC4 completions manually than what's being automatically generated. Before you report this being a bug, this is intentional game design and you'll buy an Integration Upgrade later (XYZ) that will fix this issue permanently.",
+  "zh": "如果你还没注意到（这取决于你推进的程度），实际上你手动获得的 YC4 完成次数可以比自动生成的更多。在你把这当成漏洞上报之前，先说明这是游戏的故意设计，你稍后会购买一项积分升级（XYZ），永久修复这个问题。"
+ },
+ {
+  "en": "If you notice any news message discussing content in the game you haven't unlocked, dismiss its rambling as insanity and have it burned at the stake at midnight.",
+  "zh": "如果你发现某条新闻消息提到了你尚未解锁的游戏内容，就把它当作疯言疯语置之不理，并在午夜将它绑在火刑柱上烧掉。"
+ },
+ {
+  "en": "If you reach the Complex Challenge goal, click the button that would normally say \"Exit Challenge\" underneath the Complex Challenge.",
+  "zh": "如果你达成了复数挑战的目标，点击复数挑战下方平时显示「退出挑战」的按钮。"
+ },
+ {
+  "en": "If you want to make a mod of this game, that's fine, just credit me in some way.",
+  "zh": "如果你想给这个游戏做 mod，没问题，只要以某种方式署名感谢我就行。"
+ },
+ {
+  "en": "If you're wondering about new content, v3.1 could happen, but I'm still not sure about it. You may have to wait a while...",
+  "zh": "如果你在期待新内容，v3.1 有可能推出，但我还不确定。你可能得再等一阵子……"
+ },
+ {
+  "en": "If your number sets start speaking to you, please see a doctor.",
+  "zh": "如果你的数集开始跟你说话，请去看医生。"
+ },
+ {
+  "en": "If your sacrificed currency is greater than your current sacrificed amount, your sacrificed amount will increase.",
+  "zh": "如果你的已献祭货币大于当前的已献祭数量，你的已献祭数量将增加。"
+ },
+ {
+  "en": "Ignoring The Basics",
+  "zh": "无视基础"
+ },
+ {
+  "en": "Illegal Hotkey",
+  "zh": "非法快捷键"
+ },
+ {
+  "en": "Imaginary Duplicator",
+  "zh": "虚数复制器"
+ },
+ {
+  "en": "Imaginary Duplicator amount cap",
+  "zh": "虚数复制器数量上限"
+ },
+ {
+  "en": "Imaginary Integrator",
+  "zh": "虚数积分器"
+ },
+ {
+  "en": "Imaginary Pollution",
+  "zh": "虚数污染"
+ },
+ {
+  "en": "Imaginary Power Buyable",
+  "zh": "虚数能量可购买项"
+ },
+ {
+  "en": "Immediately unlock the first 60 Achievements and Integration no longer resets them.",
+  "zh": "立即解锁前 60 项成就，且积分层级不再重置它们。"
+ },
+ {
+  "en": "Import",
+  "zh": "导入"
+ },
+ {
+  "en": "Import as File",
+  "zh": "作为文件导入"
+ },
+ {
+  "en": "Impossible",
+  "zh": "不可能"
+ },
+ {
+  "en": "Impotence",
+  "zh": "无力"
+ },
+ {
+  "en": "Improve the formula for gaining Z-Power",
+  "zh": "改进获得 Z 能量的公式"
+ },
+ {
+  "en": "In & Out",
+  "zh": "进与出"
+ },
+ {
+  "en": "In Complex Plane, you can use i to purchase steps. Steps can be used to travel in both the real and imaginary directions.<br>\n        Depending on how the direction you travel on each axis, you'll get multipliers to various resources.<br><br>\n        <b>i Gain Effect Formula:</b> 3<sup>positive real part</sup><br>\n        <b>RP Gain Effect Formula:</b> 1e15<sup>negative real part</sup><br>\n        <b>Generator Boost Effect Formula:</b> 1.79e308<sup>positive imaginary part</sup><br>\n        <b>Square Roots Gain Effect Formula:</b> 100<sup>negative imaginary part</sup><br>\n        <b>Step Cost Formula:</b> 5e10 * 100<sup>steps</sup> * 4<sup>steps<sup>2</sup></sup>",
+  "zh": "在复数平面中，你可以用 i 购买步数。 步数可用于沿实部和虚部两个方向移动。<br>\n        根据你在各轴上移动的方向，你将获得各种资源的倍率。<br><br>\n        <b>i 获得效果公式：</b> 3<sup>正实部</sup><br>\n        <b>RP 获得效果公式：</b> 1e15<sup>负实部</sup><br>\n        <b>生成器加成效果公式：</b> 1.79e308<sup>正虚部</sup><br>\n        <b>平方根获得效果公式：</b> 100<sup>负虚部</sup><br>\n        <b>步数消耗公式：</b> 5e10 * 100<sup>步数</sup> * 4<sup>步数<sup>2</sup></sup>"
+ },
+ {
+  "en": "In Complex Plane, you can use i to purchase xi, yi, ${player.varSynth.unlocked[3] || player.integrations.gte(1) ?",
+  "zh": "在复数平面中，你可以用 i 购买 xi、yi、${player.varSynth.unlocked[3] || player.integrations.gte(1) ?"
+ },
+ {
+  "en": "In Coordinate ${player.zUnlocked ?",
+  "zh": "在坐标系 ${player.zUnlocked ?"
+ },
+ {
+  "en": "In Synthetic Division, Points and x",
+  "zh": "在综合除法中，点数和 x"
+ },
+ {
+  "en": "In The Soul Set",
+  "zh": "在灵魂集合中"
+ },
+ {
+  "en": "In order to gain limit score (LS), you have to be able to Integrate while inside The Limit.",
+  "zh": "为了获得极限分数（LS），你必须能够在极限内部进行积分。"
+ },
+ {
+  "en": "In the files for Algebraic Progression, there's an unused image referred to as \"conspicuous_variabole\". When asked about the image in a voice call, randomtuba disregarded the question, seeming unusually upset.",
+  "zh": "在 Algebraic Progression 的文件中，有一张未使用的图片，名为「conspicuous_variabole」。在一次语音通话中被问及这张图片时，randomtuba 对此置之不理，显得异常恼火。"
+ },
+ {
+  "en": "In the land of X and Y, we are not judged. Here we have peace. Here we are free.",
+  "zh": "在 X 与 Y 的国度，我们不受评判。这里我们有和平。这里我们自由。"
+ },
+ {
+  "en": "Inactive Progress:",
+  "zh": "离线进度："
+ },
+ {
+  "en": "Inception Noise!",
+  "zh": "盗梦噪声！"
+ },
+ {
+  "en": "Incomplete Square",
+  "zh": "不完全平方"
+ },
+ {
+  "en": "Increase e by 2.71828 per level",
+  "zh": "每级使 e 增加 2.71828"
+ },
+ {
+  "en": "Increase level for",
+  "zh": "提升等级："
+ },
+ {
+  "en": "Increase n by 2 per level",
+  "zh": "每级使 n 增加 2"
+ },
+ {
+  "en": "Increase the \"Variable Coupler\" amount cap by 1.",
+  "zh": "将「变量耦合器」的数量上限提高 1。"
+ },
+ {
+  "en": "Increase the Uncertainty Exponent by 0.05 per level.",
+  "zh": "每级使不确定性指数增加 0.05。"
+ },
+ {
+  "en": "Increase the minimum Uncertainty Exponent by 0.1 per level. After 10 levels, you can assign holes to Temporal Plane currencies.",
+  "zh": "每级使不确定性指数下限增加 0.1。达到 10 级后，你可以将空洞分配给时间平面的货币。"
+ },
+ {
+  "en": "Increase the multiplier to Z-Power gain per Z by",
+  "zh": "提升每 Z 的 Z 能量获得倍率："
+ },
+ {
+  "en": "Incremental game design isn't about Y! It's about Y not!",
+  "zh": "增量游戏设计不是关于 Y！而是关于 Y 不！"
+ },
+ {
+  "en": "Incremental game player caught opening console, cursed to face eternal timewalls.",
+  "zh": "有增量游戏玩家被抓到打开控制台，被诅咒永远面对时间墙。"
+ },
+ {
+  "en": "Incrementalist's Dozen",
+  "zh": "增量玩家的一打"
+ },
+ {
+  "en": "Indecisive",
+  "zh": "优柔寡断"
+ },
+ {
+  "en": "Industrialization is Complicated",
+  "zh": "工业化很复杂"
+ },
+ {
+  "en": "Inequality",
+  "zh": "不等式"
+ },
+ {
+  "en": "Infinite Possibilities",
+  "zh": "无限可能"
+ },
+ {
+  "en": "Infinite Possibilities II",
+  "zh": "无限可能 II"
+ },
+ {
+  "en": "Infinite Power",
+  "zh": "无限力量"
+ },
+ {
+  "en": "Infinity",
+  "zh": "无穷"
+ },
+ {
+  "en": "Inflation",
+  "zh": "通胀"
+ },
+ {
+  "en": "Input -> Output",
+  "zh": "输入 -> 输出"
+ },
+ {
+  "en": "Inspirations",
+  "zh": "灵感"
+ },
+ {
+  "en": "Instability: /",
+  "zh": "不稳定度：/"
+ },
+ {
+  "en": "Instead of adding to your production, Functions multiply your point production.",
+  "zh": "函数不是增加你的产出，而是将你的点数产出相乘。"
+ },
+ {
+  "en": "Integer",
+  "zh": "整数"
+ },
+ {
+  "en": "Integer Overflow",
+  "zh": "整数溢出"
+ },
+ {
+  "en": "Integer Set Boost",
+  "zh": "整数集合加成"
+ },
+ {
+  "en": "Integers can sometimes be negative. Let's try to be more positive!",
+  "zh": "整数有时可以是负数。让我们试着更积极一点！"
+ },
+ {
+  "en": "Integrate for",
+  "zh": "积分获得"
+ },
+ {
+  "en": "Integrate for {{0}} dx without using the Temporal Plane.",
+  "zh": "在不使用时间平面的情况下积分 {{0}} dx。"
+ },
+ {
+  "en": "Integrate in under {{0}} hour.",
+  "zh": "在 {{0}} 小时内完成积分。"
+ },
+ {
+  "en": "Integrate in under {{0}} seconds (game time).",
+  "zh": "在 {{0}} 秒内完成积分（游戏时间）。"
+ },
+ {
+  "en": "Integrate into a new universe.",
+  "zh": "积分进入一个新宇宙。"
+ }
+]

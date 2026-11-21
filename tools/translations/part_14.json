@@ -1,0 +1,950 @@
+[
+ {
+  "en": "This applies a power of ^",
+  "zh": "这会施加 ^ 次幂。"
+ },
+ {
+  "en": "This game isn't too short, you're just speedrunning it",
+  "zh": "这游戏并不短，你只是在速通它而已。"
+ },
+ {
+  "en": "This game takes \"If X then Y\" way too seriously...",
+  "zh": "这游戏把「若 X 则 Y」太当真了……"
+ },
+ {
+  "en": "This is numbers! I am the greatest incremental game! Out With a Bang, Tuba's Tree 2, Incrementy Planet, they're all abandoned...I remain, do you understand? <i>I</i> remain, as an idle game!",
+  "zh": "这是数字！我是最伟大的增量游戏！Out With a Bang、Tuba's Tree 2、Incrementy Planet，它们都被抛弃了……我依然存在，你明白吗？<i>我</i>依然存在，作为一个挂机游戏！"
+ },
+ {
+  "en": "This is the greatest incremental game of All Time",
+  "zh": "这是史上最伟大的增量游戏。"
+ },
+ {
+  "en": "This isn't a news message machine! THIS WAS JUST A BREADBOX!",
+  "zh": "这可不是新闻消息机器！这原本只是个面包盒！"
+ },
+ {
+  "en": "This news message's punchline is left as an exercise for the reader.",
+  "zh": "这条新闻的笑点留给读者作为练习。"
+ },
+ {
+  "en": "Those Are Buttons?",
+  "zh": "那些是按钮？"
+ },
+ {
+  "en": "Those are rookie numbers!",
+  "zh": "那点数字太菜了！"
+ },
+ {
+  "en": "Three hardest things for people to say: 1. \"I was wrong.\" 2. \"I need help.\" 3. \"Is there a guide for the secret achievements?\"",
+  "zh": "人们最难开口说的三件事：1.「我错了。」2.「我需要帮助。」3.「有隐藏成就的攻略吗？」"
+ },
+ {
+  "en": "Three mathematicians go duck hunting. One misses a duck to the left. Another misses a duck to the right. The statistician of the group says, \"We got him!\"",
+  "zh": "三个数学家去打猎鸭子。一个向左打偏了。另一个向右打偏了。群体里的统计学家说：「我们打到它了！」"
+ },
+ {
+  "en": "Time Compression",
+  "zh": "时间压缩"
+ },
+ {
+  "en": "Time Dilation",
+  "zh": "时间膨胀"
+ },
+ {
+  "en": "Time Exponent",
+  "zh": "时间指数"
+ },
+ {
+  "en": "Time Exponent II",
+  "zh": "时间指数 II"
+ },
+ {
+  "en": "Time Flies",
+  "zh": "时光飞逝"
+ },
+ {
+  "en": "Time Is Money",
+  "zh": "时间就是金钱"
+ },
+ {
+  "en": "Time flies when you're having fun. Or if you're actually making time go faster.",
+  "zh": "快乐时光总是过得很快。或者，如果你真的在让时间加速。"
+ },
+ {
+  "en": "Time mode for Auto-Quadratic is always unlocked, and unlock a new Auto-Quadratic mode.",
+  "zh": "自动二次的时间模式始终解锁，并解锁一种新的自动二次模式。"
+ },
+ {
+  "en": "Time remaining:",
+  "zh": "剩余时间："
+ },
+ {
+  "en": "Time to reach cap:",
+  "zh": "达到上限所需时间："
+ },
+ {
+  "en": "Time until all CC tiers completed:",
+  "zh": "距离所有 CC 层级完成还需时间："
+ },
+ {
+  "en": "Time until daily achievements reset:",
+  "zh": "距离每日成就重置还需时间："
+ },
+ {
+  "en": "Time until next automatic CC completion:",
+  "zh": "距离下次自动完成 CC 还需时间："
+ },
+ {
+  "en": "Time-Jump",
+  "zh": "时间跳跃"
+ },
+ {
+  "en": "Time-Jumps cost half as many holes, and unlock autobuyers for Temporal Plane currencies.",
+  "zh": "时间跳跃消耗的洞减少一半，并解锁时空位面货币的自动购买器。"
+ },
+ {
+  "en": "Time-jump 48 real-time hours into the future.",
+  "zh": "向未来时间跳跃 48 个现实小时。"
+ },
+ {
+  "en": "Tip: Hold down M to do Quadratics faster",
+  "zh": "提示：按住 M 可以更快进行二次。"
+ },
+ {
+  "en": "Title Flickering:",
+  "zh": "标题闪烁："
+ },
+ {
+  "en": "To B or not to B",
+  "zh": "要 B 还是不要 B"
+ },
+ {
+  "en": "To be clear, these concepts will be on the test tomorrow.",
+  "zh": "说清楚一点，这些概念明天考试会考。"
+ },
+ {
+  "en": "To generate Imaginary Power, a, b, and c must return a nonreal solution instead.",
+  "zh": "要产出虚数之力，a、b 和 c 必须返回一个非实数解。"
+ },
+ {
+  "en": "To generate Pythagorean Essence (PE), d, e, and f must return a valid pythagorean triple (d",
+  "zh": "要产出勾股精粹 (PE)，d、e 和 f 必须返回有效的勾股三元组 (d"
+ },
+ {
+  "en": "To generate Quadratic Power, a, b, and c when plugged into the",
+  "zh": "要产出二次之力，需将 a、b 和 c 代入"
+ },
+ {
+  "en": "To make Complexes faster and more convenient, you gain Complex Milestones based on the amount of times you have<br>\n        gone Complex. Complex Milestones usually give quality of life features, such as Autobuyers, and being able to keep<br>\n        mechanics and resources on reset.",
+  "zh": "为了让复数更快更方便，你会根据你进入复数的次数获得复数里程碑。<br>\n        复数里程碑通常提供生活质量功能，例如自动购买器，以及能够在重置时保留<br>\n        机制和资源。"
+ },
+ {
+  "en": "To make Complexes faster and more convenient, you gain Milestones based on the amount of times you have gone Complex.<br>\n        Milestones usually give quality of life features, such as Autobuyers, and being able to keep mechanics and resources on reset.\n        ${hasCU(1,6) || player.integrations.gte(1) ?",
+  "zh": "为了让复数更快更方便，你会根据你进入复数的次数获得里程碑。<br>\n        里程碑通常提供生活质量功能，例如自动购买器，以及能够在重置时保留机制和资源。\n        ${hasCU(1,6) || player.integrations.gte(1) ?"
+ },
+ {
+  "en": "To make Mandelbrots faster and more convenient, you gain Fractal Milestones based on the least amount of times you have<br>\n        gone Complex in a Mandelbrot run. Fractal Milestones usually give quality of life features, similarly to Complex Milestones.<br><br>\n        <b>Tip:</b> To minimize on Complex usage during a Mandelbrot run, when you need to reset stuff, go Y-Quadratic instead.<br>\n        Also, use \"Respec\" instead of \"Respec on Complex\" for Complex Upgrades, because a force respec doesn't<br>\n        add to your Complex count.",
+  "zh": "为了让曼德博运行更快更方便，你会根据你在一次曼德博运行中进入复数的最少次数获得分形里程碑。<br>\n        分形里程碑通常提供生活质量功能，与复数里程碑类似。<br><br>\n        <b>提示：</b>为了在曼德博运行中尽量减少复数使用，当你需要重置东西时，改用 Y-二次。<br>\n        另外，对于复数升级，使用「重新分配」而不是「复数时重新分配」，因为强制重新分配不会<br>\n        增加你的复数次数。"
+ },
+ {
+  "en": "Too Many Buyables",
+  "zh": "可购买项太多"
+ },
+ {
+  "en": "Total Quaternions:",
+  "zh": "四元数总数："
+ },
+ {
+  "en": "Total Upgrade Points:",
+  "zh": "升级点数总数："
+ },
+ {
+  "en": "Transcendent Automation",
+  "zh": "超然自动化"
+ },
+ {
+  "en": "Transformation",
+  "zh": "变换"
+ },
+ {
+  "en": "Transformation Type Switch Confirmation:",
+  "zh": "变换类型切换确认："
+ },
+ {
+  "en": "Transformation amount caps",
+  "zh": "变换数量上限"
+ },
+ {
+  "en": "Transformations",
+  "zh": "变换"
+ },
+ {
+  "en": "Translations",
+  "zh": "平移"
+ },
+ {
+  "en": "Travel at least +5 on the Complex Plane.",
+  "zh": "在复平面上至少移动 +5。"
+ },
+ {
+  "en": "Trefoil",
+  "zh": "三叶结"
+ },
+ {
+  "en": "Triangles Exponent",
+  "zh": "三角形指数"
+ },
+ {
+  "en": "Triangles are cool. You know why? Because you can make any polygon out of just triangles! Triangles are really the shape that does all of the heavy lifting.",
+  "zh": "三角形很酷。你知道为什么吗？因为你可以只用三角形拼出任何多边形！三角形才是真正干重活的形状。"
+ },
+ {
+  "en": "Triangles:",
+  "zh": "三角形："
+ },
+ {
+  "en": "Trickle-Up Economics",
+  "zh": "涓滴经济学"
+ },
+ {
+  "en": "Trig Functions Boost",
+  "zh": "三角函数加成"
+ },
+ {
+  "en": "Trigonometric Function level",
+  "zh": "三角函数等级"
+ },
+ {
+  "en": "Trigonometric Functions",
+  "zh": "三角函数"
+ },
+ {
+  "en": "Trigonometric Functions (v3.0 Part 2)",
+  "zh": "三角函数 (v3.0 Part 2)"
+ },
+ {
+  "en": "Trigonometric Functions:",
+  "zh": "三角函数："
+ },
+ {
+  "en": "Trigonometric Waves:",
+  "zh": "三角波："
+ },
+ {
+  "en": "Triple Tripler",
+  "zh": "三倍三倍器"
+ },
+ {
+  "en": "Triple i gain per purchase!",
+  "zh": "每次购买获得三倍 i！"
+ },
+ {
+  "en": "Triple synthetic essence gain per purchase.",
+  "zh": "每次购买获得三倍合成精粹。"
+ },
+ {
+  "en": "True Limitless Potential",
+  "zh": "真正的无限潜力"
+ },
+ {
+  "en": "Truly Upgradeless",
+  "zh": "真正无升级"
+ },
+ {
+  "en": "Try to exit a Challenge or Complex Challenge in Integration Challenge 1.",
+  "zh": "在积分挑战 1 中尝试退出挑战或复数挑战。"
+ },
+ {
+  "en": "Try to fill a Pythagorean Triples bar when it's full.",
+  "zh": "在勾股三元组条已满时尝试填满它。"
+ },
+ {
+  "en": "Try to increase a, b, or c beyond the cap.",
+  "zh": "尝试将 a、b 或 c 提升到超过上限。"
+ },
+ {
+  "en": "Try typing 'dev' in the console and see what you can find!",
+  "zh": "试试在控制台输入 'dev'，看看你能发现什么！"
+ },
+ {
+  "en": "Tuba doesn't know that I've been slightly altering the news messages, changing one letter here and there, to make everything less readable...",
+  "zh": "Tuba 不知道我一直在稍微改动新闻消息，这里改一个字母那里改一个，让一切变得更难读……"
+ },
+ {
+  "en": "Tuba's Gift",
+  "zh": "Tuba 的礼物"
+ },
+ {
+  "en": "Two Layers Up",
+  "zh": "向上两层"
+ },
+ {
+  "en": "Two With Everything",
+  "zh": "两项俱全"
+ },
+ {
+  "en": "Type in the new name for this preset below!",
+  "zh": "在下方输入此预设的新名称！"
+ },
+ {
+  "en": "Type your exported Complex Upgrades preset in here!\nIf you type nothing, it will save your current preset",
+  "zh": "在此输入你导出的复数升级预设！\n如果不输入任何内容，将保存你当前的预设"
+ },
+ {
+  "en": "Type your exported Fractal Arm preset in here!\nIf you type nothing, it will save your current preset",
+  "zh": "在此输入你导出的分形臂预设！\n如果不输入任何内容，将保存你当前的预设"
+ },
+ {
+  "en": "Type your exported Hypercomplex Upgrades preset in here!\nIf you type nothing, it will save your current preset",
+  "zh": "在此输入你导出的超复数升级预设！\n如果不输入任何内容，将保存你当前的预设"
+ },
+ {
+  "en": "Type your exported Number Sets preset in here!\nIf you type nothing, it will save your current preset",
+  "zh": "在此输入你导出的数集预设！\n如果不输入任何内容，将保存你当前的预设"
+ },
+ {
+  "en": "UP Autobuyer:",
+  "zh": "UP 自动购买器："
+ },
+ {
+  "en": "UP generation is boosted by global speed again at a reduced rate.",
+  "zh": "UP 产出再次受到全局速度加成，但加成率降低。"
+ },
+ {
+  "en": "UP generation multiplier based on times gone Quadratic (Currently:",
+  "zh": "基于进入二次次数的 UP 产出倍率（当前："
+ },
+ {
+  "en": "Uncertainty Exponent",
+  "zh": "不确定性指数"
+ },
+ {
+  "en": "Uncertainty Exponent: ^",
+  "zh": "不确定性指数：^"
+ },
+ {
+  "en": "Uncontrollable Vortex",
+  "zh": "失控漩涡"
+ },
+ {
+  "en": "Under The Curve",
+  "zh": "曲线之下"
+ },
+ {
+  "en": "Unit Circle",
+  "zh": "单位圆"
+ },
+ {
+  "en": "Unit Circle (v3.0 Part 2)",
+  "zh": "单位圆 (v3.0 Part 2)"
+ },
+ {
+  "en": "Unit Circle Unlocked",
+  "zh": "单位圆已解锁"
+ },
+ {
+  "en": "Unit Circle level",
+  "zh": "单位圆等级"
+ },
+ {
+  "en": "Unit Circle:",
+  "zh": "单位圆："
+ },
+ {
+  "en": "Universal Collapse",
+  "zh": "宇宙坍缩"
+ },
+ {
+  "en": "Universal Collapse Imminent",
+  "zh": "宇宙坍缩迫近"
+ },
+ {
+  "en": "Universal Warming",
+  "zh": "全球变暖"
+ },
+ {
+  "en": "Universe Expander: Rewritten",
+  "zh": "宇宙扩张器：重写"
+ },
+ {
+  "en": "Unlike Complex Challenges, Y Challenges can only be completed once.",
+  "zh": "与复数挑战不同，Y 挑战只能完成一次。"
+ },
+ {
+  "en": "Unlike all other Challenge types, each Integration Challenge works differently!",
+  "zh": "与所有其他挑战类型不同，每个积分挑战的运作方式都不同！"
+ },
+ {
+  "en": "Unlike regular Challenges, Y-Challenges are",
+  "zh": "与普通挑战不同，Y 挑战是"
+ },
+ {
+  "en": "Unlimited Production",
+  "zh": "无限产出"
+ },
+ {
+  "en": "Unlock",
+  "zh": "解锁"
+ },
+ {
+  "en": "Unlock 2 new Challenge Factors for",
+  "zh": "解锁 2 个新的挑战因子用于"
+ },
+ {
+  "en": "Unlock 2 new circle milestones and 2 new Revolution Buyables.",
+  "zh": "解锁 2 个新的圆里程碑和 2 个新的革新可购买项。"
+ },
+ {
+  "en": "Unlock 3 new Synthetic Division Upgrades and 2 new Y-Challenges, and the new Synthetic Division Upgrades and Y-Challenges are kept on Integration.",
+  "zh": "解锁 3 个新的综合除法升级和 2 个新的 Y 挑战，且新的综合除法升级和 Y 挑战在积分时保留。"
+ },
+ {
+  "en": "Unlock 8 new Y-Quadratic Upgrades.",
+  "zh": "解锁 8 个新的 Y-二次升级。"
+ },
+ {
+  "en": "Unlock Algebraic Sets, which have 6 unique effects",
+  "zh": "解锁代数集，它有 6 种独特效果"
+ },
+ {
+  "en": "Unlock Auto-Adjust.",
+  "zh": "解锁自动调整。"
+ },
+ {
+  "en": "Unlock Auto-Complex (located above the Complex subtabs) and the Complex Plane.",
+  "zh": "解锁自动复数（位于复数子标签页上方）和复平面。"
+ },
+ {
+  "en": "Unlock Auto-Quadratic, and make sacrificed Y 1.5x more effective.",
+  "zh": "解锁自动二次，并使献祭的 Y 效果提升 1.5 倍。"
+ },
+ {
+  "en": "Unlock Auto-Quadratic, and make sacrificed Y 15x more effective.",
+  "zh": "解锁自动二次，并使献祭的 Y 效果提升 15 倍。"
+ },
+ {
+  "en": "Unlock Auto-Quadratic.",
+  "zh": "解锁自动二次。"
+ },
+ {
+  "en": "Unlock Auto-Sacrifice, and the ability to sacrifice x² to the Coordinate {{0}}. X and Y don't reset on sacrifice.",
+  "zh": "解锁自动献祭，以及将 x² 献祭给坐标 {{0}} 的能力。X 和 Y 在献祭时不会重置。"
+ },
+ {
+  "en": "Unlock Challenges.",
+  "zh": "解锁挑战。"
+ },
+ {
+  "en": "Unlock Complex Challenges",
+  "zh": "解锁复数挑战"
+ },
+ {
+  "en": "Unlock Complex Challenges.",
+  "zh": "解锁复数挑战。"
+ },
+ {
+  "en": "Unlock Complex Plane",
+  "zh": "解锁复平面"
+ },
+ {
+  "en": "Unlock Coordinate ${player.zUnlocked ?",
+  "zh": "解锁坐标 ${player.zUnlocked ?"
+ },
+ {
+  "en": "Unlock Derivatives.",
+  "zh": "解锁导数。"
+ },
+ {
+  "en": "Unlock Exponential Curve.",
+  "zh": "解锁指数曲线。"
+ },
+ {
+  "en": "Unlock Functions, and multiply the starting g(n) and h(n) softcaps by 1.05.",
+  "zh": "解锁函数，并将 g(n) 和 h(n) 的初始软上限乘以 1.05。"
+ },
+ {
+  "en": "Unlock Functions.",
+  "zh": "解锁函数。"
+ },
+ {
+  "en": "Unlock Hypercomplex Upgrades, the ability to create Parabolas (found in the Quadratic tab), and autobuyers for W, Singularity Upgrades, and the Unit Circle upgraders. j and k will also begin generating. Singularity Upgrades no longer consume holes.",
+  "zh": "解锁超复数升级、创造抛物线（位于二次标签页）的能力，以及 W、奇点升级和单位圆升级器的自动购买器。j 和 k 也将开始产出。奇点升级不再消耗洞。"
+ },
+ {
+  "en": "Unlock Integration Challenge 1.",
+  "zh": "解锁积分挑战 1。"
+ },
+ {
+  "en": "Unlock Integration Challenge 2.",
+  "zh": "解锁积分挑战 2。"
+ },
+ {
+  "en": "Unlock Integration Challenge 3.",
+  "zh": "解锁积分挑战 3。"
+ },
+ {
+  "en": "Unlock Integration Challenge 4.",
+  "zh": "解锁积分挑战 4。"
+ },
+ {
+  "en": "Unlock Integration Challenge 5.",
+  "zh": "解锁积分挑战 5。"
+ },
+ {
+  "en": "Unlock Integration Challenge 6.",
+  "zh": "解锁积分挑战 6。"
+ },
+ {
+  "en": "Unlock Integration Challenge 7.",
+  "zh": "解锁积分挑战 7。"
+ },
+ {
+  "en": "Unlock Integration Challenge 8.",
+  "zh": "解锁积分挑战 8。"
+ },
+ {
+  "en": "Unlock Mandelbrot Challenge 1",
+  "zh": "解锁曼德博挑战 1。"
+ },
+ {
+  "en": "Unlock Mandelbrot Challenge 2",
+  "zh": "解锁曼德博挑战 2。"
+ },
+ {
+  "en": "Unlock Mandelbrot Challenge 3",
+  "zh": "解锁曼德博挑战 3。"
+ },
+ {
+  "en": "Unlock Mandelbrot Challenge 4",
+  "zh": "解锁曼德博挑战 4。"
+ },
+ {
+  "en": "Unlock Mandelbrot Challenge 5",
+  "zh": "解锁曼德博挑战 5。"
+ },
+ {
+  "en": "Unlock Point Quasars, which produce Point Portals, Autoclickers now produce Point Quasars",
+  "zh": "解锁点数类星体，它会产生点数传送门，自动点击器现在会产出点数类星体。"
+ },
+ {
+  "en": "Unlock Polynomial Factoring.",
+  "zh": "解锁多项式因式分解。"
+ },
+ {
+  "en": "Unlock Polynomials.",
+  "zh": "解锁多项式。"
+ },
+ {
+  "en": "Unlock Quadratic Formula and QP and IP gains are raised ^1.1.",
+  "zh": "解锁二次公式，且 QP 和 IP 的获得量提升至 ^1.1 次幂。"
+ },
+ {
+  "en": "Unlock Quadratic Formula.",
+  "zh": "解锁二次公式。"
+ },
+ {
+  "en": "Unlock Quaternion Sets and passively generate holes.",
+  "zh": "解锁四元数集，并被动产出洞。"
+ },
+ {
+  "en": "Unlock Root Epicenter",
+  "zh": "解锁根震中"
+ },
+ {
+  "en": "Unlock Root Epicenter.",
+  "zh": "解锁根震中。"
+ },
+ {
+  "en": "Unlock Singularity Upgrades (found in the Integration Upgrades subtab).",
+  "zh": "解锁奇点升级（位于积分升级子标签页）。"
+ },
+ {
+  "en": "Unlock Square Root",
+  "zh": "解锁平方根"
+ },
+ {
+  "en": "Unlock Square Root and power RE and CE gains by ^1.2.",
+  "zh": "解锁平方根，并将 RE 和 CE 的获得量按 ^1.2 次幂提升。"
+ },
+ {
+  "en": "Unlock Square Root.",
+  "zh": "解锁平方根。"
+ },
+ {
+  "en": "Unlock Synthetic Division.",
+  "zh": "解锁综合除法。"
+ },
+ {
+  "en": "Unlock The Limit.",
+  "zh": "解锁极限。"
+ },
+ {
+  "en": "Unlock Transformations (found in the Coordinate ${player.zUnlocked ?",
+  "zh": "解锁变换（位于坐标 ${player.zUnlocked ?"
+ },
+ {
+  "en": "Unlock X Powers",
+  "zh": "解锁 X 之力"
+ },
+ {
+  "en": "Unlock X Powers.",
+  "zh": "解锁 X 之力。"
+ },
+ {
+  "en": "Unlock Y Challenges",
+  "zh": "解锁 Y 挑战"
+ },
+ {
+  "en": "Unlock Y Powers (found in Y-Quadratic tab)",
+  "zh": "解锁 Y 之力（位于 Y-二次标签页）"
+ },
+ {
+  "en": "Unlock Y Powers.",
+  "zh": "解锁 Y 之力。"
+ },
+ {
+  "en": "Unlock Y-Challenge 4.",
+  "zh": "解锁 Y 挑战 4。"
+ },
+ {
+  "en": "Unlock Y-Intercept, and multiply the 2nd and 3rd effect hardcaps from b by 1.1.",
+  "zh": "解锁 Y 截距，并将 b 的第 2 和第 3 效果硬上限乘以 1.1。"
+ },
+ {
+  "en": "Unlock Y-Intercept.",
+  "zh": "解锁 Y 截距。"
+ },
+ {
+  "en": "Unlock Y-Polynomials.",
+  "zh": "解锁 Y-多项式。"
+ },
+ {
+  "en": "Unlock a new boost",
+  "zh": "解锁一项新加成"
+ },
+ {
+  "en": "Unlock a new mode for Auto-Complex.",
+  "zh": "解锁自动复数的新模式。"
+ },
+ {
+  "en": "Unlock a new row of X Upgrades, and a new Auto-Quadratic mode.",
+  "zh": "解锁一排新的 X 升级，以及一种新的自动二次模式。"
+ },
+ {
+  "en": "Unlock an autobuyer for Complex",
+  "zh": "解锁复数的自动购买器"
+ },
+ {
+  "en": "Unlock an autobuyer for Coordinate Plane",
+  "zh": "解锁坐标平面的自动购买器"
+ },
+ {
+  "en": "Unlock an autobuyer for Polynomial Buyables.",
+  "zh": "解锁多项式可购买项的自动购买器。"
+ },
+ {
+  "en": "Unlock an autobuyer for Pythagorean Triples Buyables and the Horizon Shifter cost spike is removed",
+  "zh": "解锁勾股三元组可购买项的自动购买器，并移除地平线移位器的消耗激增"
+ },
+ {
+  "en": "Unlock an autobuyer for Resetting",
+  "zh": "解锁重置的自动购买器"
+ },
+ {
+  "en": "Unlock an autobuyer for Revolution Buyables.",
+  "zh": "解锁革新可购买项的自动购买器。"
+ },
+ {
+  "en": "Unlock an autobuyer for Square Root Upgrades",
+  "zh": "解锁平方根升级的自动购买器"
+ },
+ {
+  "en": "Unlock an autobuyer for Z",
+  "zh": "解锁 Z 的自动购买器"
+ },
+ {
+  "en": "Unlock an autobuyer for Z, and Auto-Sacrifice sacrifices Z.",
+  "zh": "解锁 Z 的自动购买器，且自动献祭会献祭 Z。"
+ },
+ {
+  "en": "Unlock an autobuyer for Z-Empowerments.",
+  "zh": "解锁 Z 强化的自动购买器。"
+ },
+ {
+  "en": "Unlock an autobuyer for b.",
+  "zh": "解锁 b 的自动购买器。"
+ },
+ {
+  "en": "Unlock an autobuyer for fourth-row Complex Upgrades.",
+  "zh": "解锁第四行复数升级的自动购买器。"
+ },
+ {
+  "en": "Unlock an autobuyer for the UP purchase buttons and keep UP and Complex Upgrades on Mandelbrot",
+  "zh": "解锁 UP 购买按钮的自动购买器，并在曼德博时保留 UP 和复数升级"
+ },
+ {
+  "en": "Unlock an autobuyer for the UP purchase buttons.",
+  "zh": "解锁 UP 购买按钮的自动购买器。"
+ },
+ {
+  "en": "Unlock an autobuyer for the x² Doubler when unlocked.",
+  "zh": "解锁 x² 倍增器的自动购买器（解锁后）。"
+ },
+ {
+  "en": "Unlock an autobuyer for the y² doubler, unlock Auto-Complex Challenges, and always keep Complex Milestone 10",
+  "zh": "解锁 y² 倍增器的自动购买器、解锁自动复数挑战，并始终保留复数里程碑 10"
+ },
+ {
+  "en": "Unlock antiderivatives and autobuyers for Derivative Functions",
+  "zh": "解锁反导数以及导数函数的自动购买器"
+ },
+ {
+  "en": "Unlock autobuyers for Buildings and add 0.00015 to the Algebraic Set sacrifice effect cap.",
+  "zh": "解锁建筑的自动购买器，并将代数集献祭效果上限提高 0.00015。"
+ },
+ {
+  "en": "Unlock autobuyers for Buildings.",
+  "zh": "解锁建筑的自动购买器。"
+ },
+ {
+  "en": "Unlock autobuyers for Complex Plane currencies and Transformations.",
+  "zh": "解锁复平面货币和变换的自动购买器。"
+ },
+ {
+  "en": "Unlock autobuyers for Derivative Buyables",
+  "zh": "解锁导数可购买项的自动购买器"
+ },
+ {
+  "en": "Unlock autobuyers for Polynomials.",
+  "zh": "解锁多项式的自动购买器。"
+ },
+ {
+  "en": "Unlock autobuyers for QP Buyables, and Root Epicenter Level √4 and √-1 completions are kept.",
+  "zh": "解锁 QP 可购买项的自动购买器，并保留根震中等级 √4 和 √-1 的完成状态。"
+ },
+ {
+  "en": "Unlock autobuyers for X Powers Buyables and X Powers Boosters",
+  "zh": "解锁 X 之力可购买项和 X 之力增强器的自动购买器"
+ },
+ {
+  "en": "Unlock autobuyers for Y-Polynomials, all secondary Unit Circle effects are active at once, and Quadrant 3's effects to Trigonometric Functions are modified. Multiply Pythagorean Essence generation by 100.",
+  "zh": "解锁 Y-多项式的自动购买器，单位圆的所有次要效果同时生效，且第三象限对三角函数的效果被修改。将勾股精粹产出乘以 100。"
+ },
+ {
+  "en": "Unlock autobuyers for the repeatable Synthetic Division Upgrades.",
+  "zh": "解锁可重复的合成除法升级的自动购买器。"
+ },
+ {
+  "en": "Unlock for",
+  "zh": "解锁需"
+ },
+ {
+  "en": "Unlock generator multiplier",
+  "zh": "解锁生成器倍率"
+ },
+ {
+  "en": "Unlock i Exponentiation.",
+  "zh": "解锁 i 幂运算。"
+ },
+ {
+  "en": "Unlock new Root Epicenter Tasks and Exponential Curve",
+  "zh": "解锁新的根震中任务和指数曲线"
+ },
+ {
+  "en": "Unlock new X upgrades",
+  "zh": "解锁新的 X 升级"
+ },
+ {
+  "en": "Unlock new modes for Auto-Complex",
+  "zh": "解锁自动复数的新模式"
+ },
+ {
+  "en": "Unlock new modes for the Y-Quadratic Automator",
+  "zh": "解锁 Y-二次自动化器的新模式"
+ },
+ {
+  "en": "Unlock the 5th Z-Collider.",
+  "zh": "解锁第 5 个 Z 碰撞器。"
+ },
+ {
+  "en": "Unlock the Automation Core.",
+  "zh": "解锁自动化核心。"
+ },
+ {
+  "en": "Unlock the Automation tab",
+  "zh": "解锁自动化标签页"
+ },
+ {
+  "en": "Unlock the Coordinate Realm and add 0.15 to the secondary Dilations effect hardcap.",
+  "zh": "解锁坐标领域，并将次要膨胀效果硬上限提高 0.15。"
+ },
+ {
+  "en": "Unlock the Coordinate {{0}}.",
+  "zh": "解锁坐标 {{0}}。"
+ },
+ {
+  "en": "Unlock the Hypercomplex Flune, and generate Synthetic Essence based on your point amount.",
+  "zh": "解锁超复数弗鲁恩，并根据你的点数数量产出合成精粹。"
+ },
+ {
+  "en": "Unlock the Temporal Plane.",
+  "zh": "解锁时空位面。"
+ },
+ {
+  "en": "Unlock the Unit Circle.",
+  "zh": "解锁单位圆。"
+ },
+ {
+  "en": "Unlock the Variable Synthesizer.",
+  "zh": "解锁变量合成器。"
+ },
+ {
+  "en": "Unlock the X Autobuyer and keep X Upgrades on Quadratic.",
+  "zh": "解锁 X 自动购买器，并在二次时保留 X 升级。"
+ },
+ {
+  "en": "Unlock the X Autobuyer, keep X Upgrades on Quadratic, and increase the \"Variable Coupler\" amount cap by 2.",
+  "zh": "解锁 X 自动购买器，在二次时保留 X 升级，并将「变量耦合器」数量上限提高 2。"
+ },
+ {
+  "en": "Unlock the Y autobuyer and the 4th Natural Set effect formula is stronger.",
+  "zh": "解锁 Y 自动购买器，且第 4 自然集效果公式更强。"
+ },
+ {
+  "en": "Unlock the Y autobuyer.",
+  "zh": "解锁 Y 自动购买器。"
+ },
+ {
+  "en": "Unlock the Y-Quadratic Automator",
+  "zh": "解锁 Y-二次自动化器"
+ },
+ {
+  "en": "Unlock the Y-Quadratic Automator.",
+  "zh": "解锁 Y-二次自动化器。"
+ },
+ {
+  "en": "Unlock the Z Lab",
+  "zh": "解锁 Z 实验室"
+ },
+ {
+  "en": "Unlock the Z Lab.",
+  "zh": "解锁 Z 实验室。"
+ },
+ {
+  "en": "Unlock the ability to buy Set effect slots and Set type slots with dx.",
+  "zh": "解锁用 dx 购买集效果槽位和集类型槽位的能力。"
+ },
+ {
+  "en": "Unlock the ability to sacrifice assigned sets.",
+  "zh": "解锁献祭已分配集的能力。"
+ },
+ {
+  "en": "Unlock two new modes for the Y-Quadratic Automator.",
+  "zh": "解锁 Y-二次自动化器的两种新模式。"
+ },
+ {
+  "en": "Unlock y²z² in the Variable Synthesizer, which are used to charge Quadratic Upgrades, and automatically gain Limit Score.",
+  "zh": "在变量合成器中解锁 y²z²，它用于充能二次升级，并自动获得极限分数。"
+ },
+ {
+  "en": "Unpolluted",
+  "zh": "无污染"
+ },
+ {
+  "en": "Unreal Engine should be renamed to Imaginary Engine",
+  "zh": "Unreal Engine 应该改名叫虚数引擎"
+ },
+ {
+  "en": "Until Further Notice",
+  "zh": "直至另行通知"
+ },
+ {
+  "en": "Update left me broken, Tuesday I was through with hoping, Wednesday my empty tabs were open, Thursday waiting for v3.0 (Waiting for v3.0)",
+  "zh": "更新让我崩溃，周二我不再抱有希望，周三我打开空标签页，周四等待 v3.0（等待 v3.0）"
+ },
+ {
+  "en": "Upgrade",
+  "zh": "升级"
+ },
+ {
+  "en": "Upgrade #1",
+  "zh": "升级 #1"
+ },
+ {
+  "en": "Upgrade Points per second.",
+  "zh": "每秒升级点数。"
+ },
+ {
+  "en": "Upgrade Unlock Upgrade",
+  "zh": "升级解锁升级"
+ },
+ {
+  "en": "Upgrade for",
+  "zh": "升级用于"
+ },
+ {
+  "en": "Upgrade multiplier for",
+  "zh": "升级倍率用于"
+ },
+ {
+  "en": "Upgrade points are spent on the 12 Complex Upgrades that can be respecced.",
+  "zh": "升级点数用于 12 个可重新分配的复数升级。"
+ },
+ {
+  "en": "Upgradeless",
+  "zh": "无升级"
+ },
+ {
+  "en": "Upgradeless II",
+  "zh": "无升级 II"
+ },
+ {
+  "en": "Upgrades",
+  "zh": "升级"
+ },
+ {
+  "en": "Upgrades (v1.0)",
+  "zh": "升级 (v1.0)"
+ },
+ {
+  "en": "Upgrades are very important in Algebraic Progression, and are present throughout the entire game in many different forms.<br>\n        This section is updated as you unlock new Upgrade types.${player.integrations.gte(1) ?",
+  "zh": "升级在 Algebraic Progression 中非常重要，并且以多种不同形式贯穿整个游戏。<br>\n        本部分会随着你解锁新的升级类型而更新。${player.integrations.gte(1) ?"
+ },
+ {
+  "en": "Upgrades:",
+  "zh": "升级："
+ },
+ {
+  "en": "Upon reaching 180 total fractal spirals, the Minibrots subtab is unlocked. However, you need Fractal Arm Upgrade 81<br>\n        to be bought for Minibrots to start generating. Minibrots are a self-producing resource that replicates by a static<br>\n        multiplier each second. Once you reach the Minibrots cap, you cannot gain any more.<br><br>\n        At the Minibrots cap, you can reset your Minibrots for a Riemann sphere as long as your Riemann sphere count is<br>\n        below the max. Riemann spheres are reset on Mandelbrot.<br><br>\n        ${FractalArm.hasUpgrade(131) || player.integration.derivatives[2].gt(1) ?",
+  "zh": "当累计达到 180 个分形螺旋时，迷你曼德博子标签页解锁。不过，你需要购买分形臂升级 81<br>\n        迷你曼德博才会开始产出。迷你曼德博是一种自我产出资源，每秒以固定<br>\n        倍率复制。一旦达到迷你曼德博上限，你就无法再获得更多。<br><br>\n        在迷你曼德博上限处，只要你的黎曼球数量<br>\n        未达到最大值，你就可以将迷你曼德博重置为黎曼球。黎曼球在曼德博时重置。<br><br>\n        ${FractalArm.hasUpgrade(131) || player.integration.derivatives[2].gt(1) ?"
+ },
+ {
+  "en": "Uprooted",
+  "zh": "连根拔起"
+ },
+ {
+  "en": "Uprooted Delay",
+  "zh": "连根拔起延迟"
+ },
+ {
+  "en": "Uprooted Points",
+  "zh": "连根拔起点数"
+ },
+ {
+  "en": "Uprooted Progression",
+  "zh": "连根拔起进程"
+ },
+ {
+  "en": "Use",
+  "zh": "使用"
+ },
+ {
+  "en": "Use the 3 buttons above to purchase Upgrade Points with some of your previous currencies.",
+  "zh": "使用上方的 3 个按钮，用你之前的一些货币购买升级点数。"
+ },
+ {
+  "en": "Use the 3 buttons above to purchase quaternions with some of your previous currencies.",
+  "zh": "使用上方的 3 个按钮，用你之前的一些货币购买四元数。"
+ }
+]

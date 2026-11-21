@@ -1,0 +1,278 @@
+[
+  {
+    "en": "Go Quadratic",
+    "zh": "进入二次"
+  },
+  {
+    "en": "Enter Square Root",
+    "zh": "进入平方根"
+  },
+  {
+    "en": "Go Complex",
+    "zh": "进入复数"
+  },
+  {
+    "en": "Go Y-Quadratic",
+    "zh": "进入 Y-二次"
+  },
+  {
+    "en": "Buy Max Polynomials",
+    "zh": "最大化购买多项式"
+  },
+  {
+    "en": "Enter Synthetic Division",
+    "zh": "进入综合除法"
+  },
+  {
+    "en": "Toggle Temporal Plane activation",
+    "zh": "切换时间平面的激活状态"
+  },
+  {
+    "en": "Enter The Limit",
+    "zh": "进入极限"
+  },
+  {
+    "en": "Factor Polynomials",
+    "zh": "分解多项式"
+  },
+  {
+    "en": "Go Sinusoidal",
+    "zh": "进入正弦"
+  },
+  {
+    "en": "..unless you did something drastic.",
+    "zh": "..除非你做了什么极端的事。"
+  },
+  {
+    "en": "After buying X Upgrade 6, Buildings now produce the previous Building based on their bought amount.",
+    "zh": "购买 X 升级 6 后，建筑现在会根据其购买数量产出前一级建筑。"
+  },
+  {
+    "en": "For example, if you have 100 Point Portals, you would produce 100 Point Factories per second. This production can be",
+    "zh": "例如，如果你有 100 个点数传送门，你每秒将产出 100 个点数工厂。这种产出可以被"
+  },
+  {
+    "en": "sped up with a resource unlocked later.",
+    "zh": "用稍后解锁的资源来加速。"
+  },
+  {
+    "en": "The variable does not exist.",
+    "zh": "该变量不存在。"
+  },
+  {
+    "en": "y is bought with x. Its starting cost is 100x, and its cost is multiplied by 1.25 per purchase, rounded down.",
+    "zh": "y 用 x 购买。其初始消耗为 100x，每次购买后消耗乘以 1.25，向下取整。"
+  },
+  {
+    "en": "While y may not seem very helpful at first (since it has no upgrades), it plays a major role for x",
+    "zh": "虽然 y 起初看起来并不十分有用（因为它没有升级），但它对 x"
+  },
+  {
+    "en": "gain and for upgrade",
+    "zh": "的获得以及对升级"
+  },
+  {
+    "en": "effects in the future.",
+    "zh": "效果在将来起着重要作用。"
+  },
+  {
+    "en": "Variables are another currency alongside Points that also increase your Number. There are Variables in the game.",
+    "zh": "变量是除点数之外的另一种货币，也能提高你的数值。游戏中有若干变量。"
+  },
+  {
+    "en": "The exception Complex Upgrades , which have their own section .",
+    "zh": "例外是复数升级，它们有自己的章节。"
+  },
+  {
+    "en": "They also reset on Quadratic.",
+    "zh": "它们也会在二次时重置。"
+  },
+  {
+    "en": "Quadratic Upgrades:",
+    "zh": "二次升级："
+  },
+  {
+    "en": "Quadratic Upgrades are upgrades that can be bought with x",
+    "zh": "二次升级是可以用 x 购买的升级"
+  },
+  {
+    "en": "They are kept on Quadratic, and there are 20 in total.",
+    "zh": "它们在二次中保留，共 20 个。"
+  },
+  {
+    "en": "Square Root Upgrades:",
+    "zh": "平方根升级："
+  },
+  {
+    "en": "Square Root Upgrades are upgrades that can be bought with Root Essence.",
+    "zh": "平方根升级是可以用根精华购买的升级。"
+  },
+  {
+    "en": "They are kept on Quadratic, and there are 16 in total.",
+    "zh": "它们在二次中保留，共 16 个。"
+  },
+  {
+    "en": "Basic Complex Upgrades are upgrades that can be bought with i.",
+    "zh": "基础复数升级是可以用 i 购买的升级。"
+  },
+  {
+    "en": "They are kept on Quadratic and Complex, and there are 9 in total.",
+    "zh": "它们在二次和复数中保留，共 9 个。"
+  },
+  {
+    "en": "Y-Quadratic Upgrades are upgrades that can be bought with y",
+    "zh": "Y-二次升级是可以用 y 购买的升级"
+  },
+  {
+    "en": "They are kept on Quadratic, Complex, and Y-Quadratic, and there are 12 in total.",
+    "zh": "它们在二次、复数和 Y-二次中保留，共 12 个。"
+  },
+  {
+    "en": "Each Y-Quadratic Upgrade has a unique requirement for you to fulfill before you can buy them.",
+    "zh": "每项 Y-二次升级都有独特的要求，你需要先满足才能购买。"
+  },
+  {
+    "en": "Synthetic Division Upgrades:",
+    "zh": "综合除法升级："
+  },
+  {
+    "en": "Synthetic Division Upgrades are upgrades that can be bought with SE.",
+    "zh": "综合除法升级是可以用 SE 购买的升级。"
+  },
+  {
+    "en": "They are kept on Quadratic, Complex, and Y-Quadratic, and there are 10 in total.",
+    "zh": "它们在二次、复数和 Y-二次中保留，共 10 个。"
+  },
+  {
+    "en": "The top three are infinitely repeatable, and the rest are bought once.",
+    "zh": "前三个可以无限重复购买，其余只能购买一次。"
+  },
+  {
+    "en": "Sinusoidal Upgrades are upgrades that can be bought with triangles, and most can be purchased",
+    "zh": "正弦升级是可以用三角形购买的升级，大多数可以多次"
+  },
+  {
+    "en": "multiple times. They are kept on Quadratic, Complex, Y-Quadratic, Integration, and Sinusoidal, and there are 36 in total.",
+    "zh": "购买。它们在二次、复数、Y-二次、积分和正弦中保留，共 36 个。"
+  },
+  {
+    "en": "You can unlock new groups of Sinusoidal Upgrades with the top row of \"Graphing Cookbook\" upgrades.",
+    "zh": "你可以通过\"绘图手册\"升级的顶行解锁新的正弦升级组。"
+  },
+  {
+    "en": "Basic Hypercomplex Upgrades are upgrades that can be bought with k.",
+    "zh": "基础超复数升级是可以用 k 购买的升级。"
+  },
+  {
+    "en": "They are kept on Quadratic, Complex, Y-Quadratic, Integration, and Sinusoidal, and there are 12 in total.",
+    "zh": "它们在二次、复数、Y-二次、积分和正弦中保留，共 12 个。"
+  },
+  {
+    "en": "They multiply a currency by a static amount per purchase. There are two resource doublers and one resource tripler.",
+    "zh": "每次购买都会将某种货币乘以一个固定数值。共有两个资源倍增器和一个资源三倍器。"
+  },
+  {
+    "en": "Upgrade types are in subtabs with an identical or similar name, with exception being X Upgrades (found in the Upgrades tab)",
+    "zh": "升级类型位于名称相同或相近的子标签页中，例外是 X 升级（位于升级标签页中）"
+  },
+  {
+    "en": "Additionally, the g(n) and h(n) bases are softcapped at 50,000,000 if you have Dilations active.",
+    "zh": "此外，如果你激活了膨胀，g(n) 和 h(n) 的底数将在 50,000,000 处触及软上限。"
+  },
+  {
+    "en": "X Factor Softcap:",
+    "zh": "X 因子软上限："
+  },
+  {
+    "en": ",0)/1e21), softcaps when the effect ≥ 1e150 and 1e1000",
+    "zh": ",0)/1e21)，当效果 ≥ 1e150 和 1e1000 时触及软上限"
+  },
+  {
+    "en": ", softcaps when effect ≥ 1e15, 1e1111, and 1e20000",
+    "zh": "，当效果 ≥ 1e15、1e1111 和 1e20000 时触及软上限"
+  },
+  {
+    "en": "This will eventually become a large multiplier to your Point gain.",
+    "zh": "这最终将成为你点数获得的一个巨大倍率。"
+  },
+  {
+    "en": "(sac. z / 5)^1.5 + 1, softcaps when effect ≥ 200",
+    "zh": "(sac. z / 5)^1.5 + 1，当效果 ≥ 200 时触及软上限"
+  },
+  {
+    "en": "Y-Intercept (b):",
+    "zh": "Y 轴截距 (b)："
+  },
+  {
+    "en": "b is a three-effect purchaseable resource that can be bought with slope.",
+    "zh": "b 是一种具有三种效果的可购买资源，可以用斜率购买。"
+  },
+  {
+    "en": "Transformations:",
+    "zh": "变换："
+  },
+  {
+    "en": "Transformations are additional purchaseable resources that are also bought with slope.",
+    "zh": "变换是额外的可购买资源，同样可以用斜率购买。"
+  },
+  {
+    "en": "Each Transformation boosts a specific sacrificed currency, but only one can be active at a time.",
+    "zh": "每种变换都会加成一种特定的已献祭货币，但同一时间只能激活一种。"
+  },
+  {
+    "en": "Unlike the previous extensions to Coordinate , Transformations are kept on Complex.",
+    "zh": "与之前对坐标的扩展不同，变换在复数中保留。"
+  },
+  {
+    "en": "Dilations:",
+    "zh": "膨胀："
+  },
+  {
+    "en": "Eventually, you unlock Dilations, which boost the sacrificed Z effect.",
+    "zh": "最终，你会解锁膨胀，它能加成已献祭的 Z 效果。"
+  },
+  {
+    "en": "Also, each Dilation adds 0.01 to a multiplier to all other Transformation effects, capping at 1.15x, even if Dilations aren't active.",
+    "zh": "此外，每种膨胀都会为所有其他变换效果的倍率增加 0.01，上限为 1.15 倍，即使膨胀未激活也是如此。"
+  },
+  {
+    "en": "In Coordinate , x can be sacrificed to gain additional bonuses. You can only increase your sacrificed x/y",
+    "zh": "在坐标中，x 可以被献祭以获得额外加成。你只能提高你已献祭的 x/y"
+  },
+  {
+    "en": "if your current x/y amount is greater than the sacrificed amount. Don't let the word \"sacrifice\" deter you from using",
+    "zh": "前提是你当前的 x/y 数量大于已献祭的数量。不要让\"献祭\"一词阻止你使用"
+  },
+  {
+    "en": "Square Root Hardcap:",
+    "zh": "平方根硬上限："
+  },
+  {
+    "en": "You can only gain up to points in Square Root, including Root Epicenter levels.",
+    "zh": "在平方根中你最多只能获得点数，包括根震中等级。"
+  },
+  {
+    "en": "Imaginary Power (IP):",
+    "zh": "虚数能量 (IP)："
+  },
+  {
+    "en": "Imaginary Power, when unlocked, only generates if ax",
+    "zh": "虚数能量在解锁后，仅当 ax"
+  },
+  {
+    "en": "+bx+c=0 outputs a nonreal solution.",
+    "zh": "+bx+c=0 得出非实数解时才会产出。"
+  },
+  {
+    "en": "\"Production Augmenter\" Cost Formula:",
+    "zh": "\"产出增幅器\"消耗公式："
+  },
+  {
+    "en": "\"Chemical Accelerator\" Cost Formula:",
+    "zh": "\"化学加速器\"消耗公式："
+  },
+  {
+    "en": "(caps at 10 purchases)",
+    "zh": "（购买上限为 10 次）"
+  }
+]

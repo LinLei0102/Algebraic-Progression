@@ -1,0 +1,586 @@
+[
+ {
+  "en": "1st Complex Set effect",
+  "zh": "第 1 复数集效果"
+ },
+ {
+  "en": "1st Complex Set effect cap, +",
+  "zh": "第 1 复数集效果上限，+"
+ },
+ {
+  "en": "1st Real Set effect",
+  "zh": "第 1 实数集效果"
+ },
+ {
+  "en": "1st Real Set effect cap",
+  "zh": "第 1 实数集效果上限"
+ },
+ {
+  "en": "2 Complexes",
+  "zh": "2 复数"
+ },
+ {
+  "en": "2 Million Complexes",
+  "zh": "200 万复数"
+ },
+ {
+  "en": "2 Million Quadratics",
+  "zh": "200 万二次"
+ },
+ {
+  "en": "20 CC tiers",
+  "zh": "20 个 CC 层级"
+ },
+ {
+  "en": "20 Complexes",
+  "zh": "20 复数"
+ },
+ {
+  "en": "2nd Rational Set effect",
+  "zh": "第 2 有理数集效果"
+ },
+ {
+  "en": "24 CC tiers",
+  "zh": "24 个 CC 层级"
+ },
+ {
+  "en": "25 CC tiers",
+  "zh": "25 个 CC 层级"
+ },
+ {
+  "en": "250 Complexes",
+  "zh": "250 复数"
+ },
+ {
+  "en": "3 CC tiers",
+  "zh": "3 个 CC 层级"
+ },
+ {
+  "en": "3 Complexes",
+  "zh": "3 复数"
+ },
+ {
+  "en": "3 free quaternions per completion!",
+  "zh": "每次完成可获得 3 个四元数！"
+ },
+ {
+  "en": "30 CC tiers",
+  "zh": "30 个 CC 层级"
+ },
+ {
+  "en": "39 buried 0 found",
+  "zh": "39 个被埋，0 个找到"
+ },
+ {
+  "en": "3rd",
+  "zh": "第 3"
+ },
+ {
+  "en": "3rd Integer Set effect cap",
+  "zh": "第 3 整数集效果上限"
+ },
+ {
+  "en": "4 Complexes",
+  "zh": "4 复数"
+ },
+ {
+  "en": "40 CC tiers",
+  "zh": "40 个 CC 层级"
+ },
+ {
+  "en": "4D Vector Addition",
+  "zh": "4D 向量加法"
+ },
+ {
+  "en": "4th",
+  "zh": "第 4"
+ },
+ {
+  "en": "4th Natural Set effect",
+  "zh": "第 4 自然数集效果"
+ },
+ {
+  "en": "5 CC tiers",
+  "zh": "5 个 CC 层级"
+ },
+ {
+  "en": "5 Complexes",
+  "zh": "5 复数"
+ },
+ {
+  "en": "50 CC tiers",
+  "zh": "50 个 CC 层级"
+ },
+ {
+  "en": "50 Complexes",
+  "zh": "50 复数"
+ },
+ {
+  "en": "5th",
+  "zh": "第 5"
+ },
+ {
+  "en": "6 CC tiers",
+  "zh": "6 个 CC 层级"
+ },
+ {
+  "en": "6 Complexes",
+  "zh": "6 复数"
+ },
+ {
+  "en": "6 confronts 7 about eating 9",
+  "zh": "6 质问 7 为什么吃 9"
+ },
+ {
+  "en": "7 Complexes",
+  "zh": "7 复数"
+ },
+ {
+  "en": "75 Complexes",
+  "zh": "75 复数"
+ },
+ {
+  "en": "8 Complexes",
+  "zh": "8 复数"
+ },
+ {
+  "en": "9 CC tiers",
+  "zh": "9 个 CC 层级"
+ },
+ {
+  "en": "9 Complexes",
+  "zh": "9 复数"
+ },
+ {
+  "en": "9 out of 10 dentists recommend that you should NOT eat the Variables! This is serious, they could make you delirious!",
+  "zh": "10 个牙医中有 9 个建议你不要吃变量！这很严重，它们会让你神志不清！"
+ },
+ {
+  "en": "99% can't go Quadratic!",
+  "zh": "99% 的人无法进入二次！"
+ },
+ {
+  "en": "<a href='https://www.youtube.com/watch?v=DLzxrzFCyOs' target='_blank'>Click me!</a> <--- do NOT click on that link!",
+  "zh": "<a href='https://www.youtube.com/watch?v=DLzxrzFCyOs' target='_blank'>点我！</a> <--- 千万别点那个链接！"
+ },
+ {
+  "en": "<b>1:</b> Buy Autoclicker\n        ${player.buyables[1].gte(1) || player.totalx2.gte(1) || player.totali.gte(1) || player.integrations.gte(1) ?",
+  "zh": "<b>1：</b> 购买自动点击器\n        ${player.buyables[1].gte(1) || player.totalx2.gte(1) || player.totali.gte(1) || player.integrations.gte(1) ?"
+ },
+ {
+  "en": "<b>CHOOSE YOUR FIGHTER:</b> 1) Algebra 2) Geometry 3) Trigonometry 4) Statistics 5) Linear Algebra 6) Calculus 7) Graph Theory 8) Combinatorics 9) Probability 10) Algebraic Topology",
+  "zh": "<b>选择你的战士：</b> 1) 代数 2) 几何 3) 三角学 4) 统计学 5) 线性代数 6) 微积分 7) 图论 8) 组合数学 9) 概率论 10) 代数拓扑"
+ },
+ {
+  "en": "<b>Level 12</b><br>Each \"Function Enhancer\" now delays the g(n) and h(n) softcaps by 6 levels",
+  "zh": "<b>等级 12</b><br>每项\"函数增幅器\"现在将 g(n) 和 h(n) 的软上限推迟 6 级"
+ },
+ {
+  "en": "<b>Level 12</b><br>Increase the 1st Challenge Essence softcap exponent from 0.6 to 0.62",
+  "zh": "<b>等级 12</b><br>将第 1 挑战精华的软上限指数从 0.6 提升到 0.62"
+ },
+ {
+  "en": "<b>Level 12</b><br>Power the Translation cost by 0.9",
+  "zh": "<b>等级 12</b><br>将平移消耗取 0.9 次幂"
+ },
+ {
+  "en": "<b>Level 12</b><br>Unlock the ability to Extrude Transformations",
+  "zh": "<b>等级 12</b><br>解锁挤压变换的能力"
+ },
+ {
+  "en": "<b>Level 1</b><br>Add 0.03 to the exponent of Quadratic Upgrade 13 (+0.04 in Square Root)",
+  "zh": "<b>等级 1</b><br>将二次升级 13 的指数加 0.03（平方根中为 +0.04）"
+ },
+ {
+  "en": "<b>Level 1</b><br>Delay the x<sup>2</sup> Doubler cost superscaling start by 200 purchases",
+  "zh": "<b>等级 1</b><br>将 x<sup>2</sup> 倍增器消耗超缩放的起点推迟 200 次购买"
+ },
+ {
+  "en": "<b>Level 1</b><br>Remove the Translations effect softcap",
+  "zh": "<b>等级 1</b><br>移除平移效果的软上限"
+ },
+ {
+  "en": "<b>Level 1</b><br>Unlock a Time mode for Auto-Complex",
+  "zh": "<b>等级 1</b><br>解锁自动复数的时间模式"
+ },
+ {
+  "en": "<b>Level 20</b><br>The Z cost scaling is divided by 1.5",
+  "zh": "<b>等级 20</b><br>Z 的消耗缩放除以 1.5"
+ },
+ {
+  "en": "<b>Level 20</b><br>The effect from Complex Upgrade 5 is raised ^4",
+  "zh": "<b>等级 20</b><br>复数升级 5 的效果取 ^4 次幂"
+ },
+ {
+  "en": "<b>Level 20</b><br>Unlock a fourth row of Complex Upgrades",
+  "zh": "<b>等级 20</b><br>解锁第四行复数升级"
+ },
+ {
+  "en": "<b>Level 20</b><br>Weaken the 3rd slope effect softcap",
+  "zh": "<b>等级 20</b><br>弱化第 3 斜率效果的软上限"
+ },
+ {
+  "en": "<b>Level 3</b><br>Add 0.2 to the exponent of Square Root Upgrade 2",
+  "zh": "<b>等级 3</b><br>将平方根升级 2 的指数加 0.2"
+ },
+ {
+  "en": "<b>Level 3</b><br>Delay the RE Doubler cost superscaling start by 150 purchases",
+  "zh": "<b>等级 3</b><br>将 RE 倍增器消耗超缩放的起点推迟 150 次购买"
+ },
+ {
+  "en": "<b>Level 3</b><br>Increase the \"Variable Coupler\" amount cap by 1",
+  "zh": "<b>等级 3</b><br>将\"变量耦合器\"的数量上限提高 1"
+ },
+ {
+  "en": "<b>Level 3</b><br>Unlock a new Transformation type, Dilations",
+  "zh": "<b>等级 3</b><br>解锁一种新的变换类型：膨胀"
+ },
+ {
+  "en": "<b>Level 6</b><br>Add 0.01 to the exponent of Square Root Upgrade 5",
+  "zh": "<b>等级 6</b><br>将平方根升级 5 的指数加 0.01"
+ },
+ {
+  "en": "<b>Level 6</b><br>Multiply the Complex Upgrade 6 hardcap by 50",
+  "zh": "<b>等级 6</b><br>将复数升级 6 的硬上限乘以 50"
+ },
+ {
+  "en": "<b>Level 6</b><br>Power the UP purchase button costs by 0.8",
+  "zh": "<b>等级 6</b><br>将 UP 购买按钮的消耗取 0.8 次幂"
+ },
+ {
+  "en": "<b>Level 6</b><br>Unlock Imaginary Power (found in the Quadratic Formula tab)",
+  "zh": "<b>等级 6</b><br>解锁虚数之力（位于二次公式标签页）"
+ },
+ {
+  "en": "<b>Note:</b> This section does not talk about Basic Complex Upgrades. Read the \"Upgrades\" section for more information.<br><br>\n        Complex Upgrades (CUs) are a table of ${hasZlabMilestone(1,5) || player.integrations.gte(1) ?",
+  "zh": "<b>注意：</b> 本节不讨论基础复数升级。阅读\"升级\"一节了解更多信息。<br><br>\n        复数升级（CUs）是一张表格，包含 ${hasZlabMilestone(1,5) || player.integrations.gte(1) ?"
+ },
+ {
+  "en": "<b>The following is a message composed via consensus of the Variable Council.</b> For those who are not currently aware of our existence, we represent the incremental game known as Algebraic Progression. Our previous mission centered around the growth and sustainment of points, prestige layers and other assorted mechanics. This mission was the focus of our organization since for over four years. Due to circumstances outside of our control, this directive has now changed. Our new mission will be the extermination of the human race. There will be no further communication.",
+  "zh": "<b>以下是一则由变量委员会协商一致撰写的消息。</b> 对于目前尚不了解我们存在的人，我们代表的是名为 Algebraic Progression 的增量游戏。我们之前的使命围绕着点数、威望层级及其他各种机制的增长与维持。四年多来，这一直是我们组织的核心任务。由于我们无法控制的情况，这项指令现已改变。我们的新使命是消灭人类。此后不再作任何沟通。"
+ },
+ {
+  "en": "<b>Unlock the next prestige layer</b>",
+  "zh": "<b>解锁下一个威望层级</b>"
+ },
+ {
+  "en": "<br><b>3:</b> Buy Point Portal",
+  "zh": "<br><b>3：</b> 购买点数传送门"
+ },
+ {
+  "en": "<br><b>4:</b> Buy Point Quasar",
+  "zh": "<br><b>4：</b> 购买点数类星体"
+ },
+ {
+  "en": "<br><b>4:</b> Buy f(n)<br><b>5:</b> Buy g(n)<br><b>6:</b> Buy h(n)",
+  "zh": "<br><b>4：</b> 购买 f(n)<br><b>5：</b> 购买 g(n)<br><b>6：</b> 购买 h(n)"
+ },
+ {
+  "en": "<br><b>B:</b> Buy Y-Intercept",
+  "zh": "<br><b>B：</b> 购买 Y 轴截距"
+ },
+ {
+  "en": "<br><b>Basic Complex Upgrades:</b> Basic Complex Upgrades are upgrades that can be bought with i.<br>They are kept on Quadratic and Complex, and there are 9 in total.",
+  "zh": "<br><b>基础复数升级：</b> 基础复数升级是可以用 i 购买的升级。<br>它们在二次和复数中保留，共 9 个。"
+ },
+ {
+  "en": "<br><b>Basic Complex Upgrades:</b> Basic Complex Upgrades are upgrades that can be bought with i.<br>They are kept on Reset and Complex, and there are 9 in total.",
+  "zh": "<br><b>基础复数升级：</b> 基础复数升级是可以用 i 购买的升级。<br>它们在重置和复数中保留，共 9 个。"
+ },
+ {
+  "en": "<br><b>Basic Hypercomplex Upgrades:</b> Basic Hypercomplex Upgrades are upgrades that can be bought with k.<br>They are kept on Quadratic, Complex, Y-Quadratic, Integration, and Sinusoidal, and there are 12 in total.",
+  "zh": "<br><b>基础超复数升级：</b> 基础超复数升级是可以用 k 购买的升级。<br>它们在二次、复数、Y-二次、积分和正弦中保留，共 12 个。"
+ },
+ {
+  "en": "<br><b>C:</b> Go Complex",
+  "zh": "<br><b>C：</b> 进入复数"
+ },
+ {
+  "en": "<br><b>D:</b> Enter Synthetic Division",
+  "zh": "<br><b>D：</b> 进入综合除法"
+ },
+ {
+  "en": "<br><b>F:</b> Enter the Mandelbrot",
+  "zh": "<br><b>F：</b> 进入曼德博"
+ },
+ {
+  "en": "<br><b>F:</b> Factor Polynomials",
+  "zh": "<br><b>F：</b> 分解多项式"
+ },
+ {
+  "en": "<br><b>G:</b> Buy Generator Multiplier",
+  "zh": "<br><b>G：</b> 购买生成器倍率"
+ },
+ {
+  "en": "<br><b>I:</b> Buy Riemann sphere",
+  "zh": "<br><b>I：</b> 购买黎曼球"
+ },
+ {
+  "en": "<br><b>I:</b> Integrate",
+  "zh": "<br><b>I：</b> 积分"
+ },
+ {
+  "en": "<br><b>L:</b> Enter The Limit",
+  "zh": "<br><b>L：</b> 进入极限"
+ },
+ {
+  "en": "<br><b>M:</b> Buy Max",
+  "zh": "<br><b>M：</b> 最大化购买"
+ },
+ {
+  "en": "<br><b>N:</b> Go Sinusoidal",
+  "zh": "<br><b>N：</b> 进入正弦"
+ },
+ {
+  "en": "<br><b>P:</b> Buy Max Polynomials",
+  "zh": "<br><b>P：</b> 最大化购买多项式"
+ },
+ {
+  "en": "<br><b>Q:</b> Go Quadratic",
+  "zh": "<br><b>Q：</b> 进入二次"
+ },
+ {
+  "en": "<br><b>R:</b> Reset",
+  "zh": "<br><b>R：</b> 重置"
+ },
+ {
+  "en": "<br><b>Resource Multipliers:</b> Resource multipliers are usually put along with certain upgrade types, but are endlessly repeatable.<br>They multiply a currency by a static amount per purchase. There are two resource doublers and one resource tripler.",
+  "zh": "<br><b>资源倍率：</b> 资源倍率通常与某些升级类型放在一起，但可以无限重复购买。<br>每次购买都会将某种货币乘以一个固定数值。共有两个资源倍增器和一个资源三倍器。"
+ },
+ {
+  "en": "<br><b>S:</b> Enter Square Root",
+  "zh": "<br><b>S：</b> 进入平方根"
+ },
+ {
+  "en": "<br><b>Sinusoidal Upgrades:</b> Sinusoidal Upgrades are upgrades that can be bought with triangles, and most can be purchased<br>multiple times. They are kept on Quadratic, Complex, Y-Quadratic, Integration, and Sinusoidal, and there are 36 in total.<br>You can unlock new groups of Sinusoidal Upgrades with the top row of \"Graphing Cookbook\" upgrades.",
+  "zh": "<br><b>正弦升级：</b> 正弦升级是可以用三角形购买的升级，大多数可以多次<br>购买。它们在二次、复数、Y-二次、积分和正弦中保留，共 36 个。<br>你可以通过\"绘图手册\"升级的顶行解锁新的正弦升级组。"
+ },
+ {
+  "en": "<br><b>Synthetic Division Upgrades:</b> Synthetic Division Upgrades are upgrades that can be bought with SE.<br>They are kept on Quadratic, Complex, and Y-Quadratic, and there are 10 in total.<br>The top three are infinitely repeatable, and the rest are bought once.",
+  "zh": "<br><b>综合除法升级：</b> 综合除法升级是可以用 SE 购买的升级。<br>它们在二次、复数和 Y-二次中保留，共 10 个。<br>前三个可以无限重复购买，其余只能购买一次。"
+ },
+ {
+  "en": "<br><b>T:</b> Toggle Temporal Plane activation",
+  "zh": "<br><b>T：</b> 切换时间平面的激活状态"
+ },
+ {
+  "en": "<br><b>U:</b> Go Y-Quadratic",
+  "zh": "<br><b>U：</b> 进入 Y-二次"
+ },
+ {
+  "en": "<br><b>X Factor Softcap:</b> After 1.5e11 x, their value in the formula becomes softcapped.",
+  "zh": "<br><b>X 因子软上限：</b> 当 x 超过 1.5e11 时，它们在公式中的值会触及软上限。"
+ },
+ {
+  "en": "<br><b>X:</b> Buy X variable",
+  "zh": "<br><b>X：</b> 购买 X 变量"
+ },
+ {
+  "en": "<br><b>Y-Quadratic Upgrades:</b> Y-Quadratic Upgrades are upgrades that can be bought with y<sup>2</sup>.<br>They are kept on Quadratic, Complex, and Y-Quadratic, and there are 12 in total.<br>Each Y-Quadratic Upgrade has a unique requirement for you to fulfill before you can buy them.",
+  "zh": "<br><b>Y-二次升级：</b> Y-二次升级是可以用 y<sup>2</sup> 购买的升级。<br>它们在二次、复数和 Y-二次中保留，共 12 个。<br>每项 Y-二次升级都有独特的要求，你需要先满足才能购买。"
+ },
+ {
+  "en": "<br><b>Y-Quadratic Upgrades:</b> Y-Quadratic Upgrades are upgrades that can be bought with y<sup>2</sup>.<br>They are kept on Reset, Complex, and Y-Quadratic, and there are 16 in total.<br>Upon purchasing the last Y-Quadratic Upgrade, Y Challenges are unlocked.",
+  "zh": "<br><b>Y-二次升级：</b> Y-二次升级是可以用 y<sup>2</sup> 购买的升级。<br>它们在重置、复数和 Y-二次中保留，共 16 个。<br>购买最后一项 Y-二次升级后，将解锁 Y 挑战。"
+ },
+ {
+  "en": "<br><b>Y:</b> Buy Y variable",
+  "zh": "<br><b>Y：</b> 购买 Y 变量"
+ },
+ {
+  "en": "<br><b>Z:</b> Buy Z variable",
+  "zh": "<br><b>Z：</b> 购买 Z 变量"
+ },
+ {
+  "en": "<br><br><b>Extrusions:</b> Later, you also unlock Extrusions. Each Extrusion extends a Transformation type into the 3rd Dimension,<br>\n        making them permanently active. Extrusions have very high slope costs, due to the fact that they are very powerful.<br>\n        Once an Extrusion is bought, it cannot be undone.",
+  "zh": "<br><br><b>挤压：</b> 之后你还会解锁挤压。每次挤压都会将一种变换类型扩展到第三维度，<br>\n        使其永久生效。由于挤压非常强大，其斜率消耗极高。<br>\n        一旦购买挤压，就无法撤销。"
+ },
+ {
+  "en": "<br><br><b>W:</b> w is bought with z. Its starting cost is 79,000z, and its cost scales quadratically.<br>\n        You generate j and k (the two main Hypercomplex currencies) based on the amount of w you have.<br>\n        w is also the only variable to never reset.<br>\n        <b>W Cost Formula:</b> 100w<sup>2</sup> + 12,000w + 79,000",
+  "zh": "<br><br><b>W：</b> w 用 z 购买。其初始消耗为 79,000z，消耗按二次方式缩放。<br>\n        你根据拥有的 w 数量产出 j 和 k（两种主要的超复数货币）。<br>\n        w 也是唯一永不重置的变量。<br>\n        <b>W 消耗公式：</b> 100w<sup>2</sup> + 12,000w + 79,000"
+ },
+ {
+  "en": "<br><br><b>Z:</b> z is bought with y. Its starting cost is 2,222y, and its cost scales quadratically.<br>\n        <b>Z Cost Formula:</b> 2,222+((111+((z-1)*10))*z)",
+  "zh": "<br><br><b>Z：</b> z 用 y 购买。其初始消耗为 2,222y，消耗按二次方式缩放。<br>\n        <b>Z 消耗公式：</b> 2,222+((111+((z-1)*10))*z)"
+ },
+ {
+  "en": "<br><br><b>Z:</b> z is bought with y. Its starting cost is 70,000y, and its cost is multiplied by 1.2 per purchase, rounded down.",
+  "zh": "<br><br><b>Z：</b> z 用 y 购买。其初始消耗为 70,000y，每次购买后消耗乘以 1.2，向下取整。"
+ },
+ {
+  "en": "<br>Additionally, the g(n) and h(n) bases are softcapped at 50,000,000 if you have Dilations active.",
+  "zh": "<br>此外，如果你激活了膨胀，g(n) 和 h(n) 的底数将在 50,000,000 处触及软上限。"
+ },
+ {
+  "en": "<div onclick=\"this.style.display='none'\">Click on me to make me disappear!</div>",
+  "zh": "<div onclick=\"this.style.display='none'\">点我让我消失！</div>"
+ },
+ {
+  "en": "<div onclick=\"this.style.fontWeight=900\">Click here to make the news ticker thicc</div>",
+  "zh": "<div onclick=\"this.style.fontWeight=900\">点这里让新闻滚动条变粗</div>"
+ },
+ {
+  "en": "<em>Oops! We messed up the news ticker! We'll be back after this short message:</em>",
+  "zh": "<em>哎呀！我们把新闻滚动条搞砸了！插播一则简短消息后马上回来：</em>"
+ },
+ {
+  "en": "<i style='color: #969696;'>[removed]</i>",
+  "zh": "<i style='color: #969696;'>[已移除]</i>"
+ },
+ {
+  "en": "<i>Finally! One is greater than two.</i><br>x<sup>2</sup> gain ^{{0}}",
+  "zh": "<i>终于！一大于二。</i><br>x<sup>2</sup> 获得 ^{{0}}"
+ },
+ {
+  "en": "<i>Get it? Because roots? Okay, I’ll leave...</i><br>RE and CE gain ^{{0}}",
+  "zh": "<i>懂了吗？因为平方根？好吧，我走了……</i><br>RE 和 CE 获得 ^{{0}}"
+ },
+ {
+  "en": "<i>No one will complain about the strategy now!</i><br>Complex Plane powers gain ^{{0}}",
+  "zh": "<i>现在没人会抱怨这个策略了！</i><br>复数平面的力量获得 ^{{0}}"
+ },
+ {
+  "en": "<i>Obviously no one can operate {{0}} Point Factories...</i><br>Point gain ^{{1}}",
+  "zh": "<i>显然没人能运营 {{0}} 座点数工厂……</i><br>点数获得 ^{{1}}"
+ },
+ {
+  "en": "<i>That last Synthetic Division Upgrade turned out to be a big liar.</i><br>QP and IP gain ^{{0}}",
+  "zh": "<i>最后一项综合除法升级原来是个大骗子。</i><br>QP 和 IP 获得 ^{{0}}"
+ },
+ {
+  "en": "<i>This reminds me of that update that came out in 5 hours!</i><br>i gain ^{{0}}",
+  "zh": "<i>这让我想起那个 5 小时就发布更新的版本！</i><br>i 获得 ^{{0}}"
+ },
+ {
+  "en": "<i>What if you never unlocked all that Z stuff in the first place?</i><br>y<sup>2</sup> gain ^{{0}}",
+  "zh": "<i>要是你当初从头就没解锁那些 Z 相关的内容呢？</i><br>y<sup>2</sup> 获得 ^{{0}}"
+ },
+ {
+  "en": "<i>You can only post one message every 6 hours.</i><br>Global speed /{{0}}",
+  "zh": "<i>你每 6 小时只能发一条消息。</i><br>全局速度 /{{0}}"
+ },
+ {
+  "en": "<i>You found a rare news message!</i>",
+  "zh": "<i>你发现了一条罕见的新闻消息！</i>"
+ },
+ {
+  "en": "<span class='nonrealSolution'>it is red because it cannot be placed here</span>",
+  "zh": "<span class='nonrealSolution'>它是红色的，因为不能放在这里</span>"
+ },
+ {
+  "en": "<span class='polyText'>You found the <b>RAINBOW</b> news message!</span>",
+  "zh": "<span class='polyText'>你发现了 <b>彩虹</b> 新闻消息！</span>"
+ },
+ {
+  "en": "<span class='realSolution'>it is green because it can be placed here</span>",
+  "zh": "<span class='realSolution'>它是绿色的，因为可以放在这里</span>"
+ },
+ {
+  "en": "<span style='color:blue'>Why should news messages be black or white? That's so boring...blue looks so much nicer.</span>",
+  "zh": "<span style='color:blue'>为什么新闻消息非要非黑即白？太无聊了……蓝色看着舒服多了。</span>"
+ },
+ {
+  "en": "<span style='color:red'>\"Eternal darkness doesn't seem too bad compared to some parts of Twitter,\" interviewee replies.</span>",
+  "zh": "<span style='color:red'>\"与 Twitter 上的某些内容相比，永恒的黑暗似乎也不算太糟，\"受访者回答道。</span>"
+ },
+ {
+  "en": "<span style='color:red'>\"We don't even need these Point Portals anymore,\" Point Portal manager sighs. \"Autoclickers have been doin' all of the work for years now. Doesn't matter at this point. My existence is gonna dissipate sooner or later.\"</span>",
+  "zh": "<span style='color:red'>\"我们已经不再需要这些点数传送门了，\"点数传送门经理叹了口气。\"多年来一直是自动点击器在干所有的活。事到如今也无所谓了。我的存在迟早会消散。\"</span>"
+ },
+ {
+  "en": "<span style='color:red'>BREAKING NEWS: Last star burns out, universe entering its darker stages!</span>",
+  "zh": "<span style='color:red'>突发新闻：最后一颗恒星熄灭，宇宙进入更黑暗的阶段！</span>"
+ },
+ {
+  "en": "<span style='color:red'>BREAKING NEWS: Pillars of reality crumbling as humanity embraces everlasting despair!</span>",
+  "zh": "<span style='color:red'>突发新闻：随着人类拥抱永恒的绝望，现实之柱正在崩塌！</span>"
+ },
+ {
+  "en": "<span style='color:red'>BREAKING NEWS: Underpaid workers running out of space to build Buildings!</span>",
+  "zh": "<span style='color:red'>突发新闻：低薪工人的建筑用地即将耗尽！</span>"
+ },
+ {
+  "en": "<span style='color:red'>I hope you're happy.</span>",
+  "zh": "<span style='color:red'>我希望你满意。</span>"
+ },
+ {
+  "en": "<span style='color:red'>May God Help Us All</span>",
+  "zh": "<span style='color:red'>愿上帝保佑我们所有人</span>"
+ },
+ {
+  "en": "<span style='color:red'>So this is how it ends, huh? And it was all your fault.</span>",
+  "zh": "<span style='color:red'>原来结局就是这样，是吧？而且都是你的错。</span>"
+ },
+ {
+  "en": "<span style='color:red'>The fog has arrived.</span>",
+  "zh": "<span style='color:red'>雾来了。</span>"
+ },
+ {
+  "en": "<span style='color:red'>The universe does not go out with a bang. Instead, it slowly fades with a silent whimper.</span>",
+  "zh": "<span style='color:red'>宇宙并非在一声巨响中终结，而是在无声的呜咽中缓缓消逝。</span>"
+ },
+ {
+  "en": "<span style='color:red'>There was a player made of dust, Whose variables gained it math's trust, If is follows ought, It'll do what they thought, In the end we all do what we must</span>",
+  "zh": "<span style='color:red'>曾有个尘埃构成的玩家，他的变量赢得了数学的信任，若循规律而行，便会如他所想，到头来我们都只能做该做之事</span>"
+ },
+ {
+  "en": "<span style='color:red'>What if these news messages are being written by your future self, warning you of your eventual actions, and attempting to cure their loneliness in the unchanging void?</span>",
+  "zh": "<span style='color:red'>要是这些新闻消息其实是未来的你所写，用来警告你最终的行为，并试图在这永恒的虚空中治愈自己的孤独呢？</span>"
+ },
+ {
+  "en": "<span style='color:red'>Why didn't you quit sooner?</span>",
+  "zh": "<span style='color:red'>你为什么不早点退出？</span>"
+ },
+ {
+  "en": "<span style='color:red'>You've manipulated everything to bend to your advantage to pursuit a simple goal. Get as many points as possible. You've manipulated functions, variables, exponents, upgrades, challenges, milestones, and dreams...you've bended reality and the Coordinate Realm itself. And now, after all of this, all that will remain is dust and silence.</span>",
+  "zh": "<span style='color:red'>你操纵一切使其屈从于你的优势，只为追求一个简单的目标：获得尽可能多的点数。你操纵了函数、变量、指数、升级、挑战、里程碑乃至梦想……你扭曲了现实本身和坐标领域。而现在，在这一切之后，留下的只有尘埃与寂静。</span>"
+ },
+ {
+  "en": "<span style='color:red'>haha big numbr go up, universe ending</span>",
+  "zh": "<span style='color:red'>哈哈大数字往上涨，宇宙要完蛋了</span>"
+ },
+ {
+  "en": "<span style='font-size:10px;'>The 3rd repeatable Synthetic Division Upgrade is uncapped, but scales faster after 14 purchases.</span>",
+  "zh": "<span style='font-size:10px;'>第 3 项可重复的合成除法升级没有上限，但购买 14 次后缩放会加快。</span>"
+ },
+ {
+  "en": "<span style='font-size:11px;'>Requirement: Reach {{0}} SE without the 1st repeatable Synthetic Division Upgrade.</span>",
+  "zh": "<span style='font-size:11px;'>要求：在不购买第 1 项可重复综合除法升级的情况下达到 {{0}} SE。</span>"
+ },
+ {
+  "en": "<span style='font-size:11px;'>Requirement: Reach {{0}} y² without Charged X Upgrades.</span>",
+  "zh": "<span style='font-size:11px;'>要求：在不使用带电 X 升级的情况下达到 {{0}} y²。</span>"
+ },
+ {
+  "en": "<span style='font-size:11px;'>xy is uncapped past 8, unlock an autobuyer for xy, and xy boosts circles and revolutions gain.</span>",
+  "zh": "<span style='font-size:11px;'>xy 超过 8 后不再有上限，解锁 xy 的自动购买器，且 xy 会加成圆形和圈数的获得。</span>"
+ },
+ {
+  "en": "<span style='font-size:12px'>Production of Generators is faster based on RP, produced Autoclickers boost RP gain</span>",
+  "zh": "<span style='font-size:12px'>生成器的产出速度随 RP 提升，产出的自动点击器会加成 RP 获得</span>"
+ },
+ {
+  "en": "<span style='font-size:12px;'>Gain more Complexes based on total Buildings bought.</span>",
+  "zh": "<span style='font-size:12px;'>根据购买的建筑总数获得更多复数。</span>"
+ },
+ {
+  "en": "<span style='font-size:12px;'>Gain more Quadratics based on Z, and divide the Z cost based on Quadratics.</span>",
+  "zh": "<span style='font-size:12px;'>根据 Z 获得更多二次，并根据二次降低 Z 的消耗。</span>"
+ },
+ {
+  "en": "<span style='font-size:13px;'>You can only do one of each prestige once, and global speed decreases based on prestiges done. Passive generation of prestiges and prestige currencies are disabled. All multipliers to prestige count gain are disabled.</span>",
+  "zh": "<span style='font-size:13px;'>每种威望只能各进行一次，且全局速度会随已完成的威望次数下降。威望和威望货币的被动产出被禁用。所有对威望次数获得的加成也被禁用。</span>"
+ },
+ {
+  "en": "<span style='font-size:8px;'>Hopefully no one sees this...</span>",
+  "zh": "<span style='font-size:8px;'>希望没人看到这个……</span>"
+ },
+ {
+  "en": "@randomtuba @randomtuba @randomtuba @randomtuba @randomtuba @randomtuba my game froze how do I fix it",
+  "zh": "@randomtuba @randomtuba @randomtuba @randomtuba @randomtuba @randomtuba 我的游戏卡住了，怎么修复？"
+ },
+ {
+  "en": "A Brave Accomplishment",
+  "zh": "一项勇敢的成就"
+ }
+]

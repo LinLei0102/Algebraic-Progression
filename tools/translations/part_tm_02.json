@@ -1,0 +1,306 @@
+[
+  {
+    "en": "Root Essence produces square roots, which are used to purchase 3 repeatable Square Root Upgrades. Additionally,",
+    "zh": "根精华产生平方根，平方根用于购买 3 项可重复的平方根升级。此外，"
+  },
+  {
+    "en": "square roots provide milestones that boost Generator production and X generation.",
+    "zh": "平方根提供里程碑，提升生成器的产出和 X 的生成。"
+  },
+  {
+    "en": "Square Root Upgrade Starting Costs:",
+    "zh": "平方根升级起始消耗："
+  },
+  {
+    "en": "Square Root Upgrade Cost Scalings:",
+    "zh": "平方根升级消耗增长："
+  },
+  {
+    "en": "Past 20 purchases, Square Root Upgrade 3 starts scaling quadratically.",
+    "zh": "超过 20 次购买后，平方根升级 3 开始呈二次增长。"
+  },
+  {
+    "en": "Root Epicenter is a set of tasks (Root Epicenter Tasks, or RETs) that are effective in Square Root.",
+    "zh": "根震中是一组在平方根中生效的任务（根震中任务，简称 RET）。"
+  },
+  {
+    "en": "Each RET has its own set of nerfs, and you must reach the RET's point goal to complete it. When a Root Epicenter Task",
+    "zh": "每个 RET 都有各自的一套削弱效果，你必须达到该 RET 的点数目标才能完成它。当根震中任务"
+  },
+  {
+    "en": "is completed, you gain its reward.",
+    "zh": "完成时，你会获得其奖励。"
+  },
+  {
+    "en": "Some RET completions have progression walls between them, so only try completing a Root Epicenter Task when you",
+    "zh": "某些 RET 的完成之间存在进度墙，所以只在你"
+  },
+  {
+    "en": "If you complete the final Root Epicenter Task, you'll be eligible to unlock Complex.",
+    "zh": "如果你完成了最后的根震中任务，你就有资格解锁复数。"
+  },
+  {
+    "en": "Exponential Curve is a mechanic unique to the Lost Integration. For every challenge tier you complete,",
+    "zh": "指数曲线是遗失积分独有的机制。每完成一层挑战，"
+  },
+  {
+    "en": "you'll gain 10 geometric sequences (GS) that can be spent on respeccable buyables. Based on e and n,",
+    "zh": "你将获得 10 个几何数列（GS），可用于可重置的可购买项。基于 e 和 n，"
+  },
+  {
+    "en": "the number generated will provide a multiplier to a variety of currencies based on the number of effects",
+    "zh": "生成的数值会根据效果的"
+  },
+  {
+    "en": "you've unlocked.",
+    "zh": "解锁数量为多种货币提供倍率。"
+  },
+  {
+    "en": "Exponential Curve Buyable 3 Cost Formula:",
+    "zh": "指数曲线可购买项 3 消耗公式："
+  },
+  {
+    "en": "Power Conversions for Each Effect:",
+    "zh": "各效果的能量转换："
+  },
+  {
+    "en": "Once you obtain 1e175 RP, 1e42 square roots, and rtu55 purchased, you can go Complex for i.",
+    "zh": "一旦你获得 1e175 RP、1e42 平方根，并购买 rtu55，就可以进入复数以获取 i。"
+  },
+  {
+    "en": "Complex, similarly to Resetting, resets almost everything before it. You keep your Achievements",
+    "zh": "复数与重置类似，会重置此前几乎所有内容。你保留成就"
+  },
+  {
+    "en": "and some things underneath the General header in the Statistics tab. i will be your most important currency from this",
+    "zh": "以及统计标签页中“常规”标题下的部分内容。i 将是你最重要的货币，从"
+  },
+  {
+    "en": "point forward.",
+    "zh": "此刻起。"
+  },
+  {
+    "en": "After 1e200 i, base i gain past 1e200 has a square root applied. This does not affect multipliers to i gain.",
+    "zh": "在 1e200 i 之后，超过 1e200 的基础 i 获得会应用平方根。这不影响 i 获得的倍率。"
+  },
+  {
+    "en": "i has many more uses than RE, but two important uses for it is for purchasing Basic Complex Upgrades and Upgrade Points.",
+    "zh": "i 的用途比 RE 多得多，其中两个重要用途是购买基础复数升级和升级点数。"
+  },
+  {
+    "en": "The second Complex (the run after you go Complex) will feel quite slow, but Milestones and Complex Upgrades will",
+    "zh": "第二次复数（进入复数后的那一轮）会感觉相当缓慢，但里程碑和复数升级会"
+  },
+  {
+    "en": "speed up things quickly.",
+    "zh": "迅速加快进度。"
+  },
+  {
+    "en": "To make Complexes faster and more convenient, you gain Complex Milestones based on the amount of times you have",
+    "zh": "为了让复数运行更快更方便，你会根据你"
+  },
+  {
+    "en": "gone Complex. Complex Milestones usually give quality of life features, such as Autobuyers, and being able to keep",
+    "zh": "进入复数的次数获得复数里程碑。复数里程碑通常提供便利性功能，例如自动购买器，以及能够在"
+  },
+  {
+    "en": "mechanics and resources on reset.",
+    "zh": "重置时保留机制和资源。"
+  },
+  {
+    "en": "In Complex Plane, you can use i to purchase steps. Steps can be used to travel in both the real and imaginary directions.",
+    "zh": "在复数平面中，你可以用 i 购买步数。 步数可用于沿实部和虚部两个方向移动。"
+  },
+  {
+    "en": "Depending on how the direction you travel on each axis, you'll get multipliers to various resources.",
+    "zh": "根据你在各轴上移动的方向，你将获得各种资源的倍率。"
+  },
+  {
+    "en": "i Gain Effect Formula:",
+    "zh": "i 获得效果公式："
+  },
+  {
+    "en": "positive real part",
+    "zh": "正实部"
+  },
+  {
+    "en": "RP Gain Effect Formula:",
+    "zh": "RP 获得效果公式："
+  },
+  {
+    "en": "negative real part",
+    "zh": "负实部"
+  },
+  {
+    "en": "positive imaginary part",
+    "zh": "正虚部"
+  },
+  {
+    "en": "Square Roots Gain Effect Formula:",
+    "zh": "平方根获得效果公式："
+  },
+  {
+    "en": "negative imaginary part",
+    "zh": "负虚部"
+  },
+  {
+    "en": "Step Cost Formula:",
+    "zh": "步数消耗公式："
+  },
+  {
+    "en": "Complex Challenges (CCs) have the following attributes:",
+    "zh": "复数挑战（CC）具有以下属性："
+  },
+  {
+    "en": "Complex Challenges require RP to complete, and take place within a Complex.",
+    "zh": "复数挑战需要 RP 才能完成，且在复数内进行。"
+  },
+  {
+    "en": "A Complex Challenge must be unlocked with UP and a secondary requirement before you can enter it.",
+    "zh": "进入复数挑战前，必须用 UP 和一项次要要求将其解锁。"
+  },
+  {
+    "en": "Each Complex Challenge can be completed up to 3 times. The reward and goal increase for each completion.",
+    "zh": "每个复数挑战最多可完成 3 次。每次完成后奖励和目标都会提高。"
+  },
+  {
+    "en": "Based on Complex challenge completions, you will gain geometric sequences and unlock new milestones.",
+    "zh": "根据复数挑战的完成次数，你将获得等比数列并解锁新的里程碑。"
+  },
+  {
+    "en": "There are a total of 24 completable CC tiers.",
+    "zh": "共有 24 个可完成的 CC 层级。"
+  },
+  {
+    "en": "Once you obtain 70,000y and 1 z, you can go Y-Quadratic for y",
+    "zh": "一旦你获得 70,000y 和 1 z，就可以进入 Y-二次获取 y"
+  },
+  {
+    "en": "Y-Quadratic resets everything that Complex resets.",
+    "zh": "Y-二次会重置复数所重置的一切。"
+  },
+  {
+    "en": "can be spent on Y-Quadratic Upgrades.",
+    "zh": "可用于 Y-二次升级。"
+  },
+  {
+    "en": "Y Challenges (YCs) take place in Y-Quadratics, and require points to complete.",
+    "zh": "Y-挑战（YCs）发生在 Y-二次中，需要点数才能完成。"
+  },
+  {
+    "en": "Y Challenges can only be completed once. However, if you complete a Y Challenge in RET -1,",
+    "zh": "Y-挑战只能完成一次。不过，如果你在 RET -1 中完成某个 Y-挑战，"
+  },
+  {
+    "en": "the Y Challenge's effect becomes stronger.",
+    "zh": "该 Y-挑战的效果会变得更强。"
+  },
+  {
+    "en": "Once you obtain 1e4400 i, 1e112 y",
+    "zh": "一旦你获得 1e4400 i、1e112 y"
+  },
+  {
+    "en": ", and 100% Mandelbrot Engine power, you can enter the Mandelbrot for",
+    "zh": "，以及 100% 曼德博引擎能量，就可以进入曼德博获取"
+  },
+  {
+    "en": "Mandelbrot, similarly to previous layers, resets almost everything before it. You still keep some things underneath the",
+    "zh": "曼德博与此前的层级类似，会重置此前几乎所有内容。你仍保留统计标签页中"
+  },
+  {
+    "en": "General header in the Statistics tab. ME will become your most important currency from this point forward.",
+    "zh": "“常规”标题下的部分内容。从现在起，ME 将成为你最重要的货币。"
+  },
+  {
+    "en": "Base ME Gain Formula:",
+    "zh": "基础 ME 获得公式："
+  },
+  {
+    "en": "After 1e100 ME, base ME gain past 1e100 has a square root applied. This does not affect multipliers to ME gain.",
+    "zh": "在 1e100 ME 之后，超过 1e100 的基础 ME 获得会应用平方根。这不影响 ME 获得的倍率。"
+  },
+  {
+    "en": "ME is used for purchasing Meta-Generators and fractal spirals.",
+    "zh": "ME 用于购买元发生器和分形螺旋。"
+  },
+  {
+    "en": "To make Mandelbrots faster and more convenient, you gain Fractal Milestones based on the least amount of times you have",
+    "zh": "为了让曼德博运行更快更方便，你会根据你"
+  },
+  {
+    "en": "gone Complex in a Mandelbrot run. Fractal Milestones usually give quality of life features, similarly to Complex Milestones.",
+    "zh": "在曼德博运行中进入复数的最少次数获得分形里程碑。分形里程碑通常提供便利性功能，与复数里程碑类似。"
+  },
+  {
+    "en": "To minimize on Complex usage during a Mandelbrot run, when you need to reset stuff, go Y-Quadratic instead.",
+    "zh": "为了在曼德博运行中尽量减少复数使用，当你需要重置内容时，改用 Y-二次。"
+  },
+  {
+    "en": "Also, use \"Respec\" instead of \"Respec on Complex\" for Complex Upgrades, because a force respec doesn't",
+    "zh": "此外，对于复数升级，请使用“重分配”而不是“在复数重分配”，因为强制重分配不会"
+  },
+  {
+    "en": "add to your Complex count.",
+    "zh": "计入你的复数次数。"
+  },
+  {
+    "en": "Upon reaching 180 total fractal spirals, the Minibrots subtab is unlocked. However, you need Fractal Arm Upgrade 81",
+    "zh": "当累计达到 180 个分形螺旋时，迷你曼德博子标签页解锁。不过，你需要购买分形臂升级 81"
+  },
+  {
+    "en": "to be bought for Minibrots to start generating. Minibrots are a self-producing resource that replicates by a static",
+    "zh": "迷你曼德博才会开始产出。迷你曼德博是一种自我产出资源，每秒以固定"
+  },
+  {
+    "en": "multiplier each second. Once you reach the Minibrots cap, you cannot gain any more.",
+    "zh": "倍率复制。一旦达到迷你曼德博上限，你就无法再获得更多。"
+  },
+  {
+    "en": "At the Minibrots cap, you can reset your Minibrots for a Riemann sphere as long as your Riemann sphere count is",
+    "zh": "在迷你曼德博上限处，只要你的黎曼球数量"
+  },
+  {
+    "en": "below the max. Riemann spheres are reset on Mandelbrot.",
+    "zh": "未达到最大值，你就可以将迷你曼德博重置为黎曼球。黎曼球在曼德博时重置。"
+  },
+  {
+    "en": "Minibrots Upgrade 1 Cost Formula:",
+    "zh": "迷你曼德博升级 1 消耗公式："
+  },
+  {
+    "en": "Minibrots Upgrade 2 Cost Formula:",
+    "zh": "迷你曼德博升级 2 消耗公式："
+  },
+  {
+    "en": ", caps at 80 purchases",
+    "zh": "，购买上限为 80 次"
+  },
+  {
+    "en": "Minibrots Upgrade 3 Cost Formula:",
+    "zh": "迷你曼德博升级 3 消耗公式："
+  },
+  {
+    "en": ", caps at 15 purchases",
+    "zh": "，购买上限为 15 次"
+  },
+  {
+    "en": "Mandelbrot Challenges are unlocked on the Fractal Arm, and can only be entered when their respective upgrade is bought.",
+    "zh": "曼德博挑战在分形臂上解锁，且只有在购买对应升级后才能进入。"
+  },
+  {
+    "en": "Mandelbrot Challenges don't have completions. Instead, you try to reach 100% Challenge Power within a Mandelbrot Challenge",
+    "zh": "曼德博挑战没有完成次数。相反，你需要在一个曼德博挑战中达到 100% 挑战能量"
+  },
+  {
+    "en": "as fast as possible. Your best time strengthens the reward. Challenge Power is generated based on the exponent of your",
+    "zh": "，并尽可能快。你的最佳时间会强化奖励。挑战能量根据你的"
+  },
+  {
+    "en": "point amount. There are a total of 5 Mandelbrot Challenges.",
+    "zh": "点数数量的指数生成。总共有 5 个曼德博挑战。"
+  },
+  {
+    "en": "If you spend more time in a Mandelbrot Challenge than your best time, you'll be kicked out automatically.",
+    "zh": "如果你在曼德博挑战中花费的时间超过最佳时间，你会被自动踢出。"
+  }
+]

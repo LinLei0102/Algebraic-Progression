@@ -1,0 +1,290 @@
+[
+  {
+    "en": "Inflation Z-Collider Cost Formula:",
+    "zh": "膨胀 Z-对撞机消耗公式："
+  },
+  {
+    "en": "Reduction Z-Collider Cost Formula:",
+    "zh": "缩减 Z-对撞机消耗公式："
+  },
+  {
+    "en": "At 8 xy, you cannot buy any more of them",
+    "zh": "在 8 xy 时，你无法再购买更多"
+  },
+  {
+    "en": "Y-Challenges (YCs) are the third type of Challenges. Y-Challenges take place in Y-Quadratics, and",
+    "zh": "Y-挑战（YCs）是第三类挑战。Y-挑战发生在 Y-二次中，并且"
+  },
+  {
+    "en": "require x to complete. The first Y-Challenge is unlocked by default. Each Y-Challenge after must be",
+    "zh": "需要 x 才能完成。第一个 Y-挑战默认解锁。之后的每个 Y-挑战都必须"
+  },
+  {
+    "en": "unlocked with y",
+    "zh": "用 y 解锁"
+  },
+  {
+    "en": ", and will be unlocked permanently.",
+    "zh": "，并将永久解锁。"
+  },
+  {
+    "en": "Unlike the other two Challenge variants, Y-Challenges have no completion cap, and their goals scale linearly.",
+    "zh": "与其他两种挑战变体不同，Y-挑战没有完成上限，其目标呈线性增长。"
+  },
+  {
+    "en": "produces x",
+    "zh": "产出 x"
+  },
+  {
+    "en": "Number Sets are a group of 20 effects split into 5 groups known as Set types. Each Set type and Set effect must be activated",
+    "zh": "数字集合是一组 20 种效果，分为 5 组，称为集合类型。每种集合类型和集合效果都必须激活"
+  },
+  {
+    "en": "with type slots and effect slots, respectively. Type slots and effect slots can be bought with dx. Each Number Set type focuses on",
+    "zh": "分别用类型槽位和效果槽位。类型槽位和效果槽位可用 dx 购买。每种数字集合类型侧重于"
+  },
+  {
+    "en": "a unique section of the game. For example, Natural Set effects focus on Pre-Quadratic content,",
+    "zh": "游戏中独特的部分。例如，自然集合效果侧重于二次前内容，"
+  },
+  {
+    "en": "and Real Set effects focus on Y-Quadratic content. Similar to Complex Upgrades, you can respec your Number Sets to",
+    "zh": "而实数集合效果侧重于 Y-二次内容。与复数升级类似，你可以重新分配你的数字集合来"
+  },
+  {
+    "en": "get your type slots and effect slots back if you'd like to try a different build.",
+    "zh": "取回类型槽位和效果槽位，如果你想尝试不同的构筑。"
+  },
+  {
+    "en": "To make your Set effects more powerful, you can assign your empty sets to various Set types.",
+    "zh": "为了让你的集合效果更强大，你可以将空集合分配到各种集合类型。"
+  },
+  {
+    "en": "Click the \"Assort\" button to assign 1 empty set to a specific Set type. You can also click the \"Distribute Empty Sets\"",
+    "zh": "点击“分类”按钮将 1 个空集合分配到特定集合类型。你也可以点击“分配空集合”"
+  },
+  {
+    "en": "button if you have at least 5 empty sets, and it will divide your empty sets evenly across your Set types.",
+    "zh": "按钮，如果你有至少 5 个空集合，它会将你的空集合平均分配到各个集合类型。"
+  },
+  {
+    "en": "The Automation Core is unlocked by Integrating 15 times. The Automation Core has various options that allow you to",
+    "zh": "自动化核心通过积分 15 次解锁。自动化核心有多种选项，允许你"
+  },
+  {
+    "en": "entering, and completing Complex Challenges, automatically loading Complex Upgrades, automatically entering and exiting",
+    "zh": "进入并完成复数挑战、自动加载复数升级、自动进入和退出"
+  },
+  {
+    "en": "Synthetic Divison, and automatically grinding Quadratics when necessary. The Automation Core might not be optimal to use",
+    "zh": "综合除法，并在必要时自动刷二次。自动化核心可能不适合"
+  },
+  {
+    "en": "immediately once unlocked due to it being designed for use after all upgrades in the Perk Tree have been bought.",
+    "zh": "在解锁后立即使用，因为它被设计成在所有天赋树升级购买后才使用。"
+  },
+  {
+    "en": "In a post-release update, the Automation Core will be replaced with a more flexible scripting language.",
+    "zh": "在发布后更新中，自动化核心将被更灵活的脚本语言取代。"
+  },
+  {
+    "en": "Collective:",
+    "zh": "集体："
+  },
+  {
+    "en": "Once you obtain 1e4000 circles and 1e2650 revolutions, you can go Sinusoidal for triangles.",
+    "zh": "一旦你获得 1e4000 个圆和 1e2650 圈数，你就可以进入正弦层获取三角形。"
+  },
+  {
+    "en": "Sinusoidal resets everything that Integration resets. Similarly to Y-Quadratic, Sinusoidal is on the same layer as Integration,",
+    "zh": "正弦重置积分重置的所有内容。与 Y-二次类似，正弦与积分处于同一层，"
+  },
+  {
+    "en": "as they both mostly reset the same content. Triangles produce Trigonometric Waves (TW) and can purchase new upgrades.",
+    "zh": "因为它们大多重置相同的内容。三角形产出三角波（TW），并可购买新升级。"
+  },
+  {
+    "en": "Base Triangles Gain Formula:",
+    "zh": "基础三角形获得公式："
+  },
+  {
+    "en": "Integration Challenges (ICs) are the fourth type of Challenges. Integration Challenges take place in Integrations, and",
+    "zh": "积分挑战（ICs）是第四类挑战。积分挑战发生在积分层中，并且"
+  },
+  {
+    "en": "each Integration Challenge works uniquely compared to the rest. Most ICs require i to be completed, but some require y",
+    "zh": "每个积分挑战的运作方式与其他挑战都不同。大多数 IC 需要 i 才能完成，但有些需要 y"
+  },
+  {
+    "en": "Integration Challenges are unlocked through the Production Tree in the \"Integration Upgrades\" subtab. You need to",
+    "zh": "积分挑战通过“积分升级”子标签中的产出树解锁。你需要"
+  },
+  {
+    "en": "fulfill a requirement or set of requirements to unlock the Integration Challenge. Once unlocked, you do not need to",
+    "zh": "满足一项或多项要求以解锁积分挑战。解锁后，你无需"
+  },
+  {
+    "en": "unlock it again. Once you've completed all eight Integration Challenges, you will win the game.",
+    "zh": "再次解锁。一旦你完成全部八个积分挑战，你将赢得游戏。"
+  },
+  {
+    "en": "The Unit Circle can be unlocked at 2e55 triangles. Its subtab is visible after completing Integration Challenge 3 ten times.",
+    "zh": "单位圆可在 2e55 个三角形时解锁。完成积分挑战 3 十次后，其子标签可见。"
+  },
+  {
+    "en": "The Unit Circle gives a boost and nerf to Trigonometric Functions and a secondary effect based on the quadrant selected.",
+    "zh": "单位圆对三角函数给予加成和削弱，并根据所选象限提供次要效果。"
+  },
+  {
+    "en": "You can normally only have 1 quadrant active at a time, and changing your quadrant does a Sinusoidal reset.",
+    "zh": "通常你一次只能激活 1 个象限，更改象限会触发一次正弦重置。"
+  },
+  {
+    "en": "You can improve the secondary effect with buyables that cost TW and triangles, respectively.",
+    "zh": "你可以用分别消耗 TW 和三角形的可购买项来提升次要效果。"
+  },
+  {
+    "en": "Base Secondary Effect Formula:",
+    "zh": "基础次要效果公式："
+  },
+  {
+    "en": "1st Unit Circle Buyable Cost Formula:",
+    "zh": "第 1 个单位圆可购买项消耗公式："
+  },
+  {
+    "en": "2nd Unit Circle Buyable Cost Formula:",
+    "zh": "第 2 个单位圆可购买项消耗公式："
+  },
+  {
+    "en": "When you reach 1e1,425,000 polynomial power, you can unlock Y-Polynomials.",
+    "zh": "当你达到 1e1,425,000 多项式能量时，你可以解锁 Y-多项式。"
+  },
+  {
+    "en": "The first Y-Polynomial is y",
+    "zh": "第一个 Y-多项式是 y"
+  },
+  {
+    "en": ", which produces Y-Polynomial Power, which gives an exponent to Polynomial efficiencies.",
+    "zh": "，它产出 Y-多项式能量，为多项式效率提供指数。"
+  },
+  {
+    "en": "Y-Polynomials work similarly to Polynomials, with each tier costing and producing the tier before it.",
+    "zh": "Y-多项式的工作方式与多项式类似，每一层消耗并产出前一层。"
+  },
+  {
+    "en": "The efficiency of a Y-Polynomial doubles per purchase, until it reaches 1e9, which then it's softcapped.",
+    "zh": "Y-多项式的效率每次购买翻倍，直到达到 1e9，之后触发软上限。"
+  },
+  {
+    "en": "Additionally, Y-Polynomials are normally not affected by global speed.",
+    "zh": "此外，Y-多项式通常不受全局速度影响。"
+  },
+  {
+    "en": "Y-Polynomial Power Effect Formula:",
+    "zh": "Y-多项式能量效果公式："
+  },
+  {
+    "en": "/ 500) + 1, hardcaps at 1.58",
+    "zh": "/ 500) + 1，硬上限为 1.58"
+  },
+  {
+    "en": "You gain Alterations based on your W amount. Alterations unlock large mechanical extensions and quality of life bonuses.",
+    "zh": "你根据 W 数量获得改动。改动解锁大型机制扩展和生活质量加成。"
+  },
+  {
+    "en": "Generators are the production units for Point generation. There are",
+    "zh": "生成器是点数产出的生产单位。共有"
+  },
+  {
+    "en": "} Generators, each one costing and producing more",
+    "zh": "} 个生成器，每个的消耗和产出都更多"
+  },
+  {
+    "en": "than the previous. By default, Generator costs scale by 1.1x per purchase.",
+    "zh": "比前一个。默认情况下，生成器消耗每次购买按 1.1 倍增长。"
+  },
+  {
+    "en": "x is bought with Points. Its starting cost is 100,000 Points, and its cost is multiplied by 1.1 per purchase.",
+    "zh": "x 用点数购买。其起始消耗为 100,000 点数，每次购买消耗乘以 1.1。"
+  },
+  {
+    "en": "z is bought with y. Its starting cost is 70,000y, and its cost is multiplied by 1.2 per purchase, rounded down.",
+    "zh": "z 用 y 购买。其起始消耗为 70,000y，每次购买消耗乘以 1.2，向下取整。"
+  },
+  {
+    "en": "Generator Multiplier multiplies Generator production, hence the name.",
+    "zh": "生成器倍率会乘以生成器产出，因此得名。"
+  },
+  {
+    "en": "Generator Multiplier can be upgraded with x. By default, the cost starts at 50x and increases by 5x per purchase.",
+    "zh": "生成器倍率可用 x 升级。默认情况下，消耗从 50x 开始，每次购买增加 5x。"
+  },
+  {
+    "en": "After 200x, the cost becomes ((cost)/200)",
+    "zh": "在 200x 之后，消耗变为 ((cost)/200)"
+  },
+  {
+    "en": "Multiplier Per Purchase:",
+    "zh": "每次购买倍率："
+  },
+  {
+    "en": "By default, the generator multiplier per purchase is 1.3x. This base can be increased",
+    "zh": "默认情况下，每次购买的生成器倍率为 1.3 倍。该基础值可以提高"
+  },
+  {
+    "en": "After a generator multiplier of 1e400,000x, the multiplier is softcapped.",
+    "zh": "当生成器倍率达到 1e400,000 倍后，倍率触发软上限。"
+  },
+  {
+    "en": "This softcap can eventually be delayed to 1e800,000x.",
+    "zh": "该软上限最终可推迟到 1e800,000 倍。"
+  },
+  {
+    "en": "Once you obtain 1 y, you can Reset to gain Reset Points. This resets almost all previous content, so it is considered",
+    "zh": "一旦你获得 1 y，你就可以重置以获得重置点数。这会重置几乎所有之前的内容，因此被认为"
+  },
+  {
+    "en": "Base RP Gain Formula:",
+    "zh": "基础 RP 获得公式："
+  },
+  {
+    "en": "RP can be spent on permanent upgrades that are kept on Reset, along with other uses.",
+    "zh": "RP 可用于购买重置后保留的永久升级，以及其他用途。"
+  },
+  {
+    "en": "}, y, points,",
+    "zh": "}，y，点数，"
+  },
+  {
+    "en": "} can be sacrificed to gain additional bonuses.",
+    "zh": "} 可被献祭以获得额外加成。"
+  },
+  {
+    "en": "Sacrificing y will be a permanent loss of y for that run, so only sacrifice y if you're not pushing for RP for that run.",
+    "zh": "献祭 y 将永久损失本轮中的 y，因此只有在你不追求本轮 RP 时才献祭 y。"
+  },
+  {
+    "en": "Sacrificed y allows you to generate x. Generated x does not increase the cost of purchasing x. Since x is a part of the",
+    "zh": "献祭的 y 使你能够生成 x。生成的 x 不会增加购买 x 的消耗。由于 x 是"
+  },
+  {
+    "en": "RP gain formula, Coordinate",
+    "zh": "RP 获得公式，坐标"
+  },
+  {
+    "en": "} (more specifically, X generation) is an influential component",
+    "zh": "}（更具体地说，X 生成）是一个重要组成部分"
+  },
+  {
+    "en": "of boosting RP gain.",
+    "zh": "提升 RP 获得。"
+  },
+  {
+    "en": "Sacrificing points and RP give more general bonuses.",
+    "zh": "献祭点数和 RP 会带来更通用的加成。"
+  },
+  {
+    "en": "Square Root is a modified Reset run that can be exited to gain Root Essence (commonly abbreviated as RE).",
+    "zh": "平方根是一种经过修改的重置轮次，可以退出以获得根精华（通常缩写为 RE）。"
+  }
+]

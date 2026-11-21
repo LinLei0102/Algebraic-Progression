@@ -1,0 +1,342 @@
+[
+  {
+    "en": "Inflation:",
+    "zh": "通货膨胀："
+  },
+  {
+    "en": "Variables are another currency alongside Points that also increase your Number. There are",
+    "zh": "变量是除点数之外的另一种货币，也能提高你的数值。游戏中有"
+  },
+  {
+    "en": "} Variables in the game.",
+    "zh": "} 个变量。"
+  },
+  {
+    "en": "x is bought with Points. Its starting cost is 100,000 Points, and its cost is multiplied by 1.11 per purchase.",
+    "zh": "x 用点数购买。其初始消耗为 100,000 点数，每次购买后消耗乘以 1.11。"
+  },
+  {
+    "en": "X can be used to purchase X Upgrades, which can be found in the Upgrades tab. These are very helpful for progressing.",
+    "zh": "X 可用于购买 X 升级，这些升级可在升级标签页中找到。它们对推进游戏大有帮助。"
+  },
+  {
+    "en": "While there are 4 X Upgrades visible at first, four more are unlocked much later.",
+    "zh": "虽然最初只能看到 4 个 X 升级，但还有 4 个会在很晚之后解锁。"
+  },
+  {
+    "en": "z is bought with y. Its starting cost is 2,222y, and its cost scales quadratically.",
+    "zh": "z 用 y 购买。其初始消耗为 2,222 y，消耗按二次方增长。"
+  },
+  {
+    "en": "w is bought with z. Its starting cost is 79,000z, and its cost scales quadratically.",
+    "zh": "w 用 z 购买。其初始消耗为 79,000 z，消耗按二次方增长。"
+  },
+  {
+    "en": "You generate j and k (the two main Hypercomplex currencies) based on the amount of w you have.",
+    "zh": "你会根据拥有的 w 数量产出 j 和 k（两种主要的超复数货币）。"
+  },
+  {
+    "en": "Upgrades are very important in Algebraic Progression, and are present throughout the entire game in many different forms.",
+    "zh": "升级在《代数递进》中非常重要，并以多种不同形式贯穿整个游戏。"
+  },
+  {
+    "en": "This section is updated as you unlock new Upgrade types.",
+    "zh": "本节会随着你解锁新的升级类型而更新。"
+  },
+  {
+    "en": "Upgrade types are in subtabs with an identical or similar name, with",
+    "zh": "升级类型位于名称相同或相近的子标签页中，其中"
+  },
+  {
+    "en": "} exception being X Upgrades (found in the Upgrades tab)",
+    "zh": "} 唯一的例外是 X 升级（位于升级标签页中）"
+  },
+  {
+    "en": "X Upgrades:",
+    "zh": "X 升级："
+  },
+  {
+    "en": "X Upgrades are upgrades that can be bought with x. There are eight in total.",
+    "zh": "X 升级是可用 x 购买的升级，总共有 8 个。"
+  },
+  {
+    "en": "However, they reset on Complex, just like Quadratic Upgrades.",
+    "zh": "不过，它们会随复数层级重置，就像二次升级一样。"
+  },
+  {
+    "en": "Functions are the secondary production units for Point generation. There are three functions: f(n), g(n), and h(n). Together,",
+    "zh": "函数是点数产出的次要生产单位。共有三个函数：f(n)、g(n) 和 h(n)。它们共同"
+  },
+  {
+    "en": "they multiply the production of Buildings. f(n) gives a linear and later polynomial bonus, while g(n) and h(n) both give an",
+    "zh": "将建筑的产出相乘。f(n) 提供线性加成，之后提供多项式加成，而 g(n) 和 h(n) 都提供"
+  },
+  {
+    "en": "2x, 5x, and 7x respectively",
+    "zh": "分别为 2 倍、5 倍和 7 倍"
+  },
+  {
+    "en": "By default, the g(n) and h(n) bases are 1.3x and 1.6x, respectively. These bases can be increased and even multiplied",
+    "zh": "默认情况下，g(n) 和 h(n) 的底数分别为 1.3 倍和 1.6 倍。这些底数可以提高，甚至可以乘以"
+  },
+  {
+    "en": "At 15 purchases of g(n) and/or h(n), the formulas of g(n) and/or h(n) are modified to prevent inflation.",
+    "zh": "当 g(n) 和／或 h(n) 购买达到 15 次时，g(n) 和／或 h(n) 的公式会被修改以防止通货膨胀。"
+  },
+  {
+    "en": "These softcaps can be delayed with upgrades and bonuses later on.",
+    "zh": "这些软上限可以通过之后的升级和加成交来延后。"
+  },
+  {
+    "en": "Once you obtain 1 y, you can go Quadratic to gain x",
+    "zh": "一旦获得 1 y，你就可以进入二次层级以获得 x"
+  },
+  {
+    "en": ". Quadratic resets almost all previous content, so it is considered",
+    "zh": ". 二次层级会重置几乎所有之前的内容，因此它被视为"
+  },
+  {
+    "en": "as the first Prestige Layer. There is another prestige layer after this, but it will not be unlocked for a long time.",
+    "zh": "第一个威望层级。此后还有另一个威望层级，但它在很长一段时间内都不会解锁。"
+  },
+  {
+    "en": "can be spent on permanent upgrades that are kept on Quadratic. Once 16 Quadratic Upgrades have been bought,",
+    "zh": "可用于购买在二次层级中保留的永久升级。一旦购买了 16 个二次升级，"
+  },
+  {
+    "en": "Doubler\" is unlocked. Its starting cost is 1e9 x",
+    "zh": "倍增器\"已解锁。其初始消耗为 1e9 x"
+  },
+  {
+    "en": ", and its cost multiplies by 10 per purchase.",
+    "zh": "，每次购买后消耗乘以 10。"
+  },
+  {
+    "en": "gain per purchase, hence the name. After 290 purchases, it will start scaling faster.",
+    "zh": "每次购买的获得量，因此得名。购买 290 次后，它将开始更快地增长。"
+  },
+  {
+    "en": "In Coordinate",
+    "zh": "在坐标中"
+  },
+  {
+    "en": "} can be sacrificed to gain additional bonuses. You can only increase your sacrificed x/y",
+    "zh": "} 可以被献祭以获得额外加成。你只能提高已献祭的 x/y"
+  },
+  {
+    "en": "if your current x/y",
+    "zh": "如果你的当前 x/y"
+  },
+  {
+    "en": "} amount is greater than the sacrificed amount. Don't let the word \"sacrifice\" deter you from using",
+    "zh": "} 数量大于已献祭的数量。不要让\"献祭\"一词阻止你使用"
+  },
+  {
+    "en": "As this mechanic is expanded many times throughout the game, consider checking back on this section every now and then.",
+    "zh": "由于这一机制在游戏中会被多次扩展，建议时不时回来看一下本节。"
+  },
+  {
+    "en": "(sac. x+1)+1), softcaps when the effect ≥ 1,000,000",
+    "zh": "(sac. x+1)+1)，当效果 ≥ 1,000,000 时出现软上限"
+  },
+  {
+    "en": "sac. y*0.02, softcaps when the effect ≥ 1.5",
+    "zh": "sac. y*0.02，当效果 ≥ 1.5 时出现软上限"
+  },
+  {
+    "en": "Extrusions:",
+    "zh": "挤出："
+  },
+  {
+    "en": "Later, you also unlock Extrusions. Each Extrusion extends a Transformation type into the 3rd Dimension,",
+    "zh": "之后，你还会解锁挤出。每个挤出都会将一种变换类型延伸到第 3 维度，"
+  },
+  {
+    "en": "making them permanently active. Extrusions have very high slope costs, due to the fact that they are very powerful.",
+    "zh": "使其永久生效。由于挤出非常强大，其斜率消耗非常高。"
+  },
+  {
+    "en": "Square Root is a modified Quadratic that can be exited to gain Root Essence (commonly abbreviated as RE).",
+    "zh": "平方根是二次层级的一种修改版，可以退出它以获得根精华（通常缩写为 RE）。"
+  },
+  {
+    "en": "While in Square Root, your points are raised ^0.5 (hence the name \"Square Root\"). You gain RE based on how far you get.",
+    "zh": "在平方根层级中，你的点数会被提升到 ^0.5 次方（因此得名\"平方根\"）。你会根据推进的进度获得 RE。"
+  },
+  {
+    "en": "However, Root Essence is not farmable. Your Root Essence gained in a Square Root run is based on your X and Y, minus your",
+    "zh": "不过，根精华无法刷取。你在一次平方根运行中获得的根精华基于你的 X 和 Y，减去你的"
+  },
+  {
+    "en": "current Root Essence, so you have to get farther to gain more.",
+    "zh": "当前根精华，因此你必须推进得更远才能获得更多。"
+  },
+  {
+    "en": "Base RE Gain Formula:",
+    "zh": "基础 RE 获得公式："
+  },
+  {
+    "en": ") - current RE",
+    "zh": ") - 当前 RE"
+  },
+  {
+    "en": "Root Essence can be used to purchase Square Root Upgrades, along with a Root Essence doubler, which works like the x",
+    "zh": "根精华可用于购买平方根升级，以及根精华倍增器，其工作方式类似于 x"
+  },
+  {
+    "en": "Doubler. Its starting cost is 200, multiplying by 5 per purchase, and starts scaling faster at 100 purchases.",
+    "zh": "倍增器。其初始消耗为 200，每次购买乘以 5，并在购买 100 次后开始更快地增长。"
+  },
+  {
+    "en": "Challenges are also modified Quadratics, but work differently from Square Root. Each Challenge has its own set of nerfs,",
+    "zh": "挑战也是修改版的二次层级，但工作方式与平方根不同。每个挑战都有自己的一组削弱效果，"
+  },
+  {
+    "en": "and you must reach the Challenge's point goal to complete it. When a Challenge is completed, you gain its reward.",
+    "zh": "你必须达到挑战的点数目标才能完成它。完成挑战后，你将获得其奖励。"
+  },
+  {
+    "en": "It should be noted that the Challenge order is not sequential. You, the player, have to figure out the Challenge",
+    "zh": "需要注意的是，挑战顺序并非依次排列。作为玩家的你，必须自行摸索出挑战"
+  },
+  {
+    "en": "order for yourself. A good tip is to look at the point goal for each Challenge, and save Challenges with higher",
+    "zh": "顺序。一个好方法是查看每个挑战的点数目标，把点数目标更高的挑战"
+  },
+  {
+    "en": "point goals for later.",
+    "zh": "留到后面。"
+  },
+  {
+    "en": "Some Challenge completions have long progression walls between them, so only try completing a Challenge when you",
+    "zh": "有些挑战的完成之间存在很长的进度墙，所以只有在你"
+  },
+  {
+    "en": ", 1e660 RE, and a Root Epicenter Level √-1 completion, you can go Complex for i.",
+    "zh": "，1e660 RE，以及完成根震中等级 √-1 后，你就可以进入复数层级获得 i。"
+  },
+  {
+    "en": "Complex, similarly to Quadratic, resets almost everything before it. You keep your Achievements, your Challenge records,",
+    "zh": "复数层级与二次层级类似，会重置之前几乎所有内容。你会保留成就、挑战记录，"
+  },
+  {
+    "en": "and some things underneath the General header in the Statistics tab. i will be your most important currency from this point forward.",
+    "zh": "以及统计标签页中常规标题下的部分内容。从现在起，i 将成为你最重要的货币。"
+  },
+  {
+    "en": "Base i Gain Formula:",
+    "zh": "基础 i 获得公式："
+  },
+  {
+    "en": ", but two important uses for it is for purchasing Basic Complex Upgrades and Upgrade Points.",
+    "zh": "，但它有两个重要用途：购买基础复数升级和升级点数。"
+  },
+  {
+    "en": "The second Complex (the run after you go Complex) will feel quite slow, but Milestones and Complex Upgrades will speed up things quickly.",
+    "zh": "第二次复数（进入复数后的那一轮）会感觉相当缓慢，但里程碑和复数升级会迅速加快进度。"
+  },
+  {
+    "en": "To make Complexes faster and more convenient, you gain Milestones based on the amount of times you have gone Complex.",
+    "zh": "为了让复数运行更快更方便，你会根据进入复数的次数获得里程碑。"
+  },
+  {
+    "en": "Milestones usually give quality of life features, such as Autobuyers, and being able to keep mechanics and resources on reset.",
+    "zh": "里程碑通常会提供便利性功能，例如自动购买器，以及能够在重置时保留机制和资源。"
+  },
+  {
+    "en": "Complex Upgrades (CUs) are a table of",
+    "zh": "复数升级（CUs）是一张由……组成的表格"
+  },
+  {
+    "en": "In Complex Plane, you can use i to purchase xi, yi,",
+    "zh": "在复数平面中，你可以使用 i 购买 xi、yi、"
+  },
+  {
+    "en": "} once they are unlocked. Each Complex Plane currency",
+    "zh": "} 一旦解锁即可购买。每种复数平面货币"
+  },
+  {
+    "en": "produces their own Complex Plane power, which boost other aspects of the game. Each Complex Plane currency is unlocked with i",
+    "zh": "会产生各自的复数平面能量，用于加成游戏的其他方面。每种复数平面货币都用 i 解锁"
+  },
+  {
+    "en": "and the sacrificed currency corresponding to it. Complex Plane does not have any interaction with Coordinate",
+    "zh": "以及与其对应的被献祭货币。复数平面与坐标之间除了这一点外没有任何互动。"
+  },
+  {
+    "en": "} other than this.",
+    "zh": "} 除此之外。"
+  },
+  {
+    "en": "Once you obtain 2,222y and 1 z, you can go Y-Quadratic for y",
+    "zh": "一旦获得 2,222 y 和 1 z，你就可以进入 Y-二次层级获得 y"
+  },
+  {
+    "en": "Y-Quadratic resets everything that Complex resets, but also resets your sacrificed x, y, and x",
+    "zh": "Y-二次会重置复数层级重置的所有内容，但也会重置你被献祭的 x、y 和 x"
+  },
+  {
+    "en": ". However, Y-Quadratic",
+    "zh": ". 不过，Y-二次"
+  },
+  {
+    "en": "the third prestige layer! It is on the same layer as Complex, as they both mostly reset the same content.",
+    "zh": "是第三个威望层级！它与复数层级处于同一层，因为两者重置的内容大致相同。"
+  },
+  {
+    "en": "can be spent on Y-Quadratic Upgrades, but later you will mostly use it",
+    "zh": "可用于购买 Y-二次升级，但之后你主要会将其用于"
+  },
+  {
+    "en": "for unlocking new mechanics in the Y-Quadratic tab.",
+    "zh": "在 Y-二次标签页中解锁新机制。"
+  },
+  {
+    "en": "After buying the 8th Y-Quadratic Upgrade \"Chemical Expansion\", the Z Lab will be unlocked.",
+    "zh": "购买第 8 个 Y-二次升级\"化学扩张\"后，Z 实验室将解锁。"
+  },
+  {
+    "en": "Your current z amount will generate Z-Power. By default, 0 z produces 1 Z-Power per second, with each z obtained allowing you",
+    "zh": "你当前的 z 数量会产生 Z-Power。默认情况下，0 z 每秒产生 1 Z-Power，每获得一个 z 都能让你"
+  },
+  {
+    "en": "to produce 2x more Z-Power per second. So, 7 z would produce 128 (2",
+    "zh": "每秒多产出 2 倍的 Z-Power。因此，7 z 每秒会产出 128（2"
+  },
+  {
+    "en": ") Z-Power per second. This multiplier can be",
+    "zh": ") Z-Power 每秒。这个倍率可以"
+  },
+  {
+    "en": "Z-Power per second.",
+    "zh": "Z-Power 每秒。"
+  },
+  {
+    "en": "Z-Colliders:",
+    "zh": "Z 对撞机："
+  },
+  {
+    "en": "} Z-Colliders, but you can only charge one of them at a time. Charging a Z-Collider",
+    "zh": "} Z 对撞机，但一次只能充能其中一个。为 Z 对撞机充能"
+  },
+  {
+    "en": "allows you to produce Z-Particles of its corresponding type. These Z-Particles can be used to level up each Z-Collider,",
+    "zh": "可以让你产出对应类型的 Z 粒子。这些 Z 粒子可用于提升每个 Z 对撞机的等级，"
+  },
+  {
+    "en": "which allows you to gain milestones that give powerful bonuses and extend previous mechanics.",
+    "zh": "从而获得里程碑，这些里程碑会提供强力加成并扩展之前的机制。"
+  },
+  {
+    "en": "Expansion Z-Collider Cost Formula:",
+    "zh": "扩张 Z 对撞机消耗公式："
+  },
+  {
+    "en": ", cost is set to 1e34 at level 19",
+    "zh": "，在等级 19 时消耗固定为 1e34"
+  },
+  {
+    "en": "Propulsion Z-Collider Cost Formula:",
+    "zh": "推进 Z 对撞机消耗公式："
+  }
+]
