@@ -1,0 +1,2411 @@
+[
+ {
+  "en": "V is just a single W",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "VSR",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Valuable Variable",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Variable Coupler",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\quad-formula.js"
+  ]
+ },
+ {
+  "en": "Variable Extruder",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "sinusoidal\\pyth-triples.js"
+  ]
+ },
+ {
+  "en": "Variable Interpolation",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "y-quadratic\\y-quad-upgs.js"
+  ]
+ },
+ {
+  "en": "Variable Multiplier",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\square-root.js"
+  ]
+ },
+ {
+  "en": "Variable Synthesizer",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Variable Synthesizer (v2.2)",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Variable Synthesizer Unlocked",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Variable Synthesizer++",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Variable Traditionalist",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Variable.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Variables",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Variables (v1.0)",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Variables are an essential part of a nutritious and well-balanced breakfast",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Variables are another currency alongside Points that also increase your Number. There are ${player.zUnlocked ?",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "textbook.js"
+  ]
+ },
+ {
+  "en": "Variables are another currency alongside Points that also increase your Number. There are ${player.zUnlocked ? (player.wUnlocked ?",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "textbook.js"
+  ]
+ },
+ {
+  "en": "Vastly Unprepared",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Visual",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Visual Changes:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "changelog.html"
+  ]
+ },
+ {
+  "en": "W = 2V, and V doesn't exist either",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "W Autobuyer",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "W Particles, multiplying i gain by",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "W isn't real",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "WARNING: Cring Breach Detected! You must return to the B.R.U.H. (Big Red Underground Hole) Bunker ammediately!",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "WARNING: NaN Detected! Your save file has been exported (unless your browser has blocked file downloads). Try clearing the local storage of the game and importing the exported save. If that doesn't work, try and find a save in the AP save banks on the Discord server. Sorry for the inconvenience :(",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Wait, That's Also Illegal",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "polynomials\\synthetic-division.js"
+  ]
+ },
+ {
+  "en": "Wait, That's Illegal",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\square-root.js"
+  ]
+ },
+ {
+  "en": "Waiting Game",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Wake up.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Want another game to play while you're idling? Check out randomtuba's main website! Link: <a href='https://randomtuba.github.io/' target='_blank'>https://randomtuba.github.io/</a>",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Want another math-based incremental game? Then try Exponential Idle!",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Want to see the game's development history? You can view the Changelog with the link in the Options tab!",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Warning: You are beyond endgame. Gameplay may be unbalanced beyond this point.",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Way Too Much",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "We Need To Cook",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "We got Algebraic Progression version 3.0 before GTA 6 💀",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "We regret to inform you that this news message has been (softcapped)",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "We're Not Done Yet",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Weaken the Synthetic Division penalties from ^0.02 to ^0.025, and uncap Quadratic Upgrade 13.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "polynomials\\synthetic-division.js"
+  ]
+ },
+ {
+  "en": "Weed-Whacking",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Weeee, look at me go!",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Weighted Xs",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\challenges.js"
+  ]
+ },
+ {
+  "en": "Welcome to Algebraic Progression, the game where math becomes fun",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Welcome to the Automation Core!",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Welcome to the Variable Synthesizer! Here you will be able to craft illegal variables that probably shouldn't exist.",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Well yes, but actually no as x approaches maybe.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "What Even Is j(n)?",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "What are you doing, sitting around? Stop waiting and enter Integration Challenge 8 already!",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "What are you talking about?",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-challenges.js"
+  ]
+ },
+ {
+  "en": "What do you mean by \"there are too many mechanics\"? \"Feature creep\", you say? 🎵 Feature creep, feature weirdo... 🎵",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "What happens if the Z-Colliders collide with each other?",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "What happens when anti-slope comes in contact with antimatter? No one has survived to find out.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "What if you've been collecting sex chromosomes instead of variables this whole time?",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "What is this NaN number they're talking about? Did they recently add a new one? And why do people not like it?",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "What's an anagram of Banach-Tarski? Banach-Tarski Banach-Tarski.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "What's the second prestige layer, you ask? Well...it's complicated.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Whatever you do, DON'T say dx 10 times fast, worst mistake of my life",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "When Life Was Simple",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "When life gives you lemons, you sacrifice them for the next lemon-related prestige layer.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "When unlocking Transformations, all Transformations are extruded, and Dilations are permanently active.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "When you reach 1e1,425,000 polynomial power, you can unlock Y-Polynomials.<br>\n        The first Y-Polynomial is y<sup>3</sup>, which produces Y-Polynomial Power, which gives an exponent to Polynomial efficiencies.<br>\n        Y-Polynomials work similarly to Polynomials, with each tier costing and producing the tier before it.<br>\n        The efficiency of a Y-Polynomial doubles per purchase, until it reaches 1e9, which then it's softcapped.<br>\n        Additionally, Y-Polynomials are normally not affected by global speed.<br><br>\n        <b>Y-Polynomial Power Effect Formula:</b> (log<sub>10</sub>(power + 1)<sup>0.75</sup> / 500) + 1, hardcaps at 1.58",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "textbook.js"
+  ]
+ },
+ {
+  "en": "When your game inflates so hard your numbers reach the Small Dropping Ordinal 🤔",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Whenever randomtuba asks his testers or developers to help him add something, they secretly sit and wait, knowing that he will eventually add the feature himself.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "While having Temporal Plane inactive",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "While having less than 4 Hypercomplex Upgrades bought",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "While having no Z-Empowerments",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "While having no rebuyable Synthetic Division Upgrades",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "While in Integration Challenge 3",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "While incremental games can be fun and even healthy in certain contexts, they can start or perpetuate video game addiction even more than other genres. If you feel like playing incremental games is taking priority over other things in your life, or manipulating your sleep schedule, it may be well advised to seek help.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "While not purchasing Y-Intercept",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "While not purchasing x",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Who was the inventor of fractions? Henry the Eighth.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Why Isn't It Possible?",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Why Would You Do That",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Why are upgrades inactive in Integration Challenge 3? Idk man, they're probably taking a nap. Expecting them to trigger their effects 24 hours a day is kinda mean, y'know?",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Why are you playing this game? It's just a meaningless number going up with no implications on reality.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Why are you still trying?",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Why is the obtuse angle always sad? Because it is never right.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Wide Accumulation",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "World Population",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Would the set of all sets contain itself?",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Would you like to enter Speedrun Mode? (Click OK for Yes, click Cancel for No)",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "save.js"
+  ]
+ },
+ {
+  "en": "Wow! You can read! One step away from Algebra.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "X Abundance",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\square-root.js"
+  ]
+ },
+ {
+  "en": "X Autobuyer",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "X Autobuyer:",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "X Power Product",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "save.js"
+  ]
+ },
+ {
+  "en": "X Power Product:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "X Powers",
+  "kind": "exact",
+  "contexts": [
+   "html-text",
+   "js-other"
+  ],
+  "sources": [
+   "index.html",
+   "game.js"
+  ]
+ },
+ {
+  "en": "X Powers Boosters Autobuyer:",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "X Powers Boosters are twice as effective",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\fractal-arm.js"
+  ]
+ },
+ {
+  "en": "X Powers Boosters:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "X Powers Buyables Autobuyer:",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "X Powers Unlocked in Lost Integration",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "X Powers gain a multiplier based on y²",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\fractal-arm.js"
+  ]
+ },
+ {
+  "en": "X Powers:",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "X Upgrade",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "X Upgrade charges can be respecced on Y-Quadratic, if desired.",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "X Upgrades are useless (that also means Functions, Produced Buildings, and Y-Intercept do nothing), and every time you buy an X, production is divided by about 1.016 (5^0.01). Your X autobuyer will single-buy.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\challenges.js"
+  ]
+ },
+ {
+  "en": "X Upgrades. Charging an X Upgrade costs 1 xy.",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "X and Y",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "complex\\comp-challenges.js"
+  ]
+ },
+ {
+  "en": "X and Y cost scalings",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "complex\\comp-challenges.js"
+  ]
+ },
+ {
+  "en": "X and Y generation are both raised ^0.5.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "lost-integration\\fractal-arm.js"
+  ]
+ },
+ {
+  "en": "X cost is ^10 and Y cost is ^4. If your X and Y amounts share a Greatest Common Factor (GCF), point gain will be negatively affected based on the factor.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "complex\\comp-challenges.js"
+  ]
+ },
+ {
+  "en": "X cost is ^10 and Y cost is ^4. X generation is raised ^0.75. If your purchased X and Y amounts share a GCF, point gain will be negatively affected based on the factor.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "lost-integration\\complex-challenges.js"
+  ]
+ },
+ {
+  "en": "X cost is divided based on total generators bought",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\reset-prestige.js"
+  ]
+ },
+ {
+  "en": "X cost scaling",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "quadratic\\quad-formula.js",
+   "quadratic\\square-root.js"
+  ]
+ },
+ {
+  "en": "X cost scaling is square rooted",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "lost-integration\\square-root.js"
+  ]
+ },
+ {
+  "en": "X generation is raised ^0.5 and produced generators do nothing. Anti-points super-exponentially generate over time and divide point gain and divide RP gain at a reduced rate.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "lost-integration\\complex-challenges.js"
+  ]
+ },
+ {
+  "en": "X marks the spot!",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "X scaling becomes *1.08 instead of *1.1",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\reset-prestige.js"
+  ]
+ },
+ {
+  "en": "X, Y, and Z",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "complex\\comp-challenges.js"
+  ]
+ },
+ {
+  "en": "X-hausted",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "X-pansion",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\square-root.js"
+  ]
+ },
+ {
+  "en": "Xtra YC4 CompletionZ (XYZ)",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Y Autobuyer",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Y Autobuyer:",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Y Challenge",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Y Challenges",
+  "kind": "exact",
+  "contexts": [
+   "html-text",
+   "js-other"
+  ],
+  "sources": [
+   "index.html",
+   "game.js"
+  ]
+ },
+ {
+  "en": "Y Challenges (YCs) take place in Y-Quadratics, and require points to complete.<br>\n        Y Challenges can only be completed once. However, if you complete a Y Challenge in RET -1,<br>\n        the Y Challenge's effect becomes stronger.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "textbook.js"
+  ]
+ },
+ {
+  "en": "Y Challenges Unlocked in Lost Integration",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Y Divider",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\quad-upgs.js"
+  ]
+ },
+ {
+  "en": "Y Man shocks x<sup>2</sup> waitress by speaking perfect Quadratic",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Y Particles, multiplying y",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Y Power Product:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Y Powers",
+  "kind": "exact",
+  "contexts": [
+   "html-text",
+   "js-other"
+  ],
+  "sources": [
+   "index.html",
+   "game.js"
+  ]
+ },
+ {
+  "en": "Y Powers Unlocked in Lost Integration",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Y Powers gain a multiplier based on Riemann spheres",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\fractal-arm.js"
+  ]
+ },
+ {
+  "en": "Y Powers gain a multiplier based on the Y Powers product",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\fractal-arm.js"
+  ]
+ },
+ {
+  "en": "Y scaling becomes *1.1 instead of *1.15",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\reset-prestige.js"
+  ]
+ },
+ {
+  "en": "Y-Challenge",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Y-Challenges",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Y-Challenges (YCs) are the third type of Challenges. Y-Challenges take place in Y-Quadratics, and<br>\n        require x to complete. The first Y-Challenge is unlocked by default. Each Y-Challenge after must be<br>\n        unlocked with y<sup>2</sup>, and will be unlocked permanently.<br>\n        Unlike the other two Challenge variants, Y-Challenges have no completion cap, and their goals scale linearly.<br>\n        As usual, the more completions you have, the greater the reward gets.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "textbook.js"
+  ]
+ },
+ {
+  "en": "Y-Challenges (v2.2)",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Y-Challenges Unlocked",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Y-Intercept Autobuyer",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Y-Polynomial",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Y-Polynomial power, powering all Polynomial efficiencies by ^",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Y-Polynomials",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Y-Polynomials (v3.0 Part 2)",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Y-Polynomials:",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Y-Quadratic",
+  "kind": "exact",
+  "contexts": [
+   "html-text",
+   "js-other"
+  ],
+  "sources": [
+   "index.html",
+   "game.js"
+  ]
+ },
+ {
+  "en": "Y-Quadratic (v2.2)",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Y-Quadratic Automator",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Y-Quadratic Automator: Go Y-Quadratic",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Y-Quadratic Confirmation:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Y-Quadratic Upgrade",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Y-Quadratic Upgrade 11's second effect is raised ^50,000.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-challenges.js"
+  ]
+ },
+ {
+  "en": "Y-Quadratic Upgrade Unlocked:",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Y-Quadratic Upgrades",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Y-Quadratic Upgrades deemed too difficult to talk to by majority of the population, said that \"they have too many standards\".",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Y-Quadratic Upgrades:",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Y-Quadratic:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "YC1 and YC2 effect exponents",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "polynomials\\polynomials.js"
+  ]
+ },
+ {
+  "en": "YC3 effect",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-challenges.js"
+  ]
+ },
+ {
+  "en": "YC4 Cleansing",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "sinusoidal\\sin-upgrades.js"
+  ]
+ },
+ {
+  "en": "YC4 Clearing",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "sinusoidal\\sin-upgrades.js"
+  ]
+ },
+ {
+  "en": "YC4 Softcap Weakener",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "sinusoidal\\sin-upgrades.js"
+  ]
+ },
+ {
+  "en": "YC6 Does Something",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "hypercomplex\\hypercomp-upgrades.js"
+  ]
+ },
+ {
+  "en": "YCR",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "YMU",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "YQR",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "YQU",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Yahtzee Master (AP Classic)",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Yap Expansion: Infinite Ramble",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Yo dawg, I heard you liked Quadratics...",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Yo mama so fat, when she stepped on the weight scale, it reached the 64-bit floating point number limit!",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Yoshi128986",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You Don't Need That",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "You already know what's up. Check the Generation tab for more details.",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You are currently in",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You are generating",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You are getting",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You are no longer trapped in Root Epicenter Level √-1 in Integration Challenge 2",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You are not expected to complete all 3 daily achievements in 24 hours every day, and this could potentially be dangerous for your health.",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You are stuck in another layer of Square Root.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "lost-integration\\square-root.js"
+  ]
+ },
+ {
+  "en": "You are trapped in Root Epicenter Level √-1. The Square Root Upgrade 'Uprooted Points' is disabled.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "y-quadratic\\y-challenges.js"
+  ]
+ },
+ {
+  "en": "You are trapped in The Limit, and all Challenge Factors are set to 15.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-challenges.js"
+  ]
+ },
+ {
+  "en": "You can also find here a comprehensive collection of all the autobuyers you've unlocked so far, which could be helpful.",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You can bulk complete Complex Challenges and Complex Challenges no longer have unlock requirements",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\mandelbrot-prestige.js"
+  ]
+ },
+ {
+  "en": "You can buy all upgrades from the second split",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\fractal-arm.js"
+  ]
+ },
+ {
+  "en": "You can complete multiple tiers of a Complex Challenge if you meet the goal for higher completions of the challenge.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "You can generate Minibrots",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\fractal-arm.js"
+  ]
+ },
+ {
+  "en": "You can generate Nanobrots, and generate Minibrots 3x faster",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\fractal-arm.js"
+  ]
+ },
+ {
+  "en": "You can purchase Derivative Functions to boost gain of all derivative tiers, and Derivative Buyables to boost other mechanics.",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You can set the Limit Challenge Factors beyond 10. (not required for progression)",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "hypercomplex\\hypercomp-upgrades.js"
+  ]
+ },
+ {
+  "en": "You can use the left and right arrow keys for tab navigation and the up and down arrow keys for subtab navigation.",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You can't kill News Ticker Man, look at me go!",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "You cannot gain",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "complex\\comp-challenges.js"
+  ]
+ },
+ {
+  "en": "You cannot gain X and Y. The base Reset Points gain formula is 1, so only multipliers apply. You are also trapped in Square Root with Root Epicenter Task -1, just for fun.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "lost-integration\\complex-challenges.js"
+  ]
+ },
+ {
+  "en": "You cannot gain reset points.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\y-quadratic.js"
+  ]
+ },
+ {
+  "en": "You cannot gain root essence.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\y-quadratic.js"
+  ]
+ },
+ {
+  "en": "You cannot gain x².",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "y-quadratic\\y-challenges.js"
+  ]
+ },
+ {
+  "en": "You cannot generate X Powers past x⁵.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "lost-integration\\fractal-arm.js"
+  ]
+ },
+ {
+  "en": "You cannot purchase Riemann spheres in a Mandelbrot Challenge!",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You completed the entire game in",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You currently have",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You don't actually enter this challenge. Instead, you must abide by the following requirements in the tooltip.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-challenges.js"
+  ]
+ },
+ {
+  "en": "You don't have any rewards :(",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You gain 2 game points every time you click \"Play Again\" at the end of the game.",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You gain Alterations based on your W amount. Alterations unlock large mechanical extensions and quality of life bonuses.\n        ${Alterations.has(2) ?",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "textbook.js"
+  ]
+ },
+ {
+  "en": "You gain limit score based on three distinct factors:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You generate derivatives based on j(n), which is based on your variable amounts in The Limit with all Challenge Factors maxed.",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You get 2x more square roots",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\square-root.js"
+  ]
+ },
+ {
+  "en": "You get 3x more root essence",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\square-root.js"
+  ]
+ },
+ {
+  "en": "You have",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You have 75 purchases. A purchase is lost when you buy anything in the Generation tab. Produced buildings do nothing. All pre-Quadratic automation is disabled.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\challenges.js"
+  ]
+ },
+ {
+  "en": "You have a completed a total of",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You have a total of",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You have all of the circle milestones.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "y-quadratic\\var-synthesizer.js"
+  ]
+ },
+ {
+  "en": "You have bought",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You have bought a total of",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You have charged",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You have collected a total of",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You have completed",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You have completed a total of",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You have completed the entire game",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You have enough to buy a Parabola",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You have entered Square Root",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You have entered Synthetic Division",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You have entered The Limit",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You have entered the Mandelbrot in",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You have gone Complex",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You have gone Sinusoidal",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You have gone Y-Quadratic",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You have played this game for",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You have produced",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You have reached",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You have sacrificed",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You have spent",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You haven't completed Challenge",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You keep all your X upgrades and start with 25 points",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\reset-prestige.js"
+  ]
+ },
+ {
+  "en": "You know what this game needs more of? It needs more protein",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "You may know that the formula for the volume of a cylinder is V = πr<sup>2</sup>h. However, there may be some more rules for cylinders that you aren't familiar with. 1) A cylinder should not be assumed to be anything else. It's a cylinder, plain and simple. 2) Cylinders have nothing to do with urination. 3) When a cylinder is attached to a larger structure, please be especially careful when handling it. 4) Do not damage the cylinder. It is imperative that the cylinder and/or any objects connected to it remain unharmed. 5) Do not be alarmed if the cylinder expands in size. 6) When inserting the cylinder into a larger object, it may expand significantly due to change in temperature. Please remain calm if this happens. 7) If the cylinder hasn't changed size in approximately 3 hours, you may have a problem. 8) It's not tiny, it's an above average sized cylinder.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "You must pick one Challenge and one Complex Challenge to be trapped in.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-challenges.js"
+  ]
+ },
+ {
+  "en": "You must wait",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "You need",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ }
+]

@@ -1,0 +1,938 @@
+[
+ {
+  "en": "V is just a single W",
+  "zh": "V 只是一个单独的 W"
+ },
+ {
+  "en": "Valuable Variable",
+  "zh": "宝贵的变量"
+ },
+ {
+  "en": "Variable Coupler",
+  "zh": "变量耦合器"
+ },
+ {
+  "en": "Variable Extruder",
+  "zh": "变量挤压器"
+ },
+ {
+  "en": "Variable Interpolation",
+  "zh": "变量插值"
+ },
+ {
+  "en": "Variable Multiplier",
+  "zh": "变量倍率"
+ },
+ {
+  "en": "Variable Synthesizer",
+  "zh": "变量合成器"
+ },
+ {
+  "en": "Variable Synthesizer (v2.2)",
+  "zh": "变量合成器 (v2.2)"
+ },
+ {
+  "en": "Variable Synthesizer Unlocked",
+  "zh": "变量合成器已解锁"
+ },
+ {
+  "en": "Variable Synthesizer++",
+  "zh": "变量合成器++"
+ },
+ {
+  "en": "Variable Traditionalist",
+  "zh": "变量传统主义者"
+ },
+ {
+  "en": "Variable.",
+  "zh": "变量。"
+ },
+ {
+  "en": "Variables",
+  "zh": "变量"
+ },
+ {
+  "en": "Variables (v1.0)",
+  "zh": "变量 (v1.0)"
+ },
+ {
+  "en": "Variables are an essential part of a nutritious and well-balanced breakfast",
+  "zh": "变量是营养均衡早餐的重要组成部分"
+ },
+ {
+  "en": "Variables are another currency alongside Points that also increase your Number. There are ${player.zUnlocked ?",
+  "zh": "变量是与点数并列的另一种货币，也能提高你的数值。共有 ${player.zUnlocked ?"
+ },
+ {
+  "en": "Variables are another currency alongside Points that also increase your Number. There are ${player.zUnlocked ? (player.wUnlocked ?",
+  "zh": "变量是与点数并列的另一种货币，也能提高你的数值。共有 ${player.zUnlocked ? (player.wUnlocked ?"
+ },
+ {
+  "en": "Vastly Unprepared",
+  "zh": "准备严重不足"
+ },
+ {
+  "en": "Visual",
+  "zh": "视觉"
+ },
+ {
+  "en": "Visual Changes:",
+  "zh": "视觉改动："
+ },
+ {
+  "en": "W = 2V, and V doesn't exist either",
+  "zh": "W = 2V，而 V 也不存在"
+ },
+ {
+  "en": "W Autobuyer",
+  "zh": "W 自动购买器"
+ },
+ {
+  "en": "W Particles, multiplying i gain by",
+  "zh": "W 粒子，使 i 获得量乘以"
+ },
+ {
+  "en": "W isn't real",
+  "zh": "W 不是真实的"
+ },
+ {
+  "en": "WARNING: Cring Breach Detected! You must return to the B.R.U.H. (Big Red Underground Hole) Bunker ammediately!",
+  "zh": "警告：检测到 Cring 泄露！你必须立刻返回 B.R.U.H.（巨大红色地下洞）地堡！"
+ },
+ {
+  "en": "WARNING: NaN Detected! Your save file has been exported (unless your browser has blocked file downloads). Try clearing the local storage of the game and importing the exported save. If that doesn't work, try and find a save in the AP save banks on the Discord server. Sorry for the inconvenience :(",
+  "zh": "警告：检测到 NaN！你的存档文件已导出（除非浏览器阻止了文件下载）。请尝试清除游戏的本地存储并导入导出的存档。如果不起作用，请尝试在 Discord 服务器的 AP 存档库中找到一个存档。对造成的不便深表歉意 :("
+ },
+ {
+  "en": "Wait, That's Also Illegal",
+  "zh": "等等，那也是非法的"
+ },
+ {
+  "en": "Wait, That's Illegal",
+  "zh": "等等，那是非法的"
+ },
+ {
+  "en": "Waiting Game",
+  "zh": "等待游戏"
+ },
+ {
+  "en": "Wake up.",
+  "zh": "醒醒。"
+ },
+ {
+  "en": "Want another game to play while you're idling? Check out randomtuba's main website! Link: <a href='https://randomtuba.github.io/' target='_blank'>https://randomtuba.github.io/</a>",
+  "zh": "挂机时想玩点别的游戏？去看看 randomtuba 的主网站吧！链接：<a href='https://randomtuba.github.io/' target='_blank'>https://randomtuba.github.io/</a>"
+ },
+ {
+  "en": "Want another math-based incremental game? Then try Exponential Idle!",
+  "zh": "还想要另一款数学题材的增量游戏？那就试试 Exponential Idle 吧！"
+ },
+ {
+  "en": "Want to see the game's development history? You can view the Changelog with the link in the Options tab!",
+  "zh": "想看看游戏的开发历史？你可以在选项标签页中通过链接查看更新日志！"
+ },
+ {
+  "en": "Warning: You are beyond endgame. Gameplay may be unbalanced beyond this point.",
+  "zh": "警告：你已超越游戏后期。此后的玩法可能失衡。"
+ },
+ {
+  "en": "Way Too Much",
+  "zh": "太多了"
+ },
+ {
+  "en": "We Need To Cook",
+  "zh": "我们得开工了"
+ },
+ {
+  "en": "We got Algebraic Progression version 3.0 before GTA 6 💀",
+  "zh": "我们在 GTA 6 之前就玩到了 Algebraic Progression 3.0 版 💀"
+ },
+ {
+  "en": "We regret to inform you that this news message has been (softcapped)",
+  "zh": "我们遗憾地通知你，这条新闻已被（软上限限制）"
+ },
+ {
+  "en": "We're Not Done Yet",
+  "zh": "我们还没结束"
+ },
+ {
+  "en": "Weaken the Synthetic Division penalties from ^0.02 to ^0.025, and uncap Quadratic Upgrade 13.",
+  "zh": "将综合除法的惩罚从 ^0.02 减弱到 ^0.025，并解除二次升级 13 的上限。"
+ },
+ {
+  "en": "Weed-Whacking",
+  "zh": "除草"
+ },
+ {
+  "en": "Weeee, look at me go!",
+  "zh": "哇啊啊，看我冲啊！"
+ },
+ {
+  "en": "Weighted Xs",
+  "zh": "加权 X"
+ },
+ {
+  "en": "Welcome to Algebraic Progression, the game where math becomes fun",
+  "zh": "欢迎来到 Algebraic Progression，一个让数学变得有趣的游戏"
+ },
+ {
+  "en": "Welcome to the Automation Core!",
+  "zh": "欢迎来到自动化核心！"
+ },
+ {
+  "en": "Welcome to the Variable Synthesizer! Here you will be able to craft illegal variables that probably shouldn't exist.",
+  "zh": "欢迎来到变量合成器！在这里你可以制造出可能本不该存在的非法变量。"
+ },
+ {
+  "en": "Well yes, but actually no as x approaches maybe.",
+  "zh": "嗯，是，但当 x 趋近于『也许』时，其实不然。"
+ },
+ {
+  "en": "What Even Is j(n)?",
+  "zh": "j(n) 究竟是什么？"
+ },
+ {
+  "en": "What are you doing, sitting around? Stop waiting and enter Integration Challenge 8 already!",
+  "zh": "你还坐在这儿干什么？别等了，快进入积分挑战 8 吧！"
+ },
+ {
+  "en": "What are you talking about?",
+  "zh": "你在说什么？"
+ },
+ {
+  "en": "What do you mean by \"there are too many mechanics\"? \"Feature creep\", you say? 🎵 Feature creep, feature weirdo... 🎵",
+  "zh": "你说『机制太多』是什么意思？你说『功能蔓延』？🎵 功能蔓延，功能怪人……🎵"
+ },
+ {
+  "en": "What happens if the Z-Colliders collide with each other?",
+  "zh": "如果 Z 对撞机彼此相撞会发生什么？"
+ },
+ {
+  "en": "What happens when anti-slope comes in contact with antimatter? No one has survived to find out.",
+  "zh": "当反斜率遇到反物质会发生什么？没人能活着找到答案。"
+ },
+ {
+  "en": "What if you've been collecting sex chromosomes instead of variables this whole time?",
+  "zh": "如果你这段时间一直在收集性染色体而不是变量呢？"
+ },
+ {
+  "en": "What is this NaN number they're talking about? Did they recently add a new one? And why do people not like it?",
+  "zh": "他们说的这个 NaN 数是什么？他们最近新增了一个吗？为什么大家都不喜欢它？"
+ },
+ {
+  "en": "What's an anagram of Banach-Tarski? Banach-Tarski Banach-Tarski.",
+  "zh": "Banach-Tarski 的变位词是什么？Banach-Tarski Banach-Tarski。"
+ },
+ {
+  "en": "What's the second prestige layer, you ask? Well...it's complicated.",
+  "zh": "你问第二层威望是什么？嗯……很复杂。"
+ },
+ {
+  "en": "Whatever you do, DON'T say dx 10 times fast, worst mistake of my life",
+  "zh": "无论你做什么，都别快速连说 dx 十遍，我这辈子最糟的错误"
+ },
+ {
+  "en": "When Life Was Simple",
+  "zh": "当生活简单时"
+ },
+ {
+  "en": "When life gives you lemons, you sacrifice them for the next lemon-related prestige layer.",
+  "zh": "当生活给你柠檬时，你就把它们献祭给下一个与柠檬相关的威望层。"
+ },
+ {
+  "en": "When unlocking Transformations, all Transformations are extruded, and Dilations are permanently active.",
+  "zh": "解锁变换时，所有变换都会被挤压，且膨胀将永久生效。"
+ },
+ {
+  "en": "When you reach 1e1,425,000 polynomial power, you can unlock Y-Polynomials.<br>\n        The first Y-Polynomial is y<sup>3</sup>, which produces Y-Polynomial Power, which gives an exponent to Polynomial efficiencies.<br>\n        Y-Polynomials work similarly to Polynomials, with each tier costing and producing the tier before it.<br>\n        The efficiency of a Y-Polynomial doubles per purchase, until it reaches 1e9, which then it's softcapped.<br>\n        Additionally, Y-Polynomials are normally not affected by global speed.<br><br>\n        <b>Y-Polynomial Power Effect Formula:</b> (log<sub>10</sub>(power + 1)<sup>0.75</sup> / 500) + 1, hardcaps at 1.58",
+  "zh": "当你达到 1e1,425,000 多项式能量时，即可解锁 Y-多项式。<br>\n        第一个 Y-多项式是 y<sup>3</sup>，它产出 Y-多项式能量，后者为多项式效率提供指数。<br>\n        Y-多项式的运作方式与多项式类似，每一层都消耗并产出前一层。<br>\n        Y-多项式的效率每次购买都会翻倍，直到达到 1e9，之后将受到软上限限制。<br>\n        此外，Y-多项式通常不受全局速度影响。<br><br>\n        <b>Y-多项式能量效果公式：</b> (log<sub>10</sub>(power + 1)<sup>0.75</sup> / 500) + 1，硬上限为 1.58"
+ },
+ {
+  "en": "When your game inflates so hard your numbers reach the Small Dropping Ordinal 🤔",
+  "zh": "当你的游戏膨胀得厉害，数字都达到小下降序数时 🤔"
+ },
+ {
+  "en": "Whenever randomtuba asks his testers or developers to help him add something, they secretly sit and wait, knowing that he will eventually add the feature himself.",
+  "zh": "每当 randomtuba 请他的测试者或开发者帮忙添加东西时，他们都会暗中坐着等待，因为他最终会自己加上这个功能。"
+ },
+ {
+  "en": "While having Temporal Plane inactive",
+  "zh": "当时间平面未激活时"
+ },
+ {
+  "en": "While having less than 4 Hypercomplex Upgrades bought",
+  "zh": "当购买的超复数升级少于 4 个时"
+ },
+ {
+  "en": "While having no Z-Empowerments",
+  "zh": "当没有 Z 赋权时"
+ },
+ {
+  "en": "While having no rebuyable Synthetic Division Upgrades",
+  "zh": "当没有可重复购买的合成除法升级时"
+ },
+ {
+  "en": "While in Integration Challenge 3",
+  "zh": "当处于积分挑战 3 时"
+ },
+ {
+  "en": "While incremental games can be fun and even healthy in certain contexts, they can start or perpetuate video game addiction even more than other genres. If you feel like playing incremental games is taking priority over other things in your life, or manipulating your sleep schedule, it may be well advised to seek help.",
+  "zh": "虽然增量游戏在某些情况下可能很有趣甚至有益健康，但它们比其他类型更容易引发或助长电子游戏成瘾。如果你觉得玩增量游戏比生活中的其他事情更重要，或正在打乱你的作息，那么最好寻求帮助。"
+ },
+ {
+  "en": "While not purchasing Y-Intercept",
+  "zh": "当未购买 Y 截距时"
+ },
+ {
+  "en": "While not purchasing x",
+  "zh": "当未购买 x 时"
+ },
+ {
+  "en": "Who was the inventor of fractions? Henry the Eighth.",
+  "zh": "分数的发明者是谁？亨利八世。"
+ },
+ {
+  "en": "Why Isn't It Possible?",
+  "zh": "为什么这不可能？"
+ },
+ {
+  "en": "Why Would You Do That",
+  "zh": "你为什么要那样做"
+ },
+ {
+  "en": "Why are upgrades inactive in Integration Challenge 3? Idk man, they're probably taking a nap. Expecting them to trigger their effects 24 hours a day is kinda mean, y'know?",
+  "zh": "为什么升级在积分挑战 3 中不生效？我不知道啊老兄，它们可能在打盹。指望它们一天 24 小时触发效果有点刻薄，你知道的？"
+ },
+ {
+  "en": "Why are you playing this game? It's just a meaningless number going up with no implications on reality.",
+  "zh": "你为什么在玩这个游戏？它只是一个毫无意义的数字在上涨，对现实毫无影响。"
+ },
+ {
+  "en": "Why are you still trying?",
+  "zh": "你为什么还在努力？"
+ },
+ {
+  "en": "Why is the obtuse angle always sad? Because it is never right.",
+  "zh": "为什么钝角总是很伤心？因为它永远都不『正确』。"
+ },
+ {
+  "en": "Wide Accumulation",
+  "zh": "广泛积累"
+ },
+ {
+  "en": "World Population",
+  "zh": "世界人口"
+ },
+ {
+  "en": "Would the set of all sets contain itself?",
+  "zh": "所有集合的集合会包含它自身吗？"
+ },
+ {
+  "en": "Would you like to enter Speedrun Mode? (Click OK for Yes, click Cancel for No)",
+  "zh": "你想进入速通模式吗？（点击『确定』表示是，点击『取消』表示否）"
+ },
+ {
+  "en": "Wow! You can read! One step away from Algebra.",
+  "zh": "哇！你会阅读！离代数只差一步了。"
+ },
+ {
+  "en": "X Abundance",
+  "zh": "X 充裕"
+ },
+ {
+  "en": "X Autobuyer",
+  "zh": "X 自动购买器"
+ },
+ {
+  "en": "X Autobuyer:",
+  "zh": "X 自动购买器："
+ },
+ {
+  "en": "X Power Product",
+  "zh": "X 能量乘积"
+ },
+ {
+  "en": "X Power Product:",
+  "zh": "X 能量乘积："
+ },
+ {
+  "en": "X Powers",
+  "zh": "X 能量"
+ },
+ {
+  "en": "X Powers Boosters Autobuyer:",
+  "zh": "X 能量助推器自动购买器："
+ },
+ {
+  "en": "X Powers Boosters are twice as effective",
+  "zh": "X 能量助推器的效果翻倍"
+ },
+ {
+  "en": "X Powers Boosters:",
+  "zh": "X 能量助推器："
+ },
+ {
+  "en": "X Powers Buyables Autobuyer:",
+  "zh": "X 能量可购买项自动购买器："
+ },
+ {
+  "en": "X Powers Unlocked in Lost Integration",
+  "zh": "X 能量在失落积分中解锁"
+ },
+ {
+  "en": "X Powers gain a multiplier based on y²",
+  "zh": "X 能量根据 y² 获得倍率"
+ },
+ {
+  "en": "X Powers:",
+  "zh": "X 能量："
+ },
+ {
+  "en": "X Upgrade",
+  "zh": "X 升级"
+ },
+ {
+  "en": "X Upgrade charges can be respecced on Y-Quadratic, if desired.",
+  "zh": "如有需要，X 升级的充能可以在 Y-二次中重置分配。"
+ },
+ {
+  "en": "X Upgrades are useless (that also means Functions, Produced Buildings, and Y-Intercept do nothing), and every time you buy an X, production is divided by about 1.016 (5^0.01). Your X autobuyer will single-buy.",
+  "zh": "X 升级无效（这也意味着函数、产出建筑和 Y 截距都不起作用），每次购买 X 时，产出都会除以约 1.016（5^0.01）。你的 X 自动购买器将单次购买。"
+ },
+ {
+  "en": "X Upgrades. Charging an X Upgrade costs 1 xy.",
+  "zh": "X 升级。为 X 升级充能消耗 1 xy。"
+ },
+ {
+  "en": "X and Y",
+  "zh": "X 与 Y"
+ },
+ {
+  "en": "X and Y cost scalings",
+  "zh": "X 与 Y 的消耗缩放"
+ },
+ {
+  "en": "X and Y generation are both raised ^0.5.",
+  "zh": "X 与 Y 的产出都提升到 ^0.5 次方。"
+ },
+ {
+  "en": "X cost is ^10 and Y cost is ^4. If your X and Y amounts share a Greatest Common Factor (GCF), point gain will be negatively affected based on the factor.",
+  "zh": "X 消耗为 ^10，Y 消耗为 ^4。如果你的 X 与 Y 数量存在最大公因数（GCF），点数获得量将根据该因数受到负面影响。"
+ },
+ {
+  "en": "X cost is ^10 and Y cost is ^4. X generation is raised ^0.75. If your purchased X and Y amounts share a GCF, point gain will be negatively affected based on the factor.",
+  "zh": "X 消耗为 ^10，Y 消耗为 ^4。X 产出提升到 ^0.75 次方。如果你购买的 X 与 Y 数量存在最大公因数（GCF），点数获得量将根据该因数受到负面影响。"
+ },
+ {
+  "en": "X cost is divided based on total generators bought",
+  "zh": "X 消耗根据购买的生成器总数而降低"
+ },
+ {
+  "en": "X cost scaling",
+  "zh": "X 消耗缩放"
+ },
+ {
+  "en": "X cost scaling is square rooted",
+  "zh": "X 消耗缩放被开平方"
+ },
+ {
+  "en": "X generation is raised ^0.5 and produced generators do nothing. Anti-points super-exponentially generate over time and divide point gain and divide RP gain at a reduced rate.",
+  "zh": "X 产出提升到 ^0.5 次方，且产出的生成器不起作用。反点数随时间超指数级生成，降低点数获得量，并以较低速率降低 RP 获得量。"
+ },
+ {
+  "en": "X marks the spot!",
+  "zh": "X 标出了宝藏位置！"
+ },
+ {
+  "en": "X scaling becomes *1.08 instead of *1.1",
+  "zh": "X 缩放变为 *1.08 而非 *1.1"
+ },
+ {
+  "en": "X, Y, and Z",
+  "zh": "X、Y 与 Z"
+ },
+ {
+  "en": "X-hausted",
+  "zh": "X 力竭"
+ },
+ {
+  "en": "X-pansion",
+  "zh": "X 扩张"
+ },
+ {
+  "en": "Xtra YC4 CompletionZ (XYZ)",
+  "zh": "额外 YC4 完成次数（XYZ）"
+ },
+ {
+  "en": "Y Autobuyer",
+  "zh": "Y 自动购买器"
+ },
+ {
+  "en": "Y Autobuyer:",
+  "zh": "Y 自动购买器："
+ },
+ {
+  "en": "Y Challenge",
+  "zh": "Y 挑战"
+ },
+ {
+  "en": "Y Challenges",
+  "zh": "Y 挑战"
+ },
+ {
+  "en": "Y Challenges (YCs) take place in Y-Quadratics, and require points to complete.<br>\n        Y Challenges can only be completed once. However, if you complete a Y Challenge in RET -1,<br>\n        the Y Challenge's effect becomes stronger.",
+  "zh": "Y 挑战（YC）在 Y-二次中进行，需要点数才能完成。<br>\n        Y 挑战只能完成一次。不过，如果你在 RET -1 中完成 Y 挑战，<br>\n        该 Y 挑战的效果会变得更强。"
+ },
+ {
+  "en": "Y Challenges Unlocked in Lost Integration",
+  "zh": "Y 挑战在失落积分中解锁"
+ },
+ {
+  "en": "Y Divider",
+  "zh": "Y 分割器"
+ },
+ {
+  "en": "Y Man shocks x<sup>2</sup> waitress by speaking perfect Quadratic",
+  "zh": "Y 男用纯正的二次语言震惊了 x<sup>2</sup> 女服务员"
+ },
+ {
+  "en": "Y Particles, multiplying y",
+  "zh": "Y 粒子，使 y 倍增"
+ },
+ {
+  "en": "Y Power Product:",
+  "zh": "Y 能量乘积："
+ },
+ {
+  "en": "Y Powers",
+  "zh": "Y 能量"
+ },
+ {
+  "en": "Y Powers Unlocked in Lost Integration",
+  "zh": "Y 能量在失落积分中解锁"
+ },
+ {
+  "en": "Y Powers gain a multiplier based on Riemann spheres",
+  "zh": "Y 能量根据黎曼球获得倍率"
+ },
+ {
+  "en": "Y Powers gain a multiplier based on the Y Powers product",
+  "zh": "Y 能量根据 Y 能量乘积获得倍率"
+ },
+ {
+  "en": "Y scaling becomes *1.1 instead of *1.15",
+  "zh": "Y 缩放变为 *1.1 而非 *1.15"
+ },
+ {
+  "en": "Y-Challenge",
+  "zh": "Y-挑战"
+ },
+ {
+  "en": "Y-Challenges",
+  "zh": "Y-挑战"
+ },
+ {
+  "en": "Y-Challenges (YCs) are the third type of Challenges. Y-Challenges take place in Y-Quadratics, and<br>\n        require x to complete. The first Y-Challenge is unlocked by default. Each Y-Challenge after must be<br>\n        unlocked with y<sup>2</sup>, and will be unlocked permanently.<br>\n        Unlike the other two Challenge variants, Y-Challenges have no completion cap, and their goals scale linearly.<br>\n        As usual, the more completions you have, the greater the reward gets.",
+  "zh": "Y-挑战（YC）是第三类挑战。Y-挑战在 Y-二次中进行，且<br>\n        需要 x 才能完成。第一个 Y-挑战默认解锁。之后的每个 Y-挑战都必须<br>\n        用 y<sup>2</sup> 解锁，且解锁后永久有效。<br>\n        与其他两种挑战变体不同，Y-挑战没有完成上限，其目标呈线性缩放。<br>\n        与往常一样，完成次数越多，奖励越丰厚。"
+ },
+ {
+  "en": "Y-Challenges (v2.2)",
+  "zh": "Y-挑战 (v2.2)"
+ },
+ {
+  "en": "Y-Challenges Unlocked",
+  "zh": "Y-挑战已解锁"
+ },
+ {
+  "en": "Y-Intercept Autobuyer",
+  "zh": "Y 截距自动购买器"
+ },
+ {
+  "en": "Y-Polynomial",
+  "zh": "Y-多项式"
+ },
+ {
+  "en": "Y-Polynomial power, powering all Polynomial efficiencies by ^",
+  "zh": "Y-多项式能量，使所有多项式效率提升到 ^ 次方"
+ },
+ {
+  "en": "Y-Polynomials",
+  "zh": "Y-多项式"
+ },
+ {
+  "en": "Y-Polynomials (v3.0 Part 2)",
+  "zh": "Y-多项式 (v3.0 第 2 部分)"
+ },
+ {
+  "en": "Y-Polynomials:",
+  "zh": "Y-多项式："
+ },
+ {
+  "en": "Y-Quadratic",
+  "zh": "Y-二次"
+ },
+ {
+  "en": "Y-Quadratic (v2.2)",
+  "zh": "Y-二次 (v2.2)"
+ },
+ {
+  "en": "Y-Quadratic Automator",
+  "zh": "Y-二次自动化器"
+ },
+ {
+  "en": "Y-Quadratic Automator: Go Y-Quadratic",
+  "zh": "Y-二次自动化器：进入 Y-二次"
+ },
+ {
+  "en": "Y-Quadratic Confirmation:",
+  "zh": "Y-二次确认："
+ },
+ {
+  "en": "Y-Quadratic Upgrade",
+  "zh": "Y-二次升级"
+ },
+ {
+  "en": "Y-Quadratic Upgrade 11's second effect is raised ^50,000.",
+  "zh": "Y-二次升级 11 的第二个效果提升到 ^50,000 次方。"
+ },
+ {
+  "en": "Y-Quadratic Upgrade Unlocked:",
+  "zh": "Y-二次升级已解锁："
+ },
+ {
+  "en": "Y-Quadratic Upgrades",
+  "zh": "Y-二次升级"
+ },
+ {
+  "en": "Y-Quadratic Upgrades deemed too difficult to talk to by majority of the population, said that \"they have too many standards\".",
+  "zh": "大多数人认为 Y-二次升级难以接近，称它们『要求太高』。"
+ },
+ {
+  "en": "Y-Quadratic Upgrades:",
+  "zh": "Y-二次升级："
+ },
+ {
+  "en": "Y-Quadratic:",
+  "zh": "Y-二次："
+ },
+ {
+  "en": "YC1 and YC2 effect exponents",
+  "zh": "YC1 与 YC2 的效果指数"
+ },
+ {
+  "en": "YC3 effect",
+  "zh": "YC3 效果"
+ },
+ {
+  "en": "YC4 Cleansing",
+  "zh": "YC4 净化"
+ },
+ {
+  "en": "YC4 Clearing",
+  "zh": "YC4 清除"
+ },
+ {
+  "en": "YC4 Softcap Weakener",
+  "zh": "YC4 软上限削弱器"
+ },
+ {
+  "en": "YC6 Does Something",
+  "zh": "YC6 有点作用"
+ },
+ {
+  "en": "Yahtzee Master (AP Classic)",
+  "zh": "Yahtzee 大师（AP 经典版）"
+ },
+ {
+  "en": "Yap Expansion: Infinite Ramble",
+  "zh": "话痨扩张：无限闲扯"
+ },
+ {
+  "en": "Yo dawg, I heard you liked Quadratics...",
+  "zh": "哟老兄，听说你喜欢二次……"
+ },
+ {
+  "en": "Yo mama so fat, when she stepped on the weight scale, it reached the 64-bit floating point number limit!",
+  "zh": "你妈太胖了，她一踏上体重秤，就达到了 64 位浮点数的上限！"
+ },
+ {
+  "en": "You",
+  "zh": "你"
+ },
+ {
+  "en": "You Don't Need That",
+  "zh": "你不需要那个"
+ },
+ {
+  "en": "You already know what's up. Check the Generation tab for more details.",
+  "zh": "你已经知道怎么回事了。查看生成标签页了解更多详情。"
+ },
+ {
+  "en": "You are currently in",
+  "zh": "你当前处于"
+ },
+ {
+  "en": "You are generating",
+  "zh": "你正在产出"
+ },
+ {
+  "en": "You are getting",
+  "zh": "你正在获得"
+ },
+ {
+  "en": "You are no longer trapped in Root Epicenter Level √-1 in Integration Challenge 2",
+  "zh": "你不再被困在积分挑战 2 的根中心等级 √-1 中"
+ },
+ {
+  "en": "You are not expected to complete all 3 daily achievements in 24 hours every day, and this could potentially be dangerous for your health.",
+  "zh": "不要指望每天 24 小时内完成全部 3 个每日成就，这可能对你的健康造成危险。"
+ },
+ {
+  "en": "You are stuck in another layer of Square Root.",
+  "zh": "你被困在平方根的另一层中。"
+ },
+ {
+  "en": "You are trapped in Root Epicenter Level √-1. The Square Root Upgrade 'Uprooted Points' is disabled.",
+  "zh": "你被困在根中心等级 √-1。平方根升级『连根拔起的点数』已禁用。"
+ },
+ {
+  "en": "You are trapped in The Limit, and all Challenge Factors are set to 15.",
+  "zh": "你被困在极限之中，所有挑战因子都设为 15。"
+ },
+ {
+  "en": "You can also find here a comprehensive collection of all the autobuyers you've unlocked so far, which could be helpful.",
+  "zh": "你还可以在这里找到目前解锁的所有自动购买器的完整集合，这可能很有用。"
+ },
+ {
+  "en": "You can bulk complete Complex Challenges and Complex Challenges no longer have unlock requirements",
+  "zh": "你可以批量完成复数挑战，且复数挑战不再需要解锁要求"
+ },
+ {
+  "en": "You can buy all upgrades from the second split",
+  "zh": "你可以购买第二分支的所有升级"
+ },
+ {
+  "en": "You can complete multiple tiers of a Complex Challenge if you meet the goal for higher completions of the challenge.",
+  "zh": "如果你达成了复数挑战更高完成次数的目标，就可以一次完成该挑战的多层。"
+ },
+ {
+  "en": "You can generate Minibrots",
+  "zh": "你可以生成 Minibrots"
+ },
+ {
+  "en": "You can generate Nanobrots, and generate Minibrots 3x faster",
+  "zh": "你可以生成 Nanobrots，且生成 Minibrots 的速度快 3 倍"
+ },
+ {
+  "en": "You can purchase Derivative Functions to boost gain of all derivative tiers, and Derivative Buyables to boost other mechanics.",
+  "zh": "你可以购买导数函数来提升所有导数层级的获得量，并购买导数可购买项来增强其他机制。"
+ },
+ {
+  "en": "You can set the Limit Challenge Factors beyond 10. (not required for progression)",
+  "zh": "你可以将极限挑战因子设置到 10 以上。（非进度必需）"
+ },
+ {
+  "en": "You can use the left and right arrow keys for tab navigation and the up and down arrow keys for subtab navigation.",
+  "zh": "你可以使用左右方向键切换标签页，使用上下方向键切换子标签页。"
+ },
+ {
+  "en": "You can't kill News Ticker Man, look at me go!",
+  "zh": "你杀不死新闻滚动条人，看我冲啊！"
+ },
+ {
+  "en": "You cannot gain",
+  "zh": "你无法获得"
+ },
+ {
+  "en": "You cannot gain X and Y. The base Reset Points gain formula is 1, so only multipliers apply. You are also trapped in Square Root with Root Epicenter Task -1, just for fun.",
+  "zh": "你无法获得 X 和 Y。重置点数的基础获得公式为 1，因此只有倍率生效。你还会被困在平方根中，根中心任务为 -1，纯属娱乐。"
+ },
+ {
+  "en": "You cannot gain reset points.",
+  "zh": "你无法获得重置点数。"
+ },
+ {
+  "en": "You cannot gain root essence.",
+  "zh": "你无法获得根精华。"
+ },
+ {
+  "en": "You cannot gain x².",
+  "zh": "你无法获得 x²。"
+ },
+ {
+  "en": "You cannot generate X Powers past x⁵.",
+  "zh": "你无法生成超过 x⁵ 的 X 能量。"
+ },
+ {
+  "en": "You cannot purchase Riemann spheres in a Mandelbrot Challenge!",
+  "zh": "你不能在曼德博挑战中购买黎曼球！"
+ },
+ {
+  "en": "You completed the entire game in",
+  "zh": "你完成整个游戏用时"
+ },
+ {
+  "en": "You currently have",
+  "zh": "你当前拥有"
+ },
+ {
+  "en": "You don't actually enter this challenge. Instead, you must abide by the following requirements in the tooltip.",
+  "zh": "你实际上不会进入这个挑战。相反，你必须遵守提示中列出的以下要求。"
+ },
+ {
+  "en": "You don't have any rewards :(",
+  "zh": "你没有任何奖励 :("
+ },
+ {
+  "en": "You gain 2 game points every time you click \"Play Again\" at the end of the game.",
+  "zh": "每次在游戏结束时点击『再玩一次』，你都会获得 2 游戏点数。"
+ },
+ {
+  "en": "You gain Alterations based on your W amount. Alterations unlock large mechanical extensions and quality of life bonuses.\n        ${Alterations.has(2) ?",
+  "zh": "你根据 W 数量获得改动。改动会解锁大型机制扩展和便利性奖励。\n        ${Alterations.has(2) ?"
+ },
+ {
+  "en": "You gain limit score based on three distinct factors:",
+  "zh": "你根据三个不同因素获得极限分数："
+ },
+ {
+  "en": "You generate derivatives based on j(n), which is based on your variable amounts in The Limit with all Challenge Factors maxed.",
+  "zh": "你根据 j(n) 生成导数，而 j(n) 取决于你在极限中且所有挑战因子拉满时的变量数量。"
+ },
+ {
+  "en": "You get 2x more square roots",
+  "zh": "你获得的平方根多 2 倍"
+ },
+ {
+  "en": "You get 3x more root essence",
+  "zh": "你获得的根精华多 3 倍"
+ },
+ {
+  "en": "You have",
+  "zh": "你拥有"
+ },
+ {
+  "en": "You have 75 purchases. A purchase is lost when you buy anything in the Generation tab. Produced buildings do nothing. All pre-Quadratic automation is disabled.",
+  "zh": "你有 75 次购买机会。当你在生成标签页购买任何东西时，都会失去一次购买机会。产出的建筑不起作用。所有二次之前的自动化都已禁用。"
+ },
+ {
+  "en": "You have a completed a total of",
+  "zh": "你总共已完成"
+ },
+ {
+  "en": "You have a total of",
+  "zh": "你总共有"
+ },
+ {
+  "en": "You have all of the circle milestones.",
+  "zh": "你已拥有所有圆形里程碑。"
+ },
+ {
+  "en": "You have bought",
+  "zh": "你已购买"
+ },
+ {
+  "en": "You have bought a total of",
+  "zh": "你总共已购买"
+ },
+ {
+  "en": "You have charged",
+  "zh": "你已充能"
+ },
+ {
+  "en": "You have collected a total of",
+  "zh": "你总共已收集"
+ },
+ {
+  "en": "You have completed",
+  "zh": "你已完成"
+ },
+ {
+  "en": "You have completed a total of",
+  "zh": "你总共已完成"
+ },
+ {
+  "en": "You have completed the entire game",
+  "zh": "你已完成整个游戏"
+ },
+ {
+  "en": "You have enough to buy a Parabola",
+  "zh": "你有足够的资源购买抛物线"
+ },
+ {
+  "en": "You have entered Square Root",
+  "zh": "你已进入平方根"
+ },
+ {
+  "en": "You have entered Synthetic Division",
+  "zh": "你已进入综合除法"
+ },
+ {
+  "en": "You have entered The Limit",
+  "zh": "你已进入极限"
+ },
+ {
+  "en": "You have entered the Mandelbrot in",
+  "zh": "你进入曼德博用时"
+ },
+ {
+  "en": "You have gone Complex",
+  "zh": "你已进入复数"
+ },
+ {
+  "en": "You have gone Sinusoidal",
+  "zh": "你已进入正弦"
+ },
+ {
+  "en": "You have gone Y-Quadratic",
+  "zh": "你已进入 Y-二次"
+ },
+ {
+  "en": "You have played this game for",
+  "zh": "你玩这个游戏已有"
+ },
+ {
+  "en": "You have produced",
+  "zh": "你已产出"
+ },
+ {
+  "en": "You have reached",
+  "zh": "你已达到"
+ },
+ {
+  "en": "You have sacrificed",
+  "zh": "你已献祭"
+ },
+ {
+  "en": "You have spent",
+  "zh": "你已花费"
+ },
+ {
+  "en": "You haven't completed Challenge",
+  "zh": "你尚未完成挑战"
+ },
+ {
+  "en": "You keep all your X upgrades and start with 25 points",
+  "zh": "你保留所有 X 升级，并以 25 点数开始"
+ },
+ {
+  "en": "You know what this game needs more of? It needs more protein",
+  "zh": "你知道这个游戏更需要什么吗？它需要更多蛋白质"
+ },
+ {
+  "en": "You may know that the formula for the volume of a cylinder is V = πr<sup>2</sup>h. However, there may be some more rules for cylinders that you aren't familiar with. 1) A cylinder should not be assumed to be anything else. It's a cylinder, plain and simple. 2) Cylinders have nothing to do with urination. 3) When a cylinder is attached to a larger structure, please be especially careful when handling it. 4) Do not damage the cylinder. It is imperative that the cylinder and/or any objects connected to it remain unharmed. 5) Do not be alarmed if the cylinder expands in size. 6) When inserting the cylinder into a larger object, it may expand significantly due to change in temperature. Please remain calm if this happens. 7) If the cylinder hasn't changed size in approximately 3 hours, you may have a problem. 8) It's not tiny, it's an above average sized cylinder.",
+  "zh": "你可能知道圆柱体积公式是 V = πr<sup>2</sup>h。不过，关于圆柱可能还有一些你不熟悉的规则。1) 不要把圆柱当成别的东西。它就是圆柱，简单明了。2) 圆柱与排尿无关。3) 当圆柱连接到更大的结构上时，请务必小心操作。4) 不要损坏圆柱。圆柱和/或与之相连的任何物体必须保持完好，这点至关重要。5) 如果圆柱体积变大，不必惊慌。6) 将圆柱插入更大的物体时，它可能因温度变化而显著膨胀。如果发生这种情况，请保持冷静。7) 如果圆柱在大约 3 小时内没有变化，那你可能有问题了。8) 它不算小，它是一个高于平均尺寸的圆柱。"
+ },
+ {
+  "en": "You must pick one Challenge and one Complex Challenge to be trapped in.",
+  "zh": "你必须选择一个挑战和一个复数挑战被困其中。"
+ },
+ {
+  "en": "You must wait",
+  "zh": "你必须等待"
+ },
+ {
+  "en": "You need",
+  "zh": "你需要"
+ }
+]

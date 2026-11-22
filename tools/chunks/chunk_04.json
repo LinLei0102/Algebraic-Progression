@@ -1,0 +1,2404 @@
+[
+ {
+  "en": "A Complete Catalogue",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "A Rift in Space",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "A famous scientist has recently been fired in disgrace after suggesting a study into the algebra of dividing by zero.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "A moment of silence for all of the mobile users playing C8+CC6.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "A new subtab appears...check the Y-Quadratic tab!",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "sinusoidal\\unit-circle.js"
+  ]
+ },
+ {
+  "en": "A regular Square Root run.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "lost-integration\\square-root.js"
+  ]
+ },
+ {
+  "en": "A young game developer stands in their bedroom. It just so happens that today, the 25th of June, 2021, is the release of this developer's eventual successful incremental game. Although it was about one year ago that the project was conceptualized, it is only today that it will be given a name! What will the name of this incremental game be?",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "AAREX ADD BATTLE REPLICANTIS OR I WILL FLATTEN YOU'RE CAR TIRES",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "ACO",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "ACU",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "AI-generated news message based on AD news ticker be like: \"The year is 69420. Hevipelle (the highly acclaimed god we must constantly worship) still hasn't released the Reality Update that is 5 hours away. Something something slabdrill 9th dimension, useless paperclips, and paperclip maximizer. The community no longer gets to add news messages to the game because they're really stupid lol, while of course our GENIUS development and testing team who are great at working on the update are highly qualified. The 9th dimension isn't real because screw you, you useless piece of crap that will never amount to anything useful in your life.\"",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "AIP",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "ANR",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "AP Changelog",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "changelog.html"
+  ]
+ },
+ {
+  "en": "AP Classic",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "AP Desmos% Speedrun",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "AP Rewritten REWRITTEN? What's next, AP Rewritten^3?",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "AP Save (",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "save.js"
+  ]
+ },
+ {
+  "en": "AP stands for Algebraic Progression, not Advanced Placement.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "AP's next patch will be removing the UI, which will heavily increase performance for all devices.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "APSaveSlot",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "save.js"
+  ]
+ },
+ {
+  "en": "APSaveSlot1",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "save.js"
+  ]
+ },
+ {
+  "en": "AVOID THE PIPELINE: v1.2 (2 days), v1.4 (2 weeks), v2.0 (3 months), v2.1 (3 months), v3.0 (2 years)",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "AYQ",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Absurd Mode may be dangerous for those with photosensitive epilepsy and makes the game generally unfun to play. Are you sure you want to enable Absurd Mode? (Absurd Mode is automatically disabled upon refresh.)",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Absurd Mode:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Achievement #19683",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Achievement Bonus",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "complex\\comp-upgs.js"
+  ]
+ },
+ {
+  "en": "Achievement Unlocked:",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "achievements.js",
+   "game.js",
+   "integration\\integ-prestige.js"
+  ]
+ },
+ {
+  "en": "Achievement Unlocked: Not Following Directions",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Achievement Unlocked: One Mechanic Bites The Dust",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "complex\\prestige.js"
+  ]
+ },
+ {
+  "en": "Achievements",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Achievements:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Activate (1 effect slot)",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Activate (1 type slot)",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Activations:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Actually Unlimited",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Add +0.01 to the g(n) and h(n) softcap exponent per purchase",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\derivatives.js"
+  ]
+ },
+ {
+  "en": "Add 0.01 to the Polynomial per-purchase multiplier per purchase.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Add 0.1 to the SE conversion exponent (in the SE effect) per purchase.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "polynomials\\synthetic-division.js"
+  ]
+ },
+ {
+  "en": "Add 0.1 to the exponent before the log in the PP effect formula per purchase",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "polynomials\\polynomials.js"
+  ]
+ },
+ {
+  "en": "Add 0.1 to the exponent before the log in the X Power product effect formula",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\x-powers.js"
+  ]
+ },
+ {
+  "en": "Add 0.1 to the exponent before the log in the Y Power product effect formula",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\y-powers.js"
+  ]
+ },
+ {
+  "en": "Add 0.1 to the zi power effect exponent per purchase",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "polynomials\\polynomials.js"
+  ]
+ },
+ {
+  "en": "Add 0.2 to the bases of g(n) and h(n), and unlock autobuyers for Functions.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\quad-upgs.js"
+  ]
+ },
+ {
+  "en": "Add 0.2 to the generator multiplier mult gain",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\fractal-arm.js"
+  ]
+ },
+ {
+  "en": "Add 0.25 to the g'(n) and h'(n) bases per purchase",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\derivatives.js"
+  ]
+ },
+ {
+  "en": "Add 0.5 to the SE conversion exponent.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Add 0.5 to the YC1 and YC2 effect exponents per purchase",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "polynomials\\polynomials.js"
+  ]
+ },
+ {
+  "en": "Add 1 to the a, b, and c limit per purchase",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\quad-formula.js"
+  ]
+ },
+ {
+  "en": "Add 5 to the bases of g(n), h(n), g'(n), and h'(n), and unlock autobuyers for Functions.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\quad-upgs.js"
+  ]
+ },
+ {
+  "en": "Add 5 to the d, e, and f limit per purchase",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "sinusoidal\\pyth-triples.js"
+  ]
+ },
+ {
+  "en": "Add 5 to the last 3 Transformation amount caps. At 1 purchase, keep all Transformation type purchases on Integration.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "sinusoidal\\sin-upgrades.js"
+  ]
+ },
+ {
+  "en": "Add effective completions to all CC rewards.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "lost-integration\\fractal-arm.js"
+  ]
+ },
+ {
+  "en": "Add to e based on total geometric sequences",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\y-quadratic.js"
+  ]
+ },
+ {
+  "en": "Add to the Polynomial per-purchase mult based on total triangles.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "sinusoidal\\sin-upgrades.js"
+  ]
+ },
+ {
+  "en": "Add to the exponent of Quadratic Bonus.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "complex\\comp-challenges.js"
+  ]
+ },
+ {
+  "en": "Add to the f(n) exponent based on polynomial power, after all multipliers.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Add to the g(x) and h(x) softcap starts based on slope.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Addition to the slope effect exponent from Y-Intercept is multiplied by 1.05.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "quadratic\\challenges.js"
+  ]
+ },
+ {
+  "en": "Adds to the Algebraic Set sacrifice effect hardcap.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "y-quadratic\\y-challenges.js"
+  ]
+ },
+ {
+  "en": "After buying the 8th Y-Quadratic Upgrade \"Chemical Expansion\", the Z Lab will be unlocked.<br>\n        Your current z amount will generate Z-Power. By default, 0 z produces 1 Z-Power per second, with each z obtained allowing you<br>\n        to produce 2x more Z-Power per second. So, 7 z would produce 128 (2<sup>7</sup>) Z-Power per second. This multiplier can be<br>\n        increased with Z Empowerments, which are bought with i. Each one adds 0.25 to this multiplier. So, having 2 Z Empowerments<br>\n        would increase the multiplier to 2.5x, making 7 z produce 2.5<sup>7</sup> Z-Power per second.<br><br>\n        <b>Z Empowerment Cost Formula:</b> 1e110 * 100,000<sup>purchases<sup>2</sup></sup><br><br>\n        <b>Z-Colliders:</b> There are ${IntegrationUpgrades.complex9.isBought() ?",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "textbook.js"
+  ]
+ },
+ {
+  "en": "After buying the first repeatable Synthetic Division Upgrade, multiply your current SE amount by 2.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "After buying the first repeatable Synthetic Division Upgrade, multiply your current SE amount by 3.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "After buying the x⁶ Polynomial Buyable, multiply your current SE amount by 1.5.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "After unlocking Synthetic Division, automatically buy the 1st and 2nd rows of Synthetic Division Upgrades for free.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "After unlocking Synthetic Division, start with 1,000 Synthetic Essence.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "After unlocking Y-Challenges, start with all Y-Challenges unlocked.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "After unlocking the Variable Synthesizer, start with 8 xy and all Charged X Upgrades bought.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "After unlocking the Variable Synthesizer, start with all illegal products unlocked.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "After you reach",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Algebraic",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\number-sets.js"
+  ]
+ },
+ {
+  "en": "Algebraic Dimensions",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\upgrades.js"
+  ]
+ },
+ {
+  "en": "Algebraic Progression",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Algebraic Progression Beta 10/7/2024 Incident (DO NOT RESEARCH)",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Algebraic Progression NGUd^^^++++---- when?",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Algebraic Progression by randomtuba",
+  "kind": "exact",
+  "contexts": [
+   "attr:content"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Algebraic Progression testing phase declared invalid, an appropriate sample size of at least 30 testers per the Central Limit Theorem was not reached.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Algebraic Progression v3.0",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "save.js"
+  ]
+ },
+ {
+  "en": "Algebraic Progression v3.0.3",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Algebraic Progression: Gangster Edition (Loading...)",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Algebraic Progression: The Reality Update - Only 4.5 years away!",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Algebraic Progression? More like Console ERROR incremental",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Algebraic Regression",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "y-quadratic\\y-challenges.js"
+  ]
+ },
+ {
+  "en": "Algebraic Set sacrifice effect",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "hypercomplex\\hypercomp-upgrades.js"
+  ]
+ },
+ {
+  "en": "Algebraic Set sacrifice effect hardcap",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "y-quadratic\\y-challenges.js"
+  ]
+ },
+ {
+  "en": "All Complex Challenge rewards are disabled.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\y-quadratic.js"
+  ]
+ },
+ {
+  "en": "All Minibrot upgrade costs are raised ^0.8",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\fractal-arm.js"
+  ]
+ },
+ {
+  "en": "All Number Set effects are disabled, and you are trapped in Root Epicenter Level √-1 and Synthetic Division. i gain is raised ^0.415.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-challenges.js"
+  ]
+ },
+ {
+  "en": "All Transformation types (except for Translations) cap at 40 levels.",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "All Y-Quadratic Upgrades are disabled except for Y-Quadratic Upgrades 2, 8, and 18. Polynomial power cannot be generated.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-challenges.js"
+  ]
+ },
+ {
+  "en": "All Z-Colliders are charged at the same time.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "All boosts based on times gone Quadratic and boosts to Quadratics gain are disabled. You also must beat the challenge in",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "complex\\comp-challenges.js"
+  ]
+ },
+ {
+  "en": "All buildings are twice as effective, multiply the f(n) exponent by 1.2, and multiply the g(n) and h(n) bases by 1.4.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\upgrades.js"
+  ]
+ },
+ {
+  "en": "All buildings are twice as effective.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\upgrades.js"
+  ]
+ },
+ {
+  "en": "All currencies except Hypercomplex Flune currencies are affected by global speed.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "hypercomplex\\hypercomp-upgrades.js"
+  ]
+ },
+ {
+  "en": "All effects from Trigonometric Functions and Imaginary Power Buyables are disabled. Complex Upgrades 10 and 12 are useless.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-challenges.js"
+  ]
+ },
+ {
+  "en": "All generators are multiplied based on total generators bought",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "lost-integration\\square-root.js"
+  ]
+ },
+ {
+  "en": "All is Certain",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "sinusoidal\\sin-upgrades.js"
+  ]
+ },
+ {
+  "en": "All perks bought!",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "All point generators are 3x more effective",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\x-upgrades.js"
+  ]
+ },
+ {
+  "en": "All post-Integration bonuses and quality of life is disabled. Most mechanics are greatly modified. Once you enter this challenge, you cannot exit it.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-challenges.js"
+  ]
+ },
+ {
+  "en": "All previous RETs are combined.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "lost-integration\\square-root.js"
+  ]
+ },
+ {
+  "en": "All-Encompassing",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\square-root.js"
+  ]
+ },
+ {
+  "en": "All-Seeing Eye",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Almost There!",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Almost all Quadratic, Complex, and Y-Quadratic Upgrades are disabled. You have {{0}} activations, where each activation allows you to enable 1 disabled effect. i gain is raised ^0.25.",
+  "kind": "template",
+  "contexts": [
+   "js-template"
+  ],
+  "sources": [
+   "integration\\integ-challenges.js"
+  ]
+ },
+ {
+  "en": "Also, enter Synthetic Division for the 2nd time at",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Alteration Reached:",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Alterations",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Alterations (v3.0 Part 2)",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Alternative Prestige",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Always Show Subtabs:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Always remember to show your work.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Amount:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "An Algebraic Progression Movie, coming soon to theaters, starring Jack Black as the player! \"X and Y!\" he says triumphantly while lighting a portal to the Coordinate Plane.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "An infinite number of mathematicians walk into a bar. The first orders a beer. The second orders a half of a beer. The third orders a quarter of a beer. The fourth begins to order, but the bartender cuts him off, saying \"You guys need to know your limits\", and puts 2 beers on the table.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Anti-",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Anti-Graphing",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "complex\\comp-challenges.js"
+  ]
+ },
+ {
+  "en": "Anti-Quadratic",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "y-quadratic\\y-challenges.js"
+  ]
+ },
+ {
+  "en": "Antimatter Dimensions",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Approaching Constance",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Architect",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Are you Algebraic Progression because you copied Antimatter Dimensions, or did you copy Antimatter Dimensions because you're Algebraic Progression?",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Are you delaying on working on something important? If so, please do the thing you're supposed to work on before playing this game. Good luck!",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Are you having fun browsing the game's code? Probably not lol",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "polynomials\\synthetic-division.js"
+  ]
+ },
+ {
+  "en": "Are you sure you want to enter Integration Challenge 8? This cannot be undone!",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "integration\\integ-challenges.js"
+  ]
+ },
+ {
+  "en": "Are you sure you want to respec your Complex Upgrades? You will go Complex with no reward!",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "complex\\comp-upgs.js"
+  ]
+ },
+ {
+  "en": "Are you sure you want to respec your Exponential Curve Buyables? You will Reset with no reward!",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "lost-integration\\exponential-curve.js"
+  ]
+ },
+ {
+  "en": "Are you sure you want to respec your Fractal Arm? You will enter the Mandelbrot with no reward!",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "lost-integration\\fractal-arm.js"
+  ]
+ },
+ {
+  "en": "Are you sure you want to respec your Hypercomplex Upgrades? You will Integrate with no reward!",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "hypercomplex\\hypercomp-upgrades.js"
+  ]
+ },
+ {
+  "en": "Are you sure you want to respec your Number Set slots? You will Integrate with no reward!",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "integration\\number-sets.js"
+  ]
+ },
+ {
+  "en": "Are you sure you want to respec your fourth-row Complex Upgrades? You will go Complex with no reward!",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "complex\\comp-upgs.js"
+  ]
+ },
+ {
+  "en": "Are you sure you want to respec your steps? You will go Complex with no reward!",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "lost-integration\\complex-prestige.js"
+  ]
+ },
+ {
+  "en": "Are you sure you want to switch your activated Transformation? You will go Complex with no reward!",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "quadratic\\coordinate-plane.js"
+  ]
+ },
+ {
+  "en": "Are you sure? It will reset EVERYTHING (even postgame content) and you will not get any reward!",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "save.js"
+  ]
+ },
+ {
+  "en": "Are you sure? You will lose everything except for Secret Achievements and Options!",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "save.js"
+  ]
+ },
+ {
+  "en": "Are you sure? You will lose everything except for Secret Achievements and Options! (You will also gain 2 game points on reset)",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "save.js"
+  ]
+ },
+ {
+  "en": "ArrowDown",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "ArrowLeft",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "ArrowRight",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "ArrowUp",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Artificial Operation",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Artificial Plague",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "polynomials\\synthetic-division.js"
+  ]
+ },
+ {
+  "en": "As The Hours Go By",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "sinusoidal\\sin-upgrades.js"
+  ]
+ },
+ {
+  "en": "Assign Holes:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Assort",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Asymptotic Vortex",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "At 1.79G1F1000 ^^^^^^^ G(G(64)) {{100}} 10 * TREE(3) points you unlock something really cool!!!",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Atheism",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\challenges.js"
+  ]
+ },
+ {
+  "en": "Attempt to Fufill Requirements",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Attempt to purchase the",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "August 12, 2036. The heat death of the universe. August 12, 2036. The heat death of the universe. August 12, 2036. The heat death of the universe.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Auto CC Completion:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto Derivative Buyables:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto Fourth-Row CUs:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto Fourth-Row Complex Upgrades:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto IP Buyables:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto Inflation Z-Collider:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto Perpetuity Z-Collider:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto Point Factories:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto Point Portals:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto Polynomial Buyables:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto Polynomial Factoring:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto Propulsion Z-Collider:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto Pythagorean Triples Buyables:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto QP Buyables:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto RIUs:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto Rebuyable Integration Upgrades:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto Reduction Z-Collider:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto Revolution Buyables:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto Root Essence Doubler:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto Set Sacrifice:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto Singularity Upgrades:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto UP Purchase Buttons:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto Unit Circle Buyables:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto Y-Intercept:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto Z-Empowerments:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto i Tripler:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto x",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-Adjust for Pythagorean Triples:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-Adjust:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-Autoclickers:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-Complex",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Auto-Complex: Go Complex",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-Distribute:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-Integration",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Auto-Integration: Integrate",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-Mandelbrot",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Auto-Mandelbrot: Enter the Mandelbrot",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-Quadratic",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Auto-Quadratic: Go Quadratic",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-Reset: Reset",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-SDU1:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-SDU2:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-SDU3:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-Sacrifice:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-Sinusoidal",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Auto-Sinusoidal: Go Sinusoidal",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-Transformations:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-UP:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-W:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-X:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-Y:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-Z:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-cos(θ):",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-cot(θ):",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-csc(θ):",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-f'(n):",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-f(n):",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-g'(n):",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-g(n):",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-h'(n):",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-h(n):",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-sec(θ):",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-sin(θ):",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-tan(θ):",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-x",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-xi:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-xt:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-xy:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-y",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-yi:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-yt:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-zi:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto-zt:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Auto:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Autobuy Charged X Upgrades:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Autoclicker Autobuyer",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Autoclicker Autobuyer:",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Autoclickers",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\buyables.js"
+  ]
+ },
+ {
+  "en": "Autoclickers are significantly stronger based on total Buildings bought.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\quad-upgs.js"
+  ]
+ },
+ {
+  "en": "Autoclickers are stronger based on total Buildings bought.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\quad-upgs.js"
+  ]
+ },
+ {
+  "en": "Autoclickers, Point Factories, and g(n) are useless.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\challenges.js"
+  ]
+ },
+ {
+  "en": "Autocomplete 1 CC tier every 10 real-time minutes.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Autocomplete 1 CC tier every 30 real-time minutes.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Autocompleting a CC tier will complete the next CC tier for the earliest Complex Challenge with less than 3 completions.",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Autocompleting a CC tier will complete the next CC tier for the earliest Complex Challenge with less than 5 completions.",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Automatically gain YC4 completions outside of the challenge at a reduced rate.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Automatically gain completions for Y-Challenge 5 (and YC6 at 2 levels), even when you're not in them.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "sinusoidal\\sin-upgrades.js"
+  ]
+ }
+]

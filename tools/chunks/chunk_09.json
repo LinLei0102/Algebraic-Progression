@@ -1,0 +1,2414 @@
+[
+ {
+  "en": "Integrate without having any x⁷.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Integrate without using the first 12 Complex Upgrades.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Integrate {{0}} times.",
+  "kind": "template",
+  "contexts": [
+   "js-template"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Integrate.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-challenges.js"
+  ]
+ },
+ {
+  "en": "Integrated",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Integrated Systems",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Integrated Vortex",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Integrating will reset everything Complex resets, and will also reset all Complex-level content and the first 60 Achievements, but you will receive dx, holes, and empty sets in return. Are you sure you want to do this?",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "integration\\integ-prestige.js"
+  ]
+ },
+ {
+  "en": "Integration",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Integration (v3.0 Part 1)",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Integration Bonus",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Integration Challenge",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Integration Challenge 1",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Integration Challenge 2",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Integration Challenge 2 Unlocked",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Integration Challenge 3",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Integration Challenge 4",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Integration Challenge 5",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Integration Challenge 6",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Integration Challenge 6 Unlocked",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Integration Challenge 7",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Integration Challenge 8",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Integration Challenge 8 Unlocked",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Integration Challenge tier",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Integration Challenges",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Integration Challenges (ICs) are the fourth type of Challenges. Integration Challenges take place in Integrations, and<br>\n        each Integration Challenge works uniquely compared to the rest. Most ICs require i to be completed, but some require y<sup>2</sup>.<br>\n        Integration Challenges are unlocked through the Production Tree in the \"Integration Upgrades\" subtab. You need to<br>\n        fulfill a requirement or set of requirements to unlock the Integration Challenge. Once unlocked, you do not need to<br>\n        unlock it again. Once you've completed all eight Integration Challenges, you will win the game.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "textbook.js"
+  ]
+ },
+ {
+  "en": "Integration Challenges (v3.0 Part 2)",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Integration Challenges:",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Integration Confirmation:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Integration Sale",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Integration Upgrade Unlocked:",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "achievements.js",
+   "integration\\integ-prestige.js"
+  ]
+ },
+ {
+  "en": "Integration Upgrades",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Integration Upgrades (v3.0 Part 1)",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Integrations",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "save.js"
+  ]
+ },
+ {
+  "en": "Integrations:",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Intermediate Value",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Intermediate Value Theorem when Advanced Value Theorem walks in",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Inverse Paradigm",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Inverse Quadratic",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Invincible II",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Is pacing speedup a real problem? At this rate, the year 2035's most popular incremental game will be completable in 3 minutes.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Is this a Synergism reference???????",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Is your coefficient of determination about equal to 1? Because you're very predictable.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "It takes 12 bees their entire life to make a single teaspoon of honey. How does that make you feel?",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "It's <b>X</b>-mas",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "It's All a Game",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "hypercomplex\\hypercomp-upgrades.js"
+  ]
+ },
+ {
+  "en": "It's Not Simple",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "It's Quite Simple, Really",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "It's Still Not Simple",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "It's a Useless Tab",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "It's difficult to trace the origins of the incremental game genre, but here is a notable person in the genre's history: John Incremental was a medieval European game developer who created the first incremental game in 1316, drawing crowds from all over. However, his rival, William Clicker, convinced the public that Incremental was using Java to code his game and he was therefore exiled.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "It's important that the news ticker can't be disabled. The news ticker will never disappear and you will get tired of it faster...wait, you can disable it now??",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "It's never enough for you, is it?",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "sinusoidal\\sin-upgrades.js"
+  ]
+ },
+ {
+  "en": "It's not just 100x — it's 1y!",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Jax, look, I know we don't get along, but I think I've found a way to complete Integration Challenge 3 without looking up a guide...",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "John Rod solos the Point Universe",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Join our Discord server for a stable economy!",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Jump forward in real time up to a maximum of 48 hours!",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Jumping to Conclusions",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Just Checking",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Just a Dilation Ripoff",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Just failed a math test about probability... like seriously, what are the chances???",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Just watch me, Tuba! I'll solve equations with my right hand, and Buy Max with my left...! I'll take a Quadratic Upgrade...and <b>BUY IT</b>!",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Kane Parsons has reportedly collapsed his previous universe after reaching {{0}} points and has integrated into a new universe to conquer. He is 20 years old.",
+  "kind": "template",
+  "contexts": [
+   "js-template"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Keep Basic Complex Upgrades on Mandelbrot and unlock an autobuyer for steps",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\mandelbrot-prestige.js"
+  ]
+ },
+ {
+  "en": "Keep CC completions on Mandelbrot and unlock Auto-Mandelbrot",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\mandelbrot-prestige.js"
+  ]
+ },
+ {
+  "en": "Keep Complex Milestones on Mandelbrot",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\mandelbrot-prestige.js"
+  ]
+ },
+ {
+  "en": "Keep Going",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Keep RET completions on Complex",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\complex-prestige.js"
+  ]
+ },
+ {
+  "en": "Keep Riemann spheres on Mandelbrot, even if your current amount exceeds the cap",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\fractal-arm.js"
+  ]
+ },
+ {
+  "en": "Keep Y Challenge completions on Mandelbrot and Z-Power never decays",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\mandelbrot-prestige.js"
+  ]
+ },
+ {
+  "en": "Keep Y-Quadratic Upgrades on Mandelbrot and Coordinate Plane autobuyer automates sacrificing Z",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\mandelbrot-prestige.js"
+  ]
+ },
+ {
+  "en": "Keep all Reset Table upgrades on Complex",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\complex-prestige.js"
+  ]
+ },
+ {
+  "en": "Keep geometric sequences and Exponential Curve buyables on Complex",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\complex-prestige.js"
+  ]
+ },
+ {
+  "en": "Keep sacrificed currencies on Complex.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "complex\\milestones.js"
+  ]
+ },
+ {
+  "en": "Keep the CC tiers-based Milestones on Integration.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Keep the fifth column of Reset Table upgrades on Complex",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\complex-prestige.js"
+  ]
+ },
+ {
+  "en": "Keep your best Root Essence and Challenge Essence on reset.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "complex\\milestones.js"
+  ]
+ },
+ {
+  "en": "Kowalski, go Quadratic.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "L'Hôpital's Rule",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "polynomials\\synthetic-division.js"
+  ]
+ },
+ {
+  "en": "Labor Shortages",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Last Ten Runs",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Last Ten Runs:",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Lateral Flux",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "LeBron James reportedly caught FORGETTING to turn on the X<sup>2</sup> DOUBLER autobuyer",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Legalize nuclear bombs 🔥🔥🔥 Swag Messiah 🗣️🗣️🗣️",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Less Useless",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Let's Do This!",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Let's go, open up, it's time for prestiges. You're late. You know the deal. You can do the 1st layer prestige for the x<sup>2</sup>, or you can attempt the 2nd layer prestige for the i.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Let's take a look... 👀",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Let. Him. <i>Click!</i>",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Letorin",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Level",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Level √-1: Level √4 and sacrificed X and Y do nothing,<br>and Square Root Upgrade 2 is raised ^0.12.<br><i>Completing this will unlock the next prestige layer.</i>",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "quadratic\\square-root.js"
+  ]
+ },
+ {
+  "en": "Level √1: A regular Square Root Run.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "quadratic\\square-root.js"
+  ]
+ },
+ {
+  "en": "Level √2: Level √1 and Points are divided by 1e5000.<br>(keep in mind that all multiplication and division goes before exponents)",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "quadratic\\square-root.js"
+  ]
+ },
+ {
+  "en": "Level √3: Level √2 and Points are divided by 1e1650.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "quadratic\\square-root.js"
+  ]
+ },
+ {
+  "en": "Level √4: Level √3 and Points are divided by 1e3650.<br><i>Completing this will multiply the challenge essence effect softcap starts by 1,000,<br>and multiply the Challenge 1 effect hardcap start by 1e50</i>",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "quadratic\\square-root.js"
+  ]
+ },
+ {
+  "en": "Level:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Leveling up your Z-Colliders will allow you to reach milestones with powerful bonuses and unlocks.",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Lewistodd1881",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Libraries",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Lights Out",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Limit Converger",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "sinusoidal\\sin-upgrades.js"
+  ]
+ },
+ {
+  "en": "Limit Expander",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\quad-formula.js"
+  ]
+ },
+ {
+  "en": "Limitless Potential",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Limitless Potential II",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Load",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Load Activations",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Load Complex Upgrades at 60 UP:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Load Saves:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Load Tree",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Load Upgrades",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Location in Complex Plane:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Locked",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Logarithm",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Logarithmic Effect Protests",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "hypercomplex\\hypercomp-upgrades.js"
+  ]
+ },
+ {
+  "en": "Loneliness",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Long Elevator",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Loopover",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\square-root.js"
+  ]
+ },
+ {
+  "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque laoreet consectetur justo, sit amet tristique velit aliquam non. Nunc pharetra non sem ac pellentesque. Vivamus aliquet eros in magna tincidunt, vitae interdum nunc rhoncus. Suspendisse ut justo leo. Pellentesque convallis a nisl sit amet lacinia.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Lost Integration Preface",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Lower Demand",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\upgrades.js"
+  ]
+ },
+ {
+  "en": "Lower the Square Root nerf (^0.5 -> ^0.55)",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\reset-prestige.js"
+  ]
+ },
+ {
+  "en": "Lucid Dreaming",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "ME",
+  "kind": "exact",
+  "contexts": [
+   "html-text",
+   "js-other"
+  ],
+  "sources": [
+   "index.html",
+   "save.js"
+  ]
+ },
+ {
+  "en": "MIL1",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "MIL2",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Made by randomtuba",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Major Testers",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Make buildings produce each other.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Make sacrificed X and Y slightly more effective (1.1x effect for each).",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\square-root.js"
+  ]
+ },
+ {
+  "en": "Make sacrificed X three times as effective.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\quad-upgs.js"
+  ]
+ },
+ {
+  "en": "Make sacrificed X twice as effective.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\quad-upgs.js"
+  ]
+ },
+ {
+  "en": "Make the milestone scaling slower, but reset square roots",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\square-root.js"
+  ]
+ },
+ {
+  "en": "Make your Charged X Upgrades build into a chessboard pattern.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Make your Complex Upgrades build into a chessboard pattern.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Maki",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Mandelbrot",
+  "kind": "exact",
+  "contexts": [
+   "html-text",
+   "js-other"
+  ],
+  "sources": [
+   "index.html",
+   "game.js"
+  ]
+ },
+ {
+  "en": "Mandelbrot Challenge",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Mandelbrot Challenge 1 Complete in Lost Integration",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Mandelbrot Challenges",
+  "kind": "exact",
+  "contexts": [
+   "html-text",
+   "js-other"
+  ],
+  "sources": [
+   "index.html",
+   "game.js"
+  ]
+ },
+ {
+  "en": "Mandelbrot Engine:",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Mandelbrot Essence",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Mandelbrot Essence (ME).",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Mandelbrot Essence and Y Powers boost each other",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\fractal-arm.js"
+  ]
+ },
+ {
+  "en": "Mandelbrot Essence boosts its own gain",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\fractal-arm.js"
+  ]
+ },
+ {
+  "en": "Manually Switch IC6 Variant",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Mass Production",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Mathematicians when the math problem says \"die\" instead of \"fair standard 6-sided die\":",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Max the first row of Complex Upgrades.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Maybe the real ${player.zUnlocked ?",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Maybe your X and Y variables are supposed to be used to solve for a vector...",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Mean Value Theorem",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "sinusoidal\\sin-upgrades.js"
+  ]
+ },
+ {
+  "en": "Mechanical Interlock",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\square-root.js"
+  ]
+ },
+ {
+  "en": "Mechanics Within Mechanics",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Meet Me Halfway",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Meeting Standards",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Meta-Clickers",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\mandelbrot-prestige.js"
+  ]
+ },
+ {
+  "en": "Meta-Factories",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\mandelbrot-prestige.js"
+  ]
+ },
+ {
+  "en": "Meta-Generators",
+  "kind": "exact",
+  "contexts": [
+   "html-text",
+   "js-other"
+  ],
+  "sources": [
+   "index.html",
+   "game.js"
+  ]
+ },
+ {
+  "en": "Meta-Generators gain a multiplier based on generator multiplier",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\fractal-arm.js"
+  ]
+ },
+ {
+  "en": "Meta-Generators gain a multiplier based on the Y Power product",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\fractal-arm.js"
+  ]
+ },
+ {
+  "en": "Meta-Generators gain a multiplier based on time in this Mandelbrot",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\fractal-arm.js"
+  ]
+ },
+ {
+  "en": "Meta-Generators gain a multiplier based on total ME",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\fractal-arm.js"
+  ]
+ },
+ {
+  "en": "Meta-Millennium",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Meta-Portals",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\mandelbrot-prestige.js"
+  ]
+ },
+ {
+  "en": "Meta-Quasars",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\mandelbrot-prestige.js"
+  ]
+ },
+ {
+  "en": "Michael! Don't leave me here! Michael! MICHAEL!!!",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Milestone Reached:",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "achievements.js",
+   "game.js"
+  ]
+ },
+ {
+  "en": "Milestones",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Milestones (v2.0)",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Milestones:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Millionaire Monolith",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Minibrots",
+  "kind": "exact",
+  "contexts": [
+   "html-text",
+   "js-other"
+  ],
+  "sources": [
+   "index.html",
+   "game.js"
+  ]
+ },
+ {
+  "en": "Minibrots Unlocked in Lost Integration",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Minimalist",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Minimum Space",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\challenges.js"
+  ]
+ },
+ {
+  "en": "Minimum Square Root milestone threshold is 1.7x",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\fractal-arm.js"
+  ]
+ },
+ {
+  "en": "Minimum Square Root milestone threshold is 1.8x",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\complex-upgrades.js"
+  ]
+ },
+ {
+  "en": "Minor Perk",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Minor Perk II",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "hypercomplex\\hypercomp-upgrades.js"
+  ]
+ },
+ {
+  "en": "Minor Testers",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Mixed",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Mode:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "More Sinusoidal Upgrade Purchases!",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "hypercomplex\\hypercomp-upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiplier Deviation",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "y-quadratic\\y-quad-upgs.js"
+  ]
+ },
+ {
+  "en": "Multiplier to Y-Polynomial efficiencies and divider to CC autocompletion time.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-challenges.js"
+  ]
+ },
+ {
+  "en": "Multiplier to gain of all Trigonometric Function powers. On the 10th completion, unlock Derivatives.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-challenges.js"
+  ]
+ },
+ {
+  "en": "Multipliers to the g(n) and h(n) bases are softcapped at 50,000,000.",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Multiplies circles gain.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "y-quadratic\\y-challenges.js"
+  ]
+ },
+ {
+  "en": "Multiplies i exponent generation.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "y-quadratic\\y-challenges.js"
+  ]
+ },
+ {
+  "en": "Multiplies polynomial power generation.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "y-quadratic\\y-challenges.js"
+  ]
+ },
+ {
+  "en": "Multiplies the hardcap start of Quadratic Bonus (Quadratic Upgrade 1).",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "y-quadratic\\y-challenges.js"
+  ]
+ },
+ {
+  "en": "Multiply Complex Plane powers gain based on time in this Complex.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "complex\\comp-upgs.js"
+  ]
+ },
+ {
+  "en": "Multiply Complex count gain by 5x per purchase.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply ME gain by 100x or power ME gain by ^1.01, whichever is larger.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply Meta-Generator effectiveness by 100x or power Meta-Generator effectiveness by ^1.01, whichever is larger.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply Minibrot replication speed by 10x.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply Particles gain by 1e6",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\x-powers.js"
+  ]
+ },
+ {
+  "en": "Multiply Polynomial efficiency by 100x or power Polynomial efficiency by ^1.01, whichever is larger.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply Quadratic Power and Z-Power gain by 10x per purchase.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply Quadratic and Complex gain by 100x or power Quadratic and Complex gain by ^1.01, whichever is larger. (Point Universe only)",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply Quadratic count gain by 10x per purchase.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply Quadratics gain, and power all Quadratic-based effects.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "complex\\comp-challenges.js"
+  ]
+ },
+ {
+  "en": "Multiply RE and CE gain by 100x or power RE and CE gain by ^1.01, whichever is larger.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply RP gain by 100x or power RP gain by ^1.01, whichever is larger.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply Reset Point gain.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "lost-integration\\complex-challenges.js"
+  ]
+ },
+ {
+  "en": "Multiply SE gain by 1.00e100 per purchase",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "sinusoidal\\pyth-triples.js"
+  ]
+ },
+ {
+  "en": "Multiply SE gain by 1.5 per purchase",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "polynomials\\polynomials.js"
+  ]
+ },
+ {
+  "en": "Multiply Trigonometric Waves gain by 10x per purchase.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply X and Y generation by 100x or power X and Y generation by ^1.01, whichever is larger.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply X generation based on Minibrots",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\fractal-arm.js"
+  ]
+ },
+ {
+  "en": "Multiply X generation based on Y",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\fractal-arm.js"
+  ]
+ },
+ {
+  "en": "Multiply X generation based on i",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\complex-upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply X generation based on the generator multiplier",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\complex-upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply X generation.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "lost-integration\\complex-challenges.js"
+  ]
+ },
+ {
+  "en": "Multiply Y generation based on total i",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\y-quadratic.js"
+  ]
+ },
+ {
+  "en": "Multiply Y generation based on total y²",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\y-quadratic.js"
+  ]
+ },
+ {
+  "en": "Multiply Z-Power gain by 100x or power Z-Power gain by ^1.01, whichever is larger.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply Z-Power gain by 3 per purchase",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\quad-formula.js"
+  ]
+ },
+ {
+  "en": "Multiply both point gain and x² gain based on times gone Quadratic.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\square-root.js"
+  ]
+ },
+ {
+  "en": "Multiply derivatives gain based on challenge essence.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "hypercomplex\\hypercomp-upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply dx gain by 100x or power dx gain by ^1.01, whichever is larger.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply dx gain by 100x per purchase.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply e by +1x in Exponential Curve formula",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\x-powers.js"
+  ]
+ },
+ {
+  "en": "Multiply empty set gain by 100x or power empty set gain by ^1.01, whichever is larger.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply gain of all X Powers by 100x or power gain of all X Powers by ^1.01, whichever is larger.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply generation of Hypercomplex Flune powers by 5 per level.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "sinusoidal\\sin-upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply global speed by 100x or power global speed by ^1.01, whichever is larger, when Temporal Plane is active.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply hole gain by 10x or power hole gain by ^1.01, whichever is larger.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply i gain based on SE.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "polynomials\\synthetic-division.js"
+  ]
+ },
+ {
+  "en": "Multiply i gain by 100x or power i gain by ^1.01, whichever is larger.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply i gain by 1e30",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\x-powers.js"
+  ]
+ },
+ {
+  "en": "Multiply i gain.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "lost-integration\\y-quadratic.js"
+  ]
+ },
+ {
+  "en": "Multiply j and k gain by 100x or power j and k gain by ^1.01, whichever is larger.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply limit score gain by 5x per purchase.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply point gain and x² gain based on unspent i. Multiply gains of RE, QP, and CE by 10. Multiply slope gain by 100.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "complex\\comp-upgs.js"
+  ]
+ },
+ {
+  "en": "Multiply point gain by 100x or power point gain by ^1.01, whichever is larger.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply point gain.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "lost-integration\\y-quadratic.js"
+  ]
+ }
+]

@@ -1,0 +1,2404 @@
+[
+ {
+  "en": "Multiply production based on unspent x².",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\quad-upgs.js"
+  ]
+ },
+ {
+  "en": "Multiply production of Buildings based on unspent holes.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply production of Buildings by 1e400x per purchase",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\quad-formula.js"
+  ]
+ },
+ {
+  "en": "Multiply revolutions gain by",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Multiply root essence gain.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "lost-integration\\complex-challenges.js"
+  ]
+ },
+ {
+  "en": "Multiply set sacrifice value conversion.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-challenges.js"
+  ]
+ },
+ {
+  "en": "Multiply slope gain by 100x or power slope gain by ^1.01, whichever is larger.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply square root gain by 100x or power square root gain by ^1.01, whichever is larger.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply square roots based on i",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\fractal-arm.js"
+  ]
+ },
+ {
+  "en": "Multiply synthetic essence gain by 10x per purchase.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply the 2nd YC4 effect softcap start by 1e10,000,000 per purchase.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "sinusoidal\\sin-upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply the 2nd YC4 effect softcap start by 1e20,000,000 per level.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "sinusoidal\\sin-upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply the Polynomial efficiency softcap start based on quaternion purchases.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "hypercomplex\\hypercomp-upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply the Square Root hardcap start by 1e10,000,000 per purchase.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "sinusoidal\\sin-upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply the Square Root hardcap start by 1e600,000,000 per purchase",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\derivatives.js"
+  ]
+ },
+ {
+  "en": "Multiply the b effect hardcap starts by 1.1.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply the effect of the 3rd x<sup>2</sup> buyable by +1x",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\y-powers.js"
+  ]
+ },
+ {
+  "en": "Multiply the effect of the 3rd x<sup>8</sup> buyable by +1",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\y-powers.js"
+  ]
+ },
+ {
+  "en": "Multiply the efficiency of all polynomials by 100x per purchase.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply the efficiency of all polynomials by 5x per purchase",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "polynomials\\polynomials.js"
+  ]
+ },
+ {
+  "en": "Multiply the empty set instability start by 1e10 per purchase",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\derivatives.js"
+  ]
+ },
+ {
+  "en": "Multiply the g(n) and h(n) bases based on SE.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "polynomials\\synthetic-division.js"
+  ]
+ },
+ {
+  "en": "Multiply the g(n) base based on Achievements completed.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "complex\\comp-upgs.js"
+  ]
+ },
+ {
+  "en": "Multiply the gains of sacrificed X and Y.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "complex\\comp-challenges.js"
+  ]
+ },
+ {
+  "en": "Multiply the hardcap starts of the 2nd and 3rd effects of b.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "complex\\comp-challenges.js"
+  ]
+ },
+ {
+  "en": "Multiply the maximum multiplier by 1.00e10x per purchase",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Multiply the replication multiplier per second by 100,000",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\mandelbrot-prestige.js"
+  ]
+ },
+ {
+  "en": "Multiply triangle gain by 100x or power triangle gain by ^1.01, whichever is larger.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply x<sup>2</sup> gain by 100",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\x-powers.js"
+  ]
+ },
+ {
+  "en": "Multiply x<sup>3</sup> gain by 100",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\x-powers.js"
+  ]
+ },
+ {
+  "en": "Multiply x<sup>4</sup> gain by 100",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\x-powers.js"
+  ]
+ },
+ {
+  "en": "Multiply x<sup>5</sup> gain by 100",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\x-powers.js"
+  ]
+ },
+ {
+  "en": "Multiply x<sup>6</sup> gain by 100",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\x-powers.js"
+  ]
+ },
+ {
+  "en": "Multiply x<sup>7</sup> gain by 100",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\x-powers.js"
+  ]
+ },
+ {
+  "en": "Multiply x<sup>8</sup> gain by 100",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\x-powers.js"
+  ]
+ },
+ {
+  "en": "Multiply x<sup>9</sup> gain by 100",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\x-powers.js"
+  ]
+ },
+ {
+  "en": "Multiply x² and QP gain by 100x or power x² and QP gain by ^1.01, whichever is larger.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiply x² gain based on points.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\square-root.js"
+  ]
+ },
+ {
+  "en": "Multiply y<sup>10</sup> gain by 100",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\y-powers.js"
+  ]
+ },
+ {
+  "en": "Multiply y<sup>3</sup> gain by 100",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\y-powers.js"
+  ]
+ },
+ {
+  "en": "Multiply y<sup>4</sup> gain by 100",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\y-powers.js"
+  ]
+ },
+ {
+  "en": "Multiply y<sup>5</sup> gain by 100",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\y-powers.js"
+  ]
+ },
+ {
+  "en": "Multiply y<sup>6</sup> gain by 100",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\y-powers.js"
+  ]
+ },
+ {
+  "en": "Multiply y<sup>7</sup> gain by 100",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\y-powers.js"
+  ]
+ },
+ {
+  "en": "Multiply y<sup>8</sup> gain by 100",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\y-powers.js"
+  ]
+ },
+ {
+  "en": "Multiply y<sup>9</sup> gain by 100",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\y-powers.js"
+  ]
+ },
+ {
+  "en": "Multiply y² gain by 100x or power y² gain by ^1.01, whichever is larger.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\upgrades.js"
+  ]
+ },
+ {
+  "en": "Multiplying Imaginary Power generation",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Multiplying TW gain by",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "sinusoidal\\unit-circle.js"
+  ]
+ },
+ {
+  "en": "Multiplying Z-Power gain",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Multiplying circles gain",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Multiplying derivatives gain by",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "sinusoidal\\unit-circle.js"
+  ]
+ },
+ {
+  "en": "Multiplying dx gain",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Multiplying dx gain by",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "sinusoidal\\unit-circle.js"
+  ]
+ },
+ {
+  "en": "Multiplying dx, derivatives, TW, and triangles gain by",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "sinusoidal\\unit-circle.js"
+  ]
+ },
+ {
+  "en": "Multiplying effective limit score",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Multiplying i exponent generation",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Multiplying triangles gain by",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "sinusoidal\\unit-circle.js"
+  ]
+ },
+ {
+  "en": "My name is abutmodnar, and I am EVIL...!",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Mystery Value",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "NANeNAN",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "utils\\format.js"
+  ]
+ },
+ {
+  "en": "NaN",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "utils\\format.js"
+  ]
+ },
+ {
+  "en": "Name all six presets.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Natural",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "integration\\number-sets.js"
+  ]
+ },
+ {
+  "en": "Natural Set Boost",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Need some more bonuses? Unlock 8 Sinusoidal Upgrades!",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "sinusoidal\\sin-upgrades.js"
+  ]
+ },
+ {
+  "en": "Nested Roots",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "New Mechanic?",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\quad-upgs.js"
+  ]
+ },
+ {
+  "en": "New Polynomials???",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "News Addict",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "News Speed:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "News Ticker:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Newsarray doesn't work at idx",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Next circle milestone at",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "y-quadratic\\var-synthesizer.js"
+  ]
+ },
+ {
+  "en": "Next variant in",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Nice Try",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Nine Circles",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "No",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "utils\\format.js"
+  ]
+ },
+ {
+  "en": "No CE Here, Though",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "No Dectic?",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "No Infinite Completions",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "No Longer Here",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "No More Layers",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "No More Waiting (jk)",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "No Natural Flavors",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "No secondary effect active",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "sinusoidal\\unit-circle.js"
+  ]
+ },
+ {
+  "en": "No trigonometric function effect active",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "sinusoidal\\unit-circle.js"
+  ]
+ },
+ {
+  "en": "Nonlinear f(n)",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\quad-upgs.js"
+  ]
+ },
+ {
+  "en": "Normally you would be correct but due to newly discovered evidence you're actually wrong.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Not Following Directions",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Not Quite Right",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Not Related to Tangent Lines",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Not That Complicated",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Not That Synthetic",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Not enough for Z",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Not-so-challenging",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Notable Additions:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "changelog.html"
+  ]
+ },
+ {
+  "en": "Notation:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Note 2: W does not reset ever!",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Note:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Note: A Root Epicenter level is considered \"complete\" when reaching at least 1e12 points inside of the level.",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Note: Earlier versions of the game have bugs that will not be fixed.",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Note: Entering the Mandelbrot will exit you from your current Mandelbrot Challenge.",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Note: Generation of j and k is not affected by global speed.",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Note: Going Quadratic or entering Square Root will exit you from your current Challenge.",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Note: Going Y-Quadratic will exit you from your current Y Challenge.",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Note: Going Y-Quadratic will exit you from your current Y-Challenge.",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Note: Integrating will exit you from your current Integration Challenge.",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Note: Produced",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Note: Subtab display buttons do nothing when the subtab isn't unlocked.",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Note: You can only have 1 Complex Challenge unlocked at a time. Going Complex will exit you from your current Complex Challenge.",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Note: xy can be used to charge X Upgrades, so the Upgrades tab will be useful now!",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Note: zi power generation is not affected by multipliers to Complex Plane currencies.",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Now that you have obtained Z, you should spend it in the Coordinate Realm subtab!",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Now that you're back...",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Nuclear Fission",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Number",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Number Sets",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Number Sets (v3.0 Part 1)",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Number Sets are a group of 20 effects split into 5 groups known as Set types. Each Set type and Set effect must be activated<br>\n        with type slots and effect slots, respectively. Type slots and effect slots can be bought with dx. Each Number Set type focuses on<br>\n        a unique section of the game. For example, Natural Set effects focus on Pre-Quadratic content,<br>\n        and Real Set effects focus on Y-Quadratic content. Similar to Complex Upgrades, you can respec your Number Sets to<br>\n        get your type slots and effect slots back if you'd like to try a different build.<br><br>\n        <b>Assigning Empty Sets:</b> To make your Set effects more powerful, you can assign your empty sets to various Set types.<br>\n        Click the \"Assort\" button to assign 1 empty set to a specific Set type. You can also click the \"Distribute Empty Sets\"<br> button if you have at least 5 empty sets, and it will divide your empty sets evenly across your Set types.\n        ${IntegrationUpgrades.integration3.isBought() ?",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "textbook.js"
+  ]
+ },
+ {
+  "en": "Number Sets preset exported!",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "integration\\number-sets.js"
+  ]
+ },
+ {
+  "en": "OK",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Obligatory Padding Upgrade",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "polynomials\\synthetic-division.js"
+  ]
+ },
+ {
+  "en": "Obligatory Padding Upgrade 2",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "polynomials\\synthetic-division.js"
+  ]
+ },
+ {
+  "en": "Obtain at least {{0}} limit score.",
+  "kind": "template",
+  "contexts": [
+   "js-template"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Obtain {{0}} Milestones.",
+  "kind": "template",
+  "contexts": [
+   "js-template"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Oc",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "utils\\format.js"
+  ]
+ },
+ {
+  "en": "Offline Progress Modal:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Offline Progress:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Offroad Adventures",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Oh no, not again...",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Oh, please, that's basically nothing.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Oh, so you like Complex Upgrades? Then name every Complex Upgrade!...what do you mean they don't have titles?",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Old Habits Die Hard",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Olden Days",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Omnipotent f(n)",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Once you generate 100% Challenge Power within a Mandelbrot Challenge, it is completed. Try to complete it as fast as you can!",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Once you obtain 1e175 RP, 1e42 square roots, and rtu55 purchased, you can go Complex for i.<br>\n        Complex, similarly to Resetting, resets almost everything before it. You keep your Achievements<br>\n        and some things underneath the General header in the Statistics tab. i will be your most important currency from this<br>\n        point forward.<br><br>\n        <b>Base i Gain Formula:</b> (RP/1e175)<sup>0.025</sup> * (SR/1e42)<sup>0.004</sup><br>\n        After 1e200 i, base i gain past 1e200 has a square root applied. This does not affect multipliers to i gain.<br><br>\n        i has many more uses than RE, but two important uses for it is for purchasing Basic Complex Upgrades and Upgrade Points.<br>\n        The second Complex (the run after you go Complex) will feel quite slow, but Milestones and Complex Upgrades will<br>\n        speed up things quickly.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "textbook.js"
+  ]
+ },
+ {
+  "en": "Once you obtain 1e2950 x<sup>2</sup>, 1e660 RE, and a Root Epicenter Level √-1 completion, you can go Complex for i.<br>\n        Complex, similarly to Quadratic, resets almost everything before it. You keep your Achievements, your Challenge records,<br>\n        and some things underneath the General header in the Statistics tab. i will be your most important currency from this point forward.<br><br>\n        <b>Base i Gain Formula:</b> (((x<sup>2</sup>/1e2950)<sup>0.002</sup>)/2 + ((RE/1e660)<sup>0.004</sup>)/2)<sup>0.4</sup><br><br>\n        i has many more uses than x<sup>2</sup>, but two important uses for it is for purchasing Basic Complex Upgrades and Upgrade Points.<br>\n        The second Complex (the run after you go Complex) will feel quite slow, but Milestones and Complex Upgrades will speed up things quickly.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "textbook.js"
+  ]
+ },
+ {
+  "en": "Once you obtain 1e4000 circles and 1e2650 revolutions, you can go Sinusoidal for triangles.<br>\n        Sinusoidal resets everything that Integration resets. Similarly to Y-Quadratic, Sinusoidal is on the same layer as Integration,<br>\n        as they both mostly reset the same content. Triangles produce Trigonometric Waves (TW) and can purchase new upgrades.<br><br>\n        <b>Base Triangles Gain Formula:</b> 100<sup>(log<sub>10</sub>(circles)/4000) - 1</sup> * 100<sup>(log<sub>10</sub>(revolutions)/2650) - 1</sup>",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "textbook.js"
+  ]
+ },
+ {
+  "en": "Once you obtain 1e4400 i, 1e112 y<sup>2</sup>, and 100% Mandelbrot Engine power, you can enter the Mandelbrot for<br>\n        Mandelbrot Essence (ME).<br>\n        Mandelbrot, similarly to previous layers, resets almost everything before it. You still keep some things underneath the<br>\n        General header in the Statistics tab. ME will become your most important currency from this point forward.<br><br>\n        <b>Base ME Gain Formula:</b> (i/1e4400)<sup>0.0005</sup> * (y<sup>2</sup>/1e112)<sup>0.01</sup><br>\n        After 1e100 ME, base ME gain past 1e100 has a square root applied. This does not affect multipliers to ME gain.<br>\n        ME is used for purchasing Meta-Generators and fractal spirals.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "textbook.js"
+  ]
+ },
+ {
+  "en": "Once you obtain 2,222y and 1 z, you can go Y-Quadratic for y<sup>2</sup>.<br>\n        Y-Quadratic resets everything that Complex resets, but also resets your sacrificed x, y, and x<sup>2</sup>. However, Y-Quadratic<br>\n        is <i>not</i> the third prestige layer! It is on the same layer as Complex, as they both mostly reset the same content.<br><br>\n        <b>Base y<sup>2</sup> Gain Formula:</b> 1.25<sup>(y-2,222)/100</sup> * 1.5<sup>z</sup><br><br>\n        y<sup>2</sup> can be spent on Y-Quadratic Upgrades, but later you will mostly use it<br>\n        for unlocking new mechanics in the Y-Quadratic tab.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "textbook.js"
+  ]
+ },
+ {
+  "en": "Once you obtain 70,000y and 1 z, you can go Y-Quadratic for y<sup>2</sup>.<br>\n        Y-Quadratic resets everything that Complex resets.<br><br>\n        <b>Base y<sup>2</sup> Gain Formula:</b> y/70,000 + z<br><br>\n        y<sup>2</sup> can be spent on Y-Quadratic Upgrades.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "textbook.js"
+  ]
+ },
+ {
+  "en": "One Mechanic Bites The Dust",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "One Per Minute",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "One With Everything",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "One of the new changes of the v3.0 update is discontinued support for the TI-84 version.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Only Point Quasars can produce points.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\y-quadratic.js"
+  ]
+ },
+ {
+  "en": "Oops, looks like the game isn't loading right!",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Open the Floodgates",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop",
+   "js-other"
+  ],
+  "sources": [
+   "achievements.js",
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Opposite directional effects on the same axis on the Complex Plane get a similar but reduced effect",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\complex-upgrades.js"
+  ]
+ },
+ {
+  "en": "Options",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Options reset!",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Options: cannot be hidden",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Ordinal Markup",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Original Rewrite",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Original Upgrade Name",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "sinusoidal\\sin-upgrades.js"
+  ]
+ },
+ {
+  "en": "Other resources gained:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Outer Core",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Outside the Universe",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Overdrive",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\upgrades.js"
+  ]
+ },
+ {
+  "en": "Override Hypercomplex Tabs...",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "PARENTAL OFFSPRING WHOM IS A MEMBER OF THE MALE GENDER 😭💔",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "PAS",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "PBA",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "PCC1",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "PCC2",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "PE",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "save.js"
+  ]
+ },
+ {
+  "en": "PE Filled:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "PE filled powers the secondary Unit Circle effects and unlock Auto-Adjust for Pythagorean Triples",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "sinusoidal\\pyth-triples.js"
+  ]
+ },
+ {
+  "en": "PLA",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "POV: You are currently inside of a challenge",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "PP",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "save.js"
+  ]
+ },
+ {
+  "en": "PP factor in empty sets formula is raised ^{{0}}",
+  "kind": "template",
+  "contexts": [
+   "js-template"
+  ],
+  "sources": [
+   "integration\\number-sets.js"
+  ]
+ },
+ {
+  "en": "PYC",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Parabolas do nothing. Synthetic Essence determines the cap to your sacrificed x² and Quadratic Power amounts.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-challenges.js"
+  ]
+ },
+ {
+  "en": "Parabolic Flux",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Paradoxical Functions",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "polynomials\\synthetic-division.js"
+  ]
+ },
+ {
+  "en": "Parallel Connection",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "y-quadratic\\y-quad-upgs.js"
+  ]
+ },
+ {
+  "en": "Parallel Connection II",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "y-quadratic\\y-quad-upgs.js"
+  ]
+ },
+ {
+  "en": "Part 2: Tuba screws up",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Particles boost their own gain",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\fractal-arm.js"
+  ]
+ },
+ {
+  "en": "Particles cannot be generated.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "lost-integration\\fractal-arm.js"
+  ]
+ },
+ {
+  "en": "Particles gain a multiplier based on total UP",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\y-quadratic.js"
+  ]
+ },
+ {
+  "en": "Passively gain challenge essence by simulating a Root Epicenter Level √4 run in the background. Also, unlock 5 new Complex Challenges.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "complex\\milestones.js"
+  ]
+ },
+ {
+  "en": "Passively gain root essence by simulating a Square Root run in the background.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "complex\\milestones.js"
+  ]
+ },
+ {
+  "en": "Passively generate Quadratic count.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Paste your Complex Upgrades preset in the input box below! (This will reset your run with no reward!)",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "complex\\comp-upgs.js"
+  ]
+ },
+ {
+  "en": "Paste your Fractal Arm preset in the input box below! (This will reset your run with no reward!)",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "lost-integration\\fractal-arm.js"
+  ]
+ },
+ {
+  "en": "Paste your Hypercomplex Upgrades preset in the input box below! (This will reset your run with no reward!)",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "hypercomplex\\hypercomp-upgrades.js"
+  ]
+ },
+ {
+  "en": "Paste your Number Sets preset in the input box below! (This will reset your run with no reward!)",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "integration\\number-sets.js"
+  ]
+ },
+ {
+  "en": "Paste your save string in the input box below!",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "save.js"
+  ]
+ },
+ {
+  "en": "Perk Tree upgrades.",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Perk Tree:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Perks refunded! +{{0}} holes",
+  "kind": "template",
+  "contexts": [
+   "js-template"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Permanent Upgrade effects are also unaffected by softcaps.",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Permanent Upgrades Active:",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Permanent Upgrades:",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Permanently keep 10% of Quadratics sacrificed on Complex as Banked Quadratics.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "complex\\milestones.js"
+  ]
+ },
+ {
+  "en": "Perpetuity Z-Particles",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Pi: \"Be real for once!\" i: \"No, let's be rational here.\"",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Pink Variable - Dark Side of the Flune",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Plague of Locusts",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Plane",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "textbook.js"
+  ]
+ },
+ {
+  "en": "Plane Researcher",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "integration\\integ-upgrades.js"
+  ]
+ },
+ {
+  "en": "Play Again",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Play for 13.7 billion years.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Play for {{0}} hours.",
+  "kind": "template",
+  "contexts": [
+   "js-template"
+  ],
+  "sources": [
+   "achievements.js"
+  ]
+ },
+ {
+  "en": "Player...I remember you're <span style='color:red;text-shadow:0px 0px 7px red;'>variables</span>.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Please report any issues you encounter!",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Point Exponential",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\upgrades.js"
+  ]
+ },
+ {
+  "en": "Point Factories",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\buyables.js"
+  ]
+ },
+ {
+  "en": "Point Factories are significantly stronger based on total Buildings bought.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\quad-upgs.js"
+  ]
+ },
+ {
+  "en": "Point Factories are stronger based on total Buildings bought.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\quad-upgs.js"
+  ]
+ },
+ {
+  "en": "Point Factory Autobuyer",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Point Factory Autobuyer:",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Point Hoarder",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\quad-upgs.js"
+  ]
+ },
+ {
+  "en": "Point Portal Autobuyer",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Point Portal Autobuyer:",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Point Portals",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\buyables.js"
+  ]
+ },
+ {
+  "en": "Point Portals are significantly stronger based on total Buildings bought.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\quad-upgs.js"
+  ]
+ },
+ {
+  "en": "Point Portals are stronger based on total Buildings bought.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\quad-upgs.js"
+  ]
+ },
+ {
+  "en": "Point Portals gain a multiplier based on Autoclickers",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\reset-prestige.js"
+  ]
+ },
+ {
+  "en": "Point Portals produce Point Factories, and Point Factories produce Autoclickers.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\upgrades.js"
+  ]
+ },
+ {
+  "en": "Point Quasar Autobuyer",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Point Quasar Autobuyer:",
+  "kind": "exact",
+  "contexts": [
+   "html-text:trim"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Point Quasars",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\buyables.js"
+  ]
+ },
+ {
+  "en": "Point gain is powered ^{{0}}",
+  "kind": "template",
+  "contexts": [
+   "js-template"
+  ],
+  "sources": [
+   "integration\\number-sets.js"
+  ]
+ },
+ {
+  "en": "Point gain is powered by an exponent based on a sine wave. The amplitude is multiplied based on your Reset Points.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "lost-integration\\complex-challenges.js"
+  ]
+ },
+ {
+  "en": "Point gain is powered by an exponent based on a sine wave. The amplitude is multiplied based on your slope.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "complex\\comp-challenges.js"
+  ]
+ },
+ {
+  "en": "Point gain is raised ^0.01.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\y-quadratic.js"
+  ]
+ },
+ {
+  "en": "Point gain is raised to the 0.75th.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "quadratic\\challenges.js"
+  ]
+ },
+ {
+  "en": "Point generator cost scaling is *1.06",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "lost-integration\\x-upgrades.js"
+  ]
+ },
+ {
+  "en": "Point value plummets due to newfound abundance. \"Back in my day, 1 million was a lot!\" says crazy elderly person.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ },
+ {
+  "en": "Points",
+  "kind": "exact",
+  "contexts": [
+   "html-text"
+  ],
+  "sources": [
+   "index.html"
+  ]
+ },
+ {
+  "en": "Points Per Second:",
+  "kind": "exact",
+  "contexts": [
+   "js-call"
+  ],
+  "sources": [
+   "game.js"
+  ]
+ },
+ {
+  "en": "Points are now raised ^1.01.",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\upgrades.js"
+  ]
+ },
+ {
+  "en": "Points are now raised ^1.02 (^1.01 in Square Root).",
+  "kind": "exact",
+  "contexts": [
+   "js-display-prop"
+  ],
+  "sources": [
+   "normal\\upgrades.js"
+  ]
+ },
+ {
+  "en": "Points are now raised ^1.03.",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "quadratic\\challenges.js"
+  ]
+ },
+ {
+  "en": "Points, slope, quadratic power... randomtuba, the King of the Variables, attained all the mechanics this Point Universe had to offer. The words he uttered right before his death drove people to the Coordinate Plane. \"My treasure? If you want it, you can have it! Find it! I left everything this world has to offer there!\" And so men head to the Best-Fit Line in pursuit of their dreams! The world has truly entered a Great Algebraic Era!",
+  "kind": "exact",
+  "contexts": [
+   "js-other"
+  ],
+  "sources": [
+   "news.js"
+  ]
+ }
+]

@@ -1,0 +1,938 @@
+[
+ {
+  "en": "Sixth Sense",
+  "zh": "第六感"
+ },
+ {
+  "en": "Sky's The Limit",
+  "zh": "天空才是极限"
+ },
+ {
+  "en": "Slope and b are disabled. Produced buildings do nothing. Anti-slope super-exponentially rises over time and divides point gain and divides x² gain at a reduced rate.",
+  "zh": "斜率和 b 已禁用。产出的建筑毫无作用。反斜率随时间超指数级上升，并以较低速率削减点数获得量和 x² 获得量。"
+ },
+ {
+  "en": "Slope gain is powered by a fixed exponent.",
+  "zh": "斜率获得量由固定指数强化。"
+ },
+ {
+  "en": "Slope was just foreshadowing the 3rd prestige layer...",
+  "zh": "斜率只是在为第三层威望做铺垫..."
+ },
+ {
+  "en": "Slope-Intercept Form",
+  "zh": "斜截式"
+ },
+ {
+  "en": "Sloppy Riemann Sum",
+  "zh": "粗糙的黎曼和"
+ },
+ {
+  "en": "Slot 1",
+  "zh": "槽位 1"
+ },
+ {
+  "en": "Slot 2",
+  "zh": "槽位 2"
+ },
+ {
+  "en": "Slot 3",
+  "zh": "槽位 3"
+ },
+ {
+  "en": "Slowmode",
+  "zh": "慢速模式"
+ },
+ {
+  "en": "Slowmode is enabled.",
+  "zh": "慢速模式已开启。"
+ },
+ {
+  "en": "So Close...",
+  "zh": "就差一点..."
+ },
+ {
+  "en": "So wait, did Twitter's rebrand steal from Algebraic Progression?",
+  "zh": "等等，Twitter 的品牌重塑是不是抄了 Algebraic Progression？"
+ },
+ {
+  "en": "So-very-challenging",
+  "zh": "超级有挑战性"
+ },
+ {
+  "en": "Soft Reset",
+  "zh": "软重置"
+ },
+ {
+  "en": "Softcap Delay",
+  "zh": "软上限延迟"
+ },
+ {
+  "en": "Softcap starts",
+  "zh": "软上限起点"
+ },
+ {
+  "en": "Solve for my sanity as I approach my limit",
+  "zh": "当我接近极限时，求解我的理智"
+ },
+ {
+  "en": "Some of the following people mentioned are no longer associated with the project.",
+  "zh": "以下提到的部分人员已不再参与本项目。"
+ },
+ {
+  "en": "Some of these messages have nothing to do with the actual game.",
+  "zh": "其中一些消息与实际游戏毫无关系。"
+ },
+ {
+  "en": "Something Hidden...",
+  "zh": "藏着什么东西..."
+ },
+ {
+  "en": "Sonic Wave",
+  "zh": "音波"
+ },
+ {
+  "en": "Speedrun Bonus",
+  "zh": "速通奖励"
+ },
+ {
+  "en": "Speedrun Milestone Reached:",
+  "zh": "已达成速通里程碑："
+ },
+ {
+  "en": "Speedrun Milestones",
+  "zh": "速通里程碑"
+ },
+ {
+  "en": "Speedrun Milestones:",
+  "zh": "速通里程碑："
+ },
+ {
+  "en": "Speedrun Timer:",
+  "zh": "速通计时器："
+ },
+ {
+  "en": "Square Root",
+  "zh": "平方根"
+ },
+ {
+  "en": "Square Root (v1.2)",
+  "zh": "平方根 (v1.2)"
+ },
+ {
+  "en": "Square Root Unlocked",
+  "zh": "平方根已解锁"
+ },
+ {
+  "en": "Square Root Unlocked in Lost Integration",
+  "zh": "在失落积分中解锁平方根"
+ },
+ {
+  "en": "Square Root Upgrade",
+  "zh": "平方根升级"
+ },
+ {
+  "en": "Square Root Upgrade 2 no longer resets your square roots",
+  "zh": "平方根升级 2 不再重置你的平方根"
+ },
+ {
+  "en": "Square Root Upgrade 3 also boosts square roots gain",
+  "zh": "平方根升级 3 同时加成平方根获得量"
+ },
+ {
+  "en": "Square Root Upgrade 3 is disabled, and the generator multiplier is always 1x.",
+  "zh": "平方根升级 3 已禁用，且生成器倍率恒为 1 倍。"
+ },
+ {
+  "en": "Square Root Upgrades Autobuyer:",
+  "zh": "平方根升级自动购买器："
+ },
+ {
+  "en": "Square Root is a modified Quadratic that can be exited to gain Root Essence (commonly abbreviated as RE).<br>\n        While in Square Root, your points are raised ^0.5 (hence the name \"Square Root\"). You gain RE based on how far you get.<br>\n        However, Root Essence is not farmable. Your Root Essence gained in a Square Root run is based on your X and Y, minus your<br>\n        current Root Essence, so you have to get farther to gain more.<br><br>\n        <b>Base RE Gain Formula:</b> (1.1<sup>(x/100)-1</sup> * 1.25<sup>y</sup>) - current RE<br><br>\n        Root Essence can be used to purchase Square Root Upgrades, along with a Root Essence doubler, which works like the x<sup>2</sup><br>\n        Doubler. Its starting cost is 200, multiplying by 5 per purchase, and starts scaling faster at 100 purchases.\n        ${player.totalPoints.gte(\"1e5e8\") || player.integrations.gte(1) ?",
+  "zh": "平方根是一种经过修改的二次层级，可以退出以获得根精华（通常缩写为 RE）。<br>\n        在平方根中，你的点数会被取 ^0.5 次幂（因此得名「平方根」）。你根据自己走多远获得 RE。<br>\n        然而，根精华无法刷取。一次平方根运行中获得的根精华取决于你的 X 和 Y，减去你<br>\n        当前的根精华，所以你必须走得更远才能获得更多。<br><br>\n        <b>基础 RE 获得公式：</b> (1.1<sup>(x/100)-1</sup> * 1.25<sup>y</sup>) - 当前 RE<br><br>\n        根精华可用于购买平方根升级，以及根精华翻倍器，其工作方式与 x<sup>2</sup><br>\n        翻倍器相同。其初始消耗为 200，每次购买乘以 5，在 100 次购买后开始加速缩放。\n        ${player.totalPoints.gte(\"1e5e8\") || player.integrations.gte(1) ?"
+ },
+ {
+  "en": "Square Root is just Time Dilation but harder, deal with it",
+  "zh": "平方根只是更难的时间膨胀，认命吧"
+ },
+ {
+  "en": "Square Root milestones are twice as powerful",
+  "zh": "平方根里程碑效果翻倍"
+ },
+ {
+  "en": "Square Root:",
+  "zh": "平方根："
+ },
+ {
+  "en": "Square f(n) again, and unlock a new row of Quadratic Upgrades.",
+  "zh": "再次平方 f(n)，并解锁一排新的二次升级。"
+ },
+ {
+  "en": "Square f(n).",
+  "zh": "平方 f(n)。"
+ },
+ {
+  "en": "Square roots and X Powers boost each other",
+  "zh": "平方根与 X 之力相互加成"
+ },
+ {
+  "en": "Square roots are more impactful in the i formula",
+  "zh": "平方根在 i 公式中影响更大"
+ },
+ {
+  "en": "Square the C9 and CC7 effects per purchase.",
+  "zh": "每次购买使 C9、CC7 效果平方。"
+ },
+ {
+  "en": "Square the YQU2 effect",
+  "zh": "使 YQU2 效果平方"
+ },
+ {
+  "en": "Square the YQU5 effect",
+  "zh": "使 YQU5 效果平方"
+ },
+ {
+  "en": "Squaring the Circle",
+  "zh": "化圆为方"
+ },
+ {
+  "en": "Start generating Upgrade Points.",
+  "zh": "开始生成升级点数。"
+ },
+ {
+  "en": "Start passively generating x².",
+  "zh": "开始被动生成 x²。"
+ },
+ {
+  "en": "Start with 1 Point Quasar in Y Challenge 1",
+  "zh": "在 Y 挑战 1 中从 1 个点数类星体开始"
+ },
+ {
+  "en": "Start with 100 y².",
+  "zh": "以 100 y² 开局。"
+ },
+ {
+  "en": "Start with 100,000 i.",
+  "zh": "以 100,000 i 开局。"
+ },
+ {
+  "en": "Start with 1e50 Points.",
+  "zh": "以 1e50 点数开局。"
+ },
+ {
+  "en": "Start with 1e9 x².",
+  "zh": "以 1e9 x² 开局。"
+ },
+ {
+  "en": "Start with 20 Complexes on Integration.",
+  "zh": "在积分时以 20 个复数开局。"
+ },
+ {
+  "en": "Start with Variable Synthesizer and Y-Challenges unlocked.",
+  "zh": "以变量合成器和 Y 挑战已解锁开局。"
+ },
+ {
+  "en": "Start with all Basic Complex Upgrades bought.",
+  "zh": "以已购买所有基础复数升级开局。"
+ },
+ {
+  "en": "Start with all Challenges completed.",
+  "zh": "以已完成所有挑战开局。"
+ },
+ {
+  "en": "Start with all Quadratic Upgrades bought.",
+  "zh": "以已购买所有二次升级开局。"
+ },
+ {
+  "en": "Start with all Square Root Upgrades bought, and unlock an autobuyer for the RE Doubler.",
+  "zh": "以已购买所有平方根升级开局，并解锁 RE 翻倍器的自动购买器。"
+ },
+ {
+  "en": "Start with all Y-Quadratic Upgrades bought.",
+  "zh": "以已购买所有 Y-二次升级开局。"
+ },
+ {
+  "en": "Starter Pack",
+  "zh": "新手包"
+ },
+ {
+  "en": "Statistics",
+  "zh": "统计"
+ },
+ {
+  "en": "Statistics:",
+  "zh": "统计："
+ },
+ {
+  "en": "Stay a maxed Limit run for at least 2 minutes (real time) without completing it.",
+  "zh": "保持已满级的极限运行至少 2 分钟（真实时间）而不完成它。"
+ },
+ {
+  "en": "Step Autobuyer:",
+  "zh": "阶跃自动购买器："
+ },
+ {
+  "en": "Still No Fourth Layer...",
+  "zh": "还是没有第四层..."
+ },
+ {
+  "en": "Straight to the Point",
+  "zh": "直奔点数"
+ },
+ {
+  "en": "Strongly multiply production based on unspent x².",
+  "zh": "基于未花费的 x² 大幅乘算产出。"
+ },
+ {
+  "en": "Study 181",
+  "zh": "研究 181"
+ },
+ {
+  "en": "Study shows direct relation between algebra and lethal ear infections. Twitter theorists blame x<sup>2</sup>.",
+  "zh": "研究表明代数与致命耳部感染存在直接关联。Twitter 理论家将其归咎于 x<sup>2</sup>。"
+ },
+ {
+  "en": "Successfully time-jump at least 1 real-time hour into the future.",
+  "zh": "成功向未来跳跃至少 1 小时（真实时间）。"
+ },
+ {
+  "en": "Sum Rule",
+  "zh": "求和法则"
+ },
+ {
+  "en": "Summon a Point Portal.",
+  "zh": "召唤一个点数传送门。"
+ },
+ {
+  "en": "Super Saiyan",
+  "zh": "超级赛亚人"
+ },
+ {
+  "en": "Super Secret",
+  "zh": "超级秘密"
+ },
+ {
+  "en": "Superset",
+  "zh": "超集"
+ },
+ {
+  "en": "Sweaty Speedrunner",
+  "zh": "拼命速通玩家"
+ },
+ {
+  "en": "Switch between Light and Dark theme at least 20 times in one session.",
+  "zh": "在一次游玩中切换浅色与深色主题至少 20 次。"
+ },
+ {
+  "en": "Synergized Autoclickers",
+  "zh": "协同自动点击器"
+ },
+ {
+  "en": "Synergized Factories",
+  "zh": "协同工厂"
+ },
+ {
+  "en": "Synergized Portals",
+  "zh": "协同传送门"
+ },
+ {
+  "en": "Synthetic Crunch",
+  "zh": "合成冲击"
+ },
+ {
+  "en": "Synthetic Division",
+  "zh": "综合除法"
+ },
+ {
+  "en": "Synthetic Division (v2.3)",
+  "zh": "综合除法 (v2.3)"
+ },
+ {
+  "en": "Synthetic Division Unlocked",
+  "zh": "综合除法已解锁"
+ },
+ {
+  "en": "Synthetic Division Upgrade 4's effect is powered ^5.",
+  "zh": "综合除法升级 4 的效果被取 ^5 次幂。"
+ },
+ {
+  "en": "Synthetic Division will unlock at 1 x",
+  "zh": "综合除法将在 1 x 时解锁"
+ },
+ {
+  "en": "Synthetic Division:",
+  "zh": "综合除法："
+ },
+ {
+  "en": "Synthetic Enhancer",
+  "zh": "合成增强器"
+ },
+ {
+  "en": "Synthetic Essence:",
+  "zh": "合成精华："
+ },
+ {
+  "en": "Synthetic Integrator",
+  "zh": "合成积分器"
+ },
+ {
+  "en": "THOSE WHO KNOW: THOSE WHO KNOW: THOSE WHO KNOW: THOSE WHO KNOW: THOSE WHO KNOW: THOSE WHO KNOW: THOSE WHO KNOW:",
+  "zh": "懂的都懂：懂的都懂：懂的都懂：懂的都懂：懂的都懂：懂的都懂：懂的都懂："
+ },
+ {
+  "en": "TODO: Remove this news message before v2.3 releases.",
+  "zh": "待办：在 v2.3 发布前删除这条新闻消息。"
+ },
+ {
+  "en": "TW and PE boost each other.",
+  "zh": "TW 和 PE 相互加成。"
+ },
+ {
+  "en": "Take That Back",
+  "zh": "收回那句话"
+ },
+ {
+  "en": "Take Your Time",
+  "zh": "慢慢来"
+ },
+ {
+  "en": "Tangent power and secant power both power/increase their respective Number Set effect hardcap starts.",
+  "zh": "正切力量与割线力量都会提升各自数集效果的硬上限起点。"
+ },
+ {
+  "en": "Temporal Ascension",
+  "zh": "时间飞升"
+ },
+ {
+  "en": "Temporal Integrator",
+  "zh": "时间积分器"
+ },
+ {
+  "en": "Temporal Lubrication",
+  "zh": "时间润滑"
+ },
+ {
+  "en": "Temporal Lubrication II",
+  "zh": "时间润滑 II"
+ },
+ {
+  "en": "Temporal Plane",
+  "zh": "时间平面"
+ },
+ {
+  "en": "Temporal Plane (v3.0 Part 1)",
+  "zh": "时间平面 (v3.0 第 1 部分)"
+ },
+ {
+  "en": "Temporal Plane Unlocked",
+  "zh": "时间平面已解锁"
+ },
+ {
+  "en": "Temporal Plane:",
+  "zh": "时间平面："
+ },
+ {
+  "en": "Terminology",
+  "zh": "术语"
+ },
+ {
+  "en": "Tetrahedrons Research",
+  "zh": "四面体研究"
+ },
+ {
+  "en": "Textbook",
+  "zh": "教科书"
+ },
+ {
+  "en": "Textbook:",
+  "zh": "教科书："
+ },
+ {
+  "en": "Thank you for contacting customer support. This is Janet, how can I help you?",
+  "zh": "感谢您联系客服。我是 Janet，请问有什么可以帮您？"
+ },
+ {
+  "en": "Thank you so much for playing!",
+  "zh": "非常感谢游玩！"
+ },
+ {
+  "en": "Thanks to Yhvr for helping with the upgrade trees.",
+  "zh": "感谢 Yhvr 协助制作升级树。"
+ },
+ {
+  "en": "Thanks to downvoid, gapples2, and DEMEMZEA for bugfixing and some QoL mechanics.",
+  "zh": "感谢 downvoid、gapples2 和 DEMEMZEA 修复错误并提供一些便利机制。"
+ },
+ {
+  "en": "Thanks to the r/incremental_games community for giving feedback that has improved this game.",
+  "zh": "感谢 r/incremental_games 社区提供反馈，改进了本游戏。"
+ },
+ {
+  "en": "That Number sure seems to be implicitly defined...",
+  "zh": "那个数看起来确实是隐式定义的..."
+ },
+ {
+  "en": "That Upgrade Sucked Anyway",
+  "zh": "反正那升级很废"
+ },
+ {
+  "en": "That last news message was pretty funny.",
+  "zh": "上一条新闻消息还挺好笑的。"
+ },
+ {
+  "en": "That's what legendary players do! Kobe Bryant BROKE his COMPUTER MOUSE, and he did that-- That's what legendary players do...LeBron, legendary! Post-Complex comeback, came back...Kevin Durant got his foot into Complex Challenge 2, waited for anti-slope-- HE DIDN'T WIN, bro! He didn't complete any CC tiers! Stop calling that man legendary because he won with Steph Curry (the greatest idler ever), Clay Thompson (a top 3 speedrunner ever), stop calling him that!",
+  "zh": "这就是传奇玩家的行径！Kobe Bryant 弄坏了他的电脑鼠标，他就是这么干的——这就是传奇玩家的行径……LeBron，传奇！复数之后的复出，杀回来了……Kevin Durant 踏进了复数挑战 2，等着反斜率——他没赢，兄弟！他连一个 CC 层级都没完成！别再因为和 Steph Curry（史上最伟大的挂机玩家）、Clay Thompson（史上前三的速通玩家）一起赢过就管那人叫传奇了，别这么叫他！"
+ },
+ {
+  "en": "The \"Get a Y\" button's cost is divided by 1,000",
+  "zh": "「获得 Y」按钮的消耗除以 1,000"
+ },
+ {
+  "en": "The \"Get an X\" button’s cost is divided by 2",
+  "zh": "「获得 X」按钮的消耗除以 2"
+ },
+ {
+  "en": "The 100th news message does not exist. Just kidding, it does now!",
+  "zh": "第 100 条新闻消息并不存在。开玩笑的，现在有了！"
+ },
+ {
+  "en": "The 1st Rational Set effect formula is stronger.",
+  "zh": "第 1 个有理数集效果的公式更强。"
+ },
+ {
+  "en": "The 2nd Integer Set effect is raised ^1.5.",
+  "zh": "第 2 个整数集效果被取 ^1.5 次幂。"
+ },
+ {
+  "en": "The 2nd and 3rd Natural Set effect formulas are stronger.",
+  "zh": "第 2 和第 3 个自然数集效果的公式更强。"
+ },
+ {
+  "en": "The 3rd Exponential Curve buyable has a requirement instead of a cost",
+  "zh": "第 3 个指数曲线可购买项需要满足要求，而非消耗"
+ },
+ {
+  "en": "The 3rd Pythagorean Triples buyable also powers the 1st IC4 effect",
+  "zh": "第 3 个勾股数可购买项同时增强第 1 个 IC4 效果"
+ },
+ {
+  "en": "The 3rd Quadratic Power buyable affects the C9 effect, and the Challenge Essence gain softcap starts at 1.00e10.",
+  "zh": "第 3 个二次力量可购买项影响 C9 效果，且挑战精华获得量的软上限起点为 1.00e10。"
+ },
+ {
+  "en": "The 4th Complex Set effect's formula is better.<br>(x -> 2<sup>x</sup>)",
+  "zh": "第 4 个复数集效果的公式更好。<br>(x -> 2<sup>x</sup>)"
+ },
+ {
+  "en": "The 9th Dimension is coming never, because there aren't even 8 buildings and this isn't even the right game.",
+  "zh": "第 9 维度永远不会来，因为连 8 种建筑都没有，而且这甚至不是那个游戏。"
+ },
+ {
+  "en": "The Automation Core can perform a variety of automatic actions.",
+  "zh": "自动化核心可以执行多种自动操作。"
+ },
+ {
+  "en": "The Automation Core is unlocked by Integrating 15 times. The Automation Core has various options that allow you to<br>\n        automate all of the mechanics that aren't fully automated by the perks alone. This includes automatically unlocking,<br>\n        entering, and completing Complex Challenges, automatically loading Complex Upgrades, automatically entering and exiting<br>\n        Synthetic Divison, and automatically grinding Quadratics when necessary. The Automation Core might not be optimal to use<br>\n        immediately once unlocked due to it being designed for use after all upgrades in the Perk Tree have been bought.<br><br>\n        <b>Note:</b> In a post-release update, the Automation Core will be replaced with a more flexible scripting language.",
+  "zh": "自动化核心通过积分 15 次解锁。自动化核心提供多种选项，让你能够<br>\n        自动执行仅靠天赋无法完全自动化的所有机制。这包括自动解锁、<br>\n        进入并完成复数挑战，自动加载复数升级，自动进入和退出<br>\n        综合除法，以及在必要时自动刷二次层级。自动化核心刚解锁时可能并非最优选择，<br>\n        因为它是为天赋树中所有升级买完后使用而设计的。<br><br>\n        <b>注意：</b>在发布后的更新中，自动化核心将被更灵活的脚本语言取代。"
+ },
+ {
+  "en": "The Automation Core will unlock at 15 Integrations.",
+  "zh": "自动化核心将在 15 次积分时解锁。"
+ },
+ {
+  "en": "The Basic Complex Upgrade 9 effect is powered ^5,000.",
+  "zh": "基础复数升级 9 的效果被取 ^5,000 次幂。"
+ },
+ {
+  "en": "The CC6 effect hardcap is removed.",
+  "zh": "CC6 效果的硬上限已移除。"
+ },
+ {
+  "en": "The CU9 formula is better",
+  "zh": "CU9 公式更好"
+ },
+ {
+  "en": "The Center of Quadratic",
+  "zh": "二次的中心"
+ },
+ {
+  "en": "The Challenging Achievement",
+  "zh": "充满挑战的成就"
+ },
+ {
+  "en": "The Challenging Integration",
+  "zh": "富有挑战的积分"
+ },
+ {
+  "en": "The Conditional Integration",
+  "zh": "条件积分"
+ },
+ {
+  "en": "The Definite Integration",
+  "zh": "定积分"
+ },
+ {
+  "en": "The End",
+  "zh": "终结"
+ },
+ {
+  "en": "The Endless Hardcap Delay",
+  "zh": "无尽的硬上限延迟"
+ },
+ {
+  "en": "The Failable One",
+  "zh": "可能失败的那个"
+ },
+ {
+  "en": "The Final Frontier",
+  "zh": "最后的边界"
+ },
+ {
+  "en": "The Forgotten Feature",
+  "zh": "被遗忘的功能"
+ },
+ {
+  "en": "The Fourth-Row Complex Upgrade autobuyer now bulk buys.",
+  "zh": "第四行复数升级自动购买器现在支持批量购买。"
+ },
+ {
+  "en": "The Hypercomplex Flune power generation formulas are better.",
+  "zh": "超复数弗鲁恩力量生成公式更好。"
+ },
+ {
+  "en": "The IP filled effect is powered ^5",
+  "zh": "IP 填满效果被取 ^5 次幂。"
+ },
+ {
+  "en": "The Inactive Integration",
+  "zh": "不活跃的积分"
+ },
+ {
+  "en": "The Indefinite Integration",
+  "zh": "不定积分"
+ },
+ {
+  "en": "The J",
+  "zh": "那个 J"
+ },
+ {
+  "en": "The J is our lord and savior",
+  "zh": "J 是我们的主和救世主"
+ },
+ {
+  "en": "The Layered Integration",
+  "zh": "分层积分"
+ },
+ {
+  "en": "The Limit",
+  "zh": "极限"
+ },
+ {
+  "en": "The Limit (v3.0 Part 1)",
+  "zh": "极限 (v3.0 第 1 部分)"
+ },
+ {
+  "en": "The Limit Unlocked",
+  "zh": "极限已解锁"
+ },
+ {
+  "en": "The Limit is a customizable challenge where you will be rewarded based on difficulty.",
+  "zh": "极限是一项可自定义挑战，奖励取决于难度。"
+ },
+ {
+  "en": "The Lost Integration",
+  "zh": "失落积分"
+ },
+ {
+  "en": "The Minibrots effect is raised ^5",
+  "zh": "迷你曼德博效果被取 ^5 次幂。"
+ },
+ {
+  "en": "The Multivariable Integration",
+  "zh": "多元积分"
+ },
+ {
+  "en": "The Original Name",
+  "zh": "原名"
+ },
+ {
+  "en": "The Other \"b\"",
+  "zh": "另一个「b」"
+ },
+ {
+  "en": "The PE filled effect hardcap is ^3.2",
+  "zh": "PE 填满效果的硬上限为 ^3.2"
+ },
+ {
+  "en": "The Polynomial Factoring formula is raised ^1.2.",
+  "zh": "多项式因式分解公式被取 ^1.2 次幂。"
+ },
+ {
+  "en": "The Polynomial Factoring multiplier boosts the other 7 Polynomial tiers at a reduced rate.",
+  "zh": "多项式因式分解倍率以较低速率加成其余 7 个多项式层级。"
+ },
+ {
+  "en": "The Polynomial Power factor formula for empty sets gain is stronger.",
+  "zh": "空集获得量的多项式力量系数公式更强。"
+ },
+ {
+  "en": "The Polynomial efficiency debuff in the Limit is weaker, and 1 x¹⁰ is no longer required for Integration outside of the Limit.",
+  "zh": "极限中的多项式效率减益变弱，且极限之外的积分不再需要 1 x¹⁰。"
+ },
+ {
+  "en": "The Polynomial efficiency per-purchase multiplier is 3x.",
+  "zh": "多项式效率每次购买倍率为 3 倍。"
+ },
+ {
+  "en": "The Retrocausal Name",
+  "zh": "逆因果之名"
+ },
+ {
+  "en": "The Square Root penalty is now ^0.55 instead of ^0.5.",
+  "zh": "平方根惩罚现在为 ^0.55，而非 ^0.5。"
+ },
+ {
+  "en": "The Strongest BCU",
+  "zh": "最强的 BCU"
+ },
+ {
+  "en": "The Stump",
+  "zh": "树桩"
+ },
+ {
+  "en": "The Temporal Ascension effect is always ^1.25.",
+  "zh": "时间飞升效果恒为 ^1.25。"
+ },
+ {
+  "en": "The Temporal Integrator effect is powered ^10.",
+  "zh": "时间积分器效果被取 ^10 次幂。"
+ },
+ {
+  "en": "The Temporal Plane power conversion formulas are significantly better.",
+  "zh": "时间平面力量转换公式显著优化。"
+ },
+ {
+  "en": "The Temporal Plane power conversion formulas are slightly better.",
+  "zh": "时间平面力量转换公式略有优化。"
+ },
+ {
+  "en": "The Unit Circle can be unlocked at 2e55 triangles. Its subtab is visible after completing Integration Challenge 3 ten times.<br>\n        The Unit Circle gives a boost and nerf to Trigonometric Functions and a secondary effect based on the quadrant selected.<br>\n        You can normally only have 1 quadrant active at a time, and changing your quadrant does a Sinusoidal reset.<br>\n        You can improve the secondary effect with buyables that cost TW and triangles, respectively.<br><br>\n        <b>Base Secondary Effect Formula:</b> TW<sup>0.05</sup> + 1<br>\n        <b>1st Unit Circle Buyable Cost Formula:</b> 1e63 * 1e12<sup>purchases<sup>2</sup></sup><br>\n        <b>2nd Unit Circle Buyable Cost Formula:</b> 1e70 * 1e15<sup>purchases<sup>2</sup></sup>",
+  "zh": "单位圆可在 2e55 个三角形时解锁。完成 10 次积分挑战 3 后，其子标签页可见。<br>\n        单位圆对三角函数同时提供加成和削弱，并根据所选象限提供次要效果。<br>\n        通常你一次只能激活 1 个象限，切换象限会进行一次正弦重置。<br>\n        你可以用分别消耗 TW 和三角形的可购买项来强化次要效果。<br><br>\n        <b>基础次要效果公式：</b> TW<sup>0.05</sup> + 1<br>\n        <b>第 1 个单位圆可购买项消耗公式：</b> 1e63 * 1e12<sup>purchases<sup>2</sup></sup><br>\n        <b>第 2 个单位圆可购买项消耗公式：</b> 1e70 * 1e15<sup>purchases<sup>2</sup></sup>"
+ },
+ {
+  "en": "The Worlds Revolving",
+  "zh": "世界转动"
+ },
+ {
+  "en": "The X cost is halved, and the Z cost is divided by 1.2.",
+  "zh": "X 的消耗减半，Z 的消耗除以 1.2。"
+ },
+ {
+  "en": "The X cost is halved.",
+  "zh": "X 的消耗减半。"
+ },
+ {
+  "en": "The X cost is squared.",
+  "zh": "X 的消耗被平方。"
+ },
+ {
+  "en": "The Y-Challenge 6 effect adds to the Algebraic Set sacrifice effect at a reduced rate.",
+  "zh": "Y 挑战 6 效果以较低速率加到代数集献祭效果上。"
+ },
+ {
+  "en": "The action of adding news messages is like using drugs. It's easy and makes you feel happy when you do it, but you can't do too much of it.",
+  "zh": "添加新闻消息就好比嗑药。做起来容易，做的时候让你开心，但你不能做得太多。"
+ },
+ {
+  "en": "The boost to Polynomials is powered by 1.25.",
+  "zh": "对多项式的加成被取 1.25 次幂。"
+ },
+ {
+  "en": "The boost to i and y<sup>2</sup> from total Z-Collider levels is powered ^10.",
+  "zh": "来自 Z 碰撞机总等级的 i 和 y<sup>2</sup> 加成被取 ^10 次幂。"
+ },
+ {
+  "en": "The convergence factor for gain of Limit Score is squared.",
+  "zh": "极限分数获得量的收敛因子被平方。"
+ },
+ {
+  "en": "The devs, mods, and testers are all awesome, with the exception of whoever stole all the eggs.",
+  "zh": "开发者、版主和测试者都很棒，除了偷走所有鸡蛋的那个人。"
+ },
+ {
+  "en": "The effects of Complex Upgrades 13 and 15 are powered ^10.",
+  "zh": "复数升级 13 和 15 的效果被取 ^10 次幂。"
+ },
+ {
+  "en": "The effects of the x<sup>2</sup> Doubler and RE Doubler are raised ^100.",
+  "zh": "x<sup>2</sup> 翻倍器和 RE 翻倍器的效果被取 ^100 次幂。"
+ },
+ {
+  "en": "The f(n) exponent boosts Quadratics gain.",
+  "zh": "f(n) 指数加成二次层级的获得量。"
+ },
+ {
+  "en": "The fog is coming. {{0}}.{{1}}.{{2}}.{{3}}. Expansion Rate: {{4}} m/s.",
+  "zh": "雾来了。{{0}}.{{1}}.{{2}}.{{3}}. 扩张速率：{{4}} m/s。"
+ },
+ {
+  "en": "The g(n) and h(n) softcaps start 10 purchases later.",
+  "zh": "g(n) 和 h(n) 的软上限起点延后 10 次购买。"
+ },
+ {
+  "en": "The g(n) and h(n) softcaps start 5.00e9 purchases later.",
+  "zh": "g(n) 和 h(n) 的软上限起点延后 5.00e9 次购买。"
+ },
+ {
+  "en": "The gain formulas for i and y² get worse the more times you go Complex/Y-Quadratic. Passive generation is disabled.",
+  "zh": "你进入复数/Y-二次的次数越多，i 和 y² 的获得公式就越差。被动生成已禁用。"
+ },
+ {
+  "en": "The game is running",
+  "zh": "游戏正在运行"
+ },
+ {
+  "en": "The goal will depend on the combination you select.",
+  "zh": "目标取决于你选择的组合。"
+ },
+ {
+  "en": "The goal will depend on the tier.",
+  "zh": "目标取决于层级。"
+ },
+ {
+  "en": "The h(n) base boosts Complexes gain.",
+  "zh": "h(n) 基础值加成复数获得量。"
+ },
+ {
+  "en": "The h(n) base powers point gain at a heavily reduced rate. (^0.01)",
+  "zh": "h(n) 基础值以大幅削弱的比率强化点数获得量。(^0.01)"
+ },
+ {
+  "en": "The h(n) softcap start powers point gain at a reduced rate. (^0.005)",
+  "zh": "h(n) 软上限起点以较低速率强化点数获得量。(^0.005)"
+ },
+ {
+  "en": "The laws of this world have been modified.",
+  "zh": "这个世界的法则已被修改。"
+ },
+ {
+  "en": "The mechanics and currencies depicted in this incremental game are entirely fictitious. Any similarity to names, events, incidents, and locales is entirely coincidental.",
+  "zh": "本增量游戏中描绘的机制与货币纯属虚构。与人名、事件、事故和地点有任何相似之处，纯属巧合。"
+ },
+ {
+  "en": "The multiplier from \"Quadratic Bonus\" is 1x. QP gain is raised ^0.5. You can only buy up to",
+  "zh": "「二次加成」的倍率为 1 倍。QP 获得量被取 ^0.5 次幂。你最多只能购买到"
+ },
+ {
+  "en": "The news ticker is similar to Minecraft's splash text: It's there, it has no effect on the main game, and you ignore it after a while.",
+  "zh": "新闻滚动条类似于 Minecraft 的启动屏文字：它就在那里，对主游戏没有影响，过一阵你就会忽略它。"
+ },
+ {
+  "en": "The news ticker isn't really quite \"new\" if you've seen all of the news messages.",
+  "zh": "如果你看过了所有新闻消息，那新闻滚动条就不那么「新」了。"
+ },
+ {
+  "en": "The next X Powers tier will unlock at",
+  "zh": "下一层 X 之力将在"
+ },
+ {
+  "en": "The next Y Powers tier will unlock at",
+  "zh": "下一层 Y 之力将在"
+ },
+ {
+  "en": "The next milestone is at",
+  "zh": "下一个里程碑在"
+ },
+ {
+  "en": "The odds of you getting this news message is 1 over the amount of unique news messages you're able to see based on your progress.",
+  "zh": "你看到这条新闻消息的概率是 1 除以根据你的进度能看到的独立新闻消息数量。"
+ },
+ {
+  "en": "The poor souls who took calculus must be crying rn",
+  "zh": "那些选了微积分的可怜人这会儿肯定在哭"
+ },
+ {
+  "en": "The sacrificed Y effect softcap is removed and weaken the sacrificed Z effect softcap.",
+  "zh": "献祭 Y 效果的软上限已移除，并削弱献祭 Z 效果的软上限。"
+ },
+ {
+  "en": "The sacrificed Y effect softcap is removed.",
+  "zh": "献祭 Y 效果的软上限已移除。"
+ },
+ {
+  "en": "The second CU5 effect is uncapped, but its effect is heavily reduced",
+  "zh": "第 2 个 CU5 效果无上限，但其效果被大幅削弱"
+ },
+ {
+  "en": "The second YC4 softcap is weaker.",
+  "zh": "第 2 个 YC4 软上限更弱。"
+ },
+ {
+  "en": "The strange presence enters the Generation tab...",
+  "zh": "奇怪的存在进入了生成标签页..."
+ },
+ {
+  "en": "The sum of a, b, and c is",
+  "zh": "a、b、c 的和为"
+ },
+ {
+  "en": "The sum of d, e, and f is",
+  "zh": "d、e、f 的和为"
+ },
+ {
+  "en": "The sum of your challenge records is",
+  "zh": "你的挑战记录总和为"
+ },
+ {
+  "en": "The total Function multiplier, x² gain, i gain, y² gain, and polynomial efficiency are square rooted. Global speed is fixed at {{0}}.",
+  "zh": "函数总倍率、x² 获得量、i 获得量、y² 获得量和多项式效率都被开平方。全局速度固定为 {{0}}。"
+ },
+ {
+  "en": "The variables grow more distant",
+  "zh": "变量之间渐行渐远"
+ },
+ {
+  "en": "The zj and wj effects are twice as effective.",
+  "zh": "zj、wj 效果翻倍。"
+ },
+ {
+  "en": "Then enter Square Root to go into the Root Epicenter Task!",
+  "zh": "然后进入平方根，前往根震中任务！"
+ },
+ {
+  "en": "There are two types of inflation. The first type, runaway inflation, is a dramatic explosion of uncontrollable numbers that ascend to some forbidden point unknown. This type of inflation is very obvious and can be generally treated with some formula softcaps. The second type, gradual inflation, is a slow yet constant surge of progress, undetectable at first, but as there is no stopping point to the progress ensuing, panic begins to set in. This type of inflation may be difficult to eradicate with a simple softcap. There may be more effort needed to subdue the unwanted phenomenon.",
+  "zh": "膨胀有两种。第一种是恶性膨胀，那是失控数字的剧烈爆发，攀升至某个未知的禁忌点。这种膨胀非常明显，通常可以用一些公式软上限来处理。第二种是渐进膨胀，那是缓慢却持续的增长，起初难以察觉，但由于后续增长永无止境，恐慌开始蔓延。这种膨胀可能很难用简单的软上限根除。可能需要付出更多努力才能压制这种不良现象。"
+ },
+ {
+  "en": "There is no block-based mode for the Automation Core.",
+  "zh": "自动化核心没有基于代码块的模式。"
+ },
+ {
+  "en": "There's No Point",
+  "zh": "没有点数"
+ },
+ {
+  "en": "There's an exponent on point production that increases linearly from 0 to 1 in 15 seconds. If you buy a Building or Function, the exponent resets to 0.",
+  "zh": "点数产出上有一个指数，会在 15 秒内从 0 线性增长到 1。如果你购买建筑或函数，指数会重置为 0。"
+ },
+ {
+  "en": "They did surgery on a variable... 🤣",
+  "zh": "他们给一个变量做了手术... 🤣"
+ },
+ {
+  "en": "Third Row Bonus",
+  "zh": "第三行加成"
+ },
+ {
+  "en": "This Again?",
+  "zh": "又是这个？"
+ },
+ {
+  "en": "This Can't Be Real",
+  "zh": "这不可能是真的"
+ },
+ {
+  "en": "This achievement is impossible.",
+  "zh": "这个成就是不可能完成的。"
+ }
+]

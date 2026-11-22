@@ -1,0 +1,930 @@
+[
+  {
+    "en": "Integrate without having any x⁷.",
+    "zh": "在不拥有任何 x⁷ 的情况下积分。"
+  },
+  {
+    "en": "Integrate without using the first 12 Complex Upgrades.",
+    "zh": "不使用前 12 个复数升级积分。"
+  },
+  {
+    "en": "Integrate {{0}} times.",
+    "zh": "积分 {{0}} 次。"
+  },
+  {
+    "en": "Integrate.",
+    "zh": "积分。"
+  },
+  {
+    "en": "Integrated",
+    "zh": "已积分"
+  },
+  {
+    "en": "Integrated Systems",
+    "zh": "积分系统"
+  },
+  {
+    "en": "Integrated Vortex",
+    "zh": "积分漩涡"
+  },
+  {
+    "en": "Integrating will reset everything Complex resets, and will also reset all Complex-level content and the first 60 Achievements, but you will receive dx, holes, and empty sets in return. Are you sure you want to do this?",
+    "zh": "积分将重置复数重置的一切，还会重置所有复数级内容和前 60 个成就，但你会获得 dx、空洞和空集作为回报。确定要这样做吗?"
+  },
+  {
+    "en": "Integration",
+    "zh": "积分"
+  },
+  {
+    "en": "Integration (v3.0 Part 1)",
+    "zh": "积分（v3.0 第 1 部分）"
+  },
+  {
+    "en": "Integration Bonus",
+    "zh": "积分加成"
+  },
+  {
+    "en": "Integration Challenge",
+    "zh": "积分挑战"
+  },
+  {
+    "en": "Integration Challenge 1",
+    "zh": "积分挑战 1"
+  },
+  {
+    "en": "Integration Challenge 2",
+    "zh": "积分挑战 2"
+  },
+  {
+    "en": "Integration Challenge 2 Unlocked",
+    "zh": "积分挑战 2 已解锁"
+  },
+  {
+    "en": "Integration Challenge 3",
+    "zh": "积分挑战 3"
+  },
+  {
+    "en": "Integration Challenge 4",
+    "zh": "积分挑战 4"
+  },
+  {
+    "en": "Integration Challenge 5",
+    "zh": "积分挑战 5"
+  },
+  {
+    "en": "Integration Challenge 6",
+    "zh": "积分挑战 6"
+  },
+  {
+    "en": "Integration Challenge 6 Unlocked",
+    "zh": "积分挑战 6 已解锁"
+  },
+  {
+    "en": "Integration Challenge 7",
+    "zh": "积分挑战 7"
+  },
+  {
+    "en": "Integration Challenge 8",
+    "zh": "积分挑战 8"
+  },
+  {
+    "en": "Integration Challenge 8 Unlocked",
+    "zh": "积分挑战 8 已解锁"
+  },
+  {
+    "en": "Integration Challenge tier",
+    "zh": "积分挑战层级"
+  },
+  {
+    "en": "Integration Challenges",
+    "zh": "积分挑战"
+  },
+  {
+    "en": "Integration Challenges (ICs) are the fourth type of Challenges. Integration Challenges take place in Integrations, and<br>\n        each Integration Challenge works uniquely compared to the rest. Most ICs require i to be completed, but some require y<sup>2</sup>.<br>\n        Integration Challenges are unlocked through the Production Tree in the \"Integration Upgrades\" subtab. You need to<br>\n        fulfill a requirement or set of requirements to unlock the Integration Challenge. Once unlocked, you do not need to<br>\n        unlock it again. Once you've completed all eight Integration Challenges, you will win the game.",
+    "zh": "积分挑战（ICs）是第四种挑战。积分挑战发生在积分层中，并且<br>\n        每个积分挑战的运作方式都与其他挑战不同。多数 ICs 需要完成 i，但有些需要 y<sup>2</sup>。<br>\n        积分挑战通过“积分升级”子标签页中的产出树解锁。你需要<br>\n        满足一项或多项要求来解锁积分挑战。一旦解锁，你就不需要<br>\n        再次解锁它。完成全部八个积分挑战后，你将赢得游戏。"
+  },
+  {
+    "en": "Integration Challenges (v3.0 Part 2)",
+    "zh": "积分挑战（v3.0 第 2 部分）"
+  },
+  {
+    "en": "Integration Challenges:",
+    "zh": "积分挑战："
+  },
+  {
+    "en": "Integration Confirmation:",
+    "zh": "积分确认："
+  },
+  {
+    "en": "Integration Sale",
+    "zh": "积分促销"
+  },
+  {
+    "en": "Integration Upgrade Unlocked:",
+    "zh": "积分升级已解锁："
+  },
+  {
+    "en": "Integration Upgrades",
+    "zh": "积分升级"
+  },
+  {
+    "en": "Integration Upgrades (v3.0 Part 1)",
+    "zh": "积分升级（v3.0 第 1 部分）"
+  },
+  {
+    "en": "Integrations",
+    "zh": "积分"
+  },
+  {
+    "en": "Integrations:",
+    "zh": "积分："
+  },
+  {
+    "en": "Intermediate Value",
+    "zh": "介值"
+  },
+  {
+    "en": "Intermediate Value Theorem when Advanced Value Theorem walks in",
+    "zh": "当高级值定理走进来时的介值定理"
+  },
+  {
+    "en": "Inverse Paradigm",
+    "zh": "逆向范式"
+  },
+  {
+    "en": "Inverse Quadratic",
+    "zh": "反二次"
+  },
+  {
+    "en": "Invincible II",
+    "zh": "无敌 II"
+  },
+  {
+    "en": "Is pacing speedup a real problem? At this rate, the year 2035's most popular incremental game will be completable in 3 minutes.",
+    "zh": "节奏加快真的是个问题吗?照这个速度，2035 年最受欢迎的增量游戏将能在 3 分钟内通关。"
+  },
+  {
+    "en": "Is this a Synergism reference???????",
+    "zh": "这是在致敬 Synergism 吗???????"
+  },
+  {
+    "en": "Is your coefficient of determination about equal to 1? Because you're very predictable.",
+    "zh": "你的决定系数约等于 1 吗?因为你太容易预测了。"
+  },
+  {
+    "en": "It takes 12 bees their entire life to make a single teaspoon of honey. How does that make you feel?",
+    "zh": "12 只蜜蜂要花上一整辈子才能酿出一茶匙蜂蜜。你对此有什么感想?"
+  },
+  {
+    "en": "It's <b>X</b>-mas",
+    "zh": "今天是 <b>X</b> 诞节"
+  },
+  {
+    "en": "It's All a Game",
+    "zh": "这只是一场游戏"
+  },
+  {
+    "en": "It's Not Simple",
+    "zh": "这并不简单"
+  },
+  {
+    "en": "It's Quite Simple, Really",
+    "zh": "其实这很简单"
+  },
+  {
+    "en": "It's Still Not Simple",
+    "zh": "这仍然不简单"
+  },
+  {
+    "en": "It's a Useless Tab",
+    "zh": "这是个没用的标签页"
+  },
+  {
+    "en": "It's difficult to trace the origins of the incremental game genre, but here is a notable person in the genre's history: John Incremental was a medieval European game developer who created the first incremental game in 1316, drawing crowds from all over. However, his rival, William Clicker, convinced the public that Incremental was using Java to code his game and he was therefore exiled.",
+    "zh": "很难追溯增量游戏这一类型的起源，但这里有一位该类型历史上的名人：约翰·增量是中世纪欧洲的游戏开发者，他于 1316 年创造了第一款增量游戏，吸引了四面八方的人群。然而，他的对手威廉·点击器说服公众，称增量用 Java 编写他的游戏，因此他被驱逐了。"
+  },
+  {
+    "en": "It's important that the news ticker can't be disabled. The news ticker will never disappear and you will get tired of it faster...wait, you can disable it now??",
+    "zh": "新闻滚动条无法关闭，这很重要。新闻滚动条永远不会消失，你会更快对它感到厌烦...等等，现在可以关掉它了??"
+  },
+  {
+    "en": "It's never enough for you, is it?",
+    "zh": "你永远都嫌不够，是吗?"
+  },
+  {
+    "en": "It's not just 100x — it's 1y!",
+    "zh": "这不只是 100 倍——而是 1y!"
+  },
+  {
+    "en": "Jax, look, I know we don't get along, but I think I've found a way to complete Integration Challenge 3 without looking up a guide...",
+    "zh": "Jax，听着，我知道我们合不来，但我想我找到了不用查攻略就能完成积分挑战 3 的方法..."
+  },
+  {
+    "en": "John Rod solos the Point Universe",
+    "zh": "John Rod 单刷点数宇宙"
+  },
+  {
+    "en": "Join our Discord server for a stable economy!",
+    "zh": "加入我们的 Discord 服务器，享受稳定的经济!"
+  },
+  {
+    "en": "Jump forward in real time up to a maximum of 48 hours!",
+    "zh": "按真实时间向前跳跃，最多 48 小时!"
+  },
+  {
+    "en": "Jumping to Conclusions",
+    "zh": "妄下结论"
+  },
+  {
+    "en": "Just Checking",
+    "zh": "只是看看"
+  },
+  {
+    "en": "Just a Dilation Ripoff",
+    "zh": "不过是 Dilation 的山寨版"
+  },
+  {
+    "en": "Just failed a math test about probability... like seriously, what are the chances???",
+    "zh": "刚考砸了一场关于概率的数学考试...说真的，这概率有多大???"
+  },
+  {
+    "en": "Just watch me, Tuba! I'll solve equations with my right hand, and Buy Max with my left...! I'll take a Quadratic Upgrade...and <b>BUY IT</b>!",
+    "zh": "看好了，Tuba!我要用右手解方程，用左手点最大购买...!我要拿一个二次升级...然后 <b>买下它</b>!"
+  },
+  {
+    "en": "Kane Parsons has reportedly collapsed his previous universe after reaching {{0}} points and has integrated into a new universe to conquer. He is 20 years old.",
+    "zh": "据报道，Kane Parsons 在达到 {{0}} 点数后坍缩了他之前的宇宙，并已积分进入新宇宙去征服。他今年 20 岁。"
+  },
+  {
+    "en": "Keep Basic Complex Upgrades on Mandelbrot and unlock an autobuyer for steps",
+    "zh": "在曼德博保留基础复数升级，并解锁步骤自动购买器"
+  },
+  {
+    "en": "Keep CC completions on Mandelbrot and unlock Auto-Mandelbrot",
+    "zh": "在曼德博保留 CC 完成次数，并解锁自动曼德博"
+  },
+  {
+    "en": "Keep Complex Milestones on Mandelbrot",
+    "zh": "在曼德博保留复数里程碑"
+  },
+  {
+    "en": "Keep Going",
+    "zh": "继续前进"
+  },
+  {
+    "en": "Keep RET completions on Complex",
+    "zh": "在复数层保留 RET 完成次数"
+  },
+  {
+    "en": "Keep Riemann spheres on Mandelbrot, even if your current amount exceeds the cap",
+    "zh": "在曼德博保留黎曼球，即使你当前数量超过上限"
+  },
+  {
+    "en": "Keep Y Challenge completions on Mandelbrot and Z-Power never decays",
+    "zh": "在曼德博保留 Y 挑战完成次数，且 Z 能量永不衰减"
+  },
+  {
+    "en": "Keep Y-Quadratic Upgrades on Mandelbrot and Coordinate Plane autobuyer automates sacrificing Z",
+    "zh": "在曼德博保留 Y-二次升级，且坐标平面自动购买器会自动献祭 Z"
+  },
+  {
+    "en": "Keep all Reset Table upgrades on Complex",
+    "zh": "在复数层保留所有重置表升级"
+  },
+  {
+    "en": "Keep geometric sequences and Exponential Curve buyables on Complex",
+    "zh": "在复数层保留等比数列和指数曲线可购买项"
+  },
+  {
+    "en": "Keep sacrificed currencies on Complex.",
+    "zh": "在复数层保留已献祭的货币。"
+  },
+  {
+    "en": "Keep the CC tiers-based Milestones on Integration.",
+    "zh": "在积分层保留基于 CC 层级的里程碑。"
+  },
+  {
+    "en": "Keep the fifth column of Reset Table upgrades on Complex",
+    "zh": "在复数层保留重置表升级的第五列"
+  },
+  {
+    "en": "Keep your best Root Essence and Challenge Essence on reset.",
+    "zh": "重置时保留你最好的根精华和挑战精华。"
+  },
+  {
+    "en": "Kowalski, go Quadratic.",
+    "zh": "Kowalski，去二次层吧。"
+  },
+  {
+    "en": "L'Hôpital's Rule",
+    "zh": "洛必达法则"
+  },
+  {
+    "en": "Labor Shortages",
+    "zh": "劳动力短缺"
+  },
+  {
+    "en": "Last Ten Runs",
+    "zh": "最近十次运行"
+  },
+  {
+    "en": "Last Ten Runs:",
+    "zh": "最近十次运行："
+  },
+  {
+    "en": "Lateral Flux",
+    "zh": "横向通量"
+  },
+  {
+    "en": "LeBron James reportedly caught FORGETTING to turn on the X<sup>2</sup> DOUBLER autobuyer",
+    "zh": "据报道，LeBron James 被发现忘了开启 X<sup>2</sup> 倍增器自动购买器"
+  },
+  {
+    "en": "Legalize nuclear bombs 🔥🔥🔥 Swag Messiah 🗣️🗣️🗣️",
+    "zh": "合法化核弹 🔥🔥🔥 潮流救世主 🗣️🗣️🗣️"
+  },
+  {
+    "en": "Less Useless",
+    "zh": "没那么没用"
+  },
+  {
+    "en": "Let's Do This!",
+    "zh": "就这么干!"
+  },
+  {
+    "en": "Let's go, open up, it's time for prestiges. You're late. You know the deal. You can do the 1st layer prestige for the x<sup>2</sup>, or you can attempt the 2nd layer prestige for the i.",
+    "zh": "来吧，开门，该威望了。你迟到了。你懂规矩。你可以为 x<sup>2</sup> 做第一层威望，或者为 i 尝试第二层威望。"
+  },
+  {
+    "en": "Let's take a look... 👀",
+    "zh": "让我们看看... 👀"
+  },
+  {
+    "en": "Let. Him. <i>Click!</i>",
+    "zh": "让。他。<i>点击!</i>"
+  },
+  {
+    "en": "Level",
+    "zh": "等级"
+  },
+  {
+    "en": "Level √-1: Level √4 and sacrificed X and Y do nothing,<br>and Square Root Upgrade 2 is raised ^0.12.<br><i>Completing this will unlock the next prestige layer.</i>",
+    "zh": "等级 √-1：等级 √4 且已献祭的 X 和 Y 不起作用，<br>并且平方根升级 2 提升为 ^0.12。<br><i>完成此挑战将解锁下一层威望。</i>"
+  },
+  {
+    "en": "Level √1: A regular Square Root Run.",
+    "zh": "等级 √1：一次普通的平方根运行。"
+  },
+  {
+    "en": "Level √2: Level √1 and Points are divided by 1e5000.<br>(keep in mind that all multiplication and division goes before exponents)",
+    "zh": "等级 √2：等级 √1 且点数除以 1e5000。<br>（请记住，所有乘除法都在幂运算之前进行）"
+  },
+  {
+    "en": "Level √3: Level √2 and Points are divided by 1e1650.",
+    "zh": "等级 √3：等级 √2 且点数除以 1e1650。"
+  },
+  {
+    "en": "Level √4: Level √3 and Points are divided by 1e3650.<br><i>Completing this will multiply the challenge essence effect softcap starts by 1,000,<br>and multiply the Challenge 1 effect hardcap start by 1e50</i>",
+    "zh": "等级 √4：等级 √3 且点数除以 1e3650。<br><i>完成此挑战将使挑战精华效果软上限起点乘以 1,000，<br>并使挑战 1 效果硬上限起点乘以 1e50</i>"
+  },
+  {
+    "en": "Level:",
+    "zh": "等级："
+  },
+  {
+    "en": "Leveling up your Z-Colliders will allow you to reach milestones with powerful bonuses and unlocks.",
+    "zh": "升级你的 Z 碰撞器可以达成里程碑，获得强力加成和解锁内容。"
+  },
+  {
+    "en": "Libraries",
+    "zh": "库"
+  },
+  {
+    "en": "Lights Out",
+    "zh": "关灯"
+  },
+  {
+    "en": "Limit Converger",
+    "zh": "极限收敛器"
+  },
+  {
+    "en": "Limit Expander",
+    "zh": "极限扩展器"
+  },
+  {
+    "en": "Limitless Potential",
+    "zh": "无限潜力"
+  },
+  {
+    "en": "Limitless Potential II",
+    "zh": "无限潜力 II"
+  },
+  {
+    "en": "Load",
+    "zh": "读取"
+  },
+  {
+    "en": "Load Activations",
+    "zh": "读取激活"
+  },
+  {
+    "en": "Load Complex Upgrades at 60 UP:",
+    "zh": "在 60 UP 时读取复数升级："
+  },
+  {
+    "en": "Load Saves:",
+    "zh": "读取存档："
+  },
+  {
+    "en": "Load Tree",
+    "zh": "读取树"
+  },
+  {
+    "en": "Load Upgrades",
+    "zh": "读取升级"
+  },
+  {
+    "en": "Location in Complex Plane:",
+    "zh": "在复数平面中的位置："
+  },
+  {
+    "en": "Locked",
+    "zh": "已锁定"
+  },
+  {
+    "en": "Logarithm",
+    "zh": "对数"
+  },
+  {
+    "en": "Logarithmic Effect Protests",
+    "zh": "对数效果抗议"
+  },
+  {
+    "en": "Loneliness",
+    "zh": "孤独"
+  },
+  {
+    "en": "Long Elevator",
+    "zh": "长电梯"
+  },
+  {
+    "en": "Loopover",
+    "zh": "循环"
+  },
+  {
+    "en": "Lost Integration Preface",
+    "zh": "失落积分前言"
+  },
+  {
+    "en": "Lower Demand",
+    "zh": "降低需求"
+  },
+  {
+    "en": "Lower the Square Root nerf (^0.5 -> ^0.55)",
+    "zh": "减弱平方根削弱（^0.5 -> ^0.55）"
+  },
+  {
+    "en": "Lucid Dreaming",
+    "zh": "清醒梦"
+  },
+  {
+    "en": "Made by randomtuba",
+    "zh": "由 randomtuba 制作"
+  },
+  {
+    "en": "Major Testers",
+    "zh": "主要测试者"
+  },
+  {
+    "en": "Make buildings produce each other.",
+    "zh": "让建筑互相产出。"
+  },
+  {
+    "en": "Make sacrificed X and Y slightly more effective (1.1x effect for each).",
+    "zh": "使已献祭的 X 和 Y 稍微更有效（各自效果 1.1 倍）。"
+  },
+  {
+    "en": "Make sacrificed X three times as effective.",
+    "zh": "使已献祭的 X 效果提升至三倍。"
+  },
+  {
+    "en": "Make sacrificed X twice as effective.",
+    "zh": "使已献祭的 X 效果提升至两倍。"
+  },
+  {
+    "en": "Make the milestone scaling slower, but reset square roots",
+    "zh": "放慢里程碑缩放，但重置平方根"
+  },
+  {
+    "en": "Make your Charged X Upgrades build into a chessboard pattern.",
+    "zh": "使你的充能 X 升级按棋盘图案排列。"
+  },
+  {
+    "en": "Make your Complex Upgrades build into a chessboard pattern.",
+    "zh": "使你的复数升级按棋盘图案排列。"
+  },
+  {
+    "en": "Mandelbrot",
+    "zh": "曼德博"
+  },
+  {
+    "en": "Mandelbrot Challenge",
+    "zh": "曼德博挑战"
+  },
+  {
+    "en": "Mandelbrot Challenge 1 Complete in Lost Integration",
+    "zh": "在失落积分中完成曼德博挑战 1"
+  },
+  {
+    "en": "Mandelbrot Challenges",
+    "zh": "曼德博挑战"
+  },
+  {
+    "en": "Mandelbrot Engine:",
+    "zh": "曼德博引擎："
+  },
+  {
+    "en": "Mandelbrot Essence",
+    "zh": "曼德博精华"
+  },
+  {
+    "en": "Mandelbrot Essence (ME).",
+    "zh": "曼德博精华（ME）。"
+  },
+  {
+    "en": "Mandelbrot Essence and Y Powers boost each other",
+    "zh": "曼德博精华和 Y 能量互相加成"
+  },
+  {
+    "en": "Mandelbrot Essence boosts its own gain",
+    "zh": "曼德博精华提升自身获得量"
+  },
+  {
+    "en": "Manually Switch IC6 Variant",
+    "zh": "手动切换 IC6 变体"
+  },
+  {
+    "en": "Mass Production",
+    "zh": "大规模生产"
+  },
+  {
+    "en": "Mathematicians when the math problem says \"die\" instead of \"fair standard 6-sided die\":",
+    "zh": "当数学题说 \"die\" 而不是 \"fair standard 6-sided die\" 时的数学家们："
+  },
+  {
+    "en": "Max the first row of Complex Upgrades.",
+    "zh": "将复数升级的第一行点满。"
+  },
+  {
+    "en": "Maybe your X and Y variables are supposed to be used to solve for a vector...",
+    "zh": "也许你的 X 和 Y 变量本该用来求解一个向量..."
+  },
+  {
+    "en": "Mean Value Theorem",
+    "zh": "均值定理"
+  },
+  {
+    "en": "Mechanical Interlock",
+    "zh": "机械联锁"
+  },
+  {
+    "en": "Mechanics Within Mechanics",
+    "zh": "机制中的机制"
+  },
+  {
+    "en": "Meet Me Halfway",
+    "zh": "各让一步"
+  },
+  {
+    "en": "Meeting Standards",
+    "zh": "达标"
+  },
+  {
+    "en": "Meta-Clickers",
+    "zh": "元点击器"
+  },
+  {
+    "en": "Meta-Factories",
+    "zh": "元工厂"
+  },
+  {
+    "en": "Meta-Generators",
+    "zh": "元生成器"
+  },
+  {
+    "en": "Meta-Generators gain a multiplier based on generator multiplier",
+    "zh": "元生成器根据生成器倍率获得倍率加成"
+  },
+  {
+    "en": "Meta-Generators gain a multiplier based on the Y Power product",
+    "zh": "元生成器根据 Y 能量乘积获得倍率加成"
+  },
+  {
+    "en": "Meta-Generators gain a multiplier based on time in this Mandelbrot",
+    "zh": "元生成器根据本次曼德博中的时间获得倍率加成"
+  },
+  {
+    "en": "Meta-Generators gain a multiplier based on total ME",
+    "zh": "元生成器根据总 ME 获得倍率加成"
+  },
+  {
+    "en": "Meta-Millennium",
+    "zh": "元千年"
+  },
+  {
+    "en": "Meta-Portals",
+    "zh": "元传送门"
+  },
+  {
+    "en": "Meta-Quasars",
+    "zh": "元类星体"
+  },
+  {
+    "en": "Michael! Don't leave me here! Michael! MICHAEL!!!",
+    "zh": "Michael!别把我留在这里!Michael!MICHAEL!!!"
+  },
+  {
+    "en": "Milestone Reached:",
+    "zh": "达成里程碑："
+  },
+  {
+    "en": "Milestones",
+    "zh": "里程碑"
+  },
+  {
+    "en": "Milestones (v2.0)",
+    "zh": "里程碑（v2.0）"
+  },
+  {
+    "en": "Milestones:",
+    "zh": "里程碑："
+  },
+  {
+    "en": "Millionaire Monolith",
+    "zh": "百万富翁巨石"
+  },
+  {
+    "en": "Minibrots",
+    "zh": "迷你曼德博"
+  },
+  {
+    "en": "Minibrots Unlocked in Lost Integration",
+    "zh": "在失落积分中解锁迷你曼德博"
+  },
+  {
+    "en": "Minimalist",
+    "zh": "极简主义者"
+  },
+  {
+    "en": "Minimum Space",
+    "zh": "最小空间"
+  },
+  {
+    "en": "Minimum Square Root milestone threshold is 1.7x",
+    "zh": "平方根里程碑最低阈值为 1.7 倍"
+  },
+  {
+    "en": "Minimum Square Root milestone threshold is 1.8x",
+    "zh": "平方根里程碑最低阈值为 1.8 倍"
+  },
+  {
+    "en": "Minor Perk",
+    "zh": "小福利"
+  },
+  {
+    "en": "Minor Perk II",
+    "zh": "小福利 II"
+  },
+  {
+    "en": "Minor Testers",
+    "zh": "次要测试者"
+  },
+  {
+    "en": "Mixed",
+    "zh": "混合"
+  },
+  {
+    "en": "Mode:",
+    "zh": "模式："
+  },
+  {
+    "en": "More Sinusoidal Upgrade Purchases!",
+    "zh": "购买更多正弦升级!"
+  },
+  {
+    "en": "Multiplier Deviation",
+    "zh": "倍率偏差"
+  },
+  {
+    "en": "Multiplier to Y-Polynomial efficiencies and divider to CC autocompletion time.",
+    "zh": "Y-多项式效率的倍率加成，以及 CC 自动完成时间的缩短。"
+  },
+  {
+    "en": "Multiplier to gain of all Trigonometric Function powers. On the 10th completion, unlock Derivatives.",
+    "zh": "所有三角函数能量获得量的倍率加成。第 10 次完成时解锁导数。"
+  },
+  {
+    "en": "Multipliers to the g(n) and h(n) bases are softcapped at 50,000,000.",
+    "zh": "g(n) 和 h(n) 底数的倍率加成软上限为 50,000,000。"
+  },
+  {
+    "en": "Multiplies circles gain.",
+    "zh": "增加圆的获得量。"
+  },
+  {
+    "en": "Multiplies i exponent generation.",
+    "zh": "增加 i 指数生成量。"
+  },
+  {
+    "en": "Multiplies polynomial power generation.",
+    "zh": "增加多项式能量生成量。"
+  },
+  {
+    "en": "Multiplies the hardcap start of Quadratic Bonus (Quadratic Upgrade 1).",
+    "zh": "提升二次加成（二次升级 1）的硬上限起点。"
+  },
+  {
+    "en": "Multiply Complex Plane powers gain based on time in this Complex.",
+    "zh": "复数平面能量获得量按本次复数层中的时间倍增。"
+  },
+  {
+    "en": "Multiply Complex count gain by 5x per purchase.",
+    "zh": "每次购买使复数数量获得量乘以 5 倍。"
+  },
+  {
+    "en": "Multiply ME gain by 100x or power ME gain by ^1.01, whichever is larger.",
+    "zh": "将 ME 获得量乘以 100 倍，或将其按 ^1.01 乘方，取较大者。"
+  },
+  {
+    "en": "Multiply Meta-Generator effectiveness by 100x or power Meta-Generator effectiveness by ^1.01, whichever is larger.",
+    "zh": "将元生成器效率乘以 100 倍，或将其按 ^1.01 乘方，取较大者。"
+  },
+  {
+    "en": "Multiply Minibrot replication speed by 10x.",
+    "zh": "将迷你曼德博复制速度乘以 10 倍。"
+  },
+  {
+    "en": "Multiply Particles gain by 1e6",
+    "zh": "将粒子获得量乘以 1e6"
+  },
+  {
+    "en": "Multiply Polynomial efficiency by 100x or power Polynomial efficiency by ^1.01, whichever is larger.",
+    "zh": "将多项式效率乘以 100 倍，或将其按 ^1.01 乘方，取较大者。"
+  },
+  {
+    "en": "Multiply Quadratic Power and Z-Power gain by 10x per purchase.",
+    "zh": "每次购买使二次能量和 Z 能量获得量乘以 10 倍。"
+  },
+  {
+    "en": "Multiply Quadratic and Complex gain by 100x or power Quadratic and Complex gain by ^1.01, whichever is larger. (Point Universe only)",
+    "zh": "将二次和复数获得量乘以 100 倍，或将其按 ^1.01 乘方，取较大者。（仅限点数宇宙）"
+  },
+  {
+    "en": "Multiply Quadratic count gain by 10x per purchase.",
+    "zh": "每次购买使二次数量获得量乘以 10 倍。"
+  },
+  {
+    "en": "Multiply Quadratics gain, and power all Quadratic-based effects.",
+    "zh": "提升二次获得量，并强化所有基于二次的效果。"
+  },
+  {
+    "en": "Multiply RE and CE gain by 100x or power RE and CE gain by ^1.01, whichever is larger.",
+    "zh": "将 RE 和 CE 获得量乘以 100 倍，或将其按 ^1.01 乘方，取较大者。"
+  },
+  {
+    "en": "Multiply RP gain by 100x or power RP gain by ^1.01, whichever is larger.",
+    "zh": "将 RP 获得量乘以 100 倍，或将其按 ^1.01 乘方，取较大者。"
+  },
+  {
+    "en": "Multiply Reset Point gain.",
+    "zh": "提升重置点获得量。"
+  },
+  {
+    "en": "Multiply SE gain by 1.00e100 per purchase",
+    "zh": "每次购买使 SE 获得量乘以 1.00e100"
+  },
+  {
+    "en": "Multiply SE gain by 1.5 per purchase",
+    "zh": "每次购买使 SE 获得量乘以 1.5"
+  },
+  {
+    "en": "Multiply Trigonometric Waves gain by 10x per purchase.",
+    "zh": "每次购买使三角波获得量乘以 10 倍。"
+  },
+  {
+    "en": "Multiply X and Y generation by 100x or power X and Y generation by ^1.01, whichever is larger.",
+    "zh": "将 X 和 Y 生成量乘以 100 倍，或将其按 ^1.01 乘方，取较大者。"
+  },
+  {
+    "en": "Multiply X generation based on Minibrots",
+    "zh": "根据迷你曼德博数量乘以 X 生成量"
+  },
+  {
+    "en": "Multiply X generation based on Y",
+    "zh": "根据 Y 乘以 X 生成量"
+  },
+  {
+    "en": "Multiply X generation based on i",
+    "zh": "根据 i 乘以 X 生成量"
+  },
+  {
+    "en": "Multiply X generation based on the generator multiplier",
+    "zh": "根据生成器倍率乘以 X 生成量"
+  },
+  {
+    "en": "Multiply X generation.",
+    "zh": "提升 X 生成量。"
+  },
+  {
+    "en": "Multiply Y generation based on total i",
+    "zh": "根据总 i 乘以 Y 生成量"
+  },
+  {
+    "en": "Multiply Y generation based on total y²",
+    "zh": "根据总 y² 乘以 Y 生成量"
+  },
+  {
+    "en": "Multiply Z-Power gain by 100x or power Z-Power gain by ^1.01, whichever is larger.",
+    "zh": "将 Z 能量获得量乘以 100 倍，或将其按 ^1.01 乘方，取较大者。"
+  },
+  {
+    "en": "Multiply Z-Power gain by 3 per purchase",
+    "zh": "每次购买使 Z 能量获得量乘以 3"
+  },
+  {
+    "en": "Multiply both point gain and x² gain based on times gone Quadratic.",
+    "zh": "根据进入二次层的次数，同时提升点数获得量和 x² 获得量。"
+  },
+  {
+    "en": "Multiply derivatives gain based on challenge essence.",
+    "zh": "根据挑战精华提升导数获得量。"
+  },
+  {
+    "en": "Multiply dx gain by 100x or power dx gain by ^1.01, whichever is larger.",
+    "zh": "将 dx 获得量乘以 100 倍，或将其按 ^1.01 乘方，取较大者。"
+  },
+  {
+    "en": "Multiply dx gain by 100x per purchase.",
+    "zh": "每次购买使 dx 获得量乘以 100 倍。"
+  },
+  {
+    "en": "Multiply e by +1x in Exponential Curve formula",
+    "zh": "在指数曲线公式中将 e 乘以 +1x"
+  },
+  {
+    "en": "Multiply empty set gain by 100x or power empty set gain by ^1.01, whichever is larger.",
+    "zh": "将空集获得量乘以 100 倍，或将其按 ^1.01 乘方，取较大者。"
+  },
+  {
+    "en": "Multiply gain of all X Powers by 100x or power gain of all X Powers by ^1.01, whichever is larger.",
+    "zh": "将所有 X 能量的获得量乘以 100 倍，或将其按 ^1.01 乘方，取较大者。"
+  },
+  {
+    "en": "Multiply generation of Hypercomplex Flune powers by 5 per level.",
+    "zh": "每级使超复数弗鲁恩能量生成量乘以 5。"
+  },
+  {
+    "en": "Multiply global speed by 100x or power global speed by ^1.01, whichever is larger, when Temporal Plane is active.",
+    "zh": "当时间平面激活时，将全局速度乘以 100 倍，或将其按 ^1.01 乘方，取较大者。"
+  },
+  {
+    "en": "Multiply hole gain by 10x or power hole gain by ^1.01, whichever is larger.",
+    "zh": "将空洞获得量乘以 10 倍，或将其按 ^1.01 乘方，取较大者。"
+  },
+  {
+    "en": "Multiply i gain based on SE.",
+    "zh": "根据 SE 提升 i 获得量。"
+  },
+  {
+    "en": "Multiply i gain by 100x or power i gain by ^1.01, whichever is larger.",
+    "zh": "将 i 获得量乘以 100 倍，或将其按 ^1.01 乘方，取较大者。"
+  },
+  {
+    "en": "Multiply i gain by 1e30",
+    "zh": "将 i 获得量乘以 1e30"
+  },
+  {
+    "en": "Multiply i gain.",
+    "zh": "提升 i 获得量。"
+  },
+  {
+    "en": "Multiply j and k gain by 100x or power j and k gain by ^1.01, whichever is larger.",
+    "zh": "将 j 和 k 获得量乘以 100 倍，或将其按 ^1.01 乘方，取较大者。"
+  },
+  {
+    "en": "Multiply limit score gain by 5x per purchase.",
+    "zh": "每次购买使极限分数获得量乘以 5 倍。"
+  },
+  {
+    "en": "Multiply point gain and x² gain based on unspent i. Multiply gains of RE, QP, and CE by 10. Multiply slope gain by 100.",
+    "zh": "根据未花费的 i 提升点数获得量和 x² 获得量。将 RE、QP 和 CE 的获得量乘以 10。将斜率获得量乘以 100。"
+  },
+  {
+    "en": "Multiply point gain by 100x or power point gain by ^1.01, whichever is larger.",
+    "zh": "将点数获得量乘以 100 倍，或将其按 ^1.01 乘方，取较大者。"
+  },
+  {
+    "en": "Multiply point gain.",
+    "zh": "提升点数获得量。"
+  }
+]

@@ -1,0 +1,270 @@
+[
+  {
+    "en": "Welcome to the Algebraic Progression Textbook! This tab serves as an in-game guide that updates as you progress throughout the game.",
+    "zh": "欢迎来到 Algebraic Progression 教科书！这个标签页是游戏内指南，会随着你在游戏中的进度而更新。"
+  },
+  {
+    "en": "Algebraic Progression is an incremental game where the goal is to get all of the Achievements and win the game. The game's mechanics",
+    "zh": "Algebraic Progression 是一款增量游戏，目标是获得所有成就并赢得游戏。游戏的机制"
+  },
+  {
+    "en": "are inspired by various aspects of algebra in mathematics, however most mechanics do not faithfully represent how they actually work.",
+    "zh": "受到数学中代数诸多方面的启发，然而大多数机制并不忠实地反映它们的实际运作方式。"
+  },
+  {
+    "en": "The game also features common incremental game mechanics, such as Upgrades, Challenges, Buildings, Automation, and Milestones.",
+    "zh": "游戏还包含常见的增量游戏机制，例如升级、挑战、建筑、自动化和里程碑。"
+  },
+  {
+    "en": "Each section afterward covers every important mechanic in the game that may require explaining. There are a few things that you should",
+    "zh": "之后的每一节都涵盖了游戏中可能需要解释的每个重要机制。有几件事你应该"
+  },
+  {
+    "en": "know before your start your journey:",
+    "zh": "在开始旅程之前知道："
+  },
+  {
+    "en": "While there are some idle sections, this game is active and grindy.",
+    "zh": "虽然有一些挂机部分，但这款游戏需要主动操作且相当肝。"
+  },
+  {
+    "en": "This game has offline progress! This means that resources keep producing while you're away. Use this to your advantage.",
+    "zh": "这款游戏有离线进度！这意味着当你离开时资源仍会持续产出。好好利用这一点。"
+  },
+  {
+    "en": "If you ever feel stuck, keep waiting and grinding, or ask for help on the Discord server. (linked in the Options tab)",
+    "zh": "如果你曾感到卡关，就继续等待和刷，或者在 Discord 服务器上寻求帮助。（链接在选项标签页中）"
+  },
+  {
+    "en": "Before you complain about something not having very many uses or ask for a QoL mechanic, it might already be in the game,",
+    "zh": "在你抱怨某个东西用途不多或请求某个 QoL 机制之前，它可能已经在游戏中，"
+  },
+  {
+    "en": "but is unlocked later.",
+    "zh": "只是稍后才会解锁。"
+  },
+  {
+    "en": "There may still be things that need to be polished. Don't be scared if you encounter issues!",
+    "zh": "可能仍有一些需要打磨的地方。如果遇到问题不要害怕！"
+  },
+  {
+    "en": "Anyway, good luck and enjoy the ride!",
+    "zh": "总之，祝你好运，享受这段旅程！"
+  },
+  {
+    "en": "A togglable device that automates a specific feature",
+    "zh": "一种可切换的设备，可自动化某个特定功能"
+  },
+  {
+    "en": "A repeatable upgrade",
+    "zh": "一种可重复的升级"
+  },
+  {
+    "en": "Cost Scaling:",
+    "zh": "消耗增长："
+  },
+  {
+    "en": "The multiplier that is applied to a cost when the item correlated to it is purchased",
+    "zh": "当购买与之相关的物品时，施加到消耗上的倍率"
+  },
+  {
+    "en": "Uncontrollable and unbalanced progress",
+    "zh": "不可控且不平衡的进度"
+  },
+  {
+    "en": "An independent, unlockable feature",
+    "zh": "一项独立的、可解锁的功能"
+  },
+  {
+    "en": "News Message:",
+    "zh": "新闻消息："
+  },
+  {
+    "en": "The scrolling text in the News Ticker",
+    "zh": "新闻滚动条中的滚动文字"
+  },
+  {
+    "en": "News Ticker:",
+    "zh": "新闻滚动条："
+  },
+  {
+    "en": "The rectangle at the top of the screen with scrolling text",
+    "zh": "屏幕顶部带有滚动文字的矩形"
+  },
+  {
+    "en": "Another word for \"exponent\" and/or \"exponentiate\"",
+    "zh": "\"exponent\" 和/或 \"exponentiate\" 的另一种说法"
+  },
+  {
+    "en": "A mechanic or action that resets previous progress for a bonus",
+    "zh": "一种为获得奖励而重置先前进度的机制或行为"
+  },
+  {
+    "en": "Prestige Layer:",
+    "zh": "威望层级："
+  },
+  {
+    "en": "A more specific term for \"Prestige\", higher prestige layers reset lower prestige layers",
+    "zh": "更具体的 \"威望\" 说法，较高的威望层级会重置较低的威望层级"
+  },
+  {
+    "en": "Another word for \"currency\"",
+    "zh": "\"currency\" 的另一种说法"
+  },
+  {
+    "en": "A debuff applied to a resource at a certain point, usually takes the form of an exponent less than 1",
+    "zh": "在某一时刻施加到资源上的减益，通常以小于 1 的指数形式出现"
+  },
+  {
+    "en": "The small buttons within a tab that allow you to travel to other pages",
+    "zh": "标签页内可让你跳转到其他页面的小按钮"
+  },
+  {
+    "en": "The large buttons at the top of the screen",
+    "zh": "屏幕顶部的大按钮"
+  },
+  {
+    "en": "Under the American education system, you learn the \"Quadratic Formula\", which allows you to solve any quadratic equation",
+    "zh": "在美式教育体系中，你会学到 \"二次公式\"，它让你可以求解任何二次方程"
+  },
+  {
+    "en": "in the form of ax",
+    "zh": "形式为 ax 的"
+  },
+  {
+    "en": "+bx+c. However, in this game, you will use it to generate Quadratic Power (QP).",
+    "zh": "+bx+c。然而在这个游戏中，你会用它来生成二次能量 (QP)。"
+  },
+  {
+    "en": "The values of a, b, and c can be set to a nonnegative integer below the cap. To generate QP (by default), you need ax",
+    "zh": "a、b 和 c 的值可以设为低于上限的非负整数。要生成 QP (默认情况下)，你需要 ax"
+  },
+  {
+    "en": "output a real solution for x when solved, which means that there cannot be square roots of negative numbers.",
+    "zh": "在求解时为 x 输出实数解，这意味着不能有负数的平方根。"
+  },
+  {
+    "en": "4ac must be ≤ b",
+    "zh": "4ac 必须 ≤ b"
+  },
+  {
+    "en": "to have a real solution for x.",
+    "zh": "才能使 x 有实数解。"
+  },
+  {
+    "en": "QP can be used to purchase Quadratic Formula buyables. The first three boost other aspects of the game, while the fourth one",
+    "zh": "QP 可用于购买二次公式可购买项。前三个加成游戏的其他方面，而第四个"
+  },
+  {
+    "en": "increases the cap of a, b, and c. The first buyable caps at 4 levels, since it is very powerful compared to the rest.",
+    "zh": "提高 a、b 和 c 的上限。第一个可购买项上限为 4 级，因为它比其他项强大得多。"
+  },
+  {
+    "en": "\"Variable Coupler\" Cost Formula:",
+    "zh": "\"Variable Coupler\" 消耗公式："
+  },
+  {
+    "en": "\"Function Enhancer\" Cost Formula:",
+    "zh": "\"Function Enhancer\" 消耗公式："
+  },
+  {
+    "en": "\"Challenge Amplifier\" Cost Formula:",
+    "zh": "\"Challenge Amplifier\" 消耗公式："
+  },
+  {
+    "en": "\"Limit Expander\" Cost Formula:",
+    "zh": "\"Limit Expander\" 消耗公式："
+  },
+  {
+    "en": "\"b\" in Quadratic Formula should not be confused with Y-Intercept.",
+    "zh": "二次公式中的 \"b\" 不应与 Y 轴截距混淆。"
+  },
+  {
+    "en": "Root Epicenter is the final mechanic for the Quadratic prestige layer. You can now increase the difficulty of your",
+    "zh": "根震中是二次威望层级的最终机制。你现在可以提高你的"
+  },
+  {
+    "en": "Square Root run. Level √1 is a regular Square Root run, with Level √2 being harder than Level √1, Level √3 being harder than Level √2,",
+    "zh": "平方根运行的难度。等级 √1 是普通的平方根运行，等级 √2 比等级 √1 更难，等级 √3 比等级 √2 更难，"
+  },
+  {
+    "en": "and so on. Level √-1 is the hardest level, and reaching 1e12 points in it unlocks the second prestige layer.",
+    "zh": "依此类推。等级 √-1 是最难的等级，在其中达到 1e12 点数会解锁第二个威望层级。"
+  },
+  {
+    "en": "Inside levels √2 and above, you gain Challenge Essence (CE) based on how far you get. Unlike RE, CE is gained based on Points.",
+    "zh": "在等级 √2 及以上，你会根据推进程度获得挑战精华 (CE)。与 RE 不同，CE 基于点数获得。"
+  },
+  {
+    "en": "Base CE Gain Formula:",
+    "zh": "基础 CE 获得公式："
+  },
+  {
+    "en": ") - current CE, softcaps at 1e8 and 1e2000 CE (both can be delayed later on)",
+    "zh": ") - 当前 CE，软上限为 1e8 和 1e2000 CE (两者都可以在以后推迟)"
+  },
+  {
+    "en": "\"A\" is a dynamic exponent that changes based on the Root Epicenter level. In Level √2, A = 0.002. In Level √3, A = 0.01.",
+    "zh": "\"A\" 是根据根震中等级变化的动态指数。在等级 √2 中，A = 0.002。在等级 √3 中，A = 0.01。"
+  },
+  {
+    "en": "Finally, in Level √4, A = 0.06. Level √-1 does not increase A.",
+    "zh": "最后，在等级 √4 中，A = 0.06。等级 √-1 不会提高 A。"
+  },
+  {
+    "en": "While CE cannot be used to buy upgrades, it does multiply the gains of RE (CE",
+    "zh": "虽然 CE 不能用于购买升级，但它确实会乘以 RE 的获得量 (CE"
+  },
+  {
+    "en": ") and QP (CE",
+    "zh": ") 和 QP 的获得量 (CE"
+  },
+  {
+    "en": "The RE boost softcaps when the effect ≥ 1e35 and 1e1500, and the QP boost softcaps when the effect ≥ 1e20 and 1e900.",
+    "zh": "RE 加成在效果 ≥ 1e35 和 1e1500 时达到软上限，QP 加成在效果 ≥ 1e20 和 1e900 时达到软上限。"
+  },
+  {
+    "en": "Unfortunately, the RE boost hardcaps at 1e200,000, and the QP boost hardcaps at 1e120,000.",
+    "zh": "不幸的是，RE 加成在 1e200,000 时达到硬上限，QP 加成在 1e120,000 时达到硬上限。"
+  },
+  {
+    "en": "} upgrades that require Upgrade Points (UP) to be purchased. Upgrade Points can be bought",
+    "zh": "} 需要消耗升级点数 (UP) 才能购买的升级。升级点数可以"
+  },
+  {
+    "en": "with Points, x",
+    "zh": "用点数、x"
+  },
+  {
+    "en": ", and i. The first row focuses on point gain, the second row focuses on x",
+    "zh": "和 i 购买。第一行侧重于点数获得，第二行侧重于 x"
+  },
+  {
+    "en": "and RE gain,",
+    "zh": "和 RE 获得，"
+  },
+  {
+    "en": "and the third row focuses on i gain. Each column also has a theme for it, that being a specific mechanic from the game.",
+    "zh": "第三行侧重于 i 获得。每一列也都有各自的主题，即游戏中的某个特定机制。"
+  },
+  {
+    "en": "1st UP Purchase Button Cost Formula:",
+    "zh": "第 1 个 UP 购买按钮消耗公式："
+  },
+  {
+    "en": "2nd UP Purchase Button Cost Formula:",
+    "zh": "第 2 个 UP 购买按钮消耗公式："
+  },
+  {
+    "en": "3rd UP Purchase Button Cost Formula:",
+    "zh": "第 3 个 UP 购买按钮消耗公式："
+  },
+  {
+    "en": "Starting Cost: 1",
+    "zh": "初始消耗：1"
+  },
+  {
+    "en": "Cost After 1st Purchase: ceil(2",
+    "zh": "第 1 次购买后的消耗：ceil(2"
+  }
+]

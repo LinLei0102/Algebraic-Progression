@@ -1,0 +1,286 @@
+[
+  {
+    "en": ", which works similarly to xy but it's bought with y",
+    "zh": "，其工作原理与 xy 类似，但它是用 y 购买的"
+  },
+  {
+    "en": ". The cost of Parabolas increase super-exponentially, but Parabolas are incredibly strong to compensate. Parabola count",
+    "zh": "。抛物线消耗呈超指数级增长，但作为补偿，抛物线非常强大。抛物线数量"
+  },
+  {
+    "en": "1. Not happened yet",
+    "zh": "1. 尚未发生"
+  },
+  {
+    "en": "10. Not happened yet",
+    "zh": "10. 尚未发生"
+  },
+  {
+    "en": "2. Not happened yet",
+    "zh": "2. 尚未发生"
+  },
+  {
+    "en": "3. Not happened yet",
+    "zh": "3. 尚未发生"
+  },
+  {
+    "en": "4. Not happened yet",
+    "zh": "4. 尚未发生"
+  },
+  {
+    "en": "5. Not happened yet",
+    "zh": "5. 尚未发生"
+  },
+  {
+    "en": "6. Not happened yet",
+    "zh": "6. 尚未发生"
+  },
+  {
+    "en": "7. Not happened yet",
+    "zh": "7. 尚未发生"
+  },
+  {
+    "en": "8. Not happened yet",
+    "zh": "8. 尚未发生"
+  },
+  {
+    "en": "9. Not happened yet",
+    "zh": "9. 尚未发生"
+  },
+  {
+    "en": "After 1.5e11 x, their value in the formula becomes softcapped.",
+    "zh": "在 1.5e11 x 之后，它们在公式中的值会达到软上限。"
+  },
+  {
+    "en": "As usual, the more completions you have, the greater the reward gets.",
+    "zh": "像往常一样，你完成的次数越多，奖励就越大。"
+  },
+  {
+    "en": "Assigning Empty Sets:",
+    "zh": "分配空集："
+  },
+  {
+    "en": "Base Sacrificed x",
+    "zh": "牺牲 x 基础"
+  },
+  {
+    "en": "Base Sacrificed x Effect Formula:",
+    "zh": "牺牲 x 基础效果公式："
+  },
+  {
+    "en": "Base Sacrificed y Effect Formula:",
+    "zh": "牺牲 y 基础效果公式："
+  },
+  {
+    "en": "Base Sacrificed z Effect Formula:",
+    "zh": "牺牲 z 基础效果公式："
+  },
+  {
+    "en": "Base x",
+    "zh": "基础 x"
+  },
+  {
+    "en": "Base y",
+    "zh": "基础 y"
+  },
+  {
+    "en": "Buy Point Factory",
+    "zh": "购买点数工厂"
+  },
+  {
+    "en": "Buy Point Portal",
+    "zh": "购买点数传送门"
+  },
+  {
+    "en": "Buy X variable",
+    "zh": "购买 X 变量"
+  },
+  {
+    "en": "Buy Y variable",
+    "zh": "购买 Y 变量"
+  },
+  {
+    "en": "Buy Y-Intercept",
+    "zh": "购买 Y 截距"
+  },
+  {
+    "en": "Buy Z variable",
+    "zh": "购买 Z 变量"
+  },
+  {
+    "en": "Due to the immense power of b, its last two effects are eventually hardcapped. These hardcaps can be delayed later on.",
+    "zh": "由于 b 的巨大威力，它的最后两个效果最终会达到硬上限。这些硬上限可以推迟到以后。"
+  },
+  {
+    "en": "Each hole you sacrifice will let you time-jump by 10 minutes.",
+    "zh": "你牺牲的每个洞都会让你时间跳跃 10 分钟。"
+  },
+  {
+    "en": "Effect Formula:",
+    "zh": "效果公式："
+  },
+  {
+    "en": "Game made with Vue.js, break_eternity.js, jQuery, notify.js, and panzoom.js",
+    "zh": "游戏使用 Vue.js、break_eternity.js、jQuery、notify.js 和 panzoom.js 制作"
+  },
+  {
+    "en": "IP generation uses the same base formula, but is generally not affected by external QP multipliers.",
+    "zh": "IP 产出使用相同的基础公式，但通常不受外部 QP 倍率影响。"
+  },
+  {
+    "en": "Imaginary Power can be spent on its own four buyables, although the first buyable can only be bought once, making it more of an upgrade.",
+    "zh": "虚数能量可以用于它自己的四个可购买项，不过第一个可购买项只能购买一次，使其更像是一个升级。"
+  },
+  {
+    "en": "It doubles x",
+    "zh": "它使 x 翻倍"
+  },
+  {
+    "en": "Once an Extrusion is bought, it cannot be undone.",
+    "zh": "挤出一旦购买，就无法撤销。"
+  },
+  {
+    "en": "Once you obtain 1e2950 x",
+    "zh": "一旦你获得 1e2950 x"
+  },
+  {
+    "en": "Quaternion Sets:",
+    "zh": "四元数集合："
+  },
+  {
+    "en": "Resource Multipliers:",
+    "zh": "资源倍率："
+  },
+  {
+    "en": "Resource multipliers are usually put along with certain upgrade types, but are endlessly repeatable.",
+    "zh": "资源倍率通常与某些升级类型放在一起，但可以无限重复。"
+  },
+  {
+    "en": "Revolutions can be spent on two Revolution Buyables.",
+    "zh": "圈数可用于两个圈数可购买项。"
+  },
+  {
+    "en": "Sacrificed x",
+    "zh": "牺牲 x"
+  },
+  {
+    "en": "Slope Effect Formula:",
+    "zh": "斜率效果公式："
+  },
+  {
+    "en": "W Cost Formula:",
+    "zh": "W 消耗公式："
+  },
+  {
+    "en": "X Portion:",
+    "zh": "X 部分："
+  },
+  {
+    "en": "Y Portion:",
+    "zh": "Y 部分："
+  },
+  {
+    "en": "Y-Intercept Cost Formula:",
+    "zh": "Y 截距消耗公式："
+  },
+  {
+    "en": "Z Cost Formula:",
+    "zh": "Z 消耗公式："
+  },
+  {
+    "en": "allows you to generate Slope, a new resource that boosts the polynomial growth of Building production.",
+    "zh": "让你产出斜率，这是一种新资源，可以提升建筑产出的多项式增长。"
+  },
+  {
+    "en": "are completely stuck. If you still can't complete it, try waiting or grinding more.",
+    "zh": "完全卡住了。如果你仍然无法完成，尝试等待或多刷一会儿。"
+  },
+  {
+    "en": "automate all of the mechanics that aren't fully automated by the perks alone. This includes automatically unlocking,",
+    "zh": "自动化所有无法单靠特权完全自动化的机制。这包括自动解锁，"
+  },
+  {
+    "en": "can be gained from sacrificing your x",
+    "zh": "可以通过牺牲你的 x 获得"
+  },
+  {
+    "en": "d, e, and f do not return a valid pythagorean triple...",
+    "zh": "d、e 和 f 不会返回有效的毕达哥拉斯三元组……"
+  },
+  {
+    "en": "exponential bonus.",
+    "zh": "指数加成。"
+  },
+  {
+    "en": "i Cost Formula:",
+    "zh": "i 消耗公式："
+  },
+  {
+    "en": "i Exponentiation:",
+    "zh": "i 求幂："
+  },
+  {
+    "en": "i Power Effect Formula:",
+    "zh": "i 能量效果公式："
+  },
+  {
+    "en": "i has many more uses than x",
+    "zh": "i 的用途比 x 多得多"
+  },
+  {
+    "en": "if your current x/y/z amount is greater than the sacrificed amount. Don't let the word \"sacrifice\" deter you from using",
+    "zh": "如果你当前的 x/y/z 数量大于牺牲的数量。不要让“牺牲”这个词阻止你使用"
+  },
+  {
+    "en": "increased with Z Empowerments, which are bought with i. Each one adds 0.25 to this multiplier. So, having 2 Z Empowerments",
+    "zh": "随 Z 赋能而增加，赋能用 i 购买。每一个都会使这个倍率增加 0.25。因此，拥有 2 个 Z 赋能"
+  },
+  {
+    "en": "is never reset, meaning that once purchased, you do not need to reach the x",
+    "zh": "永远不会重置，这意味着一旦购买，你就不需要达到 x"
+  },
+  {
+    "en": "news message!",
+    "zh": "新闻消息！"
+  },
+  {
+    "en": "produce Circles,",
+    "zh": "产出圆形，"
+  },
+  {
+    "en": "this feature, as your autobuyers will purchase your variables back instantly.",
+    "zh": "这个功能，因为你的自动购买器会立即买回你的变量。"
+  },
+  {
+    "en": "w is also the only variable to never reset.",
+    "zh": "w 也是唯一一个永不重置的变量。"
+  },
+  {
+    "en": "would increase the multiplier to 2.5x, making 7 z produce 2.5",
+    "zh": "会使倍率提高到 2.5 倍，使 7 z 产出 2.5"
+  },
+  {
+    "en": "xi Cost Formula:",
+    "zh": "xi 消耗公式："
+  },
+  {
+    "en": "xi Power Effect Formula:",
+    "zh": "xi 能量效果公式："
+  },
+  {
+    "en": "yi Cost Formula:",
+    "zh": "yi 消耗公式："
+  },
+  {
+    "en": "yi Power Effect Formula:",
+    "zh": "yi 能量效果公式："
+  },
+  {
+    "en": "zi Cost Formula:",
+    "zh": "zi 消耗公式："
+  },
+  {
+    "en": "zi Power Effect Formula:",
+    "zh": "zi 能量效果公式："
+  }
+]

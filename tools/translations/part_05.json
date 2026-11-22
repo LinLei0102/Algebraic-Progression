@@ -1,0 +1,926 @@
+[
+  {
+    "en": "Automatically gain completions for Y-Challenges 1-3, even when you're not in them.",
+    "zh": "即使你不在其中，也会自动获得 Y-挑战 1-3 的完成次数。"
+  },
+  {
+    "en": "Automatically generate root essence outside of Square Root",
+    "zh": "在平方根之外自动产出根精华"
+  },
+  {
+    "en": "Automatically purchase the passive UP generation Synthetic Division Upgrade once you can afford it.",
+    "zh": "一旦买得起，就自动购买被动产出 UP 的综合除法升级。"
+  },
+  {
+    "en": "Automation",
+    "zh": "自动化"
+  },
+  {
+    "en": "Automation Core",
+    "zh": "自动化核心"
+  },
+  {
+    "en": "Automation Core (v3.0 Part 1)",
+    "zh": "自动化核心 (v3.0 第 1 部分)"
+  },
+  {
+    "en": "Automation Core Unlocked",
+    "zh": "自动化核心已解锁"
+  },
+  {
+    "en": "Automation Core activities and requirements for performing these activities can be modified in the inputs below.",
+    "zh": "自动化核心的活动以及执行这些活动的要求可以在下方的输入框中修改。"
+  },
+  {
+    "en": "Automation Core found to be turing incomplete, computer scientists outraged!",
+    "zh": "自动化核心被发现是图灵不完备的，计算机科学家们震怒！"
+  },
+  {
+    "en": "Automation Core:",
+    "zh": "自动化核心："
+  },
+  {
+    "en": "Automation Hub:",
+    "zh": "自动化中心："
+  },
+  {
+    "en": "Automation I",
+    "zh": "自动化 I"
+  },
+  {
+    "en": "Automation II",
+    "zh": "自动化 II"
+  },
+  {
+    "en": "Automation III",
+    "zh": "自动化 III"
+  },
+  {
+    "en": "Automation IV",
+    "zh": "自动化 IV"
+  },
+  {
+    "en": "Automation V",
+    "zh": "自动化 V"
+  },
+  {
+    "en": "Automation:",
+    "zh": "自动化："
+  },
+  {
+    "en": "Autosave Interval:",
+    "zh": "自动存档间隔："
+  },
+  {
+    "en": "Autosave:",
+    "zh": "自动存档："
+  },
+  {
+    "en": "Average:",
+    "zh": "平均值："
+  },
+  {
+    "en": "Avez-vous pris le temps de traduire ce message d'information?",
+    "zh": "你抽空翻译这条资讯消息了吗？"
+  },
+  {
+    "en": "Avoiding Conflict",
+    "zh": "避免冲突"
+  },
+  {
+    "en": "BREAKING NEWS: \"Pythagorean Triples\" mechanic less complicated than it seems, it turns out all the right answers are multiplies of the 3,4,5 triple.",
+    "zh": "突发新闻：「勾股数」机制没有看上去那么复杂，原来所有正确答案都是 3,4,5 三元组的倍数。"
+  },
+  {
+    "en": "BREAKING NEWS: After the reveal of \"The Limit\", 56% of the playerbase quit the game due to customizable challenges being bad.",
+    "zh": "突发新闻：「极限」揭晓后，56% 的玩家因为可定制挑战太烂而退游了。"
+  },
+  {
+    "en": "BREAKING NEWS: After years of testing, we've finally found the value of x: 5. \"This is a monumental milestone for our goal,\" dedicated scientists say. \"Before you know it, we'll have all these pesky letters figured out and finally know the value of Number.\" More at 7 where we reveal the real value of i.",
+    "zh": "突发新闻：经过多年测试，我们终于发现了 x 的值：5。「这对我们的目标来说是一座不朽的里程碑，」专注的科学家们说。「不知不觉间，我们就会把所有讨厌的字母都搞清楚，最终知道数字的值。」更多内容在 7 点，届时我们将揭晓 i 的真正值。"
+  },
+  {
+    "en": "BREAKING NEWS: Algebraic Progression has been bought for $9 quadrillion by the Antimatter Dimensions development team. All assets and intellectual properties of Algebraic Progression are now owned by Hevipelle and other developers. Plans to merge the two incrementals are ongoing. A roadmap is being plann--e--d---/--//---//// Who the heck got a hold of the news ticker? All of the previous information is false. This broadcast is now terminat--",
+    "zh": "突发新闻：《Algebraic Progression》已被 Antimatter Dimensions 开发团队以 9 千万亿美元收购。Algebraic Progression 的所有资产和知识产权现归 Hevipelle 及其他开发者所有。合并两款增量游戏的计划正在进行。一份路线图正在筹--划--中---/--//---//// 到底是谁抓着新闻滚动条不放？之前所有信息都是假的。本次播报现在终--"
+  },
+  {
+    "en": "BREAKING NEWS: Algebraic Progression saves leaked across the nation by a professional hacker. Investigation is ongoing.",
+    "zh": "突发新闻：Algebraic Progression 的存档被一名职业黑客泄露至全国。调查仍在进行中。"
+  },
+  {
+    "en": "BREAKING NEWS: Amateur mathematician suggests possible existence of a ${player.zUnlocked ?",
+    "zh": "突发新闻：业余数学家暗示可能存在一个 ${player.zUnlocked ?"
+  },
+  {
+    "en": "BREAKING NEWS: Complex Challenges deemed too easy, 10 tiers have already been finished!",
+    "zh": "突发新闻：复数挑战被认为太简单，已经有 10 层被完成了！"
+  },
+  {
+    "en": "BREAKING NEWS: Conic section inequality grows rampant, circle and parabola representation is prominent in Algebraic Progression yet ellipses and hyperbolas are excluded.",
+    "zh": "突发新闻：圆锥曲线不等式愈演愈烈，圆和抛物线的表示在 Algebraic Progression 中十分突出，但椭圆和双曲线却被排除在外。"
+  },
+  {
+    "en": "BREAKING NEWS: Critics note strange similarities between the Integration prestige layer and the Reality Update, resulting in randomtuba being sued by the developers of AD for creativity infringement. More at the trial at 6 PM tomorrow.",
+    "zh": "突发新闻：评论人士指出积分威望层与 Reality Update 有着奇妙的相似之处，导致 randomtuba 被 AD 的开发者以创意侵权起诉。更多内容在明天下午 6 点的庭审上。"
+  },
+  {
+    "en": "BREAKING NEWS: Derivatives raining from the sky, constants warned to stay indoors or else they'll be reduced to nothing. e<sup>x</sup> laughs ominously.",
+    "zh": "突发新闻：导数从天而降，常数被警告待在室内，否则会被削减为零。e<sup>x</sup> 不祥地大笑。"
+  },
+  {
+    "en": "BREAKING NEWS: Developer messing with <span style='color: white; animation: a-existence-glow 3s infinite'>new text animation!</span>",
+    "zh": "突发新闻：开发者正在摆弄<span style='color: white; animation: a-existence-glow 3s infinite'>新的文字动画！</span>"
+  },
+  {
+    "en": "BREAKING NEWS: Don't check the console!",
+    "zh": "突发新闻：别看控制台！"
+  },
+  {
+    "en": "BREAKING NEWS: Famous celebrity Joe Schmirzstein says \"I can't stop dreaming about complex mathematical functions. I need help.\"",
+    "zh": "突发新闻：知名名人 Joe Schmirzstein 表示「我总是梦见复杂的数学函数，停不下来。我需要帮助。」"
+  },
+  {
+    "en": "BREAKING NEWS: Florida Man rents Point Portal, causes hole in space-time",
+    "zh": "突发新闻：佛罗里达男子租下点数传送门，造成时空空洞"
+  },
+  {
+    "en": "BREAKING NEWS: Goofy scientist presses wrong button at the Z Lab, Resonance Cascade ensues.",
+    "zh": "突发新闻：愚蠢的科学家在 Z 实验室按错了按钮，随后引发共振级联。"
+  },
+  {
+    "en": "BREAKING NEWS: Incremental game <a href='https://mrbacon470.github.io/Coop-Co/' target='_blank'>Coop Co</a> contains a news message referencing Algebraic Progression!",
+    "zh": "突发新闻：增量游戏 <a href='https://mrbacon470.github.io/Coop-Co/' target='_blank'>Coop Co</a> 中含有一条提到 Algebraic Progression 的新闻消息！"
+  },
+  {
+    "en": "BREAKING NEWS: Incremental gamer banned from eSports competition for using 100 Autoclickers.",
+    "zh": "突发新闻：一名增量游戏玩家因使用 100 个自动点击器而被禁止参加电竞比赛。"
+  },
+  {
+    "en": "BREAKING NEWS: Local woman breaks up with her X boyfriend, says his 'values were unknown' to her.",
+    "zh": "突发新闻：当地女子与她的 X 男友分手，称他的「值未知」。"
+  },
+  {
+    "en": "BREAKING NEWS: Mathematician proves that square root of 2 is irrational, philosophers from thousands of years ago outraged!",
+    "zh": "突发新闻：数学家证明 2 的平方根是无理数，数千年前的哲学家们震怒！"
+  },
+  {
+    "en": "BREAKING NEWS: Number seven arrested after being considered the prime suspect in the murder of the number nine.",
+    "zh": "突发新闻：数字 7 因被视为数字 9 谋杀案的首要嫌疑人而被捕。"
+  },
+  {
+    "en": "BREAKING NEWS: Obamium discovered in local mine!",
+    "zh": "突发新闻：在当地矿井中发现了 Obamium！"
+  },
+  {
+    "en": "BREAKING NEWS: Point Portal malfunction caused 15 deaths and 3 injuries. Point Portal manager says \"we will be more careful next time\".",
+    "zh": "突发新闻：点数传送门故障造成 15 人死亡、3 人受伤。点数传送门经理表示「下次我们会更加小心」。"
+  },
+  {
+    "en": "BREAKING NEWS: Population complains about mathematical formula in an incremental game. \"I forgot how to solve a quadratic equation, it's not even useful, why is this in the game?\" local complainer admits.",
+    "zh": "突发新闻：民众抱怨增量游戏中的数学公式。「我都忘了怎么解二次方程了，这玩意儿根本没用，为什么会出现在游戏里？」当地一位抱怨者承认道。"
+  },
+  {
+    "en": "BREAKING NEWS: Small, family-owned Point Factories are being replaced with high-tech Variable Synthesizers! \"What happened to the good ol' days of X, Y, and Z? Now we got xy, y<sup>2</sup> and all these other crazy variables,\" Farmer Dave remarks.",
+    "zh": "突发新闻：小型家族经营的点数工厂正被高科技变量合成器取代！「过去 X、Y、Z 的好日子去哪了？现在我们有 xy、y<sup>2</sup> 和所有这些疯狂的变量，」农民 Dave 评论道。"
+  },
+  {
+    "en": "BREAKING NEWS: Therapists are booked with appointments from math textbooks. \"In this modern age, they have a lot of problems that we're trying to solve,\" one remarks.",
+    "zh": "突发新闻：治疗师的预约被数学教科书挤满了。「在这个现代，他们有很多我们正试图解决的『问题』，」其中一位评论道。"
+  },
+  {
+    "en": "BREAKING NEWS: Tuba finally fixed Buy Max",
+    "zh": "突发新闻：Tuba 终于修好了最大购买"
+  },
+  {
+    "en": "BREAKING NEWS: Tuba has decided to remove Buy Max, saying that it \"causes inflation\"! Public in fury as riots break out in the CST timezone!",
+    "zh": "突发新闻：Tuba 决定移除最大购买，称其「引发通货膨胀」！CST 时区爆发骚乱，公众震怒！"
+  },
+  {
+    "en": "BREAKING NEWS: We ran out of ideas",
+    "zh": "突发新闻：我们没点子了"
+  },
+  {
+    "en": "BREAKING NEWS: randomtuba announces sequel to Algebraic Progression, titled \"Geometry Dash\".",
+    "zh": "突发新闻：randomtuba 宣布了 Algebraic Progression 的续作，名为「Geometry Dash」。"
+  },
+  {
+    "en": "BREAKING NEWS: randomtuba doesn't know how his own automation code works!",
+    "zh": "突发新闻：randomtuba 不知道自己写的自动化代码是怎么运行的！"
+  },
+  {
+    "en": "BREAKING NEWS: randomtuba has been kidnapped and is being forced to update the game",
+    "zh": "突发新闻：randomtuba 已被绑架，并被迫更新游戏"
+  },
+  {
+    "en": "Back To The Past",
+    "zh": "回到过去"
+  },
+  {
+    "en": "Balance Changes:",
+    "zh": "平衡性调整："
+  },
+  {
+    "en": "Banked Quadratics on Complex.",
+    "zh": "在复数层囤积的二次。"
+  },
+  {
+    "en": "Banked Quadratics.",
+    "zh": "囤积的二次。"
+  },
+  {
+    "en": "Baryon Symmetry",
+    "zh": "重子对称"
+  },
+  {
+    "en": "Base Addend",
+    "zh": "基础加数"
+  },
+  {
+    "en": "Base PE Generation Formula: (de)",
+    "zh": "基础 PE 产出公式：(de)"
+  },
+  {
+    "en": "Base QP",
+    "zh": "基础 QP"
+  },
+  {
+    "en": "Based on your total Challenge Factor levels, your polynomial efficiency is powered by ^",
+    "zh": "基于你的挑战因子总等级，你的多项式效率被 ^ 次方强化。"
+  },
+  {
+    "en": "Basic Complex Upgrade 3 also boosts the h(n) base.",
+    "zh": "基础复数升级 3 还会提升 h(n) 的基数。"
+  },
+  {
+    "en": "Basic Complex Upgrades:",
+    "zh": "基础复数升级："
+  },
+  {
+    "en": "Basic Hypercomplex Upgrades:",
+    "zh": "基础超复数升级："
+  },
+  {
+    "en": "Be in Square Root, Synthetic Division, and The Limit all at once.",
+    "zh": "同时处于平方根、综合除法和极限中。"
+  },
+  {
+    "en": "Be on a different save slot or offline for at least 48 hours.",
+    "zh": "处于不同的存档槽或离线至少 48 小时。"
+  },
+  {
+    "en": "Beat the game! (12,345 total fractal spirals required)",
+    "zh": "通关游戏！（共需 12,345 个分形螺旋）"
+  },
+  {
+    "en": "Beat the game.",
+    "zh": "通关游戏。"
+  },
+  {
+    "en": "Because I Like To Grind",
+    "zh": "因为我喜欢刷"
+  },
+  {
+    "en": "Begin generating imaginary power.",
+    "zh": "开始产出虚数能量。"
+  },
+  {
+    "en": "Begin producing tangent power.",
+    "zh": "开始产出正切能量。"
+  },
+  {
+    "en": "Best Points in Square Root:",
+    "zh": "平方根中的最佳点数："
+  },
+  {
+    "en": "Best Points in Synthetic Division:",
+    "zh": "综合除法中的最佳点数："
+  },
+  {
+    "en": "Best Time:",
+    "zh": "最佳时间："
+  },
+  {
+    "en": "Better Than Slope",
+    "zh": "比斜率更强"
+  },
+  {
+    "en": "Beyond the Second Veil",
+    "zh": "第二层面纱之外"
+  },
+  {
+    "en": "Beyond the Veil",
+    "zh": "面纱之外"
+  },
+  {
+    "en": "Blanked Out",
+    "zh": "一片空白"
+  },
+  {
+    "en": "Blind",
+    "zh": "盲目"
+  },
+  {
+    "en": "Blink And You'll Miss It",
+    "zh": "眨眼就会错过"
+  },
+  {
+    "en": "Bonus Converter",
+    "zh": "奖励转换器"
+  },
+  {
+    "en": "Bonuses:",
+    "zh": "奖励："
+  },
+  {
+    "en": "Boost Quadratic gain based on total i, and all Quadratic-based effects are raised ^4.",
+    "zh": "根据 i 的总量加成二次获得，且所有基于二次的效果都提升 ^4 次方。"
+  },
+  {
+    "en": "Boost the previous effect and unlock autobuyers for Trigonometric Functions",
+    "zh": "强化前一个效果，并解锁三角函数的自动购买器"
+  },
+  {
+    "en": "Boost the reward of the first 4 Complex Challenges",
+    "zh": "强化前 4 个复数挑战的奖励"
+  },
+  {
+    "en": "Boosts past upgrade effects.",
+    "zh": "强化过去的升级效果。"
+  },
+  {
+    "en": "Born to go Cubic. Forced to go Complex",
+    "zh": "天生要走三次，被迫走向复数"
+  },
+  {
+    "en": "Borne Back Ceaselessly Into The Past",
+    "zh": "被无尽地送回过去"
+  },
+  {
+    "en": "Both effects of Y-Quadratic Upgrade 11 are powered ^50.",
+    "zh": "Y-二次升级 11 的两个效果均提升 ^50 次方。"
+  },
+  {
+    "en": "Bought Autoclickers produce Point Portals. (\"Algebraic Dimensions\" is required for the effect to occur)",
+    "zh": "购买的自动点击器会产出点数传送门。（需要「代数维度」才能触发此效果）"
+  },
+  {
+    "en": "Bought Meta-Clickers produce Meta-Quasars",
+    "zh": "购买的元点击器会产出元类星体"
+  },
+  {
+    "en": "Bought UP Effect",
+    "zh": "已购买的 UP 效果"
+  },
+  {
+    "en": "Breaking Bad",
+    "zh": "绝命毒师"
+  },
+  {
+    "en": "Breaking News fans when Fixing Olds fans show up",
+    "zh": "突发新闻粉遇到「修复旧物」粉时的样子"
+  },
+  {
+    "en": "Broken Continuum",
+    "zh": "破碎的连续统"
+  },
+  {
+    "en": "Bugfixes:",
+    "zh": "错误修复："
+  },
+  {
+    "en": "Build a Point Factory.",
+    "zh": "建造一座点数工厂。"
+  },
+  {
+    "en": "Building Maintenance",
+    "zh": "建筑维护"
+  },
+  {
+    "en": "Building and Function scaling is tripled. Produced buildings do nothing.",
+    "zh": "建筑和函数的缩放乘以 3。产出的建筑不起作用。"
+  },
+  {
+    "en": "Building cost scaling is 1.05x, and Function cost scalings are divided by 1.2.",
+    "zh": "建筑消耗缩放为 1.05 倍，函数消耗缩放除以 1.2。"
+  },
+  {
+    "en": "Building cost scaling is 1.075x, Function cost scaling is divided by 1.25, and the g(n) and h(n) softcaps start 25 purchases later.",
+    "zh": "建筑消耗缩放为 1.075 倍，函数消耗缩放除以 1.25，且 g(n) 和 h(n) 的软上限延后 25 次购买开始。"
+  },
+  {
+    "en": "Building cost scaling is 1.1x.",
+    "zh": "建筑消耗缩放为 1.1 倍。"
+  },
+  {
+    "en": "Buildings (v1.0)",
+    "zh": "建筑 (v1.0)"
+  },
+  {
+    "en": "Buildings are the primary production units for Point generation. There are three buildings, each one costing and producing more<br>\n        than the previous. By default, Building costs scale by 1.15x per purchase.<br><br>\n        The only thing stopping you from producing more points is the universe's maximum capacity. Once the percentage at the top<br>\n        reaches 100%, it is impossible to gain any more points.${player.integrations.gte(1) ?",
+    "zh": "建筑是点数产出的主要生产单位。共有三种建筑，每一种的消耗和产出都<br>\n        高于前一种。默认情况下，建筑消耗每次购买按 1.15 倍缩放。<br><br>\n        唯一阻止你产出更多点数的是宇宙的最大容量。一旦顶部的百分比<br>\n        达到 100%，就无法再获得任何点数。${player.integrations.gte(1) ?"
+  },
+  {
+    "en": "Buildings only produce points if the number of total Buildings and Functions is prime. (Hint: Use the +1 Point button)",
+    "zh": "只有当建筑与函数的总数为质数时，建筑才会产出点数。（提示：使用 +1 点数按钮）"
+  },
+  {
+    "en": "Buildings produce more based on total Buildings bought this Quadratic.",
+    "zh": "建筑的产出基于本次二次中购买的建筑总数而提升。"
+  },
+  {
+    "en": "Buildings produce other Buildings, and power slope gain by 1.1.",
+    "zh": "建筑会产出其他建筑，并使斜率获得量乘以 1.1。"
+  },
+  {
+    "en": "But Wait, There's More!",
+    "zh": "但等等，还有更多！"
+  },
+  {
+    "en": "But Y?",
+    "zh": "但 Y 呢？"
+  },
+  {
+    "en": "Buy 1 effect slot for",
+    "zh": "购买 1 个效果槽位，消耗"
+  },
+  {
+    "en": "Buy 1 type slot for",
+    "zh": "购买 1 个类型槽位，消耗"
+  },
+  {
+    "en": "Buy 1 y⁵.",
+    "zh": "购买 1 个 y⁵。"
+  },
+  {
+    "en": "Buy Max",
+    "zh": "最大购买"
+  },
+  {
+    "en": "Buy Max (M)",
+    "zh": "最大购买 (M)"
+  },
+  {
+    "en": "Buy Max Meta-Generators",
+    "zh": "最大购买元生成器"
+  },
+  {
+    "en": "Buy Max Polynomials (P)",
+    "zh": "最大购买多项式 (P)"
+  },
+  {
+    "en": "Buy Max while all Pre-Quadratic autobuyers are active.",
+    "zh": "在所有二次前自动购买器都激活时进行最大购买。"
+  },
+  {
+    "en": "Buy a fractal spiral",
+    "zh": "购买一个分形螺旋"
+  },
+  {
+    "en": "Buy a quaternion",
+    "zh": "购买一个四元数"
+  },
+  {
+    "en": "Buy all Hypercomplex Upgrades.",
+    "zh": "购买所有超复数升级。"
+  },
+  {
+    "en": "Buy all of the upgrades in the Perk Tree.",
+    "zh": "购买天赋树中的所有升级。"
+  },
+  {
+    "en": "Buy an Autoclicker.",
+    "zh": "购买一个自动点击器。"
+  },
+  {
+    "en": "Buy an upgrade point",
+    "zh": "购买一个升级点"
+  },
+  {
+    "en": "Buy for",
+    "zh": "购买，消耗"
+  },
+  {
+    "en": "Buy {{0}} Limit Expanders.",
+    "zh": "购买 {{0}} 个极限扩展器。"
+  },
+  {
+    "en": "Buy {{0}} Y-Quadratic Upgrades.",
+    "zh": "购买 {{0}} 个 Y-二次升级。"
+  },
+  {
+    "en": "Buying an X Upgrade will remove 50% of the X Upgrade's cost (rounded down) from your X amount.",
+    "zh": "购买 X 升级会从你的 X 数量中移除该 X 升级消耗的一半（向下取整）。"
+  },
+  {
+    "en": "Buying things no longer subtracts from your point amount, and you start with 25 points.",
+    "zh": "购买物品不再从你的点数中扣除，且你初始拥有 25 点数。"
+  },
+  {
+    "en": "Buying things no longer subtracts from your point amount, start with 25 points, and weaken the Hypercomplex Upgrade 2 softcap.",
+    "zh": "购买物品不再从你的点数中扣除，初始拥有 25 点数，并减弱超复数升级 2 的软上限。"
+  },
+  {
+    "en": "By default, clicking the \"Sacrifice\" button will set whatever currency you're sacrificing to 0.",
+    "zh": "默认情况下，点击「献祭」按钮会将你所献祭的任意货币设为 0。"
+  },
+  {
+    "en": "C1 hardcap",
+    "zh": "C1 硬上限"
+  },
+  {
+    "en": "C2 Exponent: ^",
+    "zh": "C2 指数：^"
+  },
+  {
+    "en": "C9 Exponent: ^",
+    "zh": "C9 指数：^"
+  },
+  {
+    "en": "C9 and CC7 effects",
+    "zh": "C9 和 CC7 的效果"
+  },
+  {
+    "en": "C9 reward",
+    "zh": "C9 奖励"
+  },
+  {
+    "en": "CC Tiers:",
+    "zh": "CC 层数："
+  },
+  {
+    "en": "CC autocompletion time",
+    "zh": "CC 自动完成时间"
+  },
+  {
+    "en": "CC tiers",
+    "zh": "CC 层数"
+  },
+  {
+    "en": "CC tiers boost Y generation",
+    "zh": "CC 层数提升 Y 产出"
+  },
+  {
+    "en": "CC1 Exponent: ^",
+    "zh": "CC1 指数：^"
+  },
+  {
+    "en": "CC2's Revenge",
+    "zh": "CC2 的复仇"
+  },
+  {
+    "en": "CC3 Was Previous",
+    "zh": "CC3 是上一个"
+  },
+  {
+    "en": "CC3 Wasn't Next?",
+    "zh": "CC3 不是下一个？"
+  },
+  {
+    "en": "CC7 Exponent: ^",
+    "zh": "CC7 指数：^"
+  },
+  {
+    "en": "Calculus do what AP don't",
+    "zh": "微积分能做到 AP 做不到的事"
+  },
+  {
+    "en": "Cap out Complex Upgrade 8's effect.",
+    "zh": "让复数升级 8 的效果达到上限。"
+  },
+  {
+    "en": "Cartesian Product",
+    "zh": "笛卡尔积"
+  },
+  {
+    "en": "Center of a Fractal",
+    "zh": "分形中心"
+  },
+  {
+    "en": "Cha Cha Real Smooth",
+    "zh": "恰恰真丝滑"
+  },
+  {
+    "en": "Chain Rule",
+    "zh": "链式法则"
+  },
+  {
+    "en": "Challenge",
+    "zh": "挑战"
+  },
+  {
+    "en": "Challenge 1 Completed",
+    "zh": "挑战 1 已完成"
+  },
+  {
+    "en": "Challenge Amplifier",
+    "zh": "挑战放大器"
+  },
+  {
+    "en": "Challenge Continuation",
+    "zh": "挑战延续"
+  },
+  {
+    "en": "Challenge Essence boosts IP generation at a reduced rate",
+    "zh": "挑战精华以较低的倍率加成 IP 产出"
+  },
+  {
+    "en": "Challenge Essence:",
+    "zh": "挑战精华："
+  },
+  {
+    "en": "Challenge Factor Locked",
+    "zh": "挑战因子已锁定"
+  },
+  {
+    "en": "Challenge Factors:",
+    "zh": "挑战因子："
+  },
+  {
+    "en": "Challenge Header:",
+    "zh": "挑战标题："
+  },
+  {
+    "en": "Challenge Power:",
+    "zh": "挑战能量："
+  },
+  {
+    "en": "Challenge Records",
+    "zh": "挑战记录"
+  },
+  {
+    "en": "Challenge Records:",
+    "zh": "挑战记录："
+  },
+  {
+    "en": "Challenge Revitalizer",
+    "zh": "挑战复苏器"
+  },
+  {
+    "en": "Challenge Rewards:",
+    "zh": "挑战奖励："
+  },
+  {
+    "en": "Challenge essence is harshly softcapped after",
+    "zh": "挑战精华在超过以下数值后受到严苛的软上限限制"
+  },
+  {
+    "en": "Challenge tier",
+    "zh": "挑战层级"
+  },
+  {
+    "en": "Challenger Approaching",
+    "zh": "挑战者接近"
+  },
+  {
+    "en": "Challenges",
+    "zh": "挑战"
+  },
+  {
+    "en": "Challenges (v1.3)",
+    "zh": "挑战 (v1.3)"
+  },
+  {
+    "en": "Challenges are also modified Quadratics, but work differently from Square Root. Each Challenge has its own set of nerfs,<br>\n        and you must reach the Challenge's point goal to complete it. When a Challenge is completed, you gain its reward.<br><br>\n        It should be noted that the Challenge order is not sequential. You, the player, have to figure out the Challenge<br>\n        order for yourself. A good tip is to look at the point goal for each Challenge, and save Challenges with higher<br>\n        point goals for later.<br><br>\n        Some Challenge completions have long progression walls between them, so only try completing a Challenge when you<br>\n        are completely stuck. If you still can't complete it, try waiting or grinding more.",
+    "zh": "挑战也是经过修改的二次，但运作方式与平方根不同。每个挑战都有自己一套削弱效果，<br>\n        你必须达到挑战的点数目标才能完成它。当挑战完成后，你会获得其奖励。<br><br>\n        需要注意的是，挑战的顺序并非线性。作为玩家，你必须自己摸索出挑战<br>\n        的顺序。一个好技巧是查看每个挑战的点数目标，把点数目标更高<br>\n        的挑战留到后面。<br><br>\n        某些挑战的完成之间存在很长的进度墙，所以只在你完全卡住时才尝试完成挑战。<br>\n        如果你仍然无法完成，就等待或多刷一会儿。"
+  },
+  {
+    "en": "Challenges, Round 2",
+    "zh": "挑战，第二轮"
+  },
+  {
+    "en": "Challengesque",
+    "zh": "挑战风格"
+  },
+  {
+    "en": "Changelog",
+    "zh": "更新日志"
+  },
+  {
+    "en": "Charged Build Advanced",
+    "zh": "充能构筑进阶"
+  },
+  {
+    "en": "Charges on Strike",
+    "zh": "充能一击"
+  },
+  {
+    "en": "Charging a Z-Collider will generate Z-Particles of its corresponding type, based on the square root of your Z-Power.",
+    "zh": "为 Z-对撞机充能会根据你的 Z-能量的平方根产出对应类型的 Z-粒子。"
+  },
+  {
+    "en": "Cheapened X",
+    "zh": "X 降价"
+  },
+  {
+    "en": "Cheater",
+    "zh": "作弊者"
+  },
+  {
+    "en": "Chemical Accelerator",
+    "zh": "化学加速器"
+  },
+  {
+    "en": "Chemical Expansion",
+    "zh": "化学扩张"
+  },
+  {
+    "en": "Chemical Expansion II",
+    "zh": "化学扩张 II"
+  },
+  {
+    "en": "Choose a combination!",
+    "zh": "选择一个组合！"
+  },
+  {
+    "en": "Circular Reasoning",
+    "zh": "循环论证"
+  },
+  {
+    "en": "Click \"Do it for me!\" while already having an optimal PE generation build.",
+    "zh": "在已拥有最优 PE 产出构筑时点击「帮我做！」"
+  },
+  {
+    "en": "Click a Challenge to enter it. Click it again to exit/finish.",
+    "zh": "点击一个挑战以进入，再次点击以退出或完成。"
+  },
+  {
+    "en": "Click a Mandelbrot Challenge to enter it. Click it again to exit it.",
+    "zh": "点击一个曼德博挑战以进入，再次点击以退出。"
+  },
+  {
+    "en": "Click a Milestone.",
+    "zh": "点击一个里程碑。"
+  },
+  {
+    "en": "Click a Y Challenge to enter it. Click it again to exit it.",
+    "zh": "点击一个 Y 挑战以进入，再次点击以退出。"
+  },
+  {
+    "en": "Click a Y-Challenge to enter it. Click it again to exit it.",
+    "zh": "点击一个 Y-挑战以进入，再次点击以退出。"
+  },
+  {
+    "en": "Click a bought upgrade while holding",
+    "zh": "点击一个已购买的升级，同时按住"
+  },
+  {
+    "en": "Click a charged upgrade while holding",
+    "zh": "点击一个已充能的升级，同时按住"
+  },
+  {
+    "en": "Click an Integration Challenge to enter it. Click it again to exit/finish.",
+    "zh": "点击一个积分挑战以进入，再次点击以退出或完成。"
+  },
+  {
+    "en": "Click here for nothing to happen. But hey, it'll be fun to try anyway!",
+    "zh": "点击这里什么都不会发生。但嘿，反正试试也挺有趣！"
+  },
+  {
+    "en": "Click now to Time-Jump",
+    "zh": "立即点击以进行时间跳跃"
+  },
+  {
+    "en": "Click on a Preset button to select the preset.",
+    "zh": "点击预设按钮以选择该预设。"
+  },
+  {
+    "en": "Click the \"+1 Point\" button at least 500 times in one session.",
+    "zh": "在一次游戏中点击「+1 点数」按钮至少 500 次。"
+  },
+  {
+    "en": "Click the big cookie to get more cookies!",
+    "zh": "点击大饼干来获得更多饼干！"
+  },
+  {
+    "en": "Click the button to select a Root Epicenter Task.",
+    "zh": "点击按钮以选择一个根震中任务。"
+  },
+  {
+    "en": "Click the link to AP Classic.",
+    "zh": "点击 AP Classic 的链接。"
+  },
+  {
+    "en": "Clicker Enthusiast",
+    "zh": "点击器爱好者"
+  },
+  {
+    "en": "Clicking the second button will change what currency you're sacrificing.",
+    "zh": "点击第二个按钮会改变你所献祭的货币。"
+  },
+  {
+    "en": "Close",
+    "zh": "关闭"
+  },
+  {
+    "en": "Cold Feet",
+    "zh": "临阵退缩"
+  },
+  {
+    "en": "Come to think of it, these messages really aren't that funny.",
+    "zh": "仔细想想，这些消息其实没那么好笑。"
+  },
+  {
+    "en": "Comically Large Exponent",
+    "zh": "大得离谱的指数"
+  },
+  {
+    "en": "Common Misconception: i does not equal the square root of negative one, i = all of me.",
+    "zh": "常见误区：i 不等于负一的平方根，i = 我的全部。"
+  },
+  {
+    "en": "Complete",
+    "zh": "完成"
+  },
+  {
+    "en": "Complete 27 Complex Challenge tiers.",
+    "zh": "完成 27 层复数挑战。"
+  },
+  {
+    "en": "Complete 50 tiers of Integration Challenge 1.",
+    "zh": "完成 50 层积分挑战 1。"
+  },
+  {
+    "en": "Complete 60 Complex Challenge tiers.",
+    "zh": "完成 60 层复数挑战。"
+  },
+  {
+    "en": "Complete Challenge 1 in under {{0}} seconds.",
+    "zh": "在 {{0}} 秒内完成挑战 1。"
+  },
+  {
+    "en": "Complete Challenge 2 in under {{0}} seconds.",
+    "zh": "在 {{0}} 秒内完成挑战 2。"
+  },
+  {
+    "en": "Complete Complex Challenge 1 five times.",
+    "zh": "完成复数挑战 1 五次。"
+  },
+  {
+    "en": "Complete Complex Challenge 5 once.",
+    "zh": "完成复数挑战 5 一次。"
+  },
+  {
+    "en": "Complete Complex Challenges Automatically:",
+    "zh": "自动完成复数挑战："
+  },
+  {
+    "en": "Complete Integration Challenge 3 five times.",
+    "zh": "完成积分挑战 3 五次。"
+  },
+  {
+    "en": "Complete Integration Challenge 4 three times.",
+    "zh": "完成积分挑战 4 三次。"
+  },
+  {
+    "en": "Complete Mandelbrot Challenge 1 at least once.",
+    "zh": "至少完成一次曼德博挑战 1。"
+  },
+  {
+    "en": "Complete Root Epicenter Level √-1.",
+    "zh": "完成根震中等级 √-1。"
+  },
+  {
+    "en": "Complete Root Epicenter Level √4.",
+    "zh": "完成根震中等级 √4。"
+  },
+  {
+    "en": "Complete Y Challenge 6.",
+    "zh": "完成 Y 挑战 6。"
+  },
+  {
+    "en": "Complete a Y Challenge in RET -1.",
+    "zh": "在 RET -1 中完成一个 Y 挑战。"
+  },
+  {
+    "en": "Complete a Y-Challenge.",
+    "zh": "完成一个 Y-挑战。"
+  },
+  {
+    "en": "Complete all CC tiers in the Lost Integration.",
+    "zh": "在失落积分中完成所有 CC 层。"
+  },
+  {
+    "en": "Complete all CCs in less than 5 seconds (real time) without the Automation Core.",
+    "zh": "不使用自动化核心，在 5 秒（真实时间）内完成所有 CC。"
+  },
+  {
+    "en": "Complete {{0}} CC tiers in total.",
+    "zh": "总共完成 {{0}} 层 CC。"
+  },
+  {
+    "en": "Complete {{0}} Challenges.",
+    "zh": "完成 {{0}} 个挑战。"
+  },
+  {
+    "en": "Completing the Square",
+    "zh": "配方"
+  },
+  {
+    "en": "Completions:",
+    "zh": "完成次数："
+  },
+  {
+    "en": "Complex",
+    "zh": "复数"
+  }
+]

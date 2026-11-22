@@ -1,0 +1,858 @@
+[
+ {
+  "en": "-Added super secret postgame bonuses.",
+  "zh": "-新增了通关后的超级秘密奖励。"
+ },
+ {
+  "en": "-Added tab and subtab navigation hotkeys. More tab navigation improvements will be added in the future.",
+  "zh": "-新增了标签和子标签导航快捷键。未来还会加入更多标签导航改进。"
+ },
+ {
+  "en": "-Added temporary caps to World 1 currencies past endgame. (this will be undone if v3.1 releases)",
+  "zh": "-为世界 1 的货币在终局后添加了临时上限。（如果 v3.1 发布，这将被撤销）"
+ },
+ {
+  "en": "-Added the 8th X Upgrade and a new row of Quadratic Upgrades!",
+  "zh": "-新增了第 8 个 X 升级和一排新的二次升级！"
+ },
+ {
+  "en": "-Added the Charged X Upgrades autobuyer setting to the Automation Hub.",
+  "zh": "-在自动化中心新增了充能 X 升级的自动购买器设置。"
+ },
+ {
+  "en": "-Added the Integration prestige layer.",
+  "zh": "-新增了积分威望层级。"
+ },
+ {
+  "en": "-Added the Textbook tab, an in-game guide that updates as you progress.",
+  "zh": "-新增了教科书标签，这是一份会随进度更新的游戏内指南。"
+ },
+ {
+  "en": "-Added the Variable Synthesizer.",
+  "zh": "-新增了变量合成器。"
+ },
+ {
+  "en": "-Added the Z Lab.",
+  "zh": "-新增了 Z 实验室。"
+ },
+ {
+  "en": "-Added the ability to make Transformation types permanently active.",
+  "zh": "-新增了让变换类型永久保持激活的功能。"
+ },
+ {
+  "en": "-Added the holes gain formula to the Textbook.",
+  "zh": "-在教科书中添加了空洞的获得公式。"
+ },
+ {
+  "en": "-Added the long-promised i Exponentiation mechanic.",
+  "zh": "-新增了期待已久的 i 求幂机制。"
+ },
+ {
+  "en": "-Added the title with the version number between the news ticker and tabs",
+  "zh": "-在新闻滚动条和标签之间添加了带版本号的游戏标题"
+ },
+ {
+  "en": "-Added unique completion colors for each Integration Challenge 6 variant.",
+  "zh": "-为每个积分挑战 6 变体添加了独特的完成颜色。"
+ },
+ {
+  "en": "-After going Complex or entering the Mandelbrot, the selected Root Epicenter Task now resets when not having the milestones that keep the RET unlocks.",
+  "zh": "-在进入复数或曼德博后，如果没有保留 RET 解锁的里程碑，所选的根震中任务现在会重置。"
+ },
+ {
+  "en": "-All of the milestones for a certain mechanic are now fully implemented.",
+  "zh": "-某一机制的所有里程碑现已全部实装。"
+ },
+ {
+  "en": "-At the beginning of the game, only 1 building is unlocked, and you unlock the other 2 buildings when you buy the previous one once",
+  "zh": "-游戏开始时仅解锁 1 个建筑，当你购买前一个建筑一次后会解锁另外 2 个建筑"
+ },
+ {
+  "en": "-Auto-Distribute and Auto Set Sacrifice percentages are capped at 99%.",
+  "zh": "-自动分配和自动设置献祭百分比的上限为 99%。"
+ },
+ {
+  "en": "-Auto-Quadratic and Auto-Complex are now above the respective prestige layer subtabs",
+  "zh": "-自动二次和自动复数现在位于各自威望层级的子标签上方"
+ },
+ {
+  "en": "-Auto-Quadratic now starts with Time mode unlocked.",
+  "zh": "-自动二次现在初始就解锁了时间模式。"
+ },
+ {
+  "en": "-Auto-Sacrifice is now unlocked by purchasing Square Root Upgrade 6, but at first, only buys X and Y.",
+  "zh": "-自动献祭现在通过购买平方根升级 6 解锁，但一开始只会购买 X 和 Y。"
+ },
+ {
+  "en": "-Auto-Sacrifice now appears if you've bought Quadratic Upgrade 19.",
+  "zh": "-如果购买了二次升级 19，现在会出现自动献祭。"
+ },
+ {
+  "en": "-Buildings can now produce the previous building with the 6th X Upgrade",
+  "zh": "-建筑现在可以通过第 6 个 X 升级产出前一个建筑"
+ },
+ {
+  "en": "-By default, all achievement rows are shown but rows are obscured based on progress.",
+  "zh": "-默认情况下会显示所有成就行，但会根据进度对其进行遮挡。"
+ },
+ {
+  "en": "-Capped X Powers at 1e250,000.",
+  "zh": "-将 X 力量上限设为 1e250,000。"
+ },
+ {
+  "en": "-Changed Quadratic Upgrade 14's description slightly.",
+  "zh": "-略微修改了二次升级 14 的描述。"
+ },
+ {
+  "en": "-Changed a news message",
+  "zh": "-修改了一条新闻消息"
+ },
+ {
+  "en": "-Changed the Challenge 6 goal to 1e8500 points. (originally 1e8000 points)",
+  "zh": "-将挑战 6 的目标改为 1e8500 点数。（原为 1e8000 点数）"
+ },
+ {
+  "en": "-Changed the Challenge 6 nerf to \"Function costs scale 10 times faster.\"",
+  "zh": "-将挑战 6 的削弱改为\"函数消耗增长快 10 倍。\""
+ },
+ {
+  "en": "-Changed the UI a bit",
+  "zh": "-稍微修改了一下界面"
+ },
+ {
+  "en": "-Changed the names of f(x), g(x), and h(x) to f(n), g(n), and h(n) due to popular request.",
+  "zh": "-应广大玩家要求，将 f(x)、g(x) 和 h(x) 的名称改为 f(n)、g(n) 和 h(n)。"
+ },
+ {
+  "en": "-Changed the precision for the number formatting at high values.",
+  "zh": "-调整了高数值下数字格式的精度。"
+ },
+ {
+  "en": "-Changed the top UI and the building UI a bit",
+  "zh": "-稍微修改了顶部界面和建筑界面"
+ },
+ {
+  "en": "-Changelog link is now in-game (and was moved to the github)",
+  "zh": "-更新日志链接现已加入游戏内（并移至 github）"
+ },
+ {
+  "en": "-Clarified which autobuyer is which in the buttons at the bottom of the Quadratic Formula subtab.",
+  "zh": "-在二次公式子标签底部的按钮中澄清了各自动购买器的对应关系。"
+ },
+ {
+  "en": "-Concealed the details of a Pythagorean Triples milestone description.",
+  "zh": "-隐藏了勾股数里程碑描述的细节。"
+ },
+ {
+  "en": "-Decreased a requirement for Y-Quadratic Upgrade \"Transcendent Automation\" to 1e90,000 x",
+  "zh": "-将 Y-二次升级\"超凡自动化\"的要求降低到 1e90,000 x"
+ },
+ {
+  "en": "-Did a bunch of stuff before actually naming this update",
+  "zh": "-在真正给这次更新命名之前做了一堆事情"
+ },
+ {
+  "en": "-Did some other stuff that I forgot to put on here",
+  "zh": "-还做了一些我忘了写在这里的其他事情"
+ },
+ {
+  "en": "-Disabled modals on the galaxy.click version.",
+  "zh": "-在 galaxy.click 版本上禁用了弹窗。"
+ },
+ {
+  "en": "-Edited some news messages",
+  "zh": "-编辑了一些新闻消息"
+ },
+ {
+  "en": "-Expanded on the explanation for how Challenge Power is generated in the Mandelbrot Challenges subtab.",
+  "zh": "-在曼德博挑战子标签中详细说明了挑战力量的生成方式。"
+ },
+ {
+  "en": "-Finally made Building buy max work correctly.",
+  "zh": "-终于让建筑的最大购买功能正常工作了。"
+ },
+ {
+  "en": "-Fixed Basic Complex Upgrade 3's description.",
+  "zh": "-修复了基础复数升级 3 的描述。"
+ },
+ {
+  "en": "-Fixed World 2 buy max.",
+  "zh": "-修复了世界 2 的最大购买。"
+ },
+ {
+  "en": "-Fixed a bug in World 2 where buying generators/X manually didn't consume points.",
+  "zh": "-修复了世界 2 中手动购买生成器/X 不消耗点数的问题。"
+ },
+ {
+  "en": "-Fixed a bug where \"Always Show Subtabs\" in World 2 could show subtabs that weren't unlocked.",
+  "zh": "-修复了世界 2 中\"始终显示子标签\"可能显示未解锁子标签的问题。"
+ },
+ {
+  "en": "-Fixed a bug where Auto-Quadratic, Auto-Complex, and Y-Quadratic Automator inputs forced a digit to be kept.",
+  "zh": "-修复了自动二次、自动复数和 Y-二次自动化器的输入会强制保留某一位数字的问题。"
+ },
+ {
+  "en": "-Fixed a bug where Complex Challenge 10 didn't disable Basic Complex Upgrade 5.",
+  "zh": "-修复了复数挑战 10 未禁用基础复数升级 5 的问题。"
+ },
+ {
+  "en": "-Fixed a bug where Complex Challenges in World 2 gave incorrect UP amounts when Complex Upgrades are respecced.",
+  "zh": "-修复了世界 2 中复数升级重置后复数挑战给予错误 UP 数量的问题。"
+ },
+ {
+  "en": "-Fixed a bug where Derivatives could be produced before they're unlocked.",
+  "zh": "-修复了导数可以在解锁前被产出的问题。"
+ },
+ {
+  "en": "-Fixed a bug where IC5x6 was obtained right after you completed IC5x5.",
+  "zh": "-修复了完成 IC5x5 后立即获得 IC5x6 的问题。"
+ },
+ {
+  "en": "-Fixed a bug where PE could be produced without forming a Pythagorean Triple with d, e, and f.",
+  "zh": "-修复了在未与 d、e 和 f 构成勾股数的情况下也能产出 PE 的问题。"
+ },
+ {
+  "en": "-Fixed a bug where anti-slope doesn't rise while offline.",
+  "zh": "-修复了离线时反斜率不增长的问题。"
+ },
+ {
+  "en": "-Fixed a bug where average gain/second in Last Ten Runs was wrong.",
+  "zh": "-修复了最近十次运行中每秒平均获得量错误的问题。"
+ },
+ {
+  "en": "-Fixed a bug where buying max while having the X autobuyer enabled made your points go negative.",
+  "zh": "-修复了在启用 X 自动购买器时最大购买会导致点数变负的问题。"
+ },
+ {
+  "en": "-Fixed a bug where completing CC4x6 also gave the reward for CC9x6.",
+  "zh": "-修复了完成 CC4x6 也会给予 CC9x6 奖励的问题。"
+ },
+ {
+  "en": "-Fixed a bug where entering specific values into the autosave interval or news speed setting set their values to 0s and 0% respectively.",
+  "zh": "-修复了在自动保存间隔或新闻速度设置中输入特定数值会分别将其设为 0 秒和 0% 的问题。"
+ },
+ {
+  "en": "-Fixed a bug where having NaN points gave you all point-based Achievements and sometimes triggered the ending sequence.",
+  "zh": "-修复了点数为 NaN 时会给予你所有基于点数的成就，并且有时会触发结局序列的问题。"
+ },
+ {
+  "en": "-Fixed a bug where some subtab display options were no longer available after Integrating.",
+  "zh": "-修复了积分后某些子标签显示选项不再可用的问题。"
+ },
+ {
+  "en": "-Fixed a bug where tabs could be reshown during the ending sequence.",
+  "zh": "-修复了结局序列期间标签可能重新显示的问题。"
+ },
+ {
+  "en": "-Fixed a bug where the \"-\" buttons in the Quadratic Formula tab didn't work.",
+  "zh": "-修复了二次公式标签中的\"-\"按钮不起作用的问题。"
+ },
+ {
+  "en": "-Fixed a bug where the 300 w Alteration was gained at 309 w.",
+  "zh": "-修复了 300 w 改动在 309 w 时获得的问题。"
+ },
+ {
+  "en": "-Fixed a bug where the Auto-Quadratic mode didn't reset to \"Amount\" mode before getting the 2 Complexes Milestone.",
+  "zh": "-修复了自动二次模式在获得 2 个复数里程碑之前未重置为\"数量\"模式的问题。"
+ },
+ {
+  "en": "-Fixed a bug where the Automation Core automatically exited some Complex Challenges at the wrong i amounts.",
+  "zh": "-修复了自动化核心在错误的 i 数量下自动退出某些复数挑战的问题。"
+ },
+ {
+  "en": "-Fixed a bug where the CE softcap for passive CE generation stayed at 1e2000 with Complex Upgrade 8.",
+  "zh": "-修复了拥有复数升级 8 时被动 CE 产出的 CE 软上限停留在 1e2000 的问题。"
+ },
+ {
+  "en": "-Fixed a bug where the Integration prestige formula shown in the Textbook was incorrect.",
+  "zh": "-修复了教科书中显示的积分威望公式不正确的问题。"
+ },
+ {
+  "en": "-Fixed a bug where the ending only activated on refresh.",
+  "zh": "-修复了结局仅在刷新时触发的问题。"
+ },
+ {
+  "en": "-Fixed a bug where the milestone description for 10 CC tiers didn't update after unlocking [DATA EXPUNGED].",
+  "zh": "-修复了解锁 [DATA EXPUNGED] 后 10 CC 层的里程碑描述未更新的问题。"
+ },
+ {
+  "en": "-Fixed a bug where the secret achievement \"This Again?\" could be obtained by accident very often.",
+  "zh": "-修复了隐藏成就\"This Again?\"可能经常被意外获得的问题。"
+ },
+ {
+  "en": "-Fixed a bug where the website's title would display the wrong version of the game after unlocking [DATA EXPUNGED].",
+  "zh": "-修复了解锁 [DATA EXPUNGED] 后网站标题会显示错误游戏版本的问题。"
+ },
+ {
+  "en": "-Fixed a bug where unlocking CC1 started the CC sweep even if you hadn't met the i requirement to start it.",
+  "zh": "-修复了解锁 CC1 后即使未满足 i 要求也会启动 CC 扫荡的问题。"
+ },
+ {
+  "en": "-Fixed a bug where using the Y-Quadratic Automator with Y-Quadratic confirmation enabled causes the game to get stuck.",
+  "zh": "-修复了在启用 Y-二次确认时使用 Y-二次自动化器会导致游戏卡住的问题。"
+ },
+ {
+  "en": "-Fixed a bug where you can gain lots of Challenge Essence by unlocking Root Epicenter while in Square Root.",
+  "zh": "-修复了在平方根中解锁根震中可获得大量挑战精华的问题。"
+ },
+ {
+  "en": "-Fixed a bug where you could generate Imaginary Power with a real solution after getting the 40 CC tiers milestone.",
+  "zh": "-修复了获得 40 CC 层里程碑后可以用实数解产出虚数力量的问题。"
+ },
+ {
+  "en": "-Fixed a bug where you couldn't arrow key subtab navigate to the Challenges subtab without unlocking Root Epicenter.",
+  "zh": "-修复了未解锁根震中时无法用方向键切换到挑战子标签的问题。"
+ },
+ {
+  "en": "-Fixed a bug where you couldn't navigate to other tabs in CC3.",
+  "zh": "-修复了在 CC3 中无法切换到其他标签的问题。"
+ },
+ {
+  "en": "-Fixed a bug where you failed CC4 if you had used all of your Quadratics (for example having 10/10 Quadratics used).",
+  "zh": "-修复了如果已用完所有二次次数（例如已使用 10/10 次二次）就会导致 CC4 失败的问题。"
+ },
+ {
+  "en": "-Fixed a bug with being able to buy functions with hotkeys before unlocking them.",
+  "zh": "-修复了在解锁前就能用快捷键购买函数的问题。"
+ },
+ {
+  "en": "-Fixed a bug with loading fourth-row Complex Upgrades.",
+  "zh": "-修复了加载第四行复数升级时出现的问题。"
+ },
+ {
+  "en": "-Fixed a bug with the 3rd UP purchase button before 2 complexes in World 2.",
+  "zh": "-修复了世界 2 中 2 次复数之前第 3 个 UP 购买按钮的问题。"
+ },
+ {
+  "en": "-Fixed a bug with the 3rd X upgrade not working",
+  "zh": "-修复了第 3 个 X 升级不起作用的问题"
+ },
+ {
+  "en": "-Fixed a bug with the Function Autobuyer not working",
+  "zh": "-修复了函数自动购买器不起作用的问题"
+ },
+ {
+  "en": "-Fixed a bug with the Quadratic Formula solution display acting weird with values of a, b, and c less than 1.",
+  "zh": "-修复了当 a、b 和 c 的值小于 1 时二次公式解显示异常的问题。"
+ },
+ {
+  "en": "-Fixed a bug with the Y Autobuyer not working",
+  "zh": "-修复了 Y 自动购买器不起作用的问题"
+ },
+ {
+  "en": "-Fixed a display bug when Quadrant 3 is active and the first Alteration is obtained.",
+  "zh": "-修复了第 3 象限激活且获得第一个改动时的显示问题。"
+ },
+ {
+  "en": "-Fixed a display bug with the total CC autocompletion timer.",
+  "zh": "-修复了 CC 总自动完成计时器的显示问题。"
+ },
+ {
+  "en": "-Fixed a game-breaking bug with Challenges",
+  "zh": "-修复了挑战中一个致命的问题"
+ },
+ {
+  "en": "-Fixed a minor visual issue for Complex Upgrade 4 (\"S-UP-er Boost\").",
+  "zh": "-修复了复数升级 4（\"S-UP-er 加成\"）的一个小视觉问题。"
+ },
+ {
+  "en": "-Fixed a typo in the CC2 reward description.",
+  "zh": "-修复了 CC2 奖励描述中的拼写错误。"
+ },
+ {
+  "en": "-Fixed a visual issue where the news ticker messages seen statistic was unformatted.",
+  "zh": "-修复了已看新闻滚动条消息统计未格式化的视觉问题。"
+ },
+ {
+  "en": "-Fixed a visual issue with the \"news ticker messages seen\" stat.",
+  "zh": "-修复了\"已看新闻滚动条消息\"统计的视觉问题。"
+ },
+ {
+  "en": "-Fixed an inflation bug",
+  "zh": "-修复了一个通胀问题"
+ },
+ {
+  "en": "-Fixed some edge-case visual issues such as \"1 upgrade points\".",
+  "zh": "-修复了一些边缘情况下的视觉问题，例如\"1 升级点数\"。"
+ },
+ {
+  "en": "-Fixed some remaining plurality issues.",
+  "zh": "-修复了一些剩余的单复数问题。"
+ },
+ {
+  "en": "-Fixed tab issues with Root Epicenter.",
+  "zh": "-修复了根震中的标签问题。"
+ },
+ {
+  "en": "-Fixed text that was black in dark theme",
+  "zh": "-修复了深色主题下显示为黑色的文本"
+ },
+ {
+  "en": "-Fixed the Challenge 4 effect.",
+  "zh": "-修复了挑战 4 的效果。"
+ },
+ {
+  "en": "-Fixed the Challenge 7 effect description.",
+  "zh": "-修复了挑战 7 的效果描述。"
+ },
+ {
+  "en": "-Fixed the bug with Quadratic and Complex timers starting at a unix epoch on a fresh save.",
+  "zh": "-修复了新存档中二次和复数计时器从 unix 纪元开始的问题。"
+ },
+ {
+  "en": "-Fixed the bug with your save jumping a unix epoch (for real this time).",
+  "zh": "-修复了存档跳到 unix 纪元的问题（这次是真的）。"
+ },
+ {
+  "en": "-Fixed the description of a certain upgrade.",
+  "zh": "-修复了某个升级的描述。"
+ },
+ {
+  "en": "-Fixed the description of the 2 Complexes milestone.",
+  "zh": "-修复了 2 个复数里程碑的描述。"
+ },
+ {
+  "en": "-Fixed the display for the 3rd Reduction Z-Collider milestone.",
+  "zh": "-修复了第 3 个缩减 Z 碰撞器里程碑的显示。"
+ },
+ {
+  "en": "-Fixed the display of the base PE generation formula.",
+  "zh": "-修复了基础 PE 产出公式的显示。"
+ },
+ {
+  "en": "-Fixed the effect display for Quadratic Upgrade 13.",
+  "zh": "-修复了二次升级 13 的效果显示。"
+ },
+ {
+  "en": "-Fixed the milestone description for 20 Complexes.",
+  "zh": "-修复了 20 个复数的里程碑描述。"
+ },
+ {
+  "en": "-Fixed various issues with Permanent Upgrades.",
+  "zh": "-修复了永久升级的各种问题。"
+ },
+ {
+  "en": "-Fixed visual issues with Quadratic Formula.",
+  "zh": "-修复了二次公式的视觉问题。"
+ },
+ {
+  "en": "-Flipped the Last Ten Runs display so that higher prestige layer data goes on top.",
+  "zh": "-翻转了最近十次运行的显示，让更高威望层级的数据显示在上方。"
+ },
+ {
+  "en": "-Formatted some numbers in the Quadratic Formula subtab.",
+  "zh": "-格式化了二次公式子标签中的一些数字。"
+ },
+ {
+  "en": "-Hopefully made the tab glitchiness less annoying by making it 2.5x slower.",
+  "zh": "-希望将速度放慢 2.5 倍，让标签闪烁不那么烦人。"
+ },
+ {
+  "en": "-Huge thanks to downvoid for helping me add Square Root Level √1 and √4 simulation for passsive RE and CE gain.",
+  "zh": "-非常感谢 downvoid 帮助我加入平方根等级 √1 和 √4 的被动 RE 与 CE 获得模拟。"
+ },
+ {
+  "en": "-If you exit a Complex Challenge with \"Respec CC on Complex\" on, then the CC will be respecced upon exit.",
+  "zh": "-如果在开启\"复数时重置 CC\"的情况下退出复数挑战，则退出时会重置 CC。"
+ },
+ {
+  "en": "-Improved the win screen.",
+  "zh": "-改进了胜利画面。"
+ },
+ {
+  "en": "-In Challenge 5, the X autobuyer now single-buys.",
+  "zh": "-在挑战 5 中，X 自动购买器现在会单次购买。"
+ },
+ {
+  "en": "-Increased the CC tiers requirements for certain Y-Quadratic mechanics.",
+  "zh": "-提高了某些 Y-二次机制的 CC 层要求。"
+ },
+ {
+  "en": "-Increased the cost for unlocking zi to 1e53 y",
+  "zh": "-将解锁 zi 的消耗提高到 1e53 y"
+ },
+ {
+  "en": "-Increased the enter Square Root button contrast to make the words easier to see.",
+  "zh": "-提高了进入平方根按钮的对比度，让文字更容易看清。"
+ },
+ {
+  "en": "-Increased the requirement for Y-Quadratic Upgrade \"Quadratic Connection\" to 1e420,000 points, and lowered its cost to 5e13 y",
+  "zh": "-将 Y-二次升级\"二次连接\"的要求提高到 1e420,000 点数，并将其消耗降低到 5e13 y"
+ },
+ {
+  "en": "-Lowered Challenge 5 requirement from 1e700 to 1e660",
+  "zh": "-将挑战 5 的要求从 1e700 降低到 1e660"
+ },
+ {
+  "en": "-Lowered many Quadratic Upgrade costs",
+  "zh": "-降低了许多二次升级的消耗"
+ },
+ {
+  "en": "-Lowered the CC3x5 goal to 1e11,700 x",
+  "zh": "-将 CC3x5 的目标降低到 1e11,700 x"
+ },
+ {
+  "en": "-Lowered the cost for Square Root Upgrade 15 to 1e295 root essence (previous 1e312 RE).",
+  "zh": "-将平方根升级 15 的消耗降低到 1e295 根精华（之前为 1e312 RE）。"
+ },
+ {
+  "en": "-Lowered the requirement for the Minibrots subtab to display (180 FS to 150 FS).",
+  "zh": "-降低了迷你曼德博子标签的显示要求（从 180 FS 降到 150 FS）。"
+ },
+ {
+  "en": "-Made X Upgrades slightly larger.",
+  "zh": "-稍微放大了 X 升级。"
+ },
+ {
+  "en": "-Made certain progress-related news messages only appear after reaching certain points",
+  "zh": "-让某些与进度相关的新闻消息只在达到特定点数后出现"
+ },
+ {
+  "en": "-Made the Hard Reset button look better",
+  "zh": "-优化了硬重置按钮的外观"
+ },
+ {
+  "en": "-Made the Polynomial Buyables have unique colors based on their currency.",
+  "zh": "-让多项式可购买项根据其货币拥有独特的颜色。"
+ },
+ {
+  "en": "-Made the Quadratic tab unlock after you Quadratic for the 1st time",
+  "zh": "-让二次标签在第 1 次进行二次后解锁"
+ },
+ {
+  "en": "-Max All now works correctly",
+  "zh": "-全部最大现在可以正常工作"
+ },
+ {
+  "en": "-Modals are no longer attempted to be disabled on the Galaxy version.",
+  "zh": "-不再尝试在 Galaxy 版本上禁用弹窗。"
+ },
+ {
+  "en": "-Modified a specific news message to be more random.",
+  "zh": "-修改了一条特定新闻消息，使其更加随机。"
+ },
+ {
+  "en": "-Modified many Complex Challenge goals.",
+  "zh": "-修改了许多复数挑战的目标。"
+ },
+ {
+  "en": "-Moved Permanent Upgrades being disabled in Speedrun Mode to an option rather than the default.",
+  "zh": "-将速通模式下禁用永久升级从默认设置改为一个选项。"
+ },
+ {
+  "en": "-Moved the x",
+  "zh": "-移动了 x"
+ },
+ {
+  "en": "-Multiplied the CC8x1 and CC8x2 goals by 1e2,000.",
+  "zh": "-将 CC8x1 和 CC8x2 的目标乘以 1e2,000。"
+ },
+ {
+  "en": "-Nerfed Quadratic Upgrade 1 to ease the post-Quadratic progression curve.",
+  "zh": "-削弱了二次升级 1，以缓和二次后的进度曲线。"
+ },
+ {
+  "en": "-Nerfed a certain upgrade in particular.",
+  "zh": "-特别削弱了某个升级。"
+ },
+ {
+  "en": "-Nerfed the Challenge 5 goal to 1e630 points (previously 1e660). That timewall was way too long.",
+  "zh": "-将挑战 5 的目标削弱到 1e630 点数（之前为 1e660）。那个时间墙太长了。"
+ },
+ {
+  "en": "-Nerfed the Challenge 8 goal to 1e1750 points (previously 1e1970).",
+  "zh": "-将挑战 8 的目标削弱到 1e1750 点数（之前为 1e1970）。"
+ },
+ {
+  "en": "-Numbers in Achievement descriptions are now properly formatted.",
+  "zh": "-成就描述中的数字现在会正确格式化。"
+ },
+ {
+  "en": "-Offline progress no longer disables offtab progress.",
+  "zh": "-离线进度不再禁用离页进度。"
+ },
+ {
+  "en": "-Organized the tab show/hide buttons and confirmation buttons into their own modals.",
+  "zh": "-将标签显示/隐藏按钮和确认按钮整理到各自的弹窗中。"
+ },
+ {
+  "en": "-Postponed the unlock for Auto-Quadratic Time mode to Square Root Upgrade 3.",
+  "zh": "-将自动二次时间模式的解锁推迟到平方根升级 3。"
+ },
+ {
+  "en": "-Prestige buttons display their requirements if you have the prestige unlocked but can't gain any currency.",
+  "zh": "-如果你已解锁威望但无法获得任何货币，威望按钮会显示其要求。"
+ },
+ {
+  "en": "-Production per building is now shown",
+  "zh": "-现在会显示每个建筑的产出"
+ },
+ {
+  "en": "-Quadratic Formula Buyable 2's effect description is now dynamic.",
+  "zh": "-二次公式可购买项 2 的效果描述现在是动态的。"
+ },
+ {
+  "en": "-Quadratic Formula is explained better",
+  "zh": "-更好地解释了二次公式"
+ },
+ {
+  "en": "-Rebalanced Challenges era in v1.3.",
+  "zh": "-在 v1.3 中重新平衡了挑战时代。"
+ },
+ {
+  "en": "-Reduced Basic Complex Upgrade 6's cost to 1e30 i.",
+  "zh": "-将基础复数升级 6 的消耗降低到 1e30 i。"
+ },
+ {
+  "en": "-Reduced certain starting Polynomial costs, but only for your first Integration.",
+  "zh": "-降低了某些初始多项式消耗，但仅限首次积分。"
+ },
+ {
+  "en": "-Reduced effectiveness of fourth-row Complex Upgrades.",
+  "zh": "-降低了第四行复数升级的效果。"
+ },
+ {
+  "en": "-Reduced the point requirement for gaining Synthetic Essence in Synthetic Division.",
+  "zh": "-降低了在综合除法中获得综合精华的点数要求。"
+ },
+ {
+  "en": "-Removed \"Passive x",
+  "zh": "-移除了\"被动 x"
+ },
+ {
+  "en": "-Removed the \"unique news ticker messages seen\" statistic temporarily. It will be re-added at a later date.",
+  "zh": "-暂时移除了\"已看唯一新闻滚动条消息\"统计。之后会重新加入。"
+ },
+ {
+  "en": "-Removed the 1 second delay in the C9 effect.",
+  "zh": "-移除了 C9 效果中 1 秒的延迟。"
+ },
+ {
+  "en": "-Removed the requirement for having more x",
+  "zh": "-移除了需要拥有更多 x 的要求"
+ },
+ {
+  "en": "-Renamed \"Inflation?\" achievement to \"To B or not to B\"",
+  "zh": "-将\"通胀？\"成就重命名为\"To B or not to B\""
+ },
+ {
+  "en": "-Renamed Achievement 49.",
+  "zh": "-重命名了成就 49。"
+ },
+ {
+  "en": "-Renamed the Point Universe to the Standard Equation (still canonically the Point Universe though).",
+  "zh": "-将点数宇宙重命名为标准方程（不过在设定上仍是点数宇宙）。"
+ },
+ {
+  "en": "-Replaced the AP Classic link with a working one.",
+  "zh": "-将 AP Classic 链接替换为可用的链接。"
+ },
+ {
+  "en": "-Revealed Z, the third variable. It's always been there.",
+  "zh": "-揭示了第三个变量 Z。它一直都在。"
+ },
+ {
+  "en": "-Rewrote the entire game again (changed x",
+  "zh": "-再次重写了整个游戏（改动了 x"
+ },
+ {
+  "en": "-Sacrifice no longer resets X and Y when purchasing Square Root Upgrade 6.",
+  "zh": "-购买平方根升级 6 时，献祭不再重置 X 和 Y。"
+ },
+ {
+  "en": "-Shift-click now lets you respec a single upgrade automatically.",
+  "zh": "-按住 Shift 点击现在可以自动重置单个升级。"
+ },
+ {
+  "en": "-Slightly adjusted the Polynomials tab animation to make it cleaner.",
+  "zh": "-略微调整了多项式标签的动画，使其更简洁。"
+ },
+ {
+  "en": "-Tab displays are reverted to their default states upon entering World 2.",
+  "zh": "-进入世界 2 时，标签显示会恢复为默认状态。"
+ },
+ {
+  "en": "-The Challenge 2 exponent now increases twice as fast.",
+  "zh": "-挑战 2 的指数现在增长速度翻倍。"
+ },
+ {
+  "en": "-The Complex tab post-Hypercomplex now has a different gradient when Hypercomplex subtabs are overridden.",
+  "zh": "-当超复数子标签被覆盖时，超复数阶段的复数标签现在会呈现不同的渐变。"
+ },
+ {
+  "en": "-The Textbook now mentions the formulas for j and k generation and j(n) gain.",
+  "zh": "-教科书现在提到了 j 和 k 的生成公式以及 j(n) 的获得。"
+ },
+ {
+  "en": "-The changelog now changes based on your theme.",
+  "zh": "-更新日志现在会随主题变化。"
+ },
+ {
+  "en": "-The first Fractal Milestone now lets you keep Complex Milestone 10.",
+  "zh": "-第一个分形里程碑现在可以让你保留复数里程碑 10。"
+ },
+ {
+  "en": "-The mantissa is no longer displayed for numbers greater than e1e14.",
+  "zh": "-对于大于 e1e14 的数字，不再显示尾数。"
+ },
+ {
+  "en": "-The softcap to Function bases past 5e7 always applies.",
+  "zh": "-函数底数超过 5e7 时的软上限现在始终生效。"
+ },
+ {
+  "en": "-The update number when the mechanic was added is now shown in the titles of Textbook sections.",
+  "zh": "-教科书章节的标题中现在会显示加入该机制的更新编号。"
+ },
+ {
+  "en": "-There is now a softcap for points at 1e500 points, be careful!",
+  "zh": "-点数在 1e500 时现在有软上限，小心！"
+ },
+ {
+  "en": "-Time displays are now shortened above 1,000 years.",
+  "zh": "-时间显示在超过 1,000 年时会缩短。"
+ },
+ {
+  "en": "-Tweaked Complex Challenge 5's description to mention how the base x",
+  "zh": "-调整了复数挑战 5 的描述，提到了基础 x"
+ },
+ {
+  "en": "-Tweaked several news messages.",
+  "zh": "-调整了几条新闻消息。"
+ },
+ {
+  "en": "-Tweaked some upgrade descriptions",
+  "zh": "-调整了一些升级描述"
+ },
+ {
+  "en": "-Tweaked the Quadratic Formula and Pythagorean Triples descriptions.",
+  "zh": "-调整了二次公式和勾股数的描述。"
+ },
+ {
+  "en": "-Uncapped point gain after your first Integration.",
+  "zh": "-首次积分后取消点数获得上限。"
+ },
+ {
+  "en": "-Updated Challenges CSS in Dark Theme",
+  "zh": "-更新了深色主题下的挑战 CSS"
+ },
+ {
+  "en": "-Updated the Challenge Amplifier description to mention the Challenge 9 effect boost when Challenge 10 is completed.",
+  "zh": "-更新了挑战放大器的描述，提到完成挑战 10 后会提升挑战 9 的效果。"
+ },
+ {
+  "en": "-Updated the NaN detection system to be simpler and more user-friendly.",
+  "zh": "-更新了 NaN 检测系统，使其更简单、更易用。"
+ },
+ {
+  "en": "-Updated the Textbook.",
+  "zh": "-更新了教科书。"
+ },
+ {
+  "en": "-When exiting Square Root, you gain root essence based on your X and Y",
+  "zh": "-退出平方根时，你会根据 X 和 Y 获得根精华"
+ },
+ {
+  "en": "-While holding Shift, you can now see the cost of an unlockable upgrade before you've met its requirement.",
+  "zh": "-按住 Shift 时，你现在可以在满足要求之前查看可解锁升级的消耗。"
+ },
+ {
+  "en": "-X Upgrades now remove 50% of their cost from your X amount (rounded down)",
+  "zh": "-X 升级现在会从你的 X 数量中扣除其消耗的 50%（向下取整）"
+ },
+ {
+  "en": "-You can now enable/disable confirmation for respeccing Complex Upgrades.",
+  "zh": "-你现在可以开启/关闭复数升级重置的确认。"
+ },
+ {
+  "en": "-You can now passively generate x",
+  "zh": "-你现在可以被动产出 x"
+ },
+ {
+  "en": "-You can now produce QP with a nonreal solution upon completing 40 CC tiers.",
+  "zh": "-完成 40 CC 层后，你现在可以用非实数解产出 QP。"
+ },
+ {
+  "en": "-You can now sacrifice x",
+  "zh": "-你现在可以献祭 x"
+ },
+ {
+  "en": "-You can now use Shift+S to save and Shift+E to export your save file.",
+  "zh": "-你现在可以使用 Shift+S 保存，使用 Shift+E 导出存档文件。"
+ },
+ {
+  "en": "-You can use the Alt key with another hotkey to toggle autobuyers.",
+  "zh": "-你可以将 Alt 键与其他快捷键组合使用来切换自动购买器。"
+ },
+ {
+  "en": "-You now gain 2 game points when starting over.",
+  "zh": "-重新开始游戏时，你现在会获得 2 游戏点数。"
+ },
+ {
+  "en": "-You now get a notification when you've fulfilled a Milestone requirement.",
+  "zh": "-满足里程碑要求时，你现在会收到通知。"
+ },
+ {
+  "en": "0 Complexes",
+  "zh": "0 个复数"
+ },
+ {
+  "en": "0/10 quadratic layer needs more parabolas",
+  "zh": "0/10 二次层需要更多抛物线"
+ },
+ {
+  "en": "1 Complex",
+  "zh": "1 个复数"
+ },
+ {
+  "en": "1 strike and a 1 week ban to Algebraic Progression for continuously repeating the same news messages (4 total)",
+  "zh": "因持续重复相同的新闻消息，Algebraic Progression 被记 1 次违规并封禁 1 周（共 4 次）"
+ },
+ {
+  "en": "1.21 Gigawatts??",
+  "zh": "1.21 吉瓦??"
+ },
+ {
+  "en": "10 CC tiers",
+  "zh": "10 CC 层"
+ },
+ {
+  "en": "10 Complexes",
+  "zh": "10 个复数"
+ },
+ {
+  "en": "100 Complexes",
+  "zh": "100 个复数"
+ },
+ {
+  "en": "100% Mandelbrot Engine required",
+  "zh": "需要 100% 曼德博引擎"
+ },
+ {
+  "en": "11 Fractal Milestones in Lost Integration",
+  "zh": "失落积分中的 11 个分形里程碑"
+ },
+ {
+  "en": "12 CC tiers",
+  "zh": "12 CC 层"
+ },
+ {
+  "en": "12 Complexes",
+  "zh": "12 个复数"
+ },
+ {
+  "en": "15 CC tiers",
+  "zh": "15 CC 层"
+ },
+ {
+  "en": "15 Complexes",
+  "zh": "15 个复数"
+ },
+ {
+  "en": "15 Step",
+  "zh": "15 步"
+ },
+ {
+  "en": "16 CC tiers",
+  "zh": "16 CC 层"
+ }
+]

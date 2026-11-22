@@ -1,0 +1,254 @@
+[
+  {
+    "en": "Since different Complex Upgrades boost different aspects of the game, you may want to reset them every once",
+    "zh": "由于不同的复数升级会加成游戏的不同方面，你可能想要每隔一段"
+  },
+  {
+    "en": "in a while. This is why there is a \"Respec\" feature. Clicking the Respec button will reset your Complex with no reward, but",
+    "zh": "时间重置它们。这就是存在「Respec」功能的原因。点击 Respec 按钮将重置你的复数而不给予奖励，但"
+  },
+  {
+    "en": "you will get your UP back, and your Complex Upgrades will be reset. The \"Respec on Complex\" button, when toggled on, does",
+    "zh": "你将取回你的 UP，并且你的复数升级将被重置。「Respec on Complex」按钮在开启时，会"
+  },
+  {
+    "en": "exactly what it says.",
+    "zh": "完全执行它所描述的操作。"
+  },
+  {
+    "en": "Export/Load Upgrades:",
+    "zh": "导出/读取升级："
+  },
+  {
+    "en": "Exporting your Complex Upgrades allows you to load your Complex Upgrade build at any time. Note",
+    "zh": "导出你的复数升级使你能够随时读取你的复数升级配置。注意"
+  },
+  {
+    "en": "that loading CUs will do an automatic respec.",
+    "zh": "读取 CU 将自动进行一次重新分配。"
+  },
+  {
+    "en": "When you are frequently switching between builds, it can be annoying to buy all of the upgrades again. This is",
+    "zh": "当你频繁地在不同配置之间切换时，重新购买所有升级会很烦人。这就是"
+  },
+  {
+    "en": "why presets exist. Clicking the \"Show Presets\" button allows you to use CU presets. Clicking on a preset button will select it.",
+    "zh": "预设存在的原因。点击「显示预设」按钮可以使用 CU 预设。点击某个预设按钮即可选中它。"
+  },
+  {
+    "en": "Clicking \"Save\" will overwrite the preset data to your Complex Upgrade build, and clicking \"Load\" will load the preset data,",
+    "zh": "点击「保存」会用你的复数升级配置覆盖预设数据，点击「读取」则会读取预设数据，"
+  },
+  {
+    "en": "which will do an automatic respec. You can also rename presets using the \"Rename\" button.",
+    "zh": "这将自动进行重新分配。你还可以使用「重命名」按钮重命名预设。"
+  },
+  {
+    "en": "Complex Challenges (CCs) are very similar to regular Challenges, but have a few key differences:",
+    "zh": "复数挑战（CC）与普通挑战非常相似，但有几个关键区别："
+  },
+  {
+    "en": "Complex Challenges require x",
+    "zh": "复数挑战需要 x"
+  },
+  {
+    "en": "to complete, and take place within a Complex.",
+    "zh": "才能完成，并且发生在复数层级内。"
+  },
+  {
+    "en": "A Complex Challenge must be unlocked with UP before you can enter it.",
+    "zh": "复数挑战必须先使用 UP 解锁，然后你才能进入它。"
+  },
+  {
+    "en": "Each Complex Challenge can be completed up to 5 times. The reward and goal increase for each completion.",
+    "zh": "每个复数挑战最多可完成 5 次。每次完成都会提高奖励和目标。"
+  },
+  {
+    "en": "Each unique Complex Challenge completion is called a Complex Challenge tier, usually shortened to \"CC tier\".",
+    "zh": "每一个不同的复数挑战完成称为一个复数挑战层级，通常简称为「CC 层级」。"
+  },
+  {
+    "en": "You can only have one Complex Challenge unlocked at a time.",
+    "zh": "你一次只能解锁一个复数挑战。"
+  },
+  {
+    "en": "By unlocking Complex Challenges, you have also unlocked new Milestones. Read the \"Milestones\" section for more information.",
+    "zh": "通过解锁复数挑战，你也解锁了新的里程碑。阅读「里程碑」部分以了解更多信息。"
+  },
+  {
+    "en": "Once you have completed 20 CC tiers, you will unlock 5 additional Complex Challenges, so there is a total of 50 completable CC tiers.",
+    "zh": "一旦你完成 20 个 CC 层级，你将解锁 5 个额外的复数挑战，因此总共有 50 个可完成的 CC 层级。"
+  },
+  {
+    "en": "When in Complex Challenge 7, staying on the Complex Challenges subtab can cause the display to freeze.",
+    "zh": "在复数挑战 7 中，停留在复数挑战子标签页可能会导致显示卡死。"
+  },
+  {
+    "en": "However, you can usually still navigate to other tabs.",
+    "zh": "不过，你通常仍然可以切换到其他标签页。"
+  },
+  {
+    "en": "The Variable Synthesizer can be unlocked at 1e17 y",
+    "zh": "变量合成器可以在 1e17 y 时解锁"
+  },
+  {
+    "en": "and 35 CC tiers. The Variable Synthesizer allows you to \"synthesize\"",
+    "zh": "和 35 个 CC 层级。变量合成器使你能够「合成」"
+  },
+  {
+    "en": "products of previous currencies, excluding i Exponentiation. In this section, each micro-mechanic unlocked from the",
+    "zh": "之前各种货币的乘积，不包括 i 幂运算。在本节中，从"
+  },
+  {
+    "en": "Variable Synthesizer will be explained in detail as you unlock them.",
+    "zh": "变量合成器解锁的每一项微观机制都会在你解锁它们时详细解释。"
+  },
+  {
+    "en": "xy is unlocked by default when unlocking the Variable Synthesizer. xy can be bought with, well, x and y.",
+    "zh": "解锁变量合成器时，xy 会默认解锁。xy 可以用 x 和 y 购买，没错。"
+  },
+  {
+    "en": "Each xy can be used to \"charge\" an X Upgrade (found in the long-forgotten Upgrades tab). Charged X Upgrades are significantly",
+    "zh": "每个 xy 都可用于「充能」一项 X 升级（在早已被遗忘的升级标签页中）。充能后的 X 升级显著"
+  },
+  {
+    "en": "more powerful than their regular counterparts. Hovering over an uncharged X Upgrade with at least 1 xy allows you to see its",
+    "zh": "比普通版本更强大。当拥有至少 1 个 xy 时，将鼠标悬停在未充能的 X 升级上可以查看其"
+  },
+  {
+    "en": "charged counterpart. Charged X Upgrades also can be respecced on Y-Quadratic, if desired.",
+    "zh": "充能版本。如果需要，充能后的 X 升级也可以在 Y-二次 上重新分配。"
+  },
+  {
+    "en": "xy Cost Formulas:",
+    "zh": "xy 消耗公式："
+  },
+  {
+    "en": "At 8 xy, you cannot buy any more of them${player.integrations.gte(1) ?",
+    "zh": "在 8 xy 时，你将无法再购买更多${player.integrations.gte(1) ?"
+  },
+  {
+    "en": "When you complete all 10 Complex Challenges fully (equating to 50 CC tiers), you unlock Polynomials.",
+    "zh": "当你完全完成全部 10 个复数挑战（相当于 50 个 CC 层级）时，你将解锁多项式。"
+  },
+  {
+    "en": "The first polynomial is x",
+    "zh": "第一个多项式是 x"
+  },
+  {
+    "en": ", which produces Polynomial Power (PP), which gives an exponent to point gain.",
+    "zh": "，它产出多项式能量（PP），为点数获得提供指数。"
+  },
+  {
+    "en": ", and so on. The last polynomial is x",
+    "zh": "，依此类推。最后一个多项式是 x"
+  },
+  {
+    "en": "Additionally, each polynomial costs an amount of the polynomial tier before it. For example, x",
+    "zh": "此外，每个多项式都需要消耗一定数量的前一层级多项式。例如，x"
+  },
+  {
+    "en": "to be purchased. Polynomials also have an \"efficiency\" stat that multiplies the production of that tier.",
+    "zh": "才能购买。多项式还有一个「效率」属性，会乘算该层级的产出。"
+  },
+  {
+    "en": "The efficiency of a polynomial doubles per purchase. After 1e3,000,000x efficiency, the efficiency stat becomes softcapped.",
+    "zh": "多项式的效率每次购买都会翻倍。在效率达到 1e3,000,000 倍后，效率属性将受到软上限限制。"
+  },
+  {
+    "en": "Over time, you'll also unlock buyables that can be purchased with polynomials.",
+    "zh": "随着时间推移，你还会解锁可以用多项式购买的可购买项。"
+  },
+  {
+    "en": "Polynomial Power Effect Formula:",
+    "zh": "多项式能量效果公式："
+  },
+  {
+    "en": "/ 500), hardcaps at 1.42",
+    "zh": "/ 500)，硬上限为 1.42"
+  },
+  {
+    "en": "Buyable Cost Formula:",
+    "zh": "可购买项消耗公式："
+  },
+  {
+    "en": "Synthetic Division is, in simple terms, Complex's version of Square Root. Upon entering Synthetic Division, your point gain and x",
+    "zh": "简单来说，综合除法就是复数版的平方根。进入综合除法后，你的点数获得和 x"
+  },
+  {
+    "en": "gain are both powered ^0.02, and you gain Synthetic Essence (SE) based on how many points you have in Synthetic Division.",
+    "zh": "获得都被提升到 ^0.02 次幂，并且你会根据在综合除法中拥有的点数数量获得合成精华（SE）。"
+  },
+  {
+    "en": "Synthetic Essence boosts the efficiency of all polynomials, and can also be spent on Synthetic Division Upgrades.",
+    "zh": "合成精华会加成所有多项式的效率，也可以用于购买综合除法升级。"
+  },
+  {
+    "en": "Read the \"Upgrades\" section for more information about Synthetic Division Upgrades.",
+    "zh": "阅读「升级」部分以了解有关综合除法升级的更多信息。"
+  },
+  {
+    "en": "Base Synthetic Essence Gain Formula:",
+    "zh": "基础合成精华获得公式："
+  },
+  {
+    "en": "(max(points / 1e95000,1)) / 5) - unspent SE",
+    "zh": "(max(points / 1e95000,1)) / 5) - 未花费的 SE"
+  },
+  {
+    "en": "Base Synthetic Essence Effect Formula:",
+    "zh": "基础合成精华效果公式："
+  },
+  {
+    "en": "S.D. Upgrade 1 Base Cost Formula:",
+    "zh": "S.D. 升级 1 基础消耗公式："
+  },
+  {
+    "en": "S.D. Upgrade 2 Base Cost Formula:",
+    "zh": "S.D. 升级 2 基础消耗公式："
+  },
+  {
+    "en": "S.D. Upgrade 3 Base Cost Formula:",
+    "zh": "S.D. 升级 3 基础消耗公式："
+  },
+  {
+    "en": "The second repeatable Synthetic Divsion Upgrade caps at 20 purchases and",
+    "zh": "第二个可重复购买的综合除法升级上限为 20 次购买，并且"
+  },
+  {
+    "en": "the third repeatable Synthetic Division Upgrade caps at 14 purchases.",
+    "zh": "第三个可重复购买的综合除法升级上限为 14 次购买。"
+  },
+  {
+    "en": "Once you obtain 1e270,000 i, 1e500 y",
+    "zh": "一旦你获得 1e270,000 i、1e500 y"
+  },
+  {
+    "en": ", you can Integrate for dx, empty sets, and 1 hole.",
+    "zh": "，你就可以通过积分获得 dx、空集和 1 个洞。"
+  },
+  {
+    "en": "Integration, similarly to previous layers, resets almost everything before it, including the first 60 Achievements.",
+    "zh": "积分与之前的层级类似，会重置它之前的一切，包括前 60 个成就。"
+  },
+  {
+    "en": "You still keep your Challenge records and some things underneath the General header in the Statistics tab. dx and empty sets",
+    "zh": "你仍然会保留你的挑战记录，以及统计标签页中「常规」标题下的一些内容。dx 和空集"
+  },
+  {
+    "en": "will become your most important currencies from this point forward.",
+    "zh": "从现在起将成为你最重要的货币。"
+  },
+  {
+    "en": "Base dx Gain Formula:",
+    "zh": "基础 dx 获得公式："
+  },
+  {
+    "en": "Base Empty Sets Gain Formula:",
+    "zh": "基础空集获得公式："
+  },
+  {
+    "en": "Base Holes Gain Formula:",
+    "zh": "基础洞获得公式："
+  }
+]
